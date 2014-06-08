@@ -7,18 +7,44 @@ namespace TrilingualDictionaryCore
 {
     public class TrilingualDictionary
     {
-        List<string> m_Dictionary = new List<string>();
+        private Dictionary<int, Conception> m_Dictionary = new Dictionary<int, Conception>();
 
-        public int addConception(string word, int languageId)
+        public int AddConception(string word, int languageId)
         {
-            m_Dictionary.Add(word);
-            return getConceptionsCount();
-            
+            int newConceptionId = m_Dictionary.Last().Key + 1;
+            Conception newConception = new Conception(newConceptionId, word, languageId);
+            m_Dictionary.Add(newConception.ConceptionId, newConception);
+            return newConception.ConceptionId;            
         }
 
-        public int getConceptionsCount()
+        public void AddDescriptionToConception(int conceptionId, string word, int languageId)
         {
-            return m_Dictionary.Count;
+            GetConception(conceptionId).AddDescription(word, languageId);
+        }
+
+        public void ChangeDescriptionOfConception(int conceptionId, string word, int languageId)
+        {
+            GetConception(conceptionId).ChangeDescription(word, languageId);
+        }
+
+        public void RemoveDescriptionFromConception(int conceptionId, int languageId)
+        {
+            GetConception(conceptionId).RemoveDescription(languageId);
+        }
+
+        public void RemoveConception(int conceptionId)
+        {
+            m_Dictionary.Remove(conceptionId);
+        }
+
+        public int ConceptionsCount
+        {
+            get { return m_Dictionary.Count; }
+        }
+
+        private Conception GetConception(int conceptionId)
+        {
+            return m_Dictionary[conceptionId];
         }
     }
 }

@@ -50,6 +50,8 @@
     </CodeAnalysisDependentAssemblyPaths>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConceptionDescriptionTest.cs" />
+    <Compile Include="ConceptionTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TrilingualDictionaryTest.cs" />
   </ItemGroup>

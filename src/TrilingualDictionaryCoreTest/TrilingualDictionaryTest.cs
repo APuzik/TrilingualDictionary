@@ -75,22 +75,22 @@ namespace TrilingualDictionaryCoreTest
         }
 
         [TestMethod()]
-        public void getConceptionsCountEmptyTest()
+        public void GetConceptionsCountEmptyTest()
         {
             int excpected = 0;
-            int actual = m_Dictionary.getConceptionsCount();
+            int actual = m_Dictionary.ConceptionsCount;
             Assert.AreEqual(excpected, actual);
         }
 
         [TestMethod()]
-        public void getConceptionsCountOneTest()
+        public void GetConceptionsCountOneTest()
         {
             string wordRus = "Генератор";
             int languageIdRus = 1;
-            m_Dictionary.addConception(wordRus, languageIdRus);
+            m_Dictionary.AddConception(wordRus, languageIdRus);
 
             int excpected = 1;
-            int actual = m_Dictionary.getConceptionsCount();
+            int actual = m_Dictionary.ConceptionsCount;
             Assert.AreEqual(excpected, actual);
         }
 
@@ -124,5 +124,96 @@ namespace TrilingualDictionaryCoreTest
 
         //}
 
+
+        /// <summary>
+        ///A test for AddConception
+        ///</summary>
+        [TestMethod()]
+        public void AddConceptionTest()
+        {
+            TrilingualDictionary target = new TrilingualDictionary(); // TODO: Initialize to an appropriate value
+            string word = string.Empty; // TODO: Initialize to an appropriate value
+            int languageId = 0; // TODO: Initialize to an appropriate value
+            int expected = 0; // TODO: Initialize to an appropriate value
+            int actual;
+            actual = target.AddConception(word, languageId);
+            Assert.AreEqual(expected, actual);
+            Assert.Inconclusive("Verify the correctness of this test method.");
+        }
+
+        /// <summary>
+        ///A test for TrilingualDictionary Constructor
+        ///</summary>
+        [TestMethod()]
+        public void TrilingualDictionaryConstructorTest1()
+        {
+            TrilingualDictionary target = new TrilingualDictionary();
+            Assert.Inconclusive("TODO: Implement code to verify target");
+        }
+
+        /// <summary>
+        ///A test for AddDescriptionToConception
+        ///</summary>
+        [TestMethod()]
+        public void AddDescriptionToConceptionTest()
+        {
+            TrilingualDictionary target = new TrilingualDictionary(); // TODO: Initialize to an appropriate value
+            int conceptionId = 0; // TODO: Initialize to an appropriate value
+            string word = string.Empty; // TODO: Initialize to an appropriate value
+            int languageId = 0; // TODO: Initialize to an appropriate value
+            target.AddDescriptionToConception(conceptionId, word, languageId);
+            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+        }
+
+        /// <summary>
+        ///A test for ChangeDescriptionOfConception
+        ///</summary>
+        [TestMethod()]
+        public void ChangeDescriptionOfConceptionTest()
+        {
+            TrilingualDictionary target = new TrilingualDictionary(); // TODO: Initialize to an appropriate value
+            int conceptionId = 0; // TODO: Initialize to an appropriate value
+            string word = string.Empty; // TODO: Initialize to an appropriate value
+            int languageId = 0; // TODO: Initialize to an appropriate value
+            target.ChangeDescriptionOfConception(conceptionId, word, languageId);
+            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+        }
+
+        /// <summary>
+        ///A test for RemoveConception
+        ///</summary>
+        [TestMethod()]
+        public void RemoveConceptionTest()
+        {
+            TrilingualDictionary target = new TrilingualDictionary(); // TODO: Initialize to an appropriate value
+            int conceptionId = 0; // TODO: Initialize to an appropriate value
+            target.RemoveConception(conceptionId);
+            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+        }
+
+        /// <summary>
+        ///A test for RemoveDescriptionFromConception
+        ///</summary>
+        [TestMethod()]
+        public void RemoveDescriptionFromConceptionTest()
+        {
+            TrilingualDictionary target = new TrilingualDictionary(); // TODO: Initialize to an appropriate value
+            int conceptionId = 0; // TODO: Initialize to an appropriate value
+            int languageId = 0; // TODO: Initialize to an appropriate value
+            target.RemoveDescriptionFromConception(conceptionId, languageId);
+            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+        }
+
+        /// <summary>
+        ///A test for ConceptionsCount
+        ///</summary>
+        [TestMethod()]
+        public void ConceptionsCountTest()
+        {
+            TrilingualDictionary target = new TrilingualDictionary(); // TODO: Initialize to an appropriate value
+            int actual;
+            actual = target.ConceptionsCount;
+            Assert.Inconclusive("Verify the correctness of this test method.");
+        }
     }
 }
