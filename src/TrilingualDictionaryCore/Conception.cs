@@ -5,33 +5,40 @@ using System.Text;
 
 namespace TrilingualDictionaryCore
 {
-    class Conception
+    public class Conception
     {
-        private int m_ConceptionId;
-        private Dictionary<int, ConceptionDescription> m_Descriptions = new Dictionary<int, ConceptionDescription>();
+        public enum LanguageId
+        {
+            Russian = 0,
+            English,
+            Ukrainian
+        };
 
-        public Conception(int conceptionId, string word, int languageId)
+        private int m_ConceptionId;
+        private Dictionary<LanguageId, ConceptionDescription> m_Descriptions = new Dictionary<LanguageId, ConceptionDescription>();
+
+        public Conception(int conceptionId, string word, LanguageId languageId)
         {
             m_ConceptionId = conceptionId;
             AddDescription(word, languageId);
         }
-        
-        internal void AddDescription(string word, int languageId)
+
+        internal void AddDescription(string word, LanguageId languageId)
         {
             m_Descriptions.Add(languageId, new ConceptionDescription(word));
         }
 
-        internal void ChangeDescription(string word, int languageId)
+        internal void ChangeDescription(string word, LanguageId languageId)
         {
             GetConceptionDescription(languageId).ChangeDescription(word);
         }
 
-        internal void RemoveDescription(int languageId)
+        internal void RemoveDescription(LanguageId languageId)
         {
             m_Descriptions.Remove(languageId);
         }
 
-        public ConceptionDescription GetConceptionDescription(int languageId)
+        public ConceptionDescription GetConceptionDescription(LanguageId languageId)
         {
             return m_Descriptions[languageId];
         }
@@ -39,6 +46,11 @@ namespace TrilingualDictionaryCore
         public int ConceptionId
         {
             get { return m_ConceptionId; }
+        }
+
+        public int DescriptionsCount 
+        {
+            get { return m_Descriptions.Count; }
         }
     }
 }

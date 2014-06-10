@@ -5,7 +5,7 @@ using System.Text;
 
 namespace TrilingualDictionaryCore
 {
-    class ConceptionDescription
+    public class ConceptionDescription
     {
         private string m_Word;
         private string m_Explanation = "";
@@ -20,14 +20,14 @@ namespace TrilingualDictionaryCore
             m_Word = word;
         }
 
-        public string GetConceptionDescription()
+        public string ConceptionRegistryDescription
         {
-            return m_Word;
+            get { return m_Word; }
         }
 
-        public string GetConceptionExplanation()
+        public string ConceptionExplanation
         {
-            return m_Explanation;
+            get { return m_Explanation; }
         }
     }
 }

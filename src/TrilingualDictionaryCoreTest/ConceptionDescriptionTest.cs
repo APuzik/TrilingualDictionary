@@ -13,7 +13,7 @@ namespace TrilingualDictionaryCoreTest
     [TestClass()]
     public class ConceptionDescriptionTest
     {
-
+        ConceptionDescription m_Description = null;
 
         private TestContext testContextInstance;
 
@@ -48,13 +48,15 @@ namespace TrilingualDictionaryCoreTest
         //public static void MyClassCleanup()
         //{
         //}
-        //
+        
         //Use TestInitialize to run code before running each test
-        //[TestInitialize()]
-        //public void MyTestInitialize()
-        //{
-        //}
-        //
+        [TestInitialize()]
+        public void MyTestInitialize()
+        {
+            string word = "Генератор";
+            m_Description = new ConceptionDescription(word);
+        }
+        
         //Use TestCleanup to run code after each test has run
         //[TestCleanup()]
         //public void MyTestCleanup()
@@ -70,9 +72,7 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void ConceptionDescriptionConstructorTest()
         {
-            string word = string.Empty; // TODO: Initialize to an appropriate value
-            ConceptionDescription target = new ConceptionDescription(word);
-            Assert.Inconclusive("TODO: Implement code to verify target");
+            Assert.IsNotNull(m_Description);
         }
 
         /// <summary>
@@ -81,11 +81,9 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void ChangeDescriptionTest()
         {
-            string word = string.Empty; // TODO: Initialize to an appropriate value
-            ConceptionDescription target = new ConceptionDescription(word); // TODO: Initialize to an appropriate value
-            string word1 = string.Empty; // TODO: Initialize to an appropriate value
-            target.ChangeDescription(word1);
-            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+            string word = "Генератор2";
+            m_Description.ChangeDescription(word);
+            Assert.AreEqual(word, m_Description.ConceptionRegistryDescription);
         }
     }
 }

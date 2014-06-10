@@ -1,6 +1,7 @@
 ﻿using TrilingualDictionaryCore;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
+using System.Collections.Generic;
 
 namespace TrilingualDictionaryCoreTest
 {
@@ -13,7 +14,7 @@ namespace TrilingualDictionaryCoreTest
     [TestClass()]
     public class ConceptionTest
     {
-
+        private Conception m_Conception = null;
 
         private TestContext testContextInstance;
 
@@ -48,13 +49,17 @@ namespace TrilingualDictionaryCoreTest
         //public static void MyClassCleanup()
         //{
         //}
-        //
+        
         //Use TestInitialize to run code before running each test
-        //[TestInitialize()]
-        //public void MyTestInitialize()
-        //{
-        //}
-        //
+        [TestInitialize()]
+        public void MyTestInitialize()
+        {
+            int conceptionId = 1;
+            string description = "Генератор";
+            Conception.LanguageId languageId = Conception.LanguageId.Russian;
+            m_Conception = new Conception(conceptionId, description, languageId);
+        }
+        
         //Use TestCleanup to run code after each test has run
         //[TestCleanup()]
         //public void MyTestCleanup()
@@ -70,11 +75,9 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void ConceptionConstructorTest()
         {
-            int conceptionId = 0; // TODO: Initialize to an appropriate value
-            string word = string.Empty; // TODO: Initialize to an appropriate value
-            int languageId = 0; // TODO: Initialize to an appropriate value
-            Conception target = new Conception(conceptionId, word, languageId);
-            Assert.Inconclusive("TODO: Implement code to verify target");
+            Assert.IsNotNull(m_Conception);
+            int expected = 1;
+            Assert.AreEqual(expected, m_Conception.DescriptionsCount);
         }
 
         /// <summary>
@@ -83,14 +86,21 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void AddDescriptionTest()
         {
-            int conceptionId = 0; // TODO: Initialize to an appropriate value
-            string word = string.Empty; // TODO: Initialize to an appropriate value
-            int languageId = 0; // TODO: Initialize to an appropriate value
-            Conception target = new Conception(conceptionId, word, languageId); // TODO: Initialize to an appropriate value
-            string word1 = string.Empty; // TODO: Initialize to an appropriate value
-            int languageId1 = 0; // TODO: Initialize to an appropriate value
-            target.AddDescription(word1, languageId1);
-            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+            string word = "Generator";
+            Conception.LanguageId languageIdEng = Conception.LanguageId.English;
+            m_Conception.AddDescription(word, languageIdEng);
+
+            int expected = 2;
+            Assert.AreEqual(expected, m_Conception.DescriptionsCount);
+        }
+
+        [TestMethod()]
+        [ExpectedException(typeof(ArgumentException))]
+        public void AddExisitingLanguageDescriptionTest()
+        {
+            string word = "Генератор2";
+            Conception.LanguageId languageIdRus = Conception.LanguageId.Russian;
+            m_Conception.AddDescription(word, languageIdRus);
         }
 
         /// <summary>
@@ -99,14 +109,30 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void ChangeDescriptionTest()
         {
-            int conceptionId = 0; // TODO: Initialize to an appropriate value
-            string word = string.Empty; // TODO: Initialize to an appropriate value
-            int languageId = 0; // TODO: Initialize to an appropriate value
-            Conception target = new Conception(conceptionId, word, languageId); // TODO: Initialize to an appropriate value
-            string word1 = string.Empty; // TODO: Initialize to an appropriate value
-            int languageId1 = 0; // TODO: Initialize to an appropriate value
-            target.ChangeDescription(word1, languageId1);
-            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+            string word = "Генератор2";
+            Conception.LanguageId languageIdRus = Conception.LanguageId.Russian;
+            m_Conception.ChangeDescription(word, languageIdRus);
+
+            int expected = 1;
+            Assert.AreEqual(expected, m_Conception.DescriptionsCount);
+
+            CheckRegistryDescription(word, languageIdRus);
+        }
+
+        [TestMethod()]
+        [ExpectedException(typeof(KeyNotFoundException))]
+        public void ChangeAbsentDescriptionTest()
+        {
+            string word = "Generator";
+            Conception.LanguageId languageIdEng = Conception.LanguageId.English;
+            m_Conception.ChangeDescription(word, languageIdEng);
+        }
+
+        private void CheckRegistryDescription(string word, Conception.LanguageId languageId)
+        {
+            ConceptionDescription description = m_Conception.GetConceptionDescription(languageId);
+            bool ignoreCase = true;
+            Assert.AreEqual(word, description.ConceptionRegistryDescription, ignoreCase);
         }
 
         /// <summary>
@@ -115,16 +141,18 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void GetConceptionDescriptionTest()
         {
-            int conceptionId = 0; // TODO: Initialize to an appropriate value
-            string word = string.Empty; // TODO: Initialize to an appropriate value
-            int languageId = 0; // TODO: Initialize to an appropriate value
-            Conception target = new Conception(conceptionId, word, languageId); // TODO: Initialize to an appropriate value
-            int languageId1 = 0; // TODO: Initialize to an appropriate value
-            ConceptionDescription expected = null; // TODO: Initialize to an appropriate value
-            ConceptionDescription actual;
-            actual = target.GetConceptionDescription(languageId1);
-            Assert.AreEqual(expected, actual);
-            Assert.Inconclusive("Verify the correctness of this test method.");
+            Conception.LanguageId languageIdRus = Conception.LanguageId.Russian;
+            string word = "Генератор";
+
+            CheckRegistryDescription(word, languageIdRus);
+        }
+
+        [TestMethod()]
+        [ExpectedException(typeof(KeyNotFoundException))]
+        public void GetAbsentConceptionDescriptionTest()
+        {
+            Conception.LanguageId languageId = Conception.LanguageId.English;
+            ConceptionDescription description = m_Conception.GetConceptionDescription(languageId);
         }
 
         /// <summary>
@@ -133,13 +161,16 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void RemoveDescriptionTest()
         {
-            int conceptionId = 0; // TODO: Initialize to an appropriate value
-            string word = string.Empty; // TODO: Initialize to an appropriate value
-            int languageId = 0; // TODO: Initialize to an appropriate value
-            Conception target = new Conception(conceptionId, word, languageId); // TODO: Initialize to an appropriate value
-            int languageId1 = 0; // TODO: Initialize to an appropriate value
-            target.RemoveDescription(languageId1);
-            Assert.Inconclusive("A method that does not return a value cannot be verified.");
+            string word = "Generator";
+            Conception.LanguageId languageIdEng = Conception.LanguageId.English;
+            m_Conception.AddDescription(word, languageIdEng);
+
+            int expected = 2;
+            Assert.AreEqual(expected, m_Conception.DescriptionsCount);
+
+            m_Conception.RemoveDescription(Conception.LanguageId.Russian);
+
+            CheckRegistryDescription(word, Conception.LanguageId.English);
         }
 
         /// <summary>
@@ -148,13 +179,8 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void ConceptionIdTest()
         {
-            int conceptionId = 0; // TODO: Initialize to an appropriate value
-            string word = string.Empty; // TODO: Initialize to an appropriate value
-            int languageId = 0; // TODO: Initialize to an appropriate value
-            Conception target = new Conception(conceptionId, word, languageId); // TODO: Initialize to an appropriate value
-            int actual;
-            actual = target.ConceptionId;
-            Assert.Inconclusive("Verify the correctness of this test method.");
+            int expected = 1;
+            Assert.AreEqual(expected, m_Conception.ConceptionId);
         }
     }
 }

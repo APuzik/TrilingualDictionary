@@ -9,27 +9,31 @@ namespace TrilingualDictionaryCore
     {
         private Dictionary<int, Conception> m_Dictionary = new Dictionary<int, Conception>();
 
-        public int AddConception(string word, int languageId)
+        public int AddConception(string word, Conception.LanguageId languageId)
         {
-            int newConceptionId = m_Dictionary.Last().Key + 1;
+            int newConceptionId = m_Dictionary.Count > 0 ? m_Dictionary.Last().Key + 1 : 1;
             Conception newConception = new Conception(newConceptionId, word, languageId);
             m_Dictionary.Add(newConception.ConceptionId, newConception);
             return newConception.ConceptionId;            
         }
 
-        public void AddDescriptionToConception(int conceptionId, string word, int languageId)
+        public void AddDescriptionToConception(int conceptionId, string word, Conception.LanguageId languageId)
         {
             GetConception(conceptionId).AddDescription(word, languageId);
         }
 
-        public void ChangeDescriptionOfConception(int conceptionId, string word, int languageId)
+        public void ChangeDescriptionOfConception(int conceptionId, string word, Conception.LanguageId languageId)
         {
             GetConception(conceptionId).ChangeDescription(word, languageId);
         }
 
-        public void RemoveDescriptionFromConception(int conceptionId, int languageId)
+        public void RemoveDescriptionFromConception(int conceptionId, Conception.LanguageId languageId)
         {
-            GetConception(conceptionId).RemoveDescription(languageId);
+            Conception handledConception = GetConception(conceptionId);
+            handledConception.RemoveDescription(languageId);
+
+            if( handledConception.DescriptionsCount == 0 )
+                RemoveConception(conceptionId);                
         }
 
         public void RemoveConception(int conceptionId)
