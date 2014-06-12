@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
 using System.Text;
 
@@ -49,6 +50,43 @@ namespace TrilingualDictionaryCore
         private Conception GetConception(int conceptionId)
         {
             return m_Dictionary[conceptionId];
+        }
+
+        public Conception GetConceptionCopy(int conceptionId)
+        {
+            return m_Dictionary[conceptionId];
+        }
+
+        public void Load(string dictionaryDataFolder)
+        {
+            DirectoryInfo dirInfo = new DirectoryInfo(dictionaryDataFolder);
+           
+            foreach ( FileInfo file in dirInfo.GetFiles())
+            {
+                LoadFromFile(file.FullName);
+            }
+        }
+
+        private void LoadFromFile(string pathToFile)
+        {
+            try
+            {
+                string[] lines = File.ReadAllLines(pathToFile);
+                int baseId = m_Dictionary.Count;
+                for (int i = 0; i < lines.Length; i += 2)
+                {
+                    int curId = baseId + i / 2 + 1;
+                    Conception conception = new Conception(curId, lines[i], Conception.LanguageId.Russian);
+                    conception.AddDescription(lines[i + 1], Conception.LanguageId.Ukrainian);
+                    m_Dictionary.Add(conception.ConceptionId, conception);
+                }
+
+            }
+            catch (Exception ex)
+            {
+                
+                throw;
+            }
         }
     }
 }
