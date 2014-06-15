@@ -27,21 +27,72 @@ namespace TrilingualUI
         {
             InitializeComponent();
             string dataFolder = "Data";
-            string dictionaryDataFolder = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), dataFolder);
+            //string dictionaryDataFolder = Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location), dataFolder);
+            string dictionaryDataFolder = Properties.Settings.Default.DictionaryData;
             m_Dictionary.Load(dictionaryDataFolder);
-            for (int i = 0; i < m_Dictionary.ConceptionsCount; i++)
+            listConceptions.ItemsSource = m_Dictionary.GetConceptions();
+            //for (int i = 0; i < m_Dictionary.ConceptionsCount; i++)
+            //{
+            //    Conception copy = m_Dictionary.GetConceptionCopy(i + 1);
+            //    listConceptions.Items.Add(copy.GetConceptionDescription(Conception.LanguageId.Russian).ConceptionRegistryDescription)
+            //    ;//(copy);
+            //    //listConceptions.ItemStringFormat =
+            //    //    copy.GetConceptionDescription(Conception.LanguageId.Russian).ConceptionRegistryDescription;
+            //}
+        }
+
+        private void chkAllLanguages_Clicked(object sender, RoutedEventArgs e)
+        {
+            cmbLanguageForDescription.IsEnabled = chkAllLanguages.IsChecked != true;
+            UpdateDescription();
+        }
+
+        private void cmbLanguages_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            m_Dictionary.MainLanguage = (Conception.LanguageId)cmbLanguages.SelectedIndex;
+            if (listConceptions != null)
+                listConceptions.Items.Refresh();
+
+        }
+
+        private void listConceptions_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            UpdateDescription();
+        }
+
+        private void UpdateDescription()
+        {
+            Conception conception = (Conception)listConceptions.SelectedItem;
+            if (conception == null)
+                return;
+
+            if (chkAllLanguages.IsChecked == true)
+                txtDescription.Text = GetAllDescriptions(conception);
+            else
             {
-                Conception copy = m_Dictionary.GetConceptionCopy(i + 1);
-                listConceptions.Items.Add(copy.GetConceptionDescription(Conception.LanguageId.Russian).ConceptionRegistryDescription)
-                ;//(copy);
-                //listConceptions.ItemStringFormat =
-                //    copy.GetConceptionDescription(Conception.LanguageId.Russian).ConceptionRegistryDescription;
+                Conception.LanguageId languageForDescription = (Conception.LanguageId)cmbLanguageForDescription.SelectedIndex;
+                txtDescription.Text = GetConceptionDescription(conception, languageForDescription);
             }
         }
 
-        private void chkAllLanguages_Checked(object sender, RoutedEventArgs e)
+        private string GetAllDescriptions(Conception conception)
         {
-            cmbLanguageToSelect.IsEnabled = chkAllLanguages.IsChecked != true;
+            StringBuilder sb = new StringBuilder();
+            foreach (Conception.LanguageId lang in Enum.GetValues(typeof(Conception.LanguageId)))
+            {
+                sb.AppendLine(GetConceptionDescription(conception, lang));
+            }
+            return sb.ToString();
+        }
+
+        private string GetConceptionDescription(Conception conception, Conception.LanguageId languageForDescription)
+        {
+            return conception.GetConceptionDescription(languageForDescription).ConceptionRegistryDescription;
+        }
+
+        private void cmbLanguageForDescription_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            UpdateDescription();
         }
     }
 }

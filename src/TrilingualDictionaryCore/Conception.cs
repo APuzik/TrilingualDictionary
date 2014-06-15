@@ -16,6 +16,7 @@ namespace TrilingualDictionaryCore
 
         private int m_ConceptionId;
         private Dictionary<LanguageId, ConceptionDescription> m_Descriptions = new Dictionary<LanguageId, ConceptionDescription>();
+        private static LanguageId s_MainLanguage = LanguageId.Russian;
 
         public Conception(int conceptionId, string word, LanguageId languageId)
         {
@@ -40,7 +41,10 @@ namespace TrilingualDictionaryCore
 
         public ConceptionDescription GetConceptionDescription(LanguageId languageId)
         {
-            return m_Descriptions[languageId];
+            if( m_Descriptions.ContainsKey(languageId) )
+                return m_Descriptions[languageId];
+
+            return new ConceptionDescription("");
         }
 
         public int ConceptionId
@@ -51,6 +55,17 @@ namespace TrilingualDictionaryCore
         public int DescriptionsCount 
         {
             get { return m_Descriptions.Count; }
+        }
+
+        public string ActiveConceptionRegistryDescription
+        {
+            get { return GetConceptionDescription(MainLanguage).ConceptionRegistryDescription; }
+        }
+
+        public static LanguageId MainLanguage
+        {
+            get { return s_MainLanguage; }
+            set { s_MainLanguage = value; }
         }
     }
 }

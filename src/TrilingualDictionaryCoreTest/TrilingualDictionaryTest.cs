@@ -264,5 +264,38 @@ namespace TrilingualDictionaryCoreTest
             expected = 1;
             Assert.AreEqual(expected, m_Dictionary.ConceptionsCount);
         }
+
+        /// <summary>
+        ///A test for SplitText
+        ///</summary>
+        [TestMethod()]
+        public void SplitTextTest()
+        {
+            List<string> inputData = new List<string>();
+            inputData.Add("АВМ (ана#логовая вычисли#тельная маши#на)");
+            inputData.Add("дву(х)по#люсник");
+            inputData.Add("флу[ю]ктуа#ции");
+
+            List<List<string>> expectedData = new List<List<string>>();
+            expectedData.Add(new List<string>());
+            expectedData[0].Add("АВМ");
+            expectedData[0].Add("(ана#логовая вычисли#тельная маши#на)");
+            expectedData.Add(new List<string>());
+            expectedData[1].Add("дву(х)по#люсник");
+            expectedData.Add(new List<string>());
+            expectedData[2].Add("флу[ю]ктуа#ции");
+
+            
+            for (int i = 0; i < inputData.Count; i++)
+            {
+                string text = inputData[i];
+                List<string> actual = TrilingualDictionary.SplitText(text);
+                Assert.AreEqual(expectedData[i].Count, actual.Count);
+                for (int j = 0; j < actual.Count; j++)
+                {
+                    Assert.AreEqual(expectedData[i][j], actual[j]);
+                }
+            }
+        }
     }
 }
