@@ -9,7 +9,37 @@ namespace TrilingualDictionaryCore
     public class TrilingualDictionary
     {
         private Dictionary<int, Conception> m_Dictionary = new Dictionary<int, Conception>();
-
+        private string[] m_ConventionalShortenings = new string[]
+        {
+            "бион.",//бионика                                             		
+            "вчт", //вычислительная тех-ника
+            "кв. рф", //квантовая радиофизи-ка
+            "кв. эл.", //квантовая электрони-ка
+            "крист.", //кристаллография 
+            "магн.", //магнетизм
+            "мат.", //математика
+            "микр.", //микроэлектроника
+            "напр.", //например
+            "опт.", //оптика
+            "пп", //полупроводники
+            "прил.", //прилагательное
+            "прич.", //причастие
+            "рлк", //радиолокация
+            "род.", //родительный
+            "рф", //радиофизика
+            "см.", //смотри
+            "собир.", //собирательное
+            "сп", //сверхпроводники, сверхпроводимость
+            "сущ.", //существительное
+            "техн.", //техника
+            "тлв", //телевидение
+            "тлг", //телеграфия
+            "тлф", //телефония
+            "тн", //теория надёжности
+            "физ.", //физика
+            "фтт" //физика твёрдого тела
+        };
+        
         public int AddConception(string word, Conception.LanguageId languageId)
         {
             int newConceptionId = m_Dictionary.Count > 0 ? m_Dictionary.Last().Key + 1 : 1;
@@ -47,12 +77,7 @@ namespace TrilingualDictionaryCore
             get { return m_Dictionary.Count; }
         }
 
-        private Conception GetConception(int conceptionId)
-        {
-            return m_Dictionary[conceptionId];
-        }
-
-        public Conception GetConceptionCopy(int conceptionId)
+        public Conception GetConception(int conceptionId)
         {
             return m_Dictionary[conceptionId];
         }
@@ -89,10 +114,19 @@ namespace TrilingualDictionaryCore
                     int startPos = 2;
                     string text = lines[i].Substring(startPos);
                     List<string> words = SplitText(text);
-                    if (!text.Contains('~') && !IsMainWord(words))
+
+                    if (!text.Contains('~'))
                     {
-                        int a = 2;
-                        a++;
+                        mainword = GetMainWord(words);
+                        if (mainword == "")
+                        {
+                            int a = 2;
+                            a++;
+                        }
+                    }
+                    else
+                    {
+                        text = text.Replace("~", mainword);
                     }
                     Conception conception = new Conception(curId, text, Conception.LanguageId.Russian);
 
@@ -110,28 +144,30 @@ namespace TrilingualDictionaryCore
             }
         }
 
-        private bool IsMainWord(List<string> words)
+        private string GetMainWord(List<string> words)
         {
-            if(words.Count == 1 &&
+            if (words.Count == 1 &&
                 (words[0].IndexOfAny(new char[] { '[', ']', '(', ')' }) == -1 || !words[0].Contains(' ')))
             {
-                return true;
+                return words[0];
             }
 
             int mainCount = 0;
-            foreach (string word in words)
+            int indexMain = 0;
+            for (int i = 0; i < words.Count; i++)
             {
-                
+                string word = words[i];
                 int index = word.IndexOfAny(new char[] { '[', ']', '(', ')' });
-                if ( index == -1)
+                if (index == -1)
                 {
                     mainCount++;
+                    indexMain = i;
                     if (mainCount > 1)
-                        return false;
+                        return "";
                 }
             }
 
-            return mainCount == 1;
+            return words[indexMain];// if (mainCount == 1) ;
         }
 
         public static List<string> SplitText(string text)
@@ -194,7 +230,7 @@ namespace TrilingualDictionaryCore
             }
         }
 
-        public Conception.LanguageId MainLanguage 
+        public Conception.LanguageId MainLanguage
         {
             get { return Conception.MainLanguage; }
             set { Conception.MainLanguage = value; }

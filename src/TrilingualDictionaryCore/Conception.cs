@@ -67,5 +67,25 @@ namespace TrilingualDictionaryCore
             get { return s_MainLanguage; }
             set { s_MainLanguage = value; }
         }
+
+        public bool FindWithAccent(string textToSearch)
+        {
+            string description = GetConceptionDescription(MainLanguage).ConceptionRegistryDescription;
+            return description.Contains(textToSearch);
+        }
+
+        public bool FindWoAccent(string textToSearch)
+        {
+            string description = GetConceptionDescription(MainLanguage).ConceptionRegistryDescriptionWoAccents;
+            return description.Contains(textToSearch);
+        }
+
+        public bool Find(string textToSearch)
+        {
+            if (textToSearch.Contains('#'))
+                return FindWithAccent(textToSearch);
+            else
+                return FindWoAccent(textToSearch);
+        }
     }
 }

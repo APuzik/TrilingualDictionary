@@ -17,18 +17,39 @@
             </ListBox.ItemTemplate>
         </ListBox>
         <TextBox Height="23" HorizontalAlignment="Left" Margin="12,91,0,0" Name="txtSearch" VerticalAlignment="Top" Width="173" />
-        <Button Content="Найти" Height="23" HorizontalAlignment="Left" Margin="193,90,0,0" Name="btnSearch" VerticalAlignment="Top" Width="75" />
+        <Button Content="Найти" Height="23" HorizontalAlignment="Left" Margin="193,90,0,0" Name="btnSearch" VerticalAlignment="Top" Width="75" Click="btnSearch_Click" />
         <Label Content="Поиск" Height="24" HorizontalAlignment="Left" Margin="12,61,0,0" Name="label2" VerticalAlignment="Top" />
-        <GroupBox Header="Описание" Margin="274,10,0,-1" Name="groupBox1">
+        <GroupBox Header="Описание" Margin="274,252,0,-1" Name="groupBox1">
             <Grid>
-                <TextBox Margin="6,94,10,9" Name="txtDescription" IsReadOnly="True" />
-                <ComboBox Height="23" HorizontalAlignment="Left" Margin="15,60,0,0" Name="cmbLanguageForDescription" VerticalAlignment="Top" Width="120" SelectedIndex="2" SelectionChanged="cmbLanguageForDescription_SelectionChanged">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="329*" />
+                    <ColumnDefinition Width="327*" />
+                </Grid.ColumnDefinitions>
+                <TextBox Margin="6,61,10,9" Name="txtDescription" IsReadOnly="True" Grid.ColumnSpan="2" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="15,32,0,0" Name="cmbLanguageForDescription" VerticalAlignment="Top" Width="120" SelectedIndex="2" SelectionChanged="cmbLanguageForDescription_SelectionChanged">
                     <ComboBoxItem Content="Русский" />
                     <ComboBoxItem Content="English" />
                     <ComboBoxItem Content="Українська" />
                 </ComboBox>
-                <Label Content="Выберите язык" Height="24" HorizontalAlignment="Left" Margin="15,32,0,0" Name="label3" VerticalAlignment="Top" />
-                <CheckBox Content="Показывать на всех доступных языках" Height="16" HorizontalAlignment="Left" Margin="167,67,0,0" Name="chkAllLanguages" VerticalAlignment="Top" Width="234" Click="chkAllLanguages_Clicked" />
+                <Label Content="Выберите язык" Height="24" HorizontalAlignment="Left" Margin="15,4,0,0" Name="label3" VerticalAlignment="Top" />
+                <CheckBox Content="Показывать на всех доступных языках" Height="16" HorizontalAlignment="Left" Margin="167,39,0,0" Name="chkAllLanguages" VerticalAlignment="Top" Width="234" Click="chkAllLanguages_Clicked" Grid.ColumnSpan="2" />
+            </Grid>
+        </GroupBox>
+        <GroupBox Header="Изменить термин" Margin="274,4,6,0" Name="groupBox2" Height="242" VerticalAlignment="Top">
+            <Grid>
+                <Label Content="Выберите язык" Height="24" HorizontalAlignment="Left" Margin="10,2,0,0" Name="label4" VerticalAlignment="Top" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="10,30,0,0" Name="cmbChangeforEdit" SelectedIndex="0" VerticalAlignment="Top" Width="120" SelectionChanged="cmbChangeforEdit_SelectionChanged">
+                    <ComboBoxItem Content="Русский" />
+                    <ComboBoxItem Content="English" />
+                    <ComboBoxItem Content="Українська" />
+                </ComboBox>                
+                <Label Content="Введите описание" Height="24" HorizontalAlignment="Left" Margin="145,0,0,0" Name="label5" VerticalAlignment="Top" />
+                <TextBox Height="176" HorizontalAlignment="Left" Margin="145,24,0,0" Name="txtEditDescription" VerticalAlignment="Top" Width="382" />                
+                <Button Content="Добавить описание" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="10,94,0,0" Name="btnAddDescription" VerticalAlignment="Top" Width="120" Click="btnAddDescription_Click" />
+                <Button Content="Изменить описание" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="10,135,0,0" Name="btnChangeDescription" VerticalAlignment="Top" Width="120" Click="btnChangeDescription_Click" />
+                <Button Content="Удалить описание" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="10,177,0,0" Name="btnRemoveDescription" VerticalAlignment="Top" Width="120" Click="btnRemoveDescription_Click" />
+                <Button Content="Добавить термин" Height="23" HorizontalAlignment="Left" Margin="535,94,0,0" Name="btnAddConception" VerticalAlignment="Top" Width="107" Click="btnAddConception_Click" />
+                <Button Content="Удалить термин" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="535,177,0,0" Name="btnRemoveConception" VerticalAlignment="Top" Width="107" Click="btnRemoveConception_Click" />                
             </Grid>
         </GroupBox>
     </Grid>

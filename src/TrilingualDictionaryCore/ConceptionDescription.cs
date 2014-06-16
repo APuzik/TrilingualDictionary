@@ -25,6 +25,11 @@ namespace TrilingualDictionaryCore
             get { return m_Word; }
         }
 
+        public string ConceptionRegistryDescriptionWoAccents
+        {
+            get { return m_Word.Replace("#", ""); }
+        }
+
         public string ConceptionExplanation
         {
             get { return m_Explanation; }
