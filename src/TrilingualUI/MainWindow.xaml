@@ -9,13 +9,20 @@
             <ComboBoxItem Content="Українська" />            
         </ComboBox>
         <Label Content="Основной язык" Height="24" HorizontalAlignment="Left" Margin="12,4,0,0" Name="label1" VerticalAlignment="Top" />
-        <ListBox HorizontalAlignment="Left" Margin="12,121,0,12" Name="listConceptions" Width="256" SelectionChanged="listConceptions_SelectionChanged">
+        <ListBox HorizontalAlignment="Left" Margin="12,121,0,12" Name="listConceptions" Width="256" SelectionChanged="listConceptions_SelectionChanged" KeyboardNavigation.DirectionalNavigation="Continue" KeyUp="listConceptions_KeyUp">
             <ListBox.ItemTemplate>
                 <DataTemplate>
                     <TextBlock Text="{Binding Path=ActiveConceptionRegistryDescription}"></TextBlock>
                 </DataTemplate>
             </ListBox.ItemTemplate>
         </ListBox>
+        <TreeView HorizontalAlignment="Left" Margin="12,121,0,12" Name="treeConceptions" Width="256" SelectedItemChanged="treeConceptions_SelectionChanged" Visibility="Hidden">
+            <TreeView.ItemTemplate>
+                <DataTemplate>
+                    <TextBlock Text="{Binding Path=ActiveConceptionRegistryDescription}"></TextBlock>
+                </DataTemplate>
+            </TreeView.ItemTemplate>
+        </TreeView>
         <TextBox Height="23" HorizontalAlignment="Left" Margin="12,91,0,0" Name="txtSearch" VerticalAlignment="Top" Width="173" />
         <Button Content="Найти" Height="23" HorizontalAlignment="Left" Margin="193,90,0,0" Name="btnSearch" VerticalAlignment="Top" Width="75" Click="btnSearch_Click" />
         <Label Content="Поиск" Height="24" HorizontalAlignment="Left" Margin="12,61,0,0" Name="label2" VerticalAlignment="Top" />
@@ -44,13 +51,14 @@
                     <ComboBoxItem Content="Українська" />
                 </ComboBox>                
                 <Label Content="Введите описание" Height="24" HorizontalAlignment="Left" Margin="145,0,0,0" Name="label5" VerticalAlignment="Top" />
-                <TextBox Height="176" HorizontalAlignment="Left" Margin="145,24,0,0" Name="txtEditDescription" VerticalAlignment="Top" Width="382" />                
+                <TextBox Height="176" Margin="145,24,123,0" Name="txtEditDescription" VerticalAlignment="Top" />                
                 <Button Content="Добавить описание" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="10,94,0,0" Name="btnAddDescription" VerticalAlignment="Top" Width="120" Click="btnAddDescription_Click" />
                 <Button Content="Изменить описание" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="10,135,0,0" Name="btnChangeDescription" VerticalAlignment="Top" Width="120" Click="btnChangeDescription_Click" />
                 <Button Content="Удалить описание" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="10,177,0,0" Name="btnRemoveDescription" VerticalAlignment="Top" Width="120" Click="btnRemoveDescription_Click" />
-                <Button Content="Добавить термин" Height="23" HorizontalAlignment="Left" Margin="535,94,0,0" Name="btnAddConception" VerticalAlignment="Top" Width="107" Click="btnAddConception_Click" />
-                <Button Content="Удалить термин" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="535,177,0,0" Name="btnRemoveConception" VerticalAlignment="Top" Width="107" Click="btnRemoveConception_Click" />                
+                <Button Content="Добавить термин" Height="23" Margin="0,94,8,0" Name="btnAddConception" VerticalAlignment="Top" Click="btnAddConception_Click" HorizontalAlignment="Right" Width="107" />
+                <Button Content="Удалить термин" IsEnabled="false" Height="23" Margin="0,177,8,0" Name="btnRemoveConception" VerticalAlignment="Top" Click="btnRemoveConception_Click" HorizontalAlignment="Right" Width="107" />                
             </Grid>
         </GroupBox>
+        <CheckBox Content="Плоский вид" Visibility="Hidden" Height="16" HorizontalAlignment="Left" Margin="147,35,0,0" Name="chkFlatView" VerticalAlignment="Top" Width="121" IsChecked="True" Checked="chkFlatView_Checked" Unchecked="chkFlatView_Unchecked" />
     </Grid>
 </Window>

@@ -87,8 +87,8 @@ namespace ScanParsersTest
         public void OpenDocumentTest()
         {
             string [] testFiles = {
-                                    @"1.doc",
-                                   @"2.doc", 
+                                   // @"1.doc",
+                                  // @"2.doc", 
                                    //@"3.doc", 
                                    //@"4.doc", 
                                    //@"5.doc", 
@@ -100,7 +100,7 @@ namespace ScanParsersTest
                                    //@"11.doc",
                                    //@"12.doc",
                                    //@"13.doc",
-                                   @"14.doc"
+                                  // @"14.doc"
                                   };
             
             using (MSWordScansParser target = new MSWordScansParser())

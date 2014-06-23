@@ -52,6 +52,7 @@
   <ItemGroup>
     <Compile Include="ConceptionDescriptionTest.cs" />
     <Compile Include="ConceptionTest.cs" />
+    <Compile Include="PlaintTextDataLoaderTest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TrilingualDictionaryTest.cs" />
   </ItemGroup>

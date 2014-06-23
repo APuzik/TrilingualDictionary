@@ -2,6 +2,7 @@
 using System;
 using TrilingualDictionaryCore;
 using System.Collections.Generic;
+using System.Threading;
 
 namespace TrilingualDictionaryCoreTest
 {
@@ -266,6 +267,49 @@ namespace TrilingualDictionaryCoreTest
         }
 
         /// <summary>
+        ///A test for multithreading Add/Remove
+        ///</summary>
+        //[TestMethod()]
+        public void AddRemoveMTTest()
+        {
+            Thread workerThread1 = new Thread(AddConceptionsMT);
+            Thread workerThread2 = new Thread(RemoveConceptionsMT);
+            workerThread1.Start();
+            Thread.Sleep(2000);
+            workerThread2.Start();
+
+            workerThread2.Join();
+            workerThread1.Join();
+        }
+
+        private void AddConceptionsMT()
+        {
+            while (AddConceptionRus() < 1000000)
+            {
+                int k = 1;
+            }
+
+        }
+
+        private void RemoveConceptionsMT()
+        {
+            Random rnd = new Random();
+            do
+            {
+                int n = m_Dictionary.ConceptionsCount;
+                int val = rnd.Next(n);
+                try
+                {
+                    m_Dictionary.RemoveConception(val);
+                }
+                catch(Exception ex)
+                {
+                    int j = 0;
+                }
+            } while (m_Dictionary.ConceptionsCount > 0);
+        }
+
+        /// <summary>
         ///A test for SplitText
         ///</summary>
         [TestMethod()]
@@ -289,7 +333,7 @@ namespace TrilingualDictionaryCoreTest
             for (int i = 0; i < inputData.Count; i++)
             {
                 string text = inputData[i];
-                List<string> actual = TrilingualDictionary.SplitText(text);
+                List<string> actual = PlaintTextDataLoader.SplitText(text, " ");
                 Assert.AreEqual(expectedData[i].Count, actual.Count);
                 for (int j = 0; j < actual.Count; j++)
                 {

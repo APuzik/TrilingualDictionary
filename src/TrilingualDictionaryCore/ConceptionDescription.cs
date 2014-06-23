@@ -7,12 +7,25 @@ namespace TrilingualDictionaryCore
 {
     public class ConceptionDescription
     {
+        public class ChangeablelPart
+        {
+            public string Type;
+            public string Value;
+        }
+
         private string m_Word;
         private string m_Explanation = "";
+
+        public ChangeablelPart Changeable
+        {
+            get;
+            set;
+        }
 
         public ConceptionDescription(string word)
         {
             m_Word = word;
+            Changeable = new ChangeablelPart();
         }
 
         internal void ChangeDescription(string word)
@@ -34,5 +47,7 @@ namespace TrilingualDictionaryCore
         {
             get { return m_Explanation; }
         }
+
+        public string LangPart { get; set; }
     }
 }

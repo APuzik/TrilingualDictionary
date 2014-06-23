@@ -32,6 +32,8 @@ namespace TrilingualUI
                 string dictionaryDataFolder = Properties.Settings.Default.DictionaryData;
                 m_Dictionary.Load(dictionaryDataFolder);
                 listConceptions.ItemsSource = m_Dictionary.GetConceptions();
+                btnChangeDescription.IsEnabled = false;
+                //treeConceptions.ItemsSource = listConceptions.ItemsSource;
             }
             catch (Exception ex)
             {
@@ -59,10 +61,11 @@ namespace TrilingualUI
         }
 
         private void UpdateAllControls()
-        {
+        {            
             UpdateDescription();
             UpdateEditDescription();
-            listConceptions.Items.Refresh();
+
+            listConceptions.UpdateLayout();// Items.Refresh();
         }
 
         private void UpdateDescription()
@@ -96,7 +99,7 @@ namespace TrilingualUI
             bool isDescriptionExists = !string.IsNullOrWhiteSpace(txtEditDescription.Text);
             
             btnAddDescription.IsEnabled = !isDescriptionExists;
-            btnChangeDescription.IsEnabled = isDescriptionExists;
+            btnChangeDescription.IsEnabled = false;// isDescriptionExists;
             btnRemoveDescription.IsEnabled = isDescriptionExists;
             btnRemoveConception.IsEnabled = true;
         }
@@ -113,7 +116,7 @@ namespace TrilingualUI
 
         private string GetConceptionDescription(Conception conception, Conception.LanguageId languageForDescription)
         {
-            return conception.GetConceptionDescription(languageForDescription).ConceptionRegistryDescription;
+            return conception.GetConceptionDescription(languageForDescription, 0).ConceptionRegistryDescription;
         }
 
         private void cmbLanguageForDescription_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -163,6 +166,7 @@ namespace TrilingualUI
             m_Dictionary.AddDescriptionToConception(conception.ConceptionId, txtEditDescription.Text, languageForEdit);
             
             UpdateAllControls();
+            listConceptions.Items.Refresh();
         }
 
         private void btnChangeDescription_Click(object sender, RoutedEventArgs e)
@@ -175,6 +179,7 @@ namespace TrilingualUI
             m_Dictionary.ChangeDescriptionOfConception(conception.ConceptionId, txtEditDescription.Text, languageForEdit);
             
             UpdateAllControls();
+            listConceptions.Items.Refresh();
         }
 
         private void btnRemoveDescription_Click(object sender, RoutedEventArgs e)
@@ -187,6 +192,7 @@ namespace TrilingualUI
             m_Dictionary.RemoveDescriptionFromConception(conception.ConceptionId, languageForEdit);
             
             UpdateAllControls();
+            listConceptions.Items.Refresh();
         }
 
         private void btnAddConception_Click(object sender, RoutedEventArgs e)
@@ -195,6 +201,7 @@ namespace TrilingualUI
             m_Dictionary.AddConception(txtEditDescription.Text, languageForEdit);
             
             UpdateAllControls();
+            listConceptions.Items.Refresh();
         }
 
         private void btnRemoveConception_Click(object sender, RoutedEventArgs e)
@@ -206,6 +213,50 @@ namespace TrilingualUI
             m_Dictionary.RemoveConception(conception.ConceptionId);
             listConceptions.SelectedIndex = -1;
             UpdateAllControls();
+            listConceptions.Items.Refresh();
+        }
+
+        private void chkFlatView_Checked(object sender, RoutedEventArgs e)
+        {
+            listConceptions.Visibility = Visibility.Visible;
+            treeConceptions.Visibility = Visibility.Hidden;
+        }
+
+        private void chkFlatView_Unchecked(object sender, RoutedEventArgs e)
+        {
+            listConceptions.Visibility = Visibility.Hidden;
+            treeConceptions.Visibility = Visibility.Visible;
+        }
+
+        private void treeConceptions_SelectionChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
+        {
+
+        }
+
+        private void listConceptions_KeyUp(object sender, KeyEventArgs e)
+        {
+            //int increment = 0;
+            //switch (e.Key)
+            //{
+            //    case Key.Down:
+            //        increment++;
+            //        //if (!listConceptions.Items.MoveCurrentToNext()) 
+            //        //    listConceptions.Items.MoveCurrentToLast();
+            //        break;
+
+            //    case Key.Up:
+            //        increment--;
+            //        //if (!listConceptions.Items.MoveCurrentToPrevious())
+            //        //    listConceptions.Items.MoveCurrentToFirst();
+            //        break;
+            //}
+
+            //listConceptions.SelectedIndex += increment;
+            //e.Handled = true;
+            //if (listConceptions.SelectedItem != null)
+            //{
+            //    (Keyboard.FocusedElement as UIElement).MoveFocus(new TraversalRequest(FocusNavigationDirection.Next));
+            //}
         }
     }
 }
