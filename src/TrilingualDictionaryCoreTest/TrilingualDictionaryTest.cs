@@ -125,7 +125,7 @@ namespace TrilingualDictionaryCoreTest
         }
 
         [TestMethod()]
-        [ExpectedException(typeof(KeyNotFoundException))]
+        [ExpectedException(typeof(TriLingException))]
         public void AddDescriptionToAbsentConceptionTest()
         {
             int conceptionId = AddConceptionRus();
@@ -137,7 +137,7 @@ namespace TrilingualDictionaryCoreTest
         }
 
         [TestMethod()]
-        [ExpectedException(typeof(ArgumentException))]
+        [ExpectedException(typeof(TriLingException))]
         public void AddDescriptionOfExisitingLanguageToConceptionTest()
         {
             int conceptionId = AddConceptionRus();
@@ -173,7 +173,7 @@ namespace TrilingualDictionaryCoreTest
         }
 
         [TestMethod()]
-        [ExpectedException(typeof(KeyNotFoundException))]
+        [ExpectedException(typeof(TriLingException))]
         public void ChangeDescriptionOfAbsentConceptionTest()
         {
             int conceptionId = AddConceptionRus();
@@ -236,7 +236,7 @@ namespace TrilingualDictionaryCoreTest
         }
 
         [TestMethod()]
-        [ExpectedException(typeof(KeyNotFoundException))]
+        [ExpectedException(typeof(TriLingException))]
         public void RemoveDescriptionFromAbsentConceptionTest()
         {
             int conceptionId = AddConceptionRus();

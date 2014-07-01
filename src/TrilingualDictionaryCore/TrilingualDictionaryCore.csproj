@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Conception.cs" />
     <Compile Include="ConceptionDescription.cs" />
+    <Compile Include="TriLingException.cs" />
     <Compile Include="TrilingualDictionary.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

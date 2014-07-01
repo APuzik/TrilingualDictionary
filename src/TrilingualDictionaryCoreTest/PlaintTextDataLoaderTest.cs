@@ -96,15 +96,17 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void ExtractChangableUkrTest()
         {
-            TrilingualDictionary dictionary = null; // TODO: Initialize to an appropriate value
-            PlaintTextDataLoader target = new PlaintTextDataLoader(dictionary); // TODO: Initialize to an appropriate value
-            string partUkr = "я#кість, род. я#кості"; // TODO: Initialize to an appropriate value
-            string expected = ", род. я#кості"; // TODO: Initialize to an appropriate value
+            TrilingualDictionary dictionary = null;
+            PlaintTextDataLoader target = new PlaintTextDataLoader(dictionary);
+            string partUkr = "я#кість, род. я#кості";
+            //string expected = ", род. я#кості";
+            string expected = "я#кості";
             string actual = target.ExtractChangableUkr(partUkr);
             Assert.AreEqual(expected, actual);
 
-            partUkr = "автоперевi#д, -во#ду"; // TODO: Initialize to an appropriate value
-            expected = ", -во#ду"; // TODO: Initialize to an appropriate value
+            partUkr = "автоперевi#д, -во#ду";
+            //expected = ", -во#ду";
+            expected = "-во#ду";
             actual = target.ExtractChangableUkr(partUkr);
             Assert.AreEqual(expected, actual);
         }
@@ -115,23 +117,27 @@ namespace TrilingualDictionaryCoreTest
         [TestMethod()]
         public void ExtractLinkPartTest()
         {
-            TrilingualDictionary dictionary = null; // TODO: Initialize to an appropriate value
-            PlaintTextDataLoader target = new PlaintTextDataLoader(dictionary); // TODO: Initialize to an appropriate value
-            string text = "зало#млення (зало#млювання); (см. ещё рефра#кция)"; // TODO: Initialize to an appropriate value
-            string expected = "(см. ещё рефра#кция)"; // TODO: Initialize to an appropriate value
+            TrilingualDictionary dictionary = null;
+            PlaintTextDataLoader target = new PlaintTextDataLoader(dictionary);
+            string text = "зало#млення (зало#млювання); (см. ещё рефра#кция)";
+            string expected = "(см. ещё рефра#кция)";
             string actual = target.ExtractLinkPart(text);
             Assert.AreEqual(expected, actual);
 
-            text = "ослаби#тель (см. аттенюа#тор)"; // TODO: Initialize to an appropriate value
-            expected = "(см. аттенюа#тор)"; // TODO: Initialize to an appropriate value
+            text = "ослаби#тель (см. аттенюа#тор)";
+            expected = "(см. аттенюа#тор)";
             actual = target.ExtractLinkPart(text);
             Assert.AreEqual(expected, actual);
 
-            text = "см. восьмери#чный"; // TODO: Initialize to an appropriate value
-            expected = "см. восьмери#чный"; // TODO: Initialize to an appropriate value
+            text = "см. восьмери#чный";
+            expected = "см. восьмери#чный";
             actual = target.ExtractLinkPart(text);
             Assert.AreEqual(expected, actual);
-            
+
+            text = "апроксима#ція; см. ещё приближе#ние";
+            expected = "см. ещё приближе#ние";
+            actual = target.ExtractLinkPart(text);
+            Assert.AreEqual(expected, actual);            
         }
 
         /// <summary>

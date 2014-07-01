@@ -94,13 +94,14 @@ namespace TrilingualDictionaryCoreTest
             Assert.AreEqual(expected, m_Conception.DescriptionsCount);
         }
 
-        //[TestMethod()]
-        //public void AddExisitingLanguageDescriptionTest()
-        //{
-        //    string word = "Генератор2";
-        //    Conception.LanguageId languageIdRus = Conception.LanguageId.Russian;
-        //    m_Conception.AddDescription(word, languageIdRus);
-        //}
+        [TestMethod()]
+        [ExpectedException(typeof(TriLingException))]
+        public void AddExisitingLanguageDescriptionTest()
+        {
+            string word = "Генератор2";
+            Conception.LanguageId languageIdRus = Conception.LanguageId.Russian;
+            m_Conception.AddDescription(word, languageIdRus);
+        }
 
         /// <summary>
         ///A test for ChangeDescription
@@ -110,7 +111,7 @@ namespace TrilingualDictionaryCoreTest
         {
             string word = "Генератор2";
             Conception.LanguageId languageIdRus = Conception.LanguageId.Russian;
-            m_Conception.ChangeDescription(word, languageIdRus, 0);
+            m_Conception.ChangeDescription(word, languageIdRus);
 
             int expected = 1;
             Assert.AreEqual(expected, m_Conception.DescriptionsCount);
@@ -119,17 +120,17 @@ namespace TrilingualDictionaryCoreTest
         }
 
         [TestMethod()]
-        [ExpectedException(typeof(KeyNotFoundException))]
+        [ExpectedException(typeof(TriLingException))]
         public void ChangeAbsentDescriptionTest()
         {
             string word = "Generator";
             Conception.LanguageId languageIdEng = Conception.LanguageId.English;
-            m_Conception.ChangeDescription(word, languageIdEng, 0);
+            m_Conception.ChangeDescription(word, languageIdEng);
         }
 
         private void CheckRegistryDescription(string word, Conception.LanguageId languageId)
         {
-            ConceptionDescription description = m_Conception.GetConceptionDescription(languageId, 0);
+            ConceptionDescription description = m_Conception.GetConceptionDescription(languageId);
             bool ignoreCase = true;
             Assert.AreEqual(word, description.ConceptionRegistryDescription, ignoreCase);
         }
@@ -147,11 +148,11 @@ namespace TrilingualDictionaryCoreTest
         }
 
         [TestMethod()]
-        [ExpectedException(typeof(KeyNotFoundException))]
+        [ExpectedException(typeof(TriLingException))]
         public void GetAbsentConceptionDescriptionTest()
         {
             Conception.LanguageId languageId = Conception.LanguageId.English;
-            ConceptionDescription description = m_Conception.GetConceptionDescription(languageId, 0);
+            ConceptionDescription description = m_Conception.GetConceptionDescription(languageId);
         }
 
         /// <summary>
@@ -167,7 +168,7 @@ namespace TrilingualDictionaryCoreTest
             int expected = 2;
             Assert.AreEqual(expected, m_Conception.DescriptionsCount);
 
-            m_Conception.RemoveDescription(Conception.LanguageId.Russian, 0);
+            m_Conception.RemoveDescription(Conception.LanguageId.Russian);
 
             CheckRegistryDescription(word, Conception.LanguageId.English);
         }
