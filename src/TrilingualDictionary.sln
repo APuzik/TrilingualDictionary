@@ -8,16 +8,13 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B215BE8B-A924-4856-ACD3-FC2647CD55BE}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
-		Performance1.psess = Performance1.psess
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 		TrilingualDictionary.vsmdi = TrilingualDictionary.vsmdi
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScansParser", "ScansParser\ScansParser.csproj", "{64AF4980-460F-4831-A130-38041209A164}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScansParserTest", "ScansParserTest\ScansParserTest.csproj", "{04C86CA4-28EA-4BDA-A4DA-F6ECC858B161}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrilingualUI", "TrilingualUI\TrilingualUI.csproj", "{52586BE3-EE43-4476-9C19-722642060FDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrilingualDictionaryViewModel", "TrilingualDictionaryViewModel\TrilingualDictionaryViewModel.csproj", "{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}"
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
@@ -36,18 +33,14 @@ Global
 		{A6FF05E8-B977-46FC-9320-D558C0D4C240}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6FF05E8-B977-46FC-9320-D558C0D4C240}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6FF05E8-B977-46FC-9320-D558C0D4C240}.Release|Any CPU.Build.0 = Release|Any CPU
-		{64AF4980-460F-4831-A130-38041209A164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64AF4980-460F-4831-A130-38041209A164}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64AF4980-460F-4831-A130-38041209A164}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{64AF4980-460F-4831-A130-38041209A164}.Release|Any CPU.Build.0 = Release|Any CPU
-		{04C86CA4-28EA-4BDA-A4DA-F6ECC858B161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{04C86CA4-28EA-4BDA-A4DA-F6ECC858B161}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{04C86CA4-28EA-4BDA-A4DA-F6ECC858B161}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{04C86CA4-28EA-4BDA-A4DA-F6ECC858B161}.Release|Any CPU.Build.0 = Release|Any CPU
 		{52586BE3-EE43-4476-9C19-722642060FDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{52586BE3-EE43-4476-9C19-722642060FDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{52586BE3-EE43-4476-9C19-722642060FDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{52586BE3-EE43-4476-9C19-722642060FDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

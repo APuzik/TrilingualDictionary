@@ -3,7 +3,7 @@
   <Profiles />
   <Settings>
     <Setting Name="DictionaryData" Type="System.String" Scope="Application">
-      <Value Profile="(Default)">..\..\Data\TestData</Value>
+      <Value Profile="(Default)">Data</Value>
     </Setting>
   </Settings>
 </SettingsFile>

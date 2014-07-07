@@ -112,6 +112,10 @@
       <Project>{F5F3BD35-F0C9-4A76-B400-86D3382311E5}</Project>
       <Name>TrilingualDictionaryCore</Name>
     </ProjectReference>
+    <ProjectReference Include="..\TrilingualDictionaryViewModel\TrilingualDictionaryViewModel.csproj">
+      <Project>{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}</Project>
+      <Name>TrilingualDictionaryViewModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

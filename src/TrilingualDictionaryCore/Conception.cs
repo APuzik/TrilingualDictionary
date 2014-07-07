@@ -2,7 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Xml;
+using System.Collections;
 
 namespace TrilingualDictionaryCore
 {
@@ -41,23 +43,7 @@ namespace TrilingualDictionaryCore
             }
         };
 
-        public class ConceptionsComparer : IComparer<Conception>
-        {
-            public int Compare(Conception x, Conception y)
-            {
-                if (x.ParentConception != y.ParentConception)
-                {
-                    return x.ParentName.CompareTo(y.ParentName);
-                }
-                else
-                {
-                    return x.OwnName.CompareTo(y.OwnName);
-                }
-            }
-        };
-
-        private static LanguageId s_MainLanguage = LanguageId.Russian;
-
+        
         private int m_ConceptionId;
         private Dictionary<LanguageId, ConceptionDescription> m_Descriptions = new Dictionary<LanguageId, ConceptionDescription>();
 
@@ -69,6 +55,7 @@ namespace TrilingualDictionaryCore
         {
             m_ConceptionId = conceptionId;
             m_ConceptionParentId = 0;
+            IsHumanHandled = false;
         }
 
         public Conception(int conceptionId, string word, LanguageId languageId)
@@ -83,7 +70,7 @@ namespace TrilingualDictionaryCore
             if (!m_Descriptions.ContainsKey(languageId))
                 m_Descriptions.Add(languageId, new ConceptionDescription(word));
             else
-                throw new TriLingException(string.Format("Description for language {0} already exists", LanguageIdToSting.GetDescription(s_MainLanguage, languageId)));
+                throw new TriLingException(string.Format("Description for language {0} already exists", languageId));//LanguageIdToSting.GetDescription(s_MainLanguage, languageId)));
         }
 
         internal void ChangeDescription(string word, LanguageId languageId)
@@ -119,6 +106,8 @@ namespace TrilingualDictionaryCore
                 return new ConceptionDescription("");
         }
 
+        public bool IsHumanHandled { get; set; }
+
         public int ConceptionId
         {
             get { return m_ConceptionId; }
@@ -129,68 +118,25 @@ namespace TrilingualDictionaryCore
         {
             get { return m_Descriptions.Count; }
         }
-
-        public string ActiveConceptionRegistryDescription
+        
+        public bool FindWithAccent(string textToSearch, LanguageId language)
         {
-            get 
-            {
-                return GetConceptionDescriptionOrEmpty(MainLanguage).ConceptionRegistryDescription;
-            }
-        }
-
-        public string ParentName
-        {
-            get
-            {
-                if (ParentConception != null)
-                    return ParentConception.GetConceptionDescriptionOrEmpty(MainLanguage).ConceptionSortDescription;
-                else
-                {
-                    return GetConceptionDescriptionOrEmpty(MainLanguage).ConceptionSortDescription;                    
-                }
-            }
-        }
-
-        public string OwnName
-        {
-            get
-            {
-                string ownName = GetConceptionDescriptionOrEmpty(MainLanguage).ConceptionSortDescription;
-                if (ownName.Contains("модулированный по плотности"))
-                {
-                    int ka = 1;
-                }
-                if (ParentConception != null)
-                    ownName = ownName.Replace("~", ParentConception.GetConceptionDescriptionOrEmpty(MainLanguage).ConceptionSortDescription);
-
-                return ownName;
-            }
-        }
-
-        public static LanguageId MainLanguage
-        {
-            get { return s_MainLanguage; }
-            set { s_MainLanguage = value; }
-        }
-
-        public bool FindWithAccent(string textToSearch)
-        {
-            string description = GetConceptionDescriptionOrEmpty(MainLanguage).ConceptionRegistryDescription;
+            string description = GetConceptionDescriptionOrEmpty(language).ConceptionRegistryDescription;
             return description.Contains(textToSearch);
         }
 
-        public bool FindWoAccent(string textToSearch)
+        public bool FindWoAccent(string textToSearch, LanguageId language)
         {
-            string description = GetConceptionDescriptionOrEmpty(MainLanguage).ConceptionRegistryDescriptionWoAccents;
+            string description = GetConceptionDescriptionOrEmpty(language).ConceptionRegistryDescriptionWoAccents;
             return description.Contains(textToSearch);           
         }
 
-        public bool Find(string textToSearch)
+        public bool Find(string textToSearch, LanguageId language)
         {
             if (textToSearch.Contains('#'))
-                return FindWithAccent(textToSearch);
+                return FindWithAccent(textToSearch, language);
             else
-                return FindWoAccent(textToSearch);
+                return FindWoAccent(textToSearch, language);
         }
 
         public int ParentId
@@ -216,6 +162,9 @@ namespace TrilingualDictionaryCore
             if( ParentConception != null )
                 writer.WriteAttributeString("ParentId", ParentConception.ConceptionId.ToString());
 
+            if (IsHumanHandled)
+                writer.WriteAttributeString("IsHumanHandled", IsHumanHandled.ToString());
+
             writer.WriteStartElement("Descriptions");
             foreach (KeyValuePair<LanguageId, ConceptionDescription> decription in m_Descriptions)
             {
@@ -236,6 +185,10 @@ namespace TrilingualDictionaryCore
             if( !string.IsNullOrWhiteSpace(parentId) )
                 conception.ParentId = Int32.Parse(parentId);
 
+            string isHumanHandled = reader["IsHumanHandled"];
+            if (!string.IsNullOrWhiteSpace(isHumanHandled))
+                conception.IsHumanHandled = bool.Parse(isHumanHandled);
+
             while (reader.Read())
             {
                 switch (reader.Name)
@@ -245,7 +198,7 @@ namespace TrilingualDictionaryCore
                         {
                             ConceptionDescription desc = ConceptionDescription.Create(reader);
                             string langId = reader["LanguageId"];
-                            conception.AddDescription(desc, (Conception.LanguageId)Enum.Parse(typeof(Conception.LanguageId), langId));
+                            conception.AddDescription(desc, (LanguageId)Enum.Parse(typeof(LanguageId), langId));
                         }
                         break;
                     case "Descriptions":
@@ -261,6 +214,42 @@ namespace TrilingualDictionaryCore
         private void AddDescription(ConceptionDescription desc, LanguageId languageId)
         {
             m_Descriptions.Add(languageId, desc);        
+        }
+
+        public string GetParentNameForSorting(LanguageId languageId)
+        {
+            if (ParentConception != null)
+                return ParentConception.GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
+            else
+            {
+                return GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
+            }
+        }
+
+        public string GetOwnNameForSorting(LanguageId languageId)
+        {
+            string ownName = GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
+            if (ownName.Contains("модулированный по плотности"))
+            {
+                int ka = 1;
+            }
+            if (ParentConception != null)
+                ownName = ownName.Replace("~", ParentConception.GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription);
+
+            return ownName;
+        }
+
+        public bool IsPotentialUndefinded()
+        {
+            if (IsHumanHandled)
+                return false;
+
+            foreach (ConceptionDescription desc in m_Descriptions.Values)
+            {
+                if (Regex.IsMatch(desc.ConceptionRegistryDescription, @"(\(|\[).+?(\)|\])"))
+                    return true;
+            }
+            return false;
         }
     }
 }

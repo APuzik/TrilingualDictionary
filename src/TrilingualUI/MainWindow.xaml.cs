@@ -15,6 +15,7 @@ using TrilingualDictionaryCore;
 using System.Reflection;
 using System.ComponentModel;
 using System.Collections;
+using TrilingualDictionaryViewModel;
 
 namespace TrilingualUI
 {
@@ -23,24 +24,26 @@ namespace TrilingualUI
     /// </summary>
     public partial class MainWindow : Window
     {
-        private TrilingualDictionary m_Dictionary = new TrilingualDictionary();
+        private TrilingualDictionaryViewModel.TrilingualDictionaryViewModel m_DictionaryViewModel = null;
         string m_DictionaryDataFolder = "";
 
         public MainWindow()
         {
             try
             {
+                m_DictionaryDataFolder = Properties.Settings.Default.DictionaryData;
+                m_DictionaryViewModel = new TrilingualDictionaryViewModel.TrilingualDictionaryViewModel(m_DictionaryDataFolder);
+
                 InitializeComponent();
 
-                m_DictionaryDataFolder = Properties.Settings.Default.DictionaryData;
-                //m_Dictionary.Load(m_DictionaryDataFolder);
-                m_Dictionary.SerializeFromXML(Path.Combine(m_DictionaryDataFolder, "dict.xml"));
-                listConceptions.ItemsSource = m_Dictionary.GetConceptions();                
-                //listConceptions.Items.SortDescriptions.Add(new SortDescription("ParentName", ListSortDirection.Ascending));
-                //listConceptions.Items.SortDescriptions.Add(new SortDescription("OwnName", ListSortDirection.Ascending));
-
-                //TrilingualDictionary.SerializeToXML(Path.Combine(dictionaryDataFolder, "dict.xml"), m_Dictionary);
-                m_Dictionary.SerializeToXML(Path.Combine(m_DictionaryDataFolder, "dict_Save.xml"));
+                listConceptions.ItemsSource = CollectionViewSource.GetDefaultView(m_DictionaryViewModel.Conceptions); 
+                //ListCollectionView view =
+                //    (ListCollectionView)CollectionViewSource.GetDefaultView(listConceptions.ItemsSource);
+                //string b = VirtualizingStackPanel.IsVirtualizingProperty.ToString();
+                //view.CustomSort = new ConceptionViewModel.ConceptionsComparer(m_DictionaryViewModel.MainLanguage);
+               // listConceptions.Items.SortDescriptions.Add(new SortDescription("ParentName", ListSortDirection.Ascending));
+               // listConceptions.Items.SortDescriptions.Add(new SortDescription("OwnName", ListSortDirection.Ascending));
+                UpdateAllControls();
             }
             catch (Exception ex)
             {
@@ -56,9 +59,10 @@ namespace TrilingualUI
 
         private void cmbLanguages_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            m_Dictionary.MainLanguage = (Conception.LanguageId)cmbLanguages.SelectedIndex;
-            if (listConceptions != null)
-                listConceptions.Items.Refresh();
+            m_DictionaryViewModel.MainLanguage = (Conception.LanguageId)cmbLanguages.SelectedIndex;
+            m_DictionaryViewModel.Refresh();
+            //if (listConceptions != null)
+            //  listConceptions.Items.Refresh();
 
         }
 
@@ -71,13 +75,14 @@ namespace TrilingualUI
         {            
             UpdateDescription();
             UpdateEditDescription();
-
+            lblCount.Content = string.Format("{0} терминов", listConceptions.Items.Count);
+            lblCount.UpdateLayout();
             listConceptions.UpdateLayout();// Items.Refresh();
         }
 
         private void UpdateDescription()
         {
-            Conception conception = (Conception)listConceptions.SelectedItem;
+            ConceptionViewModel conception = (ConceptionViewModel) listConceptions.SelectedItem;
             if (conception == null)
                 return;
 
@@ -85,14 +90,18 @@ namespace TrilingualUI
                 txtDescription.Text = GetAllDescriptions(conception);
             else
             {
-                Conception.LanguageId languageForDescription = (Conception.LanguageId)cmbLanguageForDescription.SelectedIndex;
+                Conception.LanguageId languageForDescription =
+                    (Conception.LanguageId) cmbLanguageForDescription.SelectedIndex;
                 txtDescription.Text = GetConceptionDescription(conception, languageForDescription);
             }
+
+            chkHumanHandled.IsChecked = conception.Conception.IsHumanHandled;
         }
+
 
         private void UpdateEditDescription()
         {
-            Conception conception = (Conception)listConceptions.SelectedItem;
+            ConceptionViewModel conception = (ConceptionViewModel)listConceptions.SelectedItem;
             if (conception == null)
             {
                 if (btnRemoveConception != null)
@@ -102,6 +111,7 @@ namespace TrilingualUI
 
             Conception.LanguageId languageForEdit = (Conception.LanguageId)cmbChangeforEdit.SelectedIndex;
             txtEditDescription.Text = GetConceptionDescription(conception, languageForEdit);
+            
             ConceptionDescription description = conception.GetConceptionDescriptionOrEmpty(languageForEdit);
             txtChangableType.Text = description.Changeable.Type;
             txtChangable.Text = description.Changeable.Value;
@@ -119,7 +129,7 @@ namespace TrilingualUI
             btnRemoveConception.IsEnabled = true;
         }
 
-        private string GetAllDescriptions(Conception conception)
+        private string GetAllDescriptions(ConceptionViewModel conception)
         {
             StringBuilder sb = new StringBuilder();
             foreach (Conception.LanguageId lang in Enum.GetValues(typeof(Conception.LanguageId)))
@@ -129,9 +139,9 @@ namespace TrilingualUI
             return sb.ToString();
         }
 
-        private string GetConceptionDescription(Conception conception, Conception.LanguageId languageForDescription)
+        private string GetConceptionDescription(ConceptionViewModel conception, Conception.LanguageId languageForDescription)
         {
-            return conception.GetConceptionDescriptionOrEmpty(languageForDescription).ConceptionRegistryDescription;
+            return conception.GetConceptionRegistryDescriptionOrEmpty(languageForDescription);
         }
 
         private void cmbLanguageForDescription_SelectionChanged(object sender, SelectionChangedEventArgs e)
@@ -145,7 +155,7 @@ namespace TrilingualUI
             bool isFound = false;
             for (int i = listConceptions.SelectedIndex + 1; i < listConceptions.Items.Count; i++)
             {
-                Conception conception = (Conception)listConceptions.Items[i];
+                ConceptionViewModel conception = (ConceptionViewModel)listConceptions.Items[i];
                 isFound = conception.Find(textToSearch);
                 if (isFound)
                 {                    
@@ -164,7 +174,7 @@ namespace TrilingualUI
         {
             for (int i = 0; i < listConceptions.Items.Count; i++)
             {
-                Conception conception = (Conception)listConceptions.Items[i];
+                ConceptionViewModel conception = (ConceptionViewModel)listConceptions.Items[i];
                 if( id == conception.ConceptionId)
                 {
                     ScrollToItem(i);
@@ -186,12 +196,12 @@ namespace TrilingualUI
 
         private void btnAddDescription_Click(object sender, RoutedEventArgs e)
         {
-            Conception conception = (Conception)listConceptions.SelectedItem;
+            ConceptionViewModel conception = (ConceptionViewModel)listConceptions.SelectedItem;
             if (conception == null)
                 return;
 
             Conception.LanguageId languageForEdit = (Conception.LanguageId)cmbChangeforEdit.SelectedIndex;
-            m_Dictionary.AddDescriptionToConception(conception.ConceptionId, txtEditDescription.Text, languageForEdit);
+            
             ConceptionDescription desc = conception.GetConceptionDescription(languageForEdit);
             desc.LangPart = txtLangPart.Text;
             desc.Topic = txtTopic.Text;
@@ -200,20 +210,20 @@ namespace TrilingualUI
             desc.Changeable.Value = txtChangable.Text;
             desc.Link = txtLink.Text;
 
-            m_Dictionary.SerializeToXML(Path.Combine(m_DictionaryDataFolder, "dict.xml"));
+            m_DictionaryViewModel.AddDescriptionToConception(conception.ConceptionId, txtEditDescription.Text, languageForEdit);
             
             UpdateAllControls();
-            listConceptions.Items.Refresh();
+            //listConceptions.Items.Refresh();
         }
 
         private void btnChangeDescription_Click(object sender, RoutedEventArgs e)
         {
-            Conception conception = (Conception)listConceptions.SelectedItem;
+            ConceptionViewModel conception = (ConceptionViewModel)listConceptions.SelectedItem;
             if (conception == null)
                 return;
 
             Conception.LanguageId languageForEdit = (Conception.LanguageId)cmbChangeforEdit.SelectedIndex;
-            m_Dictionary.ChangeDescriptionOfConception(conception.ConceptionId, txtEditDescription.Text, languageForEdit);
+
 
             ConceptionDescription desc = conception.GetConceptionDescription(languageForEdit);
             desc.LangPart = txtLangPart.Text;
@@ -223,32 +233,33 @@ namespace TrilingualUI
             desc.Changeable.Value = txtChangable.Text;
             desc.Link = txtLink.Text;
 
-            m_Dictionary.SerializeToXML(Path.Combine(m_DictionaryDataFolder, "dict.xml"));
+            m_DictionaryViewModel.ChangeDescriptionOfConception(conception.ConceptionId, txtEditDescription.Text, languageForEdit);
 
             UpdateAllControls();
-            listConceptions.Items.Refresh();
+            //listConceptions.Items.Refresh();
         }
 
         private void btnRemoveDescription_Click(object sender, RoutedEventArgs e)
         {
-            Conception conception = (Conception)listConceptions.SelectedItem;
+            ConceptionViewModel conception = (ConceptionViewModel)listConceptions.SelectedItem;
             if (conception == null)
                 return;
 
             Conception.LanguageId languageForEdit = (Conception.LanguageId)cmbChangeforEdit.SelectedIndex;
-            m_Dictionary.RemoveDescriptionFromConception(conception.ConceptionId, languageForEdit);
-            m_Dictionary.SerializeToXML(Path.Combine(m_DictionaryDataFolder, "dict.xml"));
+
+            m_DictionaryViewModel.RemoveDescriptionFromConception(conception.ConceptionId, languageForEdit);
 
             UpdateAllControls();
-            listConceptions.Items.Refresh();
+            //listConceptions.Items.Refresh();
         }
 
         private void btnAddConception_Click(object sender, RoutedEventArgs e)
         {
             Conception.LanguageId languageForEdit = (Conception.LanguageId)cmbChangeforEdit.SelectedIndex;
-            int newConceptionId = m_Dictionary.AddConception(txtEditDescription.Text, languageForEdit);
 
-            Conception conception = m_Dictionary.GetConception(newConceptionId);
+            int newConceptionId = m_DictionaryViewModel.AddConception(txtEditDescription.Text, languageForEdit);
+
+            Conception conception = m_DictionaryViewModel.GetConception(newConceptionId);
             ConceptionDescription desc = conception.GetConceptionDescription(languageForEdit);
             desc.LangPart = txtLangPart.Text;
             desc.Topic = txtTopic.Text;
@@ -257,24 +268,24 @@ namespace TrilingualUI
             desc.Changeable.Value = txtChangable.Text;
             desc.Link = txtLink.Text;
 
-            m_Dictionary.SerializeToXML(Path.Combine(m_DictionaryDataFolder, "dict.xml"));
+            m_DictionaryViewModel.Save();
+            
             
             UpdateAllControls();            
-            listConceptions.Items.Refresh();
+            //listConceptions.Items.Refresh();
             SelectItemById(newConceptionId);
         }
 
         private void btnRemoveConception_Click(object sender, RoutedEventArgs e)
         {
-            Conception conception = (Conception)listConceptions.SelectedItem;
+            ConceptionViewModel conception = (ConceptionViewModel)listConceptions.SelectedItem;
             if (conception == null)
                 return;
 
-            m_Dictionary.RemoveConception(conception.ConceptionId);
-            m_Dictionary.SerializeToXML(Path.Combine(m_DictionaryDataFolder, "dict.xml"));
+            m_DictionaryViewModel.RemoveConception(conception);
                         
             UpdateAllControls();
-            listConceptions.Items.Refresh();
+            //listConceptions.Items.Refresh();
             listConceptions.SelectedIndex = -1;
         }
 
@@ -319,6 +330,37 @@ namespace TrilingualUI
             //{
             //    (Keyboard.FocusedElement as UIElement).MoveFocus(new TraversalRequest(FocusNavigationDirection.Next));
             //}
+        }
+
+        private void ChkBrackets_OnClick(object sender, RoutedEventArgs e)
+        {
+            if (chkBrackets.IsChecked == true)
+                listConceptions.Items.Filter = ConceptionViewModel.BracketsrFilter;
+            else
+                listConceptions.Items.Filter = null;
+            UpdateAllControls();
+        }
+
+        private void ChkHumanHandled_OnClick(object sender, RoutedEventArgs e)
+        {
+            ConceptionViewModel conception = (ConceptionViewModel)listConceptions.SelectedItem;
+            if (conception == null)
+                return;
+
+            conception.Conception.IsHumanHandled = chkHumanHandled.IsChecked == true;
+            m_DictionaryViewModel.Save();
+
+            if (chkBrackets.IsChecked == true)
+                listConceptions.Items.Filter = ConceptionViewModel.BracketsrFilter;
+            else
+                listConceptions.Items.Filter = null;
+
+            UpdateAllControls();
+        }
+
+        private void btnSplitConception_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Text.RegularExpressions;
+using System.Xml;
 
 namespace TrilingualDictionaryCore
 {
@@ -86,17 +87,76 @@ namespace TrilingualDictionaryCore
 
         internal static ConceptionDescription Create(System.Xml.XmlReader reader)
         {
-            string RegistryDescription = reader["RegistryDescription"];
+            string RegistryDescription = GetXmlAttribute(reader, "RegistryDescription");
             ConceptionDescription desc = new ConceptionDescription(RegistryDescription);
-            
-            desc.Topic = reader["Topic"];
-            desc.Semantic = reader["Semantic"];
-            desc.Changeable.Type = reader["ChangeableType"];
-            desc.Changeable.Value = reader["ChangeableValue"];
-            desc.LangPart = reader["LangPart"];
-            desc.Link = reader["Link"];
+
+            desc.Topic = GetXmlAttribute(reader, "Topic");
+            desc.Semantic = GetXmlAttribute(reader, "Semantic");
+            desc.Changeable.Type = GetXmlAttribute(reader, "ChangeableType");
+            desc.Changeable.Value = GetXmlAttribute(reader, "ChangeableValue");
+            desc.LangPart = GetXmlAttribute(reader, "LangPart");
+            desc.Link = GetXmlAttribute(reader, "Link");
             return desc;
         }
-        
+
+        private static string GetXmlAttribute(XmlReader reader, string name)
+        {
+            string result = reader[name] ?? "";
+            string pattern = "(a|A|B|e|E|c|C|T|y|i|I|o|O|p|P|H|k|K|x|X|m|M)";
+            string result1 = result;
+            result = Regex.Replace(result, pattern, (match) =>
+            {
+                string s = result1;
+                switch (match.Value)
+                {
+                    case "a":
+                        return "а";
+                    case "A":
+                        return "А";
+                    case "B":
+                        return "В";
+                    case "e":
+                        return "е";
+                    case "E":
+                        return "Е";
+                    case "c":
+                        return "с";
+                    case "C":
+                        return "С";
+                    case "T":
+                        return "Т";
+                    case "y":
+                        return "у";
+                    case "i":
+                        return "і";
+                    case "I":
+                        return "І";
+                    case "o":
+                        return "о";
+                    case "O":
+                        return "О";
+                    case "p":
+                        return "р";
+                    case "P":
+                        return "Р";
+                    case "H":
+                        return "Н";
+                    case "k":
+                        return "к";
+                    case "K":
+                        return "К";
+                    case "x":
+                        return "х";
+                    case "X":
+                        return "Х";
+                    //case "m":
+                    //    return "м";
+                    case "M":
+                        return "М";
+                }
+                return "";
+            });
+            return result;
+        }
     }
 }
