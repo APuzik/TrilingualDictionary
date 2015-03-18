@@ -15,6 +15,7 @@ namespace TrilingualDictionaryCore
         private int m_LastId = 0;
         private Dictionary<int, int> m_AvailableIds = new Dictionary<int, int>();
         private Dictionary<int, Conception> m_Dictionary = new Dictionary<int, Conception>();
+        //private Dictionary<int, List<ConceptionDescription>> m_Descriptions = new Dictionary<LanguageId, List<ConceptionDescription>>();
 
         private static readonly string[] m_TopicMarks = new string[]
         {
@@ -94,7 +95,7 @@ namespace TrilingualDictionaryCore
             get { return m_OtherMarks; }
         }
 
-        public int AddConception(string word, Conception.LanguageId languageId)
+        public int AddConception(string word, LanguageId languageId)
         {
             lock (this)
             {
@@ -122,20 +123,22 @@ namespace TrilingualDictionaryCore
             }
         }
 
-        public void AddDescriptionToConception(int conceptionId, string word, Conception.LanguageId languageId)
+        public void AddDescriptionToConception(int conceptionId, string word, LanguageId languageId)
         {
             GetConception(conceptionId).AddDescription(word, languageId);
         }
 
-        public void ChangeDescriptionOfConception(int conceptionId, string word, Conception.LanguageId languageId)
+        public void ChangeDescriptionOfConception(int conceptionId, string word, LanguageId languageId)
         {
-            GetConception(conceptionId).ChangeDescription(word, languageId);
+            //todo:
+           // GetConception(conceptionId).ChangeDescription(word, languageId);
         }
 
-        public void RemoveDescriptionFromConception(int conceptionId, Conception.LanguageId languageId)
+        public void RemoveDescriptionFromConception(int conceptionId, LanguageId languageId)
         {
             Conception handledConception = GetConception(conceptionId);
-            handledConception.RemoveDescription(languageId);
+            //todo:
+            //handledConception.RemoveDescription(languageId);
 
             if (handledConception.DescriptionsCount == 0)
                 RemoveConception(conceptionId);

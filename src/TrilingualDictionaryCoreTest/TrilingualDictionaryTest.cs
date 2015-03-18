@@ -88,7 +88,7 @@ namespace TrilingualDictionaryCoreTest
         public void GetConceptionsCountOneTest()
         {
             string wordRus = "Генератор";
-            Conception.LanguageId languageIdRus = Conception.LanguageId.Russian;
+            LanguageId languageIdRus = LanguageId.Russian;
             m_Dictionary.AddConception(wordRus, languageIdRus);
 
             int excpected = 1;
@@ -117,7 +117,7 @@ namespace TrilingualDictionaryCoreTest
             int conceptionId = AddConceptionRus();
 
             string wordEng = "Generator";
-            Conception.LanguageId languageIdEng = Conception.LanguageId.English;
+            LanguageId languageIdEng = LanguageId.English;
             m_Dictionary.AddDescriptionToConception(conceptionId, wordEng, languageIdEng);
 
             int expected = 1;
@@ -131,7 +131,7 @@ namespace TrilingualDictionaryCoreTest
             int conceptionId = AddConceptionRus();
 
             string wordEng = "Generator";
-            Conception.LanguageId languageIdEng = Conception.LanguageId.English;
+            LanguageId languageIdEng = LanguageId.English;
             int nonExistingConceptionId = 2;
             m_Dictionary.AddDescriptionToConception(nonExistingConceptionId, wordEng, languageIdEng);
         }
@@ -143,14 +143,14 @@ namespace TrilingualDictionaryCoreTest
             int conceptionId = AddConceptionRus();
 
             string word = "Генератор2";
-            Conception.LanguageId languageIdRus = Conception.LanguageId.Russian;
+            LanguageId languageIdRus = LanguageId.Russian;
             m_Dictionary.AddDescriptionToConception(conceptionId, word, languageIdRus);
         }
 
         private int AddConceptionRus()
         {
             string word = "Генератор";
-            Conception.LanguageId languageId = Conception.LanguageId.Russian;
+            LanguageId languageId = LanguageId.Russian;
 
             int conceptionId = m_Dictionary.AddConception(word, languageId);
             return conceptionId;
@@ -165,7 +165,7 @@ namespace TrilingualDictionaryCoreTest
             int conceptionId = AddConceptionRus();
 
             string word = "Генерато2";
-            Conception.LanguageId languageIdEng = Conception.LanguageId.Russian;
+            LanguageId languageIdEng = LanguageId.Russian;
             m_Dictionary.ChangeDescriptionOfConception(conceptionId, word, languageIdEng);
 
             int expected = 1;
@@ -179,7 +179,7 @@ namespace TrilingualDictionaryCoreTest
             int conceptionId = AddConceptionRus();
 
             string word = "Генерато2";
-            Conception.LanguageId languageIdEng = Conception.LanguageId.Russian;
+            LanguageId languageIdEng = LanguageId.Russian;
             int nonExistingConceptionId = 2;
             m_Dictionary.ChangeDescriptionOfConception(nonExistingConceptionId, word, languageIdEng);
         }
@@ -220,8 +220,8 @@ namespace TrilingualDictionaryCoreTest
             int conceptionId = AddConceptionRus();
 
             string wordEng = "Generator";
-            Conception.LanguageId languageIdRus = Conception.LanguageId.Russian;
-            Conception.LanguageId languageIdEng = Conception.LanguageId.English;
+            LanguageId languageIdRus = LanguageId.Russian;
+            LanguageId languageIdEng = LanguageId.English;
             int expected = 1;
 
             m_Dictionary.AddDescriptionToConception(conceptionId, wordEng, languageIdEng);            
@@ -242,7 +242,7 @@ namespace TrilingualDictionaryCoreTest
             int conceptionId = AddConceptionRus();
 
             string wordEng = "Generator";
-            Conception.LanguageId languageIdEng = Conception.LanguageId.English;
+            LanguageId languageIdEng = LanguageId.English;
             int expected = 1;
 
             m_Dictionary.AddDescriptionToConception(conceptionId, wordEng, languageIdEng);

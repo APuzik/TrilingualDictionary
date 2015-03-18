@@ -6,48 +6,48 @@ using System.Text.RegularExpressions;
 using System.Xml;
 using System.Collections;
 
+
 namespace TrilingualDictionaryCore
 {
-    public class Conception
+    public enum LanguageId
     {
-        public enum LanguageId
+        Russian = 0,
+        English,
+        Ukrainian
+    };
+
+    public class LanguageIdToSting
+    {
+        private static Dictionary<LanguageId, Dictionary<LanguageId, string>> m_Descriptions = new Dictionary<LanguageId, Dictionary<LanguageId, string>>();
+
+        static LanguageIdToSting()
         {
-            Russian = 0,
-            English,
-            Ukrainian
-        };
+            m_Descriptions[LanguageId.Russian] = new Dictionary<LanguageId, string>();
+            m_Descriptions[LanguageId.Russian][LanguageId.Russian] = "Русский";
+            m_Descriptions[LanguageId.Russian][LanguageId.English] = "Английский";
+            m_Descriptions[LanguageId.Russian][LanguageId.Ukrainian] = "Украинский";
+            m_Descriptions[LanguageId.English] = new Dictionary<LanguageId, string>();
+            m_Descriptions[LanguageId.English][LanguageId.Russian] = "Russian";
+            m_Descriptions[LanguageId.English][LanguageId.English] = "English";
+            m_Descriptions[LanguageId.English][LanguageId.Ukrainian] = "Ukrainian";
+            m_Descriptions[LanguageId.Ukrainian] = new Dictionary<LanguageId, string>();
+            m_Descriptions[LanguageId.Ukrainian][LanguageId.Russian] = "Росiйська";
+            m_Descriptions[LanguageId.Ukrainian][LanguageId.English] = "Англiйська";
+            m_Descriptions[LanguageId.Ukrainian][LanguageId.Ukrainian] = "Українська";
+        }
 
-        public class LanguageIdToSting
+        public static string GetDescription(LanguageId languageRequired, LanguageId idDescription)
         {
-            private static Dictionary<LanguageId, Dictionary<LanguageId, string>> m_Descriptions = new Dictionary<LanguageId, Dictionary<LanguageId, string>>();
+            return m_Descriptions[languageRequired][idDescription];
+        }
+    };
 
-            static LanguageIdToSting()
-            {
-                m_Descriptions[LanguageId.Russian] = new Dictionary<LanguageId, string>();
-                m_Descriptions[LanguageId.Russian][LanguageId.Russian] = "Русский";
-                m_Descriptions[LanguageId.Russian][LanguageId.English] = "Английский";
-                m_Descriptions[LanguageId.Russian][LanguageId.Ukrainian] = "Украинский";
-                m_Descriptions[LanguageId.English] = new Dictionary<LanguageId, string>();
-                m_Descriptions[LanguageId.English][LanguageId.Russian] = "Russian";
-                m_Descriptions[LanguageId.English][LanguageId.English] = "English";
-                m_Descriptions[LanguageId.English][LanguageId.Ukrainian] = "Ukrainian";
-                m_Descriptions[LanguageId.Ukrainian] = new Dictionary<LanguageId, string>();
-                m_Descriptions[LanguageId.Ukrainian][LanguageId.Russian] = "Росiйська";
-                m_Descriptions[LanguageId.Ukrainian][LanguageId.English] = "Англiйська";
-                m_Descriptions[LanguageId.Ukrainian][LanguageId.Ukrainian] = "Українська";
-            }
-
-            public static string GetDescription(LanguageId languageRequired, LanguageId idDescription)
-            {
-                return m_Descriptions[languageRequired][idDescription];
-            }
-        };
-
-        
+    public class Conception
+    {    
         private int m_ConceptionId;
-        private Dictionary<LanguageId, ConceptionDescription> m_Descriptions = new Dictionary<LanguageId, ConceptionDescription>();
+        private Dictionary<LanguageId, List<ConceptionDescription>> m_Descriptions = new Dictionary<LanguageId, List<ConceptionDescription>>();
 
-        private string m_ConceptionArea;
+        private string m_ConceptionTopic;
         private int m_ConceptionParentId = 0;
         private Conception m_ParentConception = null;
 
@@ -68,16 +68,26 @@ namespace TrilingualDictionaryCore
         internal void AddDescription(string word, LanguageId languageId)
         {
             if (!m_Descriptions.ContainsKey(languageId))
-                m_Descriptions.Add(languageId, new ConceptionDescription(word));
+            {
+                m_Descriptions.Add(languageId, new List<ConceptionDescription>());
+            }
+
+            if (!m_Descriptions[languageId].Exists(x => x.ConceptionRegistryDescription == word))
+            {
+                ConceptionDescription newDescription = new ConceptionDescription(this, word);
+                newDescription.DescriptionId = m_Descriptions[languageId].Count + 1;
+                m_Descriptions[languageId].Add(newDescription);
+            }
             else
-                throw new TriLingException(string.Format("Description for language {0} already exists", languageId));//LanguageIdToSting.GetDescription(s_MainLanguage, languageId)));
+                throw new TriLingException(string.Format("Description for language {0} already exists", languageId));
+
         }
 
-        internal void ChangeDescription(string word, LanguageId languageId)
+        internal void ChangeDescription(string word, LanguageId languageId, int indexDescription)
         {
             try
             {
-                GetConceptionDescription(languageId).ChangeDescription(word);
+                GetConceptionDescription(languageId, indexDescription).ChangeDescription(word);
             }
             catch
             {
@@ -85,25 +95,32 @@ namespace TrilingualDictionaryCore
             }
         }
 
-        internal void RemoveDescription(LanguageId languageId)
+        internal void RemoveDescription(LanguageId languageId, int indexDescription)
         {
-            m_Descriptions.Remove(languageId);
+            if (indexDescription >= 0 && indexDescription < m_Descriptions[languageId].Count)
+                m_Descriptions[languageId].RemoveAt(indexDescription);
         }
 
-        public ConceptionDescription GetConceptionDescription(LanguageId languageId)
+        internal void RemoveDescription(LanguageId languageId, string description)
         {
-            if( m_Descriptions.ContainsKey(languageId) )
-                return m_Descriptions[languageId];
+            m_Descriptions[languageId].RemoveAll(x => x.ConceptionRegistryDescription == description);
+
+        }
+
+        public ConceptionDescription GetConceptionDescription(LanguageId languageId, int indexDescription)
+        {
+            if (m_Descriptions.ContainsKey(languageId))
+                return m_Descriptions[languageId][indexDescription];
             else
                 throw new TriLingException(string.Format("Description for language {0} is absent", languageId.ToString()));
         }
 
-        public ConceptionDescription GetConceptionDescriptionOrEmpty(LanguageId languageId)
+        public ConceptionDescription GetConceptionDescriptionOrEmpty(LanguageId languageId, int indexDescription)
         {
             if (m_Descriptions.ContainsKey(languageId))
-                return m_Descriptions[languageId];
+                return m_Descriptions[languageId][indexDescription];
             else
-                return new ConceptionDescription("");
+                return new ConceptionDescription(this, "");
         }
 
         public bool IsHumanHandled { get; set; }
@@ -114,21 +131,19 @@ namespace TrilingualDictionaryCore
             set { m_ConceptionId = value; }
         }
 
-        public int DescriptionsCount 
+        public int DescriptionsCount
         {
             get { return m_Descriptions.Count; }
         }
-        
+
         public bool FindWithAccent(string textToSearch, LanguageId language)
         {
-            string description = GetConceptionDescriptionOrEmpty(language).ConceptionRegistryDescription;
-            return description.Contains(textToSearch);
+            return m_Descriptions[language].Exists(x => x.ConceptionRegistryDescription.Contains(textToSearch));            
         }
 
         public bool FindWoAccent(string textToSearch, LanguageId language)
         {
-            string description = GetConceptionDescriptionOrEmpty(language).ConceptionRegistryDescriptionWoAccents;
-            return description.Contains(textToSearch);           
+            return m_Descriptions[language].Exists(x => x.ConceptionRegistryDescriptionWoAccents.Contains(textToSearch));            
         }
 
         public bool Find(string textToSearch, LanguageId language)
@@ -151,29 +166,31 @@ namespace TrilingualDictionaryCore
             set { m_ParentConception = value; }
         }
 
-        public List<int> LinkedIds 
-        { 
-            get; set;
+        public List<int> LinkedIds
+        {
+            get;
+            set;
         }
 
         internal void SaveConception(XmlWriter writer)
         {
             writer.WriteAttributeString("Id", ConceptionId.ToString());
-            if( ParentConception != null )
+            if (ParentConception != null)
                 writer.WriteAttributeString("ParentId", ParentConception.ConceptionId.ToString());
 
             if (IsHumanHandled)
                 writer.WriteAttributeString("IsHumanHandled", IsHumanHandled.ToString());
 
             writer.WriteStartElement("Descriptions");
-            foreach (KeyValuePair<LanguageId, ConceptionDescription> decription in m_Descriptions)
+            foreach (KeyValuePair<LanguageId, List<ConceptionDescription>> decription in m_Descriptions)
             {
                 writer.WriteStartElement("Description");
                 writer.WriteAttributeString("LanguageId", decription.Key.ToString());
-                decription.Value.SaveDescription(writer);
+                foreach(ConceptionDescription desc in decription.Value)
+                    desc.SaveDescription(writer);
                 writer.WriteEndElement();
             }
-            writer.WriteEndElement();            
+            writer.WriteEndElement();
         }
 
         internal static Conception Create(XmlReader reader)
@@ -182,13 +199,14 @@ namespace TrilingualDictionaryCore
             int i = Int32.Parse(id);
             Conception conception = new Conception(i);
             string parentId = reader["ParentId"];
-            if( !string.IsNullOrWhiteSpace(parentId) )
+            if (!string.IsNullOrWhiteSpace(parentId))
                 conception.ParentId = Int32.Parse(parentId);
 
             string isHumanHandled = reader["IsHumanHandled"];
             if (!string.IsNullOrWhiteSpace(isHumanHandled))
                 conception.IsHumanHandled = bool.Parse(isHumanHandled);
 
+            int descriptionId = 1;
             while (reader.Read())
             {
                 switch (reader.Name)
@@ -196,13 +214,24 @@ namespace TrilingualDictionaryCore
                     case "Description":
                         if (reader.NodeType == XmlNodeType.Element)
                         {
-                            ConceptionDescription desc = ConceptionDescription.Create(reader);
+                            ConceptionDescription desc = ConceptionDescription.Create(reader, conception);
+                            string descId = reader["DescriptionId"];
+                            if (string.IsNullOrEmpty(descId))
+                            {
+                                desc.DescriptionId = descriptionId;
+                            }
+                            else 
+                            {
+                                desc.DescriptionId = Int32.Parse(descId);
+                            }
+                            descriptionId = desc.DescriptionId + 1;
+
                             string langId = reader["LanguageId"];
                             conception.AddDescription(desc, (LanguageId)Enum.Parse(typeof(LanguageId), langId));
                         }
                         break;
                     case "Descriptions":
-                        if( reader.NodeType == XmlNodeType.EndElement )
+                        if (reader.NodeType == XmlNodeType.EndElement)
                             return conception;
                         break;
                 }
@@ -213,29 +242,38 @@ namespace TrilingualDictionaryCore
 
         private void AddDescription(ConceptionDescription desc, LanguageId languageId)
         {
-            m_Descriptions.Add(languageId, desc);        
+            if (!m_Descriptions.ContainsKey(languageId))
+            {
+                m_Descriptions.Add(languageId, new List<ConceptionDescription>());
+            }
+                
+            m_Descriptions[languageId].Add(desc);
         }
 
         public string GetParentNameForSorting(LanguageId languageId)
         {
-            if (ParentConception != null)
-                return ParentConception.GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
-            else
-            {
-                return GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
-            }
+            //todo:
+            //if (ParentConception != null)
+            //    return ParentConception.GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
+            //else
+            //{
+            //    return GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
+            //}
+            return "";
         }
 
         public string GetOwnNameForSorting(LanguageId languageId)
         {
-            string ownName = GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
-            if (ownName.Contains("модулированный по плотности"))
-            {
-                int ka = 1;
-            }
-            if (ParentConception != null)
-                ownName = ownName.Replace("~", ParentConception.GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription);
+            //todo:
+            //string ownName = GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
+            //if (ownName.Contains("модулированный по плотности"))
+            //{
+            //    int ka = 1;
+            //}
+            //if (ParentConception != null)
+            //    ownName = ownName.Replace("~", ParentConception.GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription);
 
+            string ownName = "";
             return ownName;
         }
 
@@ -244,12 +282,22 @@ namespace TrilingualDictionaryCore
             if (IsHumanHandled)
                 return false;
 
-            foreach (ConceptionDescription desc in m_Descriptions.Values)
+            foreach (List<ConceptionDescription> descs in m_Descriptions.Values)
             {
-                if (Regex.IsMatch(desc.ConceptionRegistryDescription, @"(\(|\[).+?(\)|\])"))
-                    return true;
+                foreach (ConceptionDescription desc in descs)
+                {
+                    if (Regex.IsMatch(desc.ConceptionRegistryDescription, @"(\(|\[).+?(\)|\])"))
+                        return true;
+                }
             }
             return false;
+        }
+
+        public List<ConceptionDescription> GetAllConceptionDescriptions(LanguageId languageId)
+        {
+            if (m_Descriptions.ContainsKey(languageId))
+                return m_Descriptions[languageId];
+            return new List<ConceptionDescription>();
         }
     }
 }

@@ -13,6 +13,7 @@ namespace TrilingualDictionaryViewModel
     {
         private const string m_DictionaryXmlFile = "dict.xml";
         private ObservableCollection<ConceptionViewModel> m_Conceptions = new ObservableCollection<ConceptionViewModel>();
+        private ObservableCollection<ConceptionDescriptionViewModel> m_CurLangDescriptions = new ObservableCollection<ConceptionDescriptionViewModel>();
         private TrilingualDictionary m_Dictionary = new TrilingualDictionary();
         string m_DictionaryDataFolder = "";
         
@@ -29,36 +30,57 @@ namespace TrilingualDictionaryViewModel
             }
         }
 
+        public ObservableCollection<ConceptionDescriptionViewModel> ConceptionDescriptions
+        {
+            get { return m_CurLangDescriptions; }
+        }
+
         public ObservableCollection<ConceptionViewModel> Conceptions
         {
             get { return m_Conceptions; }
         }
 
-        public Conception.LanguageId MainLanguage
+        public LanguageId MainLanguage
         {
             get { return ConceptionViewModel.MainLanguage; }
-            set { ConceptionViewModel.MainLanguage = value; }
+            set 
+            {
+                //if (value != ConceptionViewModel.MainLanguage)
+                {
+                    ConceptionViewModel.MainLanguage = value;
+                    m_CurLangDescriptions.Clear();
+                    foreach (Conception conception in m_Dictionary.Conceptions)
+                    {
+                        List<ConceptionDescription> descriptions = conception.GetAllConceptionDescriptions(ConceptionViewModel.MainLanguage);
+                        foreach (ConceptionDescription desc in descriptions)
+                        {
+                            m_CurLangDescriptions.Add(new ConceptionDescriptionViewModel(desc));
+                        }
+                    }
+                    
+                }
+            }
         }
 
-        public void AddDescriptionToConception(int conceptionId, string textDescription, Conception.LanguageId languageId)
+        public void AddDescriptionToConception(int conceptionId, string textDescription, LanguageId languageId)
         {
             m_Dictionary.AddDescriptionToConception(conceptionId, textDescription, languageId);
             Save();
         }
 
-        public void ChangeDescriptionOfConception(int conceptionId, string textDescription, Conception.LanguageId languageForEdit)
+        public void ChangeDescriptionOfConception(int conceptionId, string textDescription, LanguageId languageForEdit)
         {
             m_Dictionary.ChangeDescriptionOfConception(conceptionId, textDescription, languageForEdit);
             Save();
         }
 
-        public void RemoveDescriptionFromConception(int conceptionId, Conception.LanguageId languageId)
+        public void RemoveDescriptionFromConception(int conceptionId, LanguageId languageId)
         {
             m_Dictionary.RemoveDescriptionFromConception(conceptionId, languageId);
             Save();
         }
 
-        public int AddConception(string textDescription, Conception.LanguageId languageId)
+        public int AddConception(string textDescription, LanguageId languageId)
         {
             int newConceptionId = m_Dictionary.AddConception(textDescription, languageId);
             m_Conceptions.Add(new ConceptionViewModel(m_Dictionary.GetConception(newConceptionId)));
@@ -87,5 +109,6 @@ namespace TrilingualDictionaryViewModel
         {
             CollectionViewSource.GetDefaultView(m_Conceptions).Refresh();
         }
+
     }
 }

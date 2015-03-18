@@ -12,14 +12,14 @@
         <ListView HorizontalAlignment="Left" Margin="12,121,0,12" Name="listConceptions" Width="256" SelectionChanged="listConceptions_SelectionChanged" KeyboardNavigation.DirectionalNavigation="Continue" KeyUp="listConceptions_KeyUp">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <TextBlock Text="{Binding Path=ActiveConceptionRegistryDescription}"></TextBlock>
+                    <TextBlock Text="{Binding Path=RegistryDescription}"></TextBlock>
                 </DataTemplate>
             </ListView.ItemTemplate>
         </ListView>
         <TreeView HorizontalAlignment="Left" Margin="12,121,0,12" Name="treeConceptions" Width="256" SelectedItemChanged="treeConceptions_SelectionChanged" Visibility="Hidden">
             <TreeView.ItemTemplate>
                 <DataTemplate>
-                    <TextBlock Text="{Binding Path=ActiveConceptionRegistryDescription}"></TextBlock>
+                    <TextBlock Text="{Binding Path=RegistryDescription}"></TextBlock>
                 </DataTemplate>
             </TreeView.ItemTemplate>
         </TreeView>

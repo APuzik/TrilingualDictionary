@@ -54,7 +54,7 @@ namespace TrilingualDictionaryCoreTest
         public void MyTestInitialize()
         {
             string word = "Генератор";
-            m_Description = new ConceptionDescription(word);
+            m_Description = new ConceptionDescription(null, word);
         }
         
         //Use TestCleanup to run code after each test has run

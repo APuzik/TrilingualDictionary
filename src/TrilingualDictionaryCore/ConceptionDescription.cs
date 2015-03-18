@@ -17,6 +17,8 @@ namespace TrilingualDictionaryCore
 
         private string m_Word;
         private string m_Explanation = "";
+        private Conception m_Conception = null;
+        private int m_DescriptionId;
 
         public ChangeablelPart Changeable
         {
@@ -30,10 +32,16 @@ namespace TrilingualDictionaryCore
 
         public string Link { get; set; }
 
-        public ConceptionDescription(string word)
+        public ConceptionDescription(Conception conception, string word)
         {
+            m_Conception = conception;
             m_Word = word;
             Changeable = new ChangeablelPart();
+        }
+
+        public Conception OwnConception
+        {
+            get { return m_Conception; }
         }
 
         internal void ChangeDescription(string word)
@@ -85,10 +93,10 @@ namespace TrilingualDictionaryCore
                 writer.WriteAttributeString("Link", Link);
         }
 
-        internal static ConceptionDescription Create(System.Xml.XmlReader reader)
+        internal static ConceptionDescription Create(XmlReader reader, Conception conception)
         {
             string RegistryDescription = GetXmlAttribute(reader, "RegistryDescription");
-            ConceptionDescription desc = new ConceptionDescription(RegistryDescription);
+            ConceptionDescription desc = new ConceptionDescription(conception, RegistryDescription);
 
             desc.Topic = GetXmlAttribute(reader, "Topic");
             desc.Semantic = GetXmlAttribute(reader, "Semantic");
@@ -99,6 +107,12 @@ namespace TrilingualDictionaryCore
             return desc;
         }
 
+        /// <summary>
+        /// Converts english scanned equivalent to Cyrillic
+        /// </summary>
+        /// <param name="reader"></param>
+        /// <param name="name"></param>
+        /// <returns></returns>
         private static string GetXmlAttribute(XmlReader reader, string name)
         {
             string result = reader[name] ?? "";
@@ -157,6 +171,12 @@ namespace TrilingualDictionaryCore
                 return "";
             });
             return result;
+        }
+
+        public int DescriptionId
+        {
+            get { return m_DescriptionId; }
+            set { m_DescriptionId = value; }
         }
     }
 }

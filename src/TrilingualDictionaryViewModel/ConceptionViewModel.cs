@@ -12,9 +12,9 @@ namespace TrilingualDictionaryViewModel
     {
         public class ConceptionsComparer : IComparer
         {
-            private Conception.LanguageId m_LanguageId;
+            private LanguageId m_LanguageId;
 
-            public ConceptionsComparer(Conception.LanguageId languageId)
+            public ConceptionsComparer(LanguageId languageId)
             {
                 m_LanguageId = languageId;
             }
@@ -57,22 +57,22 @@ namespace TrilingualDictionaryViewModel
         }
 
         private Conception m_Conception = null;
-        private static Conception.LanguageId s_MainLanguage = Conception.LanguageId.Russian;
+        private static LanguageId s_MainLanguage = LanguageId.Russian;
 
         public ConceptionViewModel(Conception conception)
         {
             m_Conception = conception;
         }
 
-        public string ActiveConceptionRegistryDescription
-        {
-            get
-            {
-                return m_Conception.GetConceptionDescriptionOrEmpty(MainLanguage).ConceptionRegistryDescription;
-            }
-        }
+        //public string ActiveConceptionRegistryDescription
+        //{
+        //    get
+        //    {
+        //        return m_Conception.GetConceptionDescriptionOrEmpty(MainLanguage).ConceptionRegistryDescription;
+        //    }
+        //}
 
-        public static Conception.LanguageId MainLanguage
+        public static LanguageId MainLanguage
         {
             get { return s_MainLanguage; }
             set { s_MainLanguage = value; }
@@ -93,25 +93,25 @@ namespace TrilingualDictionaryViewModel
             return m_Conception.Find(textToSearch, MainLanguage);
         }
 
-        public string GetConceptionRegistryDescriptionOrEmpty(Conception.LanguageId languageId)
-        {
-            return GetConceptionDescriptionOrEmpty(languageId).ConceptionRegistryDescription;
-        }
+        //public string GetConceptionRegistryDescriptionOrEmpty(LanguageId languageId)
+        //{
+        //    return GetConceptionDescriptionOrEmpty(languageId).ConceptionRegistryDescription;
+        //}
 
         public int ConceptionId
         {
             get { return m_Conception.ConceptionId; }
         }
 
-        public ConceptionDescription GetConceptionDescriptionOrEmpty(Conception.LanguageId languageId)
-        {
-            return m_Conception.GetConceptionDescriptionOrEmpty(languageId);
-        }
+        //public ConceptionDescription GetConceptionDescriptionOrEmpty(LanguageId languageId)
+        //{
+        //    return m_Conception.GetConceptionDescriptionOrEmpty(languageId);
+        //}
 
-        public ConceptionDescription GetConceptionDescription(Conception.LanguageId languageId)
-        {
-            return m_Conception.GetConceptionDescription(languageId);
-        }
+        //public ConceptionDescription GetConceptionDescription(LanguageId languageId)
+        //{
+        //    return m_Conception.GetConceptionDescription(languageId);
+        //}
 
         public Conception Conception
         {

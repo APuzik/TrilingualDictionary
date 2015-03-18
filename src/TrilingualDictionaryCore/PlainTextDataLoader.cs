@@ -97,7 +97,9 @@ namespace TrilingualDictionaryCore
                             linkPart = linkPart.Trim();
                             if (conPrev != null)
                             {
-                                conPrev.GetConceptionDescription(Conception.LanguageId.Russian).Link = linkPart;
+                                List<ConceptionDescription> descs = conPrev.GetAllConceptionDescriptions(LanguageId.Russian);
+                                foreach( ConceptionDescription desc in descs)
+                                    desc.Link = linkPart;
                                 continue;
                             }
                         }
@@ -130,7 +132,7 @@ namespace TrilingualDictionaryCore
                         }
                         else
                         {
-                            textRus = textRus.Replace("~", parentConception.GetConceptionDescriptionOrEmpty(Conception.LanguageId.Russian).ConceptionRegistryDescription);
+                            textRus = textRus.Replace("~", parentConception.GetConceptionDescriptionOrEmpty(LanguageId.Russian, 0).ConceptionRegistryDescription);
                         }
 
                         if (!string.IsNullOrWhiteSpace(clearUkr))
@@ -145,23 +147,32 @@ namespace TrilingualDictionaryCore
                         //    !string.IsNullOrWhiteSpace(topicPartEx) ||
                         //    isFirst)
                         {
-                            int n = m_Dictionary.AddConception(textRus, Conception.LanguageId.Russian);
-                            m_Dictionary.AddDescriptionToConception(n, clearUkr, Conception.LanguageId.Ukrainian);
+                            int n = m_Dictionary.AddConception(textRus, LanguageId.Russian);
+                            m_Dictionary.AddDescriptionToConception(n, clearUkr, LanguageId.Ukrainian);
 
                             Conception conception = m_Dictionary.GetConception(n);
-                            conception.GetConceptionDescription(Conception.LanguageId.Russian).Topic = topicPart;
-                            conception.GetConceptionDescription(Conception.LanguageId.Russian).Semantic = topicPartEx;
-                            conception.GetConceptionDescription(Conception.LanguageId.Russian).Link = linkPart;
+                            conception.GetConceptionDescription(LanguageId.Russian, 0).Topic = topicPart;
+                            conception.GetConceptionDescription(LanguageId.Russian, 0).Semantic = topicPartEx;
+                            conception.GetConceptionDescription(LanguageId.Russian, 0).Link = linkPart;
+
+                            List<ConceptionDescription> descs = conception.GetAllConceptionDescriptions(LanguageId.Ukrainian);
 
                             if (!string.IsNullOrWhiteSpace(changeAble))
                             {
-                                conception.GetConceptionDescription(Conception.LanguageId.Ukrainian).Changeable.Type = "род.";
-                                conception.GetConceptionDescription(Conception.LanguageId.Ukrainian).Changeable.Value = changeAble;
+                                
+                                foreach( ConceptionDescription desc in descs)
+                                {
+                                    desc.Changeable.Type = "род.";
+                                    desc.Changeable.Value = changeAble;
+                                }                                
                             }
 
                             if (!string.IsNullOrWhiteSpace(langPart))
                             {
-                                conception.GetConceptionDescription(Conception.LanguageId.Ukrainian).LangPart = langPart;
+                                foreach (ConceptionDescription desc in descs)
+                                {
+                                    desc.LangPart = langPart;
+                                }
                             }
 
                             if (parentId == 0)
@@ -171,26 +182,26 @@ namespace TrilingualDictionaryCore
                             }
                             else
                             {
-                                conception.ParentId = parentId;
+                                //conception.ParentId = parentId;
                                 conception.ParentConception = parentConception;
                             }
                             conPrev = conception;
                         }
                         //else
                         //{
-                        //    //oldConception.AddDescription(clearUkr, Conception.LanguageId.Ukrainian);
+                        //    //oldConception.AddDescription(clearUkr, LanguageId.Ukrainian);
                         //    //if (!string.IsNullOrWhiteSpace(changeAble))
                         //    //{
-                        //    //    oldConception.GetConceptionDescription(Conception.LanguageId.Ukrainian,
-                        //    //        oldConception.GetLanguageDescriptionsCount(Conception.LanguageId.Ukrainian) - 1).Changeable.Type = "род.";
-                        //    //    oldConception.GetConceptionDescription(Conception.LanguageId.Ukrainian,
-                        //    //        oldConception.GetLanguageDescriptionsCount(Conception.LanguageId.Ukrainian) - 1).Changeable.Value = changeAble;
+                        //    //    oldConception.GetConceptionDescription(LanguageId.Ukrainian,
+                        //    //        oldConception.GetLanguageDescriptionsCount(LanguageId.Ukrainian) - 1).Changeable.Type = "род.";
+                        //    //    oldConception.GetConceptionDescription(LanguageId.Ukrainian,
+                        //    //        oldConception.GetLanguageDescriptionsCount(LanguageId.Ukrainian) - 1).Changeable.Value = changeAble;
                         //    //}
 
                         //    //if (!string.IsNullOrWhiteSpace(langPart))
                         //    //{
-                        //    //    oldConception.GetConceptionDescription(Conception.LanguageId.Ukrainian, 
-                        //    //         oldConception.GetLanguageDescriptionsCount(Conception.LanguageId.Ukrainian) - 1).LangPart = langPart;
+                        //    //    oldConception.GetConceptionDescription(LanguageId.Ukrainian, 
+                        //    //         oldConception.GetLanguageDescriptionsCount(LanguageId.Ukrainian) - 1).LangPart = langPart;
                         //    //}
                         //    //oldConception.Link = linkPart;
                         //}
@@ -219,8 +230,8 @@ namespace TrilingualDictionaryCore
                     //    textUkr = textUkr.Replace(mainwordUkr, "~");
                     //}
 
-                    //int n = m_Dictionary.AddConception(textRus, Conception.LanguageId.Russian);
-                    //m_Dictionary.AddDescriptionToConception(n, textUkr, Conception.LanguageId.Ukrainian);
+                    //int n = m_Dictionary.AddConception(textRus, LanguageId.Russian);
+                    //m_Dictionary.AddDescriptionToConception(n, textUkr, LanguageId.Ukrainian);
                     //if( parentId == 0 )
                     //    parentId = n;
                     //else
