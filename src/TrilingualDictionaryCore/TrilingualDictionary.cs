@@ -134,11 +134,11 @@ namespace TrilingualDictionaryCore
            // GetConception(conceptionId).ChangeDescription(word, languageId);
         }
 
-        public void RemoveDescriptionFromConception(int conceptionId, LanguageId languageId)
+        public void RemoveDescriptionFromConception(int conceptionId, string descriptionText, LanguageId languageId)
         {
             Conception handledConception = GetConception(conceptionId);
-            //todo:
-            //handledConception.RemoveDescription(languageId);
+
+            handledConception.RemoveDescription(languageId, descriptionText);
 
             if (handledConception.DescriptionsCount == 0)
                 RemoveConception(conceptionId);
@@ -150,8 +150,8 @@ namespace TrilingualDictionaryCore
             {
                 if (m_Dictionary.Keys.Contains(conceptionId))
                 {
-                    m_AvailableIds.Add(conceptionId, 0);
                     m_Dictionary.Remove(conceptionId);
+                    m_AvailableIds.Add(conceptionId, 0);
                 }
             }
         }
@@ -245,6 +245,25 @@ namespace TrilingualDictionaryCore
                 if (conception.Value.ParentId != 0)
                     conception.Value.ParentConception = m_Dictionary[conception.Value.ParentId];
             }
+        }
+
+        void SplitConception(Conception conception)
+        {
+
+        }
+
+        void MergeConceptions(Conception conception1, Conception conception2)
+        {
+            foreach (LanguageId langId in Enum.GetValues(typeof(LanguageId)))
+            {
+                List<ConceptionDescription> descs = conception2.GetAllConceptionDescriptions(langId);
+                foreach(ConceptionDescription desc in descs)
+                {
+                    conception1.AddDescription(desc, langId);
+                }                
+            }
+
+            RemoveConception(conception2.ConceptionId);
         }
     }
 

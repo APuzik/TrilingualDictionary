@@ -53,7 +53,6 @@ namespace TrilingualDictionaryViewModel
         {
             ConceptionViewModel conception = item as ConceptionViewModel;
             return conception.Conception.IsPotentialUndefinded();
-
         }
 
         private Conception m_Conception = null;

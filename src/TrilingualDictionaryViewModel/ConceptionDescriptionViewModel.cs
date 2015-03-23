@@ -50,10 +50,12 @@ namespace TrilingualDictionaryViewModel
         };
 
         private ConceptionDescription m_Description;
+        private bool m_isDecriptionMatchesLanguage;
 
-        public ConceptionDescriptionViewModel(ConceptionDescription desc)
+        public ConceptionDescriptionViewModel(ConceptionDescription desc, bool isDecriptionMatchesLanguage)
         {            
             m_Description = desc;
+            m_isDecriptionMatchesLanguage = isDecriptionMatchesLanguage;
         }
         public ConceptionDescription ObjectDescription
         {
@@ -65,9 +67,28 @@ namespace TrilingualDictionaryViewModel
             get { return m_Description.ConceptionRegistryDescription; }
         }
 
+        public bool IsDescriptionMatchesLanguage
+        {
+            get { return m_isDecriptionMatchesLanguage; }
+        }
+
         public string RegistryDescriptionWoAccent
         {
             get { return m_Description.ConceptionRegistryDescriptionWoAccents; }
+        }
+
+        public static bool BracketsrFilter(object item)
+        {
+            ConceptionDescriptionViewModel conceptionDescription = item as ConceptionDescriptionViewModel;
+
+            return conceptionDescription.ObjectDescription.OwnConception.IsPotentialUndefinded();
+        }
+
+        public static bool SameDescriptionsFilter(object item)
+        {
+            ConceptionDescriptionViewModel conceptionDescription = item as ConceptionDescriptionViewModel;
+
+            return conceptionDescription.ObjectDescription.OwnConception.IsPotentialUndefinded();
         }
     }
 }

@@ -80,7 +80,22 @@ namespace TrilingualDictionaryCore
             }
             else
                 throw new TriLingException(string.Format("Description for language {0} already exists", languageId));
+        }
 
+        internal void AddDescription(ConceptionDescription desc, LanguageId languageId)
+        {
+            if (!m_Descriptions.ContainsKey(languageId))
+            {
+                m_Descriptions.Add(languageId, new List<ConceptionDescription>());
+            }
+
+            if (!m_Descriptions[languageId].Exists(x => x.ConceptionRegistryDescription == desc.ConceptionRegistryDescription))
+            {
+                desc.DescriptionId = m_Descriptions[languageId].Count + 1;
+                m_Descriptions[languageId].Add(desc);
+            }
+            //else
+            //    throw new TriLingException(string.Format("Description for language {0} already exists", languageId));
         }
 
         internal void ChangeDescription(string word, LanguageId languageId, int indexDescription)
@@ -131,9 +146,22 @@ namespace TrilingualDictionaryCore
             set { m_ConceptionId = value; }
         }
 
+        public int GetDescriptionsCount(LanguageId langId)
+        {
+            if (!m_Descriptions.ContainsKey(langId))
+                return 0;
+            return m_Descriptions[langId].Count;
+        }
+
         public int DescriptionsCount
         {
-            get { return m_Descriptions.Count; }
+            get
+            {
+                int sum = 0;
+                foreach (List<ConceptionDescription> descs in m_Descriptions.Values)
+                    sum += descs.Count;
+                return sum;
+            }
         }
 
         public bool FindWithAccent(string textToSearch, LanguageId language)
@@ -206,7 +234,8 @@ namespace TrilingualDictionaryCore
             if (!string.IsNullOrWhiteSpace(isHumanHandled))
                 conception.IsHumanHandled = bool.Parse(isHumanHandled);
 
-            int descriptionId = 1;
+            //int descriptionId = 1;
+            Dictionary<LanguageId, int> descIds = new Dictionary<LanguageId, int>();
             while (reader.Read())
             {
                 switch (reader.Name)
@@ -215,19 +244,26 @@ namespace TrilingualDictionaryCore
                         if (reader.NodeType == XmlNodeType.Element)
                         {
                             ConceptionDescription desc = ConceptionDescription.Create(reader, conception);
+                            string sLangId = reader["LanguageId"];
+                            LanguageId langId = (LanguageId)Enum.Parse(typeof(LanguageId), sLangId);
+                            if(!descIds.ContainsKey(langId))                            
+                            {
+                                descIds.Add(langId, 1);
+                            }
+
                             string descId = reader["DescriptionId"];
                             if (string.IsNullOrEmpty(descId))
                             {
-                                desc.DescriptionId = descriptionId;
+                                desc.DescriptionId = descIds[langId];
                             }
                             else 
                             {
                                 desc.DescriptionId = Int32.Parse(descId);
                             }
-                            descriptionId = desc.DescriptionId + 1;
+                            
+                            descIds[langId] = desc.DescriptionId + 1;
 
-                            string langId = reader["LanguageId"];
-                            conception.AddDescription(desc, (LanguageId)Enum.Parse(typeof(LanguageId), langId));
+                            conception.AddDescription(desc, langId);
                         }
                         break;
                     case "Descriptions":
@@ -240,15 +276,15 @@ namespace TrilingualDictionaryCore
             return conception;
         }
 
-        private void AddDescription(ConceptionDescription desc, LanguageId languageId)
-        {
-            if (!m_Descriptions.ContainsKey(languageId))
-            {
-                m_Descriptions.Add(languageId, new List<ConceptionDescription>());
-            }
+        //private void AddDescription(ConceptionDescription desc, LanguageId languageId)
+        //{
+        //    if (!m_Descriptions.ContainsKey(languageId))
+        //    {
+        //        m_Descriptions.Add(languageId, new List<ConceptionDescription>());
+        //    }
                 
-            m_Descriptions[languageId].Add(desc);
-        }
+        //    m_Descriptions[languageId].Add(desc);
+        //}
 
         public string GetParentNameForSorting(LanguageId languageId)
         {

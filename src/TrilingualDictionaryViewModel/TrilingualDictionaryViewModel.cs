@@ -12,7 +12,7 @@ namespace TrilingualDictionaryViewModel
     public class TrilingualDictionaryViewModel
     {
         private const string m_DictionaryXmlFile = "dict.xml";
-        private ObservableCollection<ConceptionViewModel> m_Conceptions = new ObservableCollection<ConceptionViewModel>();
+        //private ObservableCollection<ConceptionViewModel> m_Conceptions = new ObservableCollection<ConceptionViewModel>();
         private ObservableCollection<ConceptionDescriptionViewModel> m_CurLangDescriptions = new ObservableCollection<ConceptionDescriptionViewModel>();
         private TrilingualDictionary m_Dictionary = new TrilingualDictionary();
         string m_DictionaryDataFolder = "";
@@ -22,11 +22,30 @@ namespace TrilingualDictionaryViewModel
             m_DictionaryDataFolder = dictionaryDataFolder;
             //m_Dictionary.Load(m_DictionaryDataFolder);
             m_Dictionary.SerializeFromXML(Path.Combine(m_DictionaryDataFolder, m_DictionaryXmlFile));
-            m_Dictionary.SerializeToXML(Path.Combine(m_DictionaryDataFolder, m_DictionaryXmlFile + ".xml"));
+            m_Dictionary.SerializeToXML(Path.Combine(m_DictionaryDataFolder, m_DictionaryXmlFile));// + ".xml"));
 
+            LoadAllDescriptions();
+        }
+
+        public void LoadAllDescriptions()
+        {
             foreach (Conception conception in m_Dictionary.Conceptions)
             {
-                m_Conceptions.Add(new ConceptionViewModel(conception));
+                bool isLangMatches = true;
+                List<ConceptionDescription> descs = conception.GetAllConceptionDescriptions(MainLanguage);
+                if (descs.Count == 0)
+                {
+                    isLangMatches = false;
+                    foreach (LanguageId langId in Enum.GetValues(typeof(LanguageId)))
+                    {
+                        descs = conception.GetAllConceptionDescriptions(langId);
+                        if (descs.Count > 0)
+                            break;
+                    }
+                }
+
+                foreach (ConceptionDescription desc in descs)
+                    m_CurLangDescriptions.Add(new ConceptionDescriptionViewModel(desc, isLangMatches));
             }
         }
 
@@ -35,30 +54,28 @@ namespace TrilingualDictionaryViewModel
             get { return m_CurLangDescriptions; }
         }
 
-        public ObservableCollection<ConceptionViewModel> Conceptions
-        {
-            get { return m_Conceptions; }
-        }
-
         public LanguageId MainLanguage
         {
             get { return ConceptionViewModel.MainLanguage; }
             set 
             {
+                ConceptionViewModel.MainLanguage = value;
+                m_CurLangDescriptions.Clear();
+                LoadAllDescriptions();
                 //if (value != ConceptionViewModel.MainLanguage)
-                {
-                    ConceptionViewModel.MainLanguage = value;
-                    m_CurLangDescriptions.Clear();
-                    foreach (Conception conception in m_Dictionary.Conceptions)
-                    {
-                        List<ConceptionDescription> descriptions = conception.GetAllConceptionDescriptions(ConceptionViewModel.MainLanguage);
-                        foreach (ConceptionDescription desc in descriptions)
-                        {
-                            m_CurLangDescriptions.Add(new ConceptionDescriptionViewModel(desc));
-                        }
-                    }
+                //{
+                //    ConceptionViewModel.MainLanguage = value;
+                //    m_CurLangDescriptions.Clear();
+                //    foreach (Conception conception in m_Dictionary.Conceptions)
+                //    {
+                //        List<ConceptionDescription> descriptions = conception.GetAllConceptionDescriptions(ConceptionViewModel.MainLanguage);
+                //        foreach (ConceptionDescription desc in descriptions)
+                //        {
+                //            m_CurLangDescriptions.Add(new ConceptionDescriptionViewModel(desc));
+                //        }
+                //    }
                     
-                }
+                //}
             }
         }
 
@@ -74,16 +91,18 @@ namespace TrilingualDictionaryViewModel
             Save();
         }
 
-        public void RemoveDescriptionFromConception(int conceptionId, LanguageId languageId)
+        public void RemoveDescriptionFromConception(int conceptionId, string descriptionText, LanguageId languageId)
         {
-            m_Dictionary.RemoveDescriptionFromConception(conceptionId, languageId);
+            m_Dictionary.RemoveDescriptionFromConception(conceptionId, descriptionText, languageId);
             Save();
         }
 
         public int AddConception(string textDescription, LanguageId languageId)
         {
             int newConceptionId = m_Dictionary.AddConception(textDescription, languageId);
-            m_Conceptions.Add(new ConceptionViewModel(m_Dictionary.GetConception(newConceptionId)));
+            Conception conception = m_Dictionary.GetConception(newConceptionId);
+
+            m_CurLangDescriptions.Add(new ConceptionDescriptionViewModel(conception.GetConceptionDescription(MainLanguage, conception.GetDescriptionsCount(MainLanguage)), true));
 
             return newConceptionId;
         }
@@ -98,16 +117,16 @@ namespace TrilingualDictionaryViewModel
             m_Dictionary.SerializeToXML(Path.Combine(m_DictionaryDataFolder, m_DictionaryXmlFile));
         }
 
-        public void RemoveConception(ConceptionViewModel conception)
+        public void RemoveConception(ConceptionDescriptionViewModel conceptionDesc)
         {
-            m_Conceptions.Remove(conception);
-            m_Dictionary.RemoveConception(conception.ConceptionId);
+            m_CurLangDescriptions.Remove(conceptionDesc);
+            m_Dictionary.RemoveConception(conceptionDesc.ObjectDescription.OwnConception.ConceptionId);
             Save();
         }
 
         public void Refresh()
         {
-            CollectionViewSource.GetDefaultView(m_Conceptions).Refresh();
+            CollectionViewSource.GetDefaultView(m_CurLangDescriptions).Refresh();
         }
 
     }

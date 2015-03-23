@@ -227,11 +227,13 @@ namespace TrilingualDictionaryCoreTest
             m_Dictionary.AddDescriptionToConception(conceptionId, wordEng, languageIdEng);            
             Assert.AreEqual(expected, m_Dictionary.ConceptionsCount);
 
-            m_Dictionary.RemoveDescriptionFromConception(conceptionId, languageIdEng);
+            m_Dictionary.RemoveDescriptionFromConception(conceptionId, wordEng, languageIdEng);
             Assert.AreEqual(expected, m_Dictionary.ConceptionsCount);
 
             expected = 0;
-            m_Dictionary.RemoveDescriptionFromConception(conceptionId, languageIdRus);
+            m_Dictionary.RemoveDescriptionFromConception(conceptionId,
+                    m_Dictionary.GetConception(conceptionId).GetConceptionDescription(LanguageId.Russian, 0).ConceptionRegistryDescription,
+                    languageIdRus);
             Assert.AreEqual(expected, m_Dictionary.ConceptionsCount);
         }
 
@@ -249,7 +251,7 @@ namespace TrilingualDictionaryCoreTest
             Assert.AreEqual(expected, m_Dictionary.ConceptionsCount);
 
             int nonExistingConceptionId = 2;
-            m_Dictionary.RemoveDescriptionFromConception(nonExistingConceptionId, languageIdEng);
+            m_Dictionary.RemoveDescriptionFromConception(nonExistingConceptionId, "test", languageIdEng);
         }
 
         /// <summary>
