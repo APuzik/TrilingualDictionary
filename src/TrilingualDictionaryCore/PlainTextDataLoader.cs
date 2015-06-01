@@ -97,9 +97,10 @@ namespace TrilingualDictionaryCore
                             linkPart = linkPart.Trim();
                             if (conPrev != null)
                             {
-                                List<ConceptionDescription> descs = conPrev.GetAllConceptionDescriptions(LanguageId.Russian);
-                                foreach( ConceptionDescription desc in descs)
-                                    desc.Link = linkPart;
+                                conPrev.Link = linkPart;
+                                //List<ConceptionDescription> descs = conPrev.GetAllConceptionDescriptions(LanguageId.Russian);
+                                //foreach( ConceptionDescription desc in descs)
+                                //    desc.Link = linkPart;
                                 continue;
                             }
                         }
@@ -151,9 +152,11 @@ namespace TrilingualDictionaryCore
                             m_Dictionary.AddDescriptionToConception(n, clearUkr, LanguageId.Ukrainian);
 
                             Conception conception = m_Dictionary.GetConception(n);
-                            conception.GetConceptionDescription(LanguageId.Russian, 0).Topic = topicPart;
-                            conception.GetConceptionDescription(LanguageId.Russian, 0).Semantic = topicPartEx;
-                            conception.GetConceptionDescription(LanguageId.Russian, 0).Link = linkPart;
+                            //conception.GetConceptionDescription(LanguageId.Russian, 0).Topic = topicPart;
+                            //conception.GetConceptionDescription(LanguageId.Russian, 0).Semantic = topicPartEx;
+                            conception.Topic = topicPart;
+                            conception.Semantic = topicPartEx;
+                            conception.Link = linkPart;
 
                             List<ConceptionDescription> descs = conception.GetAllConceptionDescriptions(LanguageId.Ukrainian);
 

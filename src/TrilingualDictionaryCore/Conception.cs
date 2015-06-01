@@ -5,12 +5,16 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Xml;
 using System.Collections;
+using System.Data.SqlClient;
+using System.Data;
+using System.Data.SqlServerCe;
 
 
 namespace TrilingualDictionaryCore
 {
     public enum LanguageId
     {
+        Undefined = -1,
         Russian = 0,
         English,
         Ukrainian
@@ -43,11 +47,14 @@ namespace TrilingualDictionaryCore
     };
 
     public class Conception
-    {    
+    {
         private int m_ConceptionId;
         private Dictionary<LanguageId, List<ConceptionDescription>> m_Descriptions = new Dictionary<LanguageId, List<ConceptionDescription>>();
 
-        private string m_ConceptionTopic;
+        private string m_Topic;
+        private string m_Semantic;
+        private string m_Link;
+
         private int m_ConceptionParentId = 0;
         private Conception m_ParentConception = null;
 
@@ -58,13 +65,31 @@ namespace TrilingualDictionaryCore
             IsHumanHandled = false;
         }
 
+        public string Topic
+        {
+            get { return m_Topic; }
+            set { m_Topic = value; }
+        }
+
+        public string Semantic
+        {
+            get { return m_Semantic; }
+            set { m_Semantic = value; }
+        }
+
+        public string Link
+        {
+            get { return m_Link; }
+            set { m_Link = value; }
+        }
+
         public Conception(int conceptionId, string word, LanguageId languageId)
         {
             m_ConceptionId = conceptionId;
             m_ConceptionParentId = 0;
             AddDescription(word, languageId);
         }
-
+        
         internal void AddDescription(string word, LanguageId languageId)
         {
             if (!m_Descriptions.ContainsKey(languageId))
@@ -78,8 +103,8 @@ namespace TrilingualDictionaryCore
                 newDescription.DescriptionId = m_Descriptions[languageId].Count + 1;
                 m_Descriptions[languageId].Add(newDescription);
             }
-            else
-                throw new TriLingException(string.Format("Description for language {0} already exists", languageId));
+            //else
+            //    throw new TriLingException(string.Format("Description for language {0} already exists", languageId));
         }
 
         internal void AddDescription(ConceptionDescription desc, LanguageId languageId)
@@ -110,6 +135,18 @@ namespace TrilingualDictionaryCore
             }
         }
 
+        internal void ChangeDescription(string word, LanguageId languageId, string textOld)
+        {
+            try
+            {
+                GetConceptionDescription(languageId, textOld).ChangeDescription(word);
+            }
+            catch
+            {
+                throw;
+            }
+        }
+
         internal void RemoveDescription(LanguageId languageId, int indexDescription)
         {
             if (indexDescription >= 0 && indexDescription < m_Descriptions[languageId].Count)
@@ -130,9 +167,17 @@ namespace TrilingualDictionaryCore
                 throw new TriLingException(string.Format("Description for language {0} is absent", languageId.ToString()));
         }
 
-        public ConceptionDescription GetConceptionDescriptionOrEmpty(LanguageId languageId, int indexDescription)
+        public ConceptionDescription GetConceptionDescription(LanguageId languageId, string text)
         {
             if (m_Descriptions.ContainsKey(languageId))
+                return m_Descriptions[languageId].Find( x => string.Compare(x.ConceptionRegistryDescription, text, true) == 0);
+            else
+                throw new TriLingException(string.Format("Description for language {0} is absent", languageId.ToString()));
+        }
+
+        public ConceptionDescription GetConceptionDescriptionOrEmpty(LanguageId languageId, int indexDescription)
+        {
+            if (m_Descriptions.ContainsKey(languageId) && indexDescription < m_Descriptions[languageId].Count)
                 return m_Descriptions[languageId][indexDescription];
             else
                 return new ConceptionDescription(this, "");
@@ -209,22 +254,263 @@ namespace TrilingualDictionaryCore
             if (IsHumanHandled)
                 writer.WriteAttributeString("IsHumanHandled", IsHumanHandled.ToString());
 
+            if (!string.IsNullOrWhiteSpace(Topic))
+                writer.WriteAttributeString("Topic", Topic);
+            if (!string.IsNullOrWhiteSpace(Semantic))
+                writer.WriteAttributeString("Semantic", Semantic);
+            if (!string.IsNullOrWhiteSpace(Link))
+                writer.WriteAttributeString("Link", Link);
+
             writer.WriteStartElement("Descriptions");
             foreach (KeyValuePair<LanguageId, List<ConceptionDescription>> decription in m_Descriptions)
             {
-                writer.WriteStartElement("Description");
-                writer.WriteAttributeString("LanguageId", decription.Key.ToString());
                 foreach(ConceptionDescription desc in decription.Value)
+                {
+                    writer.WriteStartElement("Description");
+                    writer.WriteAttributeString("LanguageId", decription.Key.ToString());
                     desc.SaveDescription(writer);
-                writer.WriteEndElement();
+                    writer.WriteEndElement();
+                }                
             }
             writer.WriteEndElement();
+        }
+
+        public void SaveConception(SqlCeConnection conn)
+        {
+            if (IsConceptionExsists(conn))
+                UpdateConception(conn);
+            else
+                InsertConception(conn);
+        }
+
+        private void UpdateConception(SqlCeConnection conn)
+        {
+            UpdateConceptionData(conn);
+            SaveDescriptions(conn);
+        }
+
+        public void InsertConception(SqlCeConnection conn)
+        {
+            InsertConceptionData(conn);
+            SaveDescriptions(conn);
+        }
+
+        private void UpdateConceptionData(SqlCeConnection conn)
+        {
+            int idTopic = SaveTopic(this.Topic, conn);
+            int idSemantic = SaveSemantic(this.Semantic, conn);
+
+            //string query = "UPDATE Conception SET Id=@ID, ParentId=@ParentId, Topic=@Topic, Semantic=@Semantic";
+            string query = "UPDATE Conception SET ParentId=@ParentId, Topic=@Topic, Semantic=@Semantic";
+
+            SqlCeCommand cmd = new SqlCeCommand(query);
+            cmd.Connection = conn;
+
+            CreateCommandParams(idTopic, idSemantic, cmd);
+
+            cmd.ExecuteNonQuery();
+        }
+
+        public void InsertConceptionData(SqlCeConnection conn)
+        {
+            int idTopic = SaveTopic(this.Topic, conn);
+            int idSemantic = SaveSemantic(this.Semantic, conn);
+
+            //string query = "INSERT INTO Conception(Id, ParentId, Topic, Semantic) VALUES(@ID, @ParentId, @Topic, @Semantic)";
+            string query = "INSERT INTO Conception(ParentId, Topic, Semantic) VALUES(@ParentId, @Topic, @Semantic)";
+
+            SqlCeCommand cmd = new SqlCeCommand(query);
+            cmd.Connection = conn;
+
+            CreateCommandParams(idTopic, idSemantic, cmd);
+
+            cmd.ExecuteNonQuery();
+        }
+
+        private void CreateCommandParams(int idTopic, int idSemantic, SqlCeCommand cmd)
+        {
+            //cmd.Parameters.Add("@ID", SqlDbType.Int);
+            cmd.Parameters.Add("@ParentId", SqlDbType.Int);
+            cmd.Parameters.Add("@Topic", SqlDbType.Int);
+            cmd.Parameters.Add("@Semantic", SqlDbType.Int);
+
+            //cmd.Parameters["@ID"].Value = this.ConceptionId;
+            cmd.Parameters["@ParentId"].Value = this.ParentId;
+            cmd.Parameters["@Topic"].Value = (idTopic == 0 ? DBNull.Value : (object)idTopic);
+            cmd.Parameters["@Semantic"].Value = (idSemantic == 0 ? DBNull.Value : (object)idSemantic);
+        }
+
+        private void SaveDescriptions(SqlCeConnection conn)
+        {
+            foreach (KeyValuePair<LanguageId, List<ConceptionDescription>> decription in m_Descriptions)
+            {
+                foreach (ConceptionDescription desc in decription.Value)
+                {
+                    desc.SaveDescription(conn, decription.Key);
+                }
+            }
+        }
+
+        private bool IsConceptionExsists(SqlCeConnection conn)
+        {
+            if (m_ConceptionId == 0)
+                return false;
+
+            string query = string.Format("SELECT Id FROM Conception WHERE Id={0}", m_ConceptionId);
+
+            SqlCeCommand cmd = new SqlCeCommand(query);
+            cmd.Connection = conn;
+
+            SqlCeDataReader reader = cmd.ExecuteReader();//CommandBehavior.CloseConnection);
+            if (reader.Read())
+            {
+                return true;
+            }
+
+            return false;
+        }
+                
+        private int SaveSemantic(string semDescription, SqlCeConnection conn)
+        {
+            if (string.IsNullOrEmpty(semDescription))
+                return 0;
+
+            int semId = GetSemanticByLang(semDescription, LanguageId.Russian, conn);
+            if (semId == 0)
+                semId = InsertSemantic(semDescription, LanguageId.Russian, conn);
+
+            return semId;
+        }
+
+        private int InsertSemantic(string semDescription, LanguageId languageId, SqlCeConnection conn)
+        {
+            string query = "INSERT INTO Semantic (DefaultName) VALUES(NULL)";//(Id) VALUES(@ID)";
+
+            SqlCeCommand cmd = new SqlCeCommand(query);
+            cmd.Connection = conn;        
+
+            cmd.ExecuteNonQuery();
+
+            query = "SELECT @@IDENTITY;";//SCOPE_IDENTITY();";
+
+            cmd = new SqlCeCommand(query);
+            cmd.Connection = conn;
+
+            var id = cmd.ExecuteScalar();
+
+            int semId = Convert.ToInt32(id);
+
+            if (semId != 0)
+            {
+                query = "INSERT INTO SemanticTranslation (SemId, LangForId, Translation) VALUES(@SemanticId, @Langid, @Translation)";
+
+                cmd = new SqlCeCommand(query);
+                cmd.Connection = conn;
+
+                cmd.Parameters.Add("@SemanticId", SqlDbType.Int);
+                cmd.Parameters.Add("@Langid", SqlDbType.Int);
+                cmd.Parameters.Add("@Translation", SqlDbType.NVarChar, 100);
+
+                cmd.Parameters["@SemanticId"].Value = semId;
+                cmd.Parameters["@Langid"].Value = (int)languageId + 1;
+                cmd.Parameters["@Translation"].Value = semDescription;
+
+                cmd.ExecuteNonQuery();
+            }
+            return semId;
+
+        }
+
+        private int GetSemanticByLang(string semDescription, LanguageId languageId, SqlCeConnection conn)
+        {
+            string query = string.Format("SELECT SemId FROM SemanticTranslation WHERE LangForId={0} AND Translation='{1}'", (int)languageId + 1, semDescription);
+
+            SqlCeCommand cmd = new SqlCeCommand(query);
+            cmd.Connection = conn;
+
+            SqlCeDataReader reader = cmd.ExecuteReader();//CommandBehavior.CloseConnection);
+            if (reader.Read())
+            {
+                return (int)reader[0];
+            }
+
+            return 0;
+        }
+
+        private int SaveTopic(string topicDescription, SqlCeConnection conn)
+        {
+            if (string.IsNullOrEmpty(topicDescription))
+                return 0;
+
+            int topicId = GetTopicByLang(topicDescription, LanguageId.Russian, conn);
+            if (topicId == 0)
+                topicId = InsertTopic(topicDescription, LanguageId.Russian, conn);
+
+            return topicId;
+        }
+
+        private int InsertTopic(string topicDescription, LanguageId languageId, SqlCeConnection conn)
+        {
+            string query = "INSERT INTO Topic (DefaultName) VALUES(NULL)";
+
+            SqlCeCommand cmd = new SqlCeCommand(query);
+            cmd.Connection = conn;
+
+            cmd.ExecuteNonQuery();
+
+            query = "SELECT @@IDENTITY;";//SCOPE_IDENTITY()";
+
+            cmd = new SqlCeCommand(query);
+            cmd.Connection = conn;
+
+            var id = cmd.ExecuteScalar();
+
+            int topicId = Convert.ToInt32(id);
+
+            if (topicId != 0)
+            {
+                query = "INSERT INTO TopicTranslation (TopicId, LangIdFor, Translation) VALUES(@TopicId, @Langid, @Translation)";
+
+                cmd = new SqlCeCommand(query);
+                cmd.Connection = conn;
+
+                cmd.Parameters.Add("@TopicId", SqlDbType.Int);
+                cmd.Parameters.Add("@Langid", SqlDbType.Int);
+                cmd.Parameters.Add("@Translation", SqlDbType.NVarChar, 100);
+
+                cmd.Parameters["@TopicId"].Value = topicId;
+                cmd.Parameters["@Langid"].Value = (int)languageId + 1;
+                cmd.Parameters["@Translation"].Value = topicDescription;
+
+                cmd.ExecuteNonQuery();
+            }
+            return topicId;
+        }
+
+        private int GetTopicByLang(string topicDescription, LanguageId languageId, SqlCeConnection conn)
+        {
+            string query = string.Format("SELECT TopicId FROM TopicTranslation WHERE LangIdFor={0} AND Translation='{1}'", (int)languageId + 1, topicDescription);
+
+            SqlCeCommand cmd = new SqlCeCommand(query);
+            cmd.Connection = conn;
+
+            SqlCeDataReader reader = cmd.ExecuteReader();//CommandBehavior.CloseConnection);
+            if (reader.Read())
+            {
+                return (int)reader[0];
+            }
+
+            return 0;
         }
 
         internal static Conception Create(XmlReader reader)
         {
             string id = reader["Id"];
             int i = Int32.Parse(id);
+            if(i  == 55)
+            {
+                int qq = 1;
+            }
             Conception conception = new Conception(i);
             string parentId = reader["ParentId"];
             if (!string.IsNullOrWhiteSpace(parentId))
@@ -233,6 +519,10 @@ namespace TrilingualDictionaryCore
             string isHumanHandled = reader["IsHumanHandled"];
             if (!string.IsNullOrWhiteSpace(isHumanHandled))
                 conception.IsHumanHandled = bool.Parse(isHumanHandled);
+
+            conception.Topic = ConceptionDescription.GetXmlAttribute(reader, "Topic");
+            conception.Semantic = ConceptionDescription.GetXmlAttribute(reader, "Semantic");
+            conception.Link = ConceptionDescription.GetXmlAttribute(reader, "Link");
 
             //int descriptionId = 1;
             Dictionary<LanguageId, int> descIds = new Dictionary<LanguageId, int>();
@@ -289,8 +579,8 @@ namespace TrilingualDictionaryCore
         public string GetParentNameForSorting(LanguageId languageId)
         {
             //todo:
-            //if (ParentConception != null)
-            //    return ParentConception.GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
+            if (ParentConception != null)
+                return ParentConception.GetConceptionDescriptionOrEmpty(languageId, 0).ConceptionSortDescription;
             //else
             //{
             //    return GetConceptionDescriptionOrEmpty(languageId).ConceptionSortDescription;
@@ -334,6 +624,54 @@ namespace TrilingualDictionaryCore
             if (m_Descriptions.ContainsKey(languageId))
                 return m_Descriptions[languageId];
             return new List<ConceptionDescription>();
+        }
+
+        public List<ConceptionDescription> GetAnyDescriptions()
+        {
+            foreach (LanguageId langId in Enum.GetValues(typeof(LanguageId)))
+            {
+                if (langId == LanguageId.Undefined)
+                    continue;
+
+                List<ConceptionDescription> descs = GetAllConceptionDescriptions(langId);
+                if (descs.Count > 0)
+                    return descs;
+            }
+
+            return new List<ConceptionDescription>();
+        }
+
+        public ConceptionDescription ConceptionDescription
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
+
+        internal TopicTranslation TopicTranslation
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
+
+        internal SemanticTranslation SemanticTranslation
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
         }
     }
 }

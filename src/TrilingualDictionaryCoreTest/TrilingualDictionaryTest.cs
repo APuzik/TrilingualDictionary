@@ -166,7 +166,7 @@ namespace TrilingualDictionaryCoreTest
 
             string word = "Генерато2";
             LanguageId languageIdEng = LanguageId.Russian;
-            m_Dictionary.ChangeDescriptionOfConception(conceptionId, word, languageIdEng);
+            m_Dictionary.ChangeDescriptionOfConception(conceptionId, word, languageIdEng, 0);
 
             int expected = 1;
             Assert.AreEqual(expected, m_Dictionary.ConceptionsCount);             
@@ -181,7 +181,7 @@ namespace TrilingualDictionaryCoreTest
             string word = "Генерато2";
             LanguageId languageIdEng = LanguageId.Russian;
             int nonExistingConceptionId = 2;
-            m_Dictionary.ChangeDescriptionOfConception(nonExistingConceptionId, word, languageIdEng);
+            m_Dictionary.ChangeDescriptionOfConception(nonExistingConceptionId, word, languageIdEng, 0);
         }
 
         /// <summary>

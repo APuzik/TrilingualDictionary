@@ -1,0 +1,50 @@
+﻿<Window x:Class="TrilingualUI.AddConception"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Добавить термин" Height="707.597" Width="902" MinWidth="964" MinHeight="600">
+    <Grid>
+        <Grid Height="554" VerticalAlignment="Bottom">
+            <Label Content="Выберите язык" Height="24" HorizontalAlignment="Left" Margin="10,2,0,0" Name="label4" VerticalAlignment="Top" />
+            <ComboBox Height="23" HorizontalAlignment="Left" Margin="10,30,0,0" Name="cmbChangeforEdit" SelectedIndex="0" VerticalAlignment="Top" Width="120" SelectionChanged="cmbChangeforEdit_SelectionChanged">
+                <ComboBoxItem Content="Русский" />
+                <ComboBoxItem Content="English" />
+                <ComboBoxItem Content="Українська" />
+            </ComboBox>
+            <Label Content="Введите описание" Height="24" HorizontalAlignment="Left" Margin="145,0,0,0" Name="label5" VerticalAlignment="Top" />
+            <TextBox Margin="145,24,181,6" Name="txtEditDescription" />
+            <Button Content="Добавить описание" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="10,0,0,100" Name="btnAddDescription" VerticalAlignment="Bottom" Width="120" Click="btnAddDescription_Click" />
+            <Button Content="Изменить описание" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="10,0,0,59" Name="btnChangeDescription" VerticalAlignment="Bottom" Width="120" Click="btnChangeDescription_Click" />
+            <Button Content="Удалить описание" IsEnabled="false" Height="23" HorizontalAlignment="Left" Margin="10,0,0,17" Name="btnRemoveDescription" VerticalAlignment="Bottom" Width="120" Click="btnRemoveDescription_Click" />
+            <Button Content="Готово" Height="23" Margin="0,0,35,17" Name="btnReady" VerticalAlignment="Bottom" Click="btnReady_Click" HorizontalAlignment="Right" Width="107" />
+            <TextBox Height="23" Margin="0,24,6,0" Name="txtTopic" VerticalAlignment="Top" HorizontalAlignment="Right" Width="169" />
+            <Label Content="Тема" Height="24" HorizontalAlignment="Right" Margin="0,0,136,0" Name="label6" VerticalAlignment="Top" />
+            <TextBox Height="23" Margin="0,62,6,0" Name="txtSemantic" VerticalAlignment="Top" HorizontalAlignment="Right" Width="169" />
+            <Label Content="Семантика" Margin="0,41,103,0" Name="label7" Height="24" VerticalAlignment="Top" HorizontalAlignment="Right" Width="69" />
+            <TextBox Height="23" HorizontalAlignment="Right" Margin="0,105,6,0" Name="txtChangable" VerticalAlignment="Top" Width="169" />
+            <Label Content="Изменяемая часть" Height="24" Margin="0,83,63,0" Name="label8" VerticalAlignment="Top" HorizontalAlignment="Right" Width="112" />
+            <TextBox Height="23" HorizontalAlignment="Right" Margin="0,200,6,0" Name="txtLangPart" VerticalAlignment="Top" Width="169" />
+            <Label Content="Часть речи" Height="24" Margin="0,178,104,0" Name="label9" VerticalAlignment="Top" HorizontalAlignment="Right" Width="71" />
+            <TextBox Height="23" HorizontalAlignment="Right" Margin="0,160,6,0" Name="txtChangableType" VerticalAlignment="Top" Width="169" />
+            <Label Content="Тип изменяемой части" HorizontalAlignment="Right" Margin="0,134,8,0" Name="label10" Width="167" Height="29" VerticalAlignment="Top" DataContext="{Binding}" />
+            <TextBox Height="23" HorizontalAlignment="Right" Margin="0,248,4,0" Name="txtLink" VerticalAlignment="Top" Width="169" />
+            <Label Content="см. еще" HorizontalAlignment="Right" Margin="0,226,102,0" Name="label11" Width="71" Height="24" VerticalAlignment="Top" />
+            <CheckBox Content="Обработано" Height="16" HorizontalAlignment="Left" Margin="15,105,0,0" Name="chkHumanHandled" VerticalAlignment="Top" Width="115" Click="ChkHumanHandled_OnClick"/>
+        </Grid>
+        <ComboBox Name="cmbParents" HorizontalAlignment="Left" Margin="10,56,0,0" VerticalAlignment="Top" Width="292">
+            <ComboBoxItem Content="" />
+            <ComboBoxItem Content="аббревиату#ра" />
+            <ComboBoxItem Content="аберрацио#нный" />
+            <ComboBoxItem Content="аберра#ция" />
+            <ComboBoxItem Content="абля#ция" />
+            <ComboBoxItem Content="абсолю#тный" />
+            <ComboBoxItem Content="абсорбе#нт" />
+            <ComboBoxItem Content="абсорби#рующий" />
+            <ComboBoxItem Content="абсорбцио#нный" />
+            <ComboBoxItem Content="абсо#рбция" />
+            <ComboBoxItem Content="абстраги#рование" />
+            <ComboBoxItem Content="абсци#сса" />
+            <ComboBoxItem Content="авари#йность" />
+        </ComboBox>
+        <Label Content="Родительский термин" HorizontalAlignment="Left" Margin="10,25,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

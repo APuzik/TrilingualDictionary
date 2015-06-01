@@ -7,15 +7,61 @@ using System.Text.RegularExpressions;
 using System.Collections;
 using System.Xml.Serialization;
 using System.Xml;
+using System.Data.SqlClient;
+using System.Data;
+using System.Data.SqlServerCe;
 
 namespace TrilingualDictionaryCore
 {
     public class TrilingualDictionary
     {
         private int m_LastId = 0;
+        private List<LanguageId> m_Languages = new List<LanguageId>();
+
+        private List<Conception> m_AllConceptions = new List<Conception>();
+        private Dictionary<LanguageId, List<ConceptionDescription>> m_AllDescriptions = new Dictionary<LanguageId,List<ConceptionDescription>>();
+
+        private Dictionary<LanguageId, List<TopicTranslation>> m_AllTopics = new Dictionary<LanguageId, List<TopicTranslation>>();
+        private Dictionary<LanguageId, List<SemanticTranslation>> m_AllSemantics = new Dictionary<LanguageId, List<SemanticTranslation>>();
+        private Dictionary<LanguageId, List<PartOfSpeechTranslation>> m_AllLangParts = new Dictionary<LanguageId, List<PartOfSpeechTranslation>>();
+        private Dictionary<LanguageId, List<LanguageTranslation>> m_AllLanguages = new Dictionary<LanguageId, List<LanguageTranslation>>();
+        private Dictionary<LanguageId, List<ChangableTranslation>> m_AllChangables = new Dictionary<LanguageId, List<ChangableTranslation>>();
+
         private Dictionary<int, int> m_AvailableIds = new Dictionary<int, int>();
         private Dictionary<int, Conception> m_Dictionary = new Dictionary<int, Conception>();
         //private Dictionary<int, List<ConceptionDescription>> m_Descriptions = new Dictionary<LanguageId, List<ConceptionDescription>>();
+        string m_ConnectionString = @"Data Source=.\TrilingualDictionary.sdf;Password=Password1";
+        //string m_ConnectionString = @"Data Source=D:\AS\_Aspirantura\Projects\TrilingualDictionary\src\Data\TrilingualDictionary.sdf;Max Database Size=4091;Password=***********";
+            
+        public TrilingualDictionary()
+        {
+            try
+            {
+                LoadLanguages();
+            }
+            catch(Exception ex)
+            {
+                int k = 1;
+            }
+        }
+
+        private void LoadLanguages()
+        {
+            using (SqlCeConnection connection = new SqlCeConnection(m_ConnectionString))
+            {
+                connection.Open();
+                string query = "SELECT Id FROM Languages";
+
+                SqlCeCommand cmd = new SqlCeCommand(query);
+                cmd.Connection = connection;
+                SqlCeDataReader reader = cmd.ExecuteReader();
+                while (reader.Read())
+                {
+                    int id = reader.GetInt32(0);
+                    m_Languages.Add((LanguageId)(id - 1));
+                }
+            }
+        }
 
         private static readonly string[] m_TopicMarks = new string[]
         {
@@ -128,10 +174,15 @@ namespace TrilingualDictionaryCore
             GetConception(conceptionId).AddDescription(word, languageId);
         }
 
-        public void ChangeDescriptionOfConception(int conceptionId, string word, LanguageId languageId)
+        public void ChangeDescriptionOfConception(int conceptionId, string word, LanguageId languageId, int index)
         {
             //todo:
-           // GetConception(conceptionId).ChangeDescription(word, languageId);
+            GetConception(conceptionId).ChangeDescription(word, languageId, index);
+        }
+
+        public void ChangeDescriptionOfConception(int conceptionId, string word, LanguageId languageId, string textOld)
+        {
+            GetConception(conceptionId).ChangeDescription(word, languageId, textOld);
         }
 
         public void RemoveDescriptionFromConception(int conceptionId, string descriptionText, LanguageId languageId)
@@ -256,6 +307,8 @@ namespace TrilingualDictionaryCore
         {
             foreach (LanguageId langId in Enum.GetValues(typeof(LanguageId)))
             {
+                if (langId == LanguageId.Undefined)
+                    continue;
                 List<ConceptionDescription> descs = conception2.GetAllConceptionDescriptions(langId);
                 foreach(ConceptionDescription desc in descs)
                 {
@@ -265,6 +318,61 @@ namespace TrilingualDictionaryCore
 
             RemoveConception(conception2.ConceptionId);
         }
+
+        public void SaveToDB()
+        {
+            try
+            {
+                SqlCeConnection conn = new SqlCeConnection(m_ConnectionString);//@"Data Source=D:\AS\_Aspirantura\Projects\TrilingualDictionary\src\Data\TrilingualDictionary.sdf;Max Database Size=4091;Password=Password1");
+                string s = Path.GetFullPath(@".\TrilingualDictionary.sdf");
+                //SqlCeConnection conn = new SqlCeConnection(@"Data Source=D:\AS\_Aspirantura\Projects\TrilingualDictionary\src\Data\TrilingualDictionary.sdf;Max Database Size=4091;Password=***********");
+                conn.Open();
+                foreach (Conception conception in m_Dictionary.Values)
+                {
+                    conception.SaveConception(conn);
+                }
+                conn.Close();
+            }
+            catch(Exception ex)
+            {
+                int j = 1;
+            }
+        }
+
+        public Conception Conception
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
+
+        public LanguageIdToSting LanguageIdToSting
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
+
+        internal LanguageTranslation LanguageTranslation
+        {
+            get
+            {
+                throw new System.NotImplementedException();
+            }
+            set
+            {
+            }
+        }
+
+        
     }
 
 

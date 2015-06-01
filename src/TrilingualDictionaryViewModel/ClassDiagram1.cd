@@ -1,26 +1,58 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="TrilingualDictionaryViewModel.ConceptionViewModel">
-    <Position X="0.5" Y="0.5" Width="1.5" />
-    <NestedTypes>
-      <Class Name="TrilingualDictionaryViewModel.ConceptionViewModel.ConceptionsComparer" Collapsed="true">
-        <TypeIdentifier>
-          <NewMemberFileName>ConceptionViewModel.cs</NewMemberFileName>
-        </TypeIdentifier>
-        <Lollipop Position="0.2" />
-      </Class>
-    </NestedTypes>
+  <Class Name="TrilingualDictionaryViewModel.TrilingualDictionaryViewModel">
+    <Position X="0.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAACSAAAAAAAAAAgACQAAABAAgAIAAAAAAAAAAEABIA=</HashCode>
+      <HashCode>KQBGAIABCgBBAKAAEBABIgABAAAACAIBAAACAIAAICA=</HashCode>
+      <FileName>TrilingualDictionaryViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Alphabet" />
+      <Property Name="ConceptionVM" />
+      <Property Name="ConceptionDescriptionVM" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TrilingualDictionaryViewModel.ConceptionDescriptionViewModel">
+    <Position X="4.5" Y="3.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAGAAgAAAEQAAAAAAAAAIAAAAAAABAAAA=</HashCode>
+      <FileName>ConceptionDescriptionViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrilingualDictionaryViewModel.ConceptionDescriptionVM">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACEAgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>ConceptionDescriptionVM.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrilingualDictionaryViewModel.ConceptionVM">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
       <FileName>ConceptionViewModel.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="TrilingualDictionaryViewModel.TrilingualDictionaryViewModel">
-    <Position X="2.25" Y="0.5" Width="1.5" />
+  <Class Name="TrilingualDictionaryViewModel.Alphabet">
+    <Position X="2.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>IAAGAIABAABAACAAAIABIAABAAAAAAAAAAAAAYAAIAA=</HashCode>
+      <HashCode>AAIQAAAACEAAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAA=</HashCode>
       <FileName>TrilingualDictionaryViewModel.cs</FileName>
     </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Chapter" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TrilingualDictionaryViewModel.Chapter" BaseTypeListCollapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQABAAAAAgAAQAAAAAAAAAQAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>TrilingualDictionaryViewModel.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="ConceptionDescriptionViewModel" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
