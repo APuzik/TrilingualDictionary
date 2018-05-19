@@ -1,0 +1,2373 @@
+Results for рентгеновская литография (simple):
+	x-ray lithograph
+Results for ультрафиолетовая литография:
+	 uv lithography (Компьютеры)
+	 
+Results for электронная [электронно-лучевая] литография (simple):
+	electronic [electron beam] lithograph
+Results for двухлучевая ЛОВ (лампа обратной волны) (simple):
+	dual-beam LRW (lamp of the return wave)
+Results for ЛОВ (лампа обратной волны) М(О)-типа (simple):
+	LRW (lamp of the return wave) of M(O) - type
+Results for ЛОВ (лампа обратной волны) с электростатической фокусировкой (simple):
+	LRW (lamp of the return wave) with electrostatic focusing
+Results for акцепторная ловушка:
+	 acceptor trap (Техника)
+	 
+Results for быстрая ловушка (simple):
+	fast trap
+Results for вакуумная ловушка:
+	 vacuum trap (Естественные науки)
+	 
+Results for глубокая ловушка (simple):
+	deep trap
+Results for дырочная ловушка:
+	 hole trap (Естественные науки)
+	 
+	 holes trap (Компьютеры)
+	 
+Results for замкнутая (открытая) плазменная ловушка (simple):
+	the closed (open) plasma trap
+Results for ионная ловушка:
+	 ion trap (Техника)
+	 
+Results for ионизированная ловушка (simple):
+	the ionized trap
+Results for коллекторная ловушка (simple):
+	collector trap
+Results for ловушка в полупроводнике (simple):
+	trap in the semiconductor
+Results for ловушка заряженных частиц (simple):
+	trap of charged particles
+Results for магнитостатическая ловушка (simple):
+	magnetostatic trap
+Results for медленная ловушка (simple):
+	slow trap
+Results for мелкая ловушка (simple):
+	small trap
+Results for много(одно)уровневая ловушка (simple):
+	many (one)-level trap
+Results for (не)заполненная ловушка (simple):
+	not filled trap
+Results for нейтральная ловушка (simple):
+	neutral trap
+Results for (не)рекомбинационная ловушка (simple):
+	(not) recombinational trap
+Results for объёмная ловушка (simple):
+	volume trap
+Results for поверхностная ловушка (simple):
+	superficial trap
+Results for радиолокационная ловушка (simple):
+	radar trap
+Results for электронная ловушка:
+	 electron trap (Естественные науки)
+	 
+Results for десятичный логарифм:
+	 common logarithm (Естественные науки)
+	 
+	 decimal logarithm (Техника)
+	 
+	 Brigg's logarithm (Естественные науки)
+	 
+Results for интегральный логарифм:
+	 logarithm integral (Естественные науки)
+	 
+	 integral logarithm (Компьютеры)
+	 
+	 integral-logarithmic function (Естественные науки)
+	 
+Results for логарифм коэффициента поглощения (усиления) (simple):
+	logarithm of coefficient of absorption (strengthening)
+Results for логарифм числа b по основанию а (simple):
+	number b logarithm on the basis and
+Results for натуральный логарифм:
+	 natural logarithm (Естественные науки)
+	 
+	 hyperbolic logarithm (Естественные науки)
+	 
+Results for блокирующая логика (simple):
+	the blocking logic
+Results for «зашитая» [встроенная] логика (simple):
+	the "sewn-up" [built-in] logic
+Results for интегральная инжекционная логика (simple):
+	integrated injection logic
+Results for клеточная логика (simple):
+	cellular logic
+Results for комбинаторная логика:
+	 combinatory logic (Естественные науки)
+	 
+	 combinational logic (Техника)
+	 
+Results for логика (меж)регистровых передач (simple):
+	logic (boundaries) of register transfers
+Results for логика местного управления (simple):
+	logic of local management
+Results for логика микроуправления (simple):
+	logic of micro-management
+Results for логика на переключателях тока (simple):
+	logic on current switches
+Results for логика предикатов высших порядков (simple):
+	logic of predicates of the highest orders
+Results for логика рекомпозиции (simple):
+	logic of a rekompozition
+Results for логика со связанным эмиттером (simple):
+	logic with the connected emitter
+Results for логика с эмиттерными повторителями (связями) (simple):
+	logic with emitter repeaters (communications)
+Results for логика устройства захвата (сопровождения) цели (simple):
+	logic of the device of capture (maintenance) of the purpose
+Results for логика устройства сопряжения (simple):
+	logic of the device of interface
+Results for логика ЭВМ (simple):
+	logic of the COMPUTER
+Results for мажоритарная логика:
+	 majority logic (Техника)
+	 
+Results for математическая логика:
+	 mathematical logic (Естественные науки)
+	 
+	 logic theory (Естественные науки)
+	 
+Results for многоуровневая [многозначная] логика (simple):
+	multilevel [multiple-valued] logic
+Results for операционная логика (simple):
+	operational logic
+Results for отрицательная логика:
+	 negative logic (Естественные науки)
+	 
+Results for парафазная логика (simple):
+	paraphase logic
+Results for положительная логика:
+	 positive logic (Естественные науки)
+	 
+Results for пороговая логика:
+	 threshold logic (Естественные науки)
+	 
+Results for произвольная [нерегулярная] логика (simple):
+	any [irregular] logic
+Results for символическая логика:
+	 symbolical logic (Естественные науки)
+	 
+Results for синхронная логика (simple):
+	synchronous logic
+Results for трёхуровневая [трёхзначная] логика (simple):
+	three-level [three-digit] logic
+Results for управляющая логика:
+	 control logic (Естественные науки)
+	 
+Results for формальная логика:
+	 formal logic (Естественные науки)
+	 
+Results for эмиттерно-связанная (-функциональная) логика (simple):
+	emitter and connected (-functional) logic
+Results for выпрямительный логометр (simple):
+	vypryamitelny crossed-coil instrument
+Results for магнитоэлектрический логометр (simple):
+	magnetoelectric crossed-coil instrument
+Results for ферро(электро)динамический логометр (simple):
+	ферро (electro) dynamic crossed-coil instrument
+Results for электромагнитный логометр (simple):
+	electromagnetic crossed-coil instrument
+Results for электростатический логометр (simple):
+	electrostatic crossed-coil instrument
+Results for локализатор повреждений:
+	 fault detector (Техника)
+	 
+Results for локализация источника излучения (simple):
+	localization of a source of radiation
+Results for акустический локатор:
+	 sonar equipment (Техника)
+	 
+Results for импульсный доплеровский локатор (simple):
+	pulse Doppler locator
+Results for лазерный локатор:
+	 lidar (Техника)
+	 
+Results for оптический локатор (simple):
+	optical locator
+Results for ультразвуковой локатор (simple):
+	ultrasonic locator
+Results for активная локация (simple):
+	active location
+Results for лазерная локация (simple):
+	laser location
+Results for оптическая локация (simple):
+	optical location
+Results for пассивная локация (simple):
+	passive location
+Results for разностно-дальномерная локация (simple):
+	differential and ranging location
+Results for вписанная ломаная (simple):
+	the entered broken line
+Results for лужение концов провода (simple):
+	tinning of the ends of a wire
+Results for веерный луч:
+	 fan shaped beam (Техника)
+	 
+Results for (вне, при)осевой [(непар, пар)аксиальный] луч (simple):
+	(out of, at) axial [(not couples, couples) axial] a beam
+Results for восстановленный луч (simple):
+	the restored beam
+Results for выходящий луч:
+	 emergent beam (Естественные науки)
+	 
+Results for дифрагированный луч:
+	 diffracted beam (Естественные науки)
+	 
+Results for естественный луч (simple):
+	natural beam
+Results for записывающий луч:
+	 recording beam (Компьютеры)
+	 
+Results for зондирующий луч (simple):
+	the probing beam
+Results for конусообразный луч:
+	 cone-shaped beam (Естественные науки)
+	 
+Results for лазерный луч:
+	 laser beam (Естественные науки)
+	 
+Results for луч в приближении геометрической оптики (simple):
+	beam in approach of geometrical optics
+Results for луч света:
+	 ray of light 
+	 light beam (Техника)
+	 
+Results for луч с малой расходимостью (simple):
+	beam with small divergence
+Results for модулированный луч:
+	 modulated beam (Компьютеры)
+	 
+Results for модулируемый луч (simple):
+	the modulated beam
+Results for мощный луч (simple):
+	powerful beam
+Results for направленный луч:
+	 directed beam (Естественные науки)
+	 
+Results for (не)обыкновенный луч (simple):
+	(not) ordinary beam
+Results for (не)осесимметричный луч (simple):
+	(not) axisymmetric beam
+Results for объектный луч (simple):
+	object beam
+Results for опорный луч:
+	 reference beam (Естественные науки)
+	 
+Results for отражённый луч (simple):
+	the reflected beam
+Results for падающий луч:
+	 incident ray (Техника)
+	 
+Results for плоский [ленточный] луч (simple):
+	flat [tape] beam
+Results for поверхностный луч:
+	 ground ray (Техника)
+	 
+Results for поляризованный луч (simple):
+	the polarized beam
+Results for преломлённый луч (simple):
+	the refracted beam
+Results for принимаемый луч (simple):
+	the accepted beam
+Results for профилированный луч (simple):
+	the pro-thinned-out beam
+Results for прямой луч:
+	 front beam (Техника)
+	 
+Results for рассеянный луч:
+	 scattered beam (Компьютеры)
+	 
+Results for рас(с)фокусированный луч (simple):
+	races (c) the focused beam
+Results for расщеплённый луч (simple):
+	the split beam
+Results for сканирующий луч:
+	 scanning beam (Естественные науки)
+	 
+	 scanned beam (Компьютеры)
+	 
+Results for смещённый луч (simple):
+	the displaced beam
+Results for стирающий луч:
+	 erase light (Естественные науки)
+	 
+Results for сходящийся луч (simple):
+	the meeting beam
+Results for считывающий луч:
+	 scan-off beam (Естественные науки)
+	 
+Results for узкий луч:
+	 narrow beam (Естественные науки)
+	 
+Results for ультразвуковой луч (simple):
+	ultrasonic beam
+Results for управляющий луч (simple):
+	the operating beam
+Results for фиксированный [неподвижный] луч (simple):
+	the fixed [motionless] beam
+Results for широкий луч:
+	 wide beam (Техника)
+	 
+Results for электронный луч:
+	 electron beam (Естественные науки)
+	 
+	 electron ray (Компьютеры)
+	 
+Results for двойное лучепреломление:
+	 birefringence (Естественные науки)
+	 
+	 birefringent effect (Компьютеры)
+	 
+Results for лучепреломление в ионосфере (simple):
+	refraction in an ionosphere
+Results for альфа(бета, гамма)-лучи (simple):
+	alpha (beta, scale) - beams
+Results for анодные лучи (simple):
+	anode beams
+Results for каналовые лучи (simple):
+	kanalovy beams
+Results for катодные лучи:
+	 cathode rays (Естественные науки)
+	 катодный луч 
+	 Существительное катодный луч / катодные лучи 
+	 cathode beam (Естественные науки)
+	 
+Results for космические лучи:
+	 ultrarays (Естественные науки)
+	 космический луч 
+	 Существительное космический луч / космические лучи 
+	 cosmic ray (Бизнес)
+	 
+Results for рентгеновские лучи:
+	 X-rays 
+	 Roentgen rays (Естественные науки)
+	 
+	 X-ray (Техника)
+	 рентгеновский луч 
+	 Существительное рентгеновский луч / рентгеновские лучи 
+	 X-ray (Техника)
+	 
+Results for ЛЧМ (линейно-частотная модуляция)-импульс (simple):
+	LChM (linearly - frequency modulation) - an impulse
+Results for ЛЧМ (линейно-частотная модуляция)-сигнал (simple):
+	LChM (linearly - frequency modulation) - a signal
+Results for кооперативная люминесценция (simple):
+	cooperative luminescence
+Results for лавинная люминесценция (simple):
+	avalanche luminescence
+Results for люминесценция глубоких центров (simple):
+	luminescence of the deep centers
+Results for люминесценция донорно-акцепторных пар (simple):
+	luminescence of donorno-acceptor couples
+Results for люминесценция пучка (simple):
+	bunch luminescence
+Results for молекулярная люминесценция (simple):
+	molecular luminescence
+Results for параметрическая люминесценция (simple):
+	parametrical luminescence
+Results for резонансная люминесценция (simple):
+	resonant luminescence
+Results for рекомбинационная люминесценция:
+	 recombination luminescence (Техника)
+	 
+Results for самоактивируемая люминесценция (simple):
+	self-activated luminescence
+Results for фоновая люминесценция (simple):
+	background luminescence
+Results for фотосенсибилизированная люминесценция (simple):
+	photosensibilized luminescence
+Results for экситонная люминесценция (simple):
+	exciton luminescence
+Results for алюминированный люминофор (simple):
+	the aluminized phosphor
+Results for белый люминофор (simple):
+	white phosphor
+Results for гамма-люминофор (simple):
+	gamma phosphor
+Results for зелёный люминофор (simple):
+	green phosphor
+Results for композитный люминофор (simple):
+	composite phosphor
+Results for красный люминофор (simple):
+	red phosphor
+Results for люминофор с длительным (малым, средним) послесвечением (simple):
+	phosphor with long (small, average) afterglow
+Results for металлизированный люминофор (simple):
+	the metallized phosphor
+Results for много(одно)слойный люминофор (simple):
+	many (one) layer phosphor
+Results for однокомпонентный люминофор (simple):
+	unicomponent phosphor
+Results for оксидный люминофор (simple):
+	oxidic phosphor
+Results for органический люминофор (simple):
+	organic phosphor
+Results for порошковый люминофор (simple):
+	powder phosphor
+Results for прозрачный люминофор (simple):
+	transparent phosphor
+Results for силикатный люминофор (simple):
+	silicate phosphor
+Results for синий люминофор (simple):
+	blue phosphor
+Results for сульфидный люминофор (simple):
+	sulphidic phosphor
+Results for фторидный люминофор (simple):
+	fluoride phosphor
+Results for цветной люминофор (simple):
+	color phosphor
+Results for цинк-кадмиевый люминофор (simple):
+	zinc - a cadmium phosphor
+Results for лямбда-точка:
+	 lambda-point (Естественные науки)
+	 
+Results for лямбда-функция (simple):
+	lambda function
+Results for декадный магазин (simple):
+	decade shop
+Results for измерительный магазин (simple):
+	measuring shop
+Results for магазин ёмкостей (simple):
+	shop of capacities
+Results for магазин индуктивностей (simple):
+	shop of induktivnost
+Results for магазин мер (simple):
+	the shop died
+Results for магазин сопротивлений:
+	 plug resistance (Естественные науки)
+	 
+Results for земной магнетизм:
+	 terrestrial magnetism (Техника)
+	 
+Results for магнетизм аморфных сред (тел) (simple):
+	magnetism of amorphous environments (bodies)
+Results for наведённый магнетизм (simple):
+	the induced magnetism
+Results for орбитальный магнетизм (simple):
+	orbital magnetism
+Results for остаточный магнетизм:
+	 permanent magnetism (Естественные науки)
+	 
+Results for спиновый магнетизм (simple):
+	spin magnetism
+Results for магнетон Бора:
+	 Bohr magneton (Техника)
+	 
+Results for ядерный магнетон:
+	 nuclear magneton (Техника)
+	 
+Results for бипериодический магнетрон:
+	 biperiodic magnetron (Техника)
+	 
+Results for двухцокольный [двухсторонний] магнетрон (simple):
+	two-socle [bilateral] magnetron
+Results for коаксиальный магнетрон (simple):
+	coaxial magnetron
+Results for магнетрон без постоянного магнита (simple):
+	the magnetron without permanent magnet
+Results for магнетрон Брауде-Иванченко (simple):
+	Braude-Ivanchenko's magnetron
+Results for магнетрон импульсного (непрерывного) действия (simple):
+	magnetron of pulse (continuous) action
+Results for магнетрон, настраиваемый напряжением (simple):
+	the magnetron which is adjusted by tension
+Results for магнетрон с анодным блоком лопаточного (щелевого) типа (simple):
+	the magnetron with the anode block of scapular (slot-hole) type
+Results for магнетрон с анодным блоком типа «беличье колесо» (петля-щель) (simple):
+	the magnetron with the anode " block a squirrel wheel" (loop crack)
+Results for магнетрон с бегущей волной (simple):
+	the magnetron with the running wave
+Results for магнетрон с внутренней нагрузкой (simple):
+	the magnetron with internal loading
+Results for магнетрон с длинным анодом (simple):
+	the magnetron with the long anode
+Results for магнетрон с каскадным включением (simple):
+	the magnetron with cascade inclusion
+Results for магнетрон с колебаниями на пространственных гармониках (simple):
+	the magnetron with fluctuations on spatial harmonicas
+Results for магнетрон с колебаниями π-вида (simple):
+	the magnetron with fluctuations of a π-look
+Results for магнетрон со связками (simple):
+	the magnetron with sheaves
+Results for магнетрон со слабыми полями (simple):
+	the magnetron with weak fields
+Results for магнетрон со сплошным [неразрезным] (разрезным) анодным блоком (simple):
+	the magnetron with the continuous [not cutting] (cutting) anode block
+Results for магнетрон со сферическими резонаторами (simple):
+	the magnetron with spherical resonators
+Results for магнетрон с отрицательным сопротивлением (simple):
+	the magnetron with a negative resistance
+Results for магнетрон с перестройкой частоты (simple):
+	the magnetron with reorganization of frequency
+Results for магнетрон с поверхностной волной (simple):
+	the magnetron with a superficial wave
+Results for магнетрон с распределённой эмиссией (simple):
+	the magnetron with the distributed issue
+Results for магнетрон с регулируемым пространственным зарядом (simple):
+	the magnetron with an adjustable spatial charge
+Results for магнетрон с резистивными стенками (simple):
+	the magnetron with resistive walls
+Results for магнетрон с сеткой (simple):
+	the magnetron with a grid
+Results for магнетрон с симметричным анодным блоком (simple):
+	the magnetron with the symmetric anode block
+Results for магнетрон с управляемым электронным лучом (simple):
+	the magnetron with the operated electronic beam
+Results for магнетрон с ферритовым элементом перестройки (simple):
+	the magnetron with a ferrite element of reorganization
+Results for магнетрон с фиксированной частотой (simple):
+	the magnetron with the fixed frequency
+Results for магнетрон с холодным катодом (simple):
+	the magnetron with the cold cathode
+Results for много(одно)резонаторный магнетрон (simple):
+	many (one) rezonatorny magnetron
+Results for мощный магнетрон (simple):
+	powerful magnetron
+Results for одномодовый магнетрон (simple):
+	single-mode magnetron
+Results for обращённый магнетрон (simple):
+	the turned magnetron
+Results for пакетированный магнетрон (simple):
+	the packaged magnetron
+Results for плазменный магнетрон (simple):
+	plasma magnetron
+Results for плоский магнетрон [планотрон] (simple):
+	flat magnetron [планотрон]
+Results for проходной магнетрон (simple):
+	magnetron through passage
+Results for регенеративно-усилительный магнетрон (simple):
+	regenerative and intensifying magnetron
+Results for сверхвысокочастотный [СВЧ] магнетрон (simple):
+	superhigh-frequency [microwave oven] magnetron
+Results for симметричный магнетрон без связок (simple):
+	the symmetric magnetron without sheaves
+Results for синхронизированный магнетрон (simple):
+	synchronized magnetron
+Results for тороидальный магнетрон (simple):
+	toroidal magnetron
+Results for цилиндрический магнетрон (simple):
+	cylindrical magnetron
+Results for широкополосный магнетрон (simple):
+	broadband magnetron
+Results for демпфирующий магнит:
+	 damping magnet (Техника)
+	 
+Results for дипольный магнит (simple):
+	dipolar magnet
+Results for естественный магнит:
+	 natural magnet (Техника)
+	 
+Results for искусственный магнит (simple):
+	artificial magnet
+Results for квадрупольный магнит (simple):
+	kvadrupolny magnet
+Results for кольцевой магнит:
+	 annular magnet (Техника)
+	 
+Results for магнит демпфера (simple):
+	damper magnet
+Results for магнит для создания сильных полей (simple):
+	magnet for creation of strong fields
+Results for магнит для устранения паразитных колебаний (simple):
+	magnet for elimination of parasitic fluctuations
+Results for магнит, изготовленный методом горячего прессования (спекания) (simple):
+	the magnet made by method of hot pressing (agglomeration)
+Results for магнит ионной ловушки (simple):
+	magnet of an ionic trap
+Results for магнит коррекции синего (simple):
+	magnet of correction of blue
+Results for магнит сведения лучей (simple):
+	magnet of the data of beams
+Results for магнит с железным экраном (simple):
+	magnet with the iron screen
+Results for магнит схемы возбуждения (simple):
+	magnet of the scheme of excitement
+Results for магнит фазирующего устройства (simple):
+	magnet of the phasing device
+Results for магнит фокусировки (центровки) луча (simple):
+	magnet of focusing (centering) of a beam
+Results for магнит чистоты цвета (simple):
+	magnet of purity of color
+Results for неразрезной магнит (simple):
+	not cutting magnet
+Results for подковообразный магнит:
+	 horseshoe magnet (Техника)
+	 
+	 horse-shoe magnet (Техника)
+	 
+Results for постоянный магнит:
+	 permanent magnet 
+Results for размагничивающий магнит (simple):
+	the degaussing magnet
+Results for редкоземельный магнит (simple):
+	rare-earth magnet
+Results for составной магнит (simple):
+	compound magnet
+Results for стержневой магнит:
+	 axial magnet (Техника)
+	 
+Results for шихтованный [пластинчатый] магнит (simple):
+	shikhtovanny [lamellar] magnet
+Results for абсолютный магнитометр:
+	 absolute magnetometer (Техника)
+	 
+Results for (а)статический магнитометр (simple):
+	(a) static magnetometer
+Results for векторный магнитометр (simple):
+	vector magnetometer
+Results for вращательный [крутильный, торсионный] магнитометр (simple):
+	rotary [tortional, the torsion] magnetometer
+Results for индукционный магнитометр:
+	 induction magnetometer (Техника)
+	 
+Results for компенсационный магнитометр:
+	 compensation magnetometer (Техника)
+	 
+Results for магнитометр на парах рубидия (щелочных металлов) (simple):
+	the magnetometer on rubidium vapors (alkaline metals)
+Results for магнитометр на эффекте Холла (simple):
+	the magnetometer on Hall's effect
+Results for магнитометр с вибрирующей (вращающейся) катушкой (simple):
+	the magnetometer with the vibrating (rotating) coil
+Results for магнитометр с вибрирующим (вращающимся) образцом (simple):
+	the magnetometer with the vibrating (rotating) sample
+Results for магнитометр с висмутовой спиралью (simple):
+	the magnetometer with a bismuthic spiral
+Results for магнитометр с насыщаемым сердечником (simple):
+	the magnetometer with the saturable core
+Results for магнитометр с подвижным магнитом:
+	 moving magnet magnetometer (Техника)
+	 
+Results for магниторезистивный магнитометр (simple):
+	magneto-resistive magnetometer
+Results for магнитостатический магнитометр:
+	 moving-magnet magnetometer (Техника)
+	 
+Results for маятниковый магнитометр с нулевой катушкой (simple):
+	the pendular magnetometer with the zero coil
+Results for относительный магнитометр:
+	 relative magnetometer (Техника)
+	 
+Results for протонный магнитометр [магнитометр на ядерном магнитном резонансе] (simple):
+	the proton magnetometer [the magnetometer on nuclear magnetic resonance]
+Results for резонансный магнитометр:
+	 resonance magnetometer (Техника)
+	 
+Results for сверхпроводящий квантовый магнитометр (simple):
+	superconducting quantum magnetometer
+Results for сверхвысокочастотный [СВЧ] магнитометр (simple):
+	superhigh-frequency [microwave oven] magnetometer
+Results for сквид-магнитометр (simple):
+	skvid-magnetometer
+Results for тонкоплёночный магнитометр (simple):
+	thin-film magnetometer
+Results for феррозондовый магнитометр:
+	 flux gate magnetometer (Техника)
+	 
+Results for феррорезонансный магнитометр (simple):
+	ferrorezonansny magnetometer
+Results for электродинамический магнитометр:
+	 electrodynamic magnetometer (Техника)
+	 
+Results for электронно-лучевой магнитометр:
+	 electron beam magnetometer (Техника)
+	 
+Results for электромагнитный магнитометр:
+	 electromagnetic magnetometer (Техника)
+	 
+Results for ядерный магнитометр (simple):
+	nuclear magnetometer
+Results for одножидкостная магнитоплазма (simple):
+	one-liquid magnetoplasma
+Results for слоистая магнитоплазма (simple):
+	layered magnetoplasma
+Results for наружный магнитопровод (simple):
+	external magnetic conductor
+Results for вынужденная магнитострикция (simple):
+	the compelled magnetostriction
+Results for магнитострикция насыщения (simple):
+	saturation magnetostriction
+Results for магнитострикция парапроцесса (simple):
+	paraprocess magnetostriction
+Results for обменная магнитострикция (simple):
+	exchange magnetostriction
+Results for объёмная магнитострикция (simple):
+	volume magnetostriction
+Results for одноионная магнитострикция (simple):
+	one-ionic magnetostriction
+Results for отрицательная магнитострикция (simple):
+	negative magnetostriction
+Results for положительная магнитострикция (simple):
+	positive magnetostriction
+Results for продольная магнитострикция (simple):
+	longitudinal magnetostriction
+Results for спонтанная магнитострикция (simple):
+	spontaneous magnetostriction
+Results for бытовой магнитофон (simple):
+	household tape recorder
+Results for кассетный магнитофон:
+	 cassette tape recorder 
+Results for катушечный магнитофон (simple):
+	bobbin tape recorder
+Results for магнитофон-приставка (simple):
+	tape recorder prefix
+Results for магнитофон с двумя ведущими валами (simple):
+	the tape recorder with two leading shaft
+Results for магнитофон с реверсом движения ленты (simple):
+	the tape recorder with a reverse of the movement of a tape
+Results for магнитофон с устройством наложения записи (simple):
+	the tape recorder with the record imposing device
+Results for много(одно)дорожечный магнитофон (simple):
+	many (one) dorozhechny tape recorder
+Results for моно(стерео)фонический магнитофон (simple):
+	mono (stereo) phonic tape recorder
+Results for портативный магнитофон (simple):
+	portable tape recorder
+Results for студийный магнитофон (simple):
+	studio tape recorder
+Results for цифровой магнитофон:
+	 digital audiotape recorder (Компьютеры)
+	 
+Results for числовая мажоранта:
+	 numerical majorant (Естественные науки)
+	 
+Results for акустический мазер:
+	 acoustic maser (Техника)
+	 
+Results for водородный мазер:
+	 H-maser (Техника)
+	 
+Results for двух(трёх, четырёх, пяти)уровневый мазер (simple):
+	two (three, four, five)-level Mather
+Results for импульсный мазер:
+	 pulsing maser (Компьютеры)
+	 
+	 pulsed maser (Техника)
+	 
+Results for мазер бегущей волны (simple):
+	Mather of the running wave
+Results for мазер на атомарном пучке (simple):
+	Mather on an atomic bunch
+Results for мазер на пучке атомов или молекул (simple):
+	Mather on a bunch of atoms or molecules
+Results for мазер на рубине (андалузите, изумруде, рутиле) (simple):
+	Mather on a ruby (andalusite, an emerald, rutile)
+Results for мазер на циклотронном резонансе [МЦР] (simple):
+	Mather on a cyclotron resonance [MTsR]
+Results for мазер с оптической накачкой (simple):
+	Mather with an optical rating
+Results for мазер с отражённой волной (simple):
+	Mather with the reflected wave
+Results for мазер с расширенной полосой (simple):
+	Mather with an expanded strip
+Results for мазер с симметричной (пушпульной [двухтактной], ступенчатой) накачкой (simple):
+	Mather with symmetric (pushpulny [duple], step) a rating
+Results for (много, одно)резонаторный мазер (simple):
+	(it is a lot of, one) rezonatorny Mather
+Results for отражательный мазер (simple):
+	reflective Mather
+Results for парамагнитный мазер (simple):
+	paramagnetic Mather
+Results for проходной мазер (simple):
+	Mather through passage
+Results for твердотельный мазер (simple):
+	solid-state Mather
+Results for узко(широко)полосный мазер (simple):
+	narrowly (widely) band Mather
+Results for фононный мазер (simple):
+	phonon Mather
+Results for ядерный мазер (simple):
+	nuclear Mather
+Results for макетирование ИС (simple):
+	prototyping of IS
+Results for макрооперации, определённые пользователем (simple):
+	the macrooperations determined by the user
+Results for макроструктура с произвольной логикой управления (simple):
+	macrostructure with any logic of management
+Results for функциональная макроструктура (simple):
+	functional macrostructure
+Results for абсолютный максимум:
+	 absolute maximum (Бизнес)
+	 
+Results for (без)условный максимум (simple):
+	(without) conditional maximum
+Results for интерференционный максимум (simple):
+	interferential maximum
+Results for максимум дифракционной решётки (simple):
+	maximum of a diffraction lattice
+Results for относительный максимум (simple):
+	relative maximum
+Results for побочный максимум:
+	 subordinate maximum (Техника)
+	 
+Results for резонансный максимум (simple):
+	resonant maximum
+Results for манипулирование данными:
+	 data manipulation (Компьютеры)
+	 
+Results for манипулирование изображениями на экране (simple):
+	manipulation of images on the screen
+Results for копирующий манипулятор:
+	 master-slave manipulator (Техника)
+	 
+Results for манипулятор с перемещением в полярной (прямоугольной, сферической, цилиндрической) системе координат (simple):
+	the manipulator with movement in polar (rectangular, spherical, cylindrical) the system of coordinates
+Results for манипулятор с электронным управлением:
+	 electronically controlled manipulator (Техника)
+	 
+Results for очувствлённый манипулятор (simple):
+	ochuvstvlyonny manipulator
+Results for программируемый многофункциональный манипулятор (simple):
+	programmable multipurpose manipulator
+Results for тон-манипулятор (simple):
+	tone manipulator
+Results for амплитудная манипуляция (simple):
+	amplitude manipulation
+Results for анодная манипуляция (simple):
+	anode manipulation
+Results for катодная манипуляция (simple):
+	cathodic manipulation
+Results for манипуляция ключом:
+	 minimum shift key (Техника)
+	 
+Results for манипуляция минимальным фазовым сдвигом (simple):
+	manipulation with the minimum phase shift
+Results for манипуляция сдвигом частоты (фазы) (simple):
+	manipulation with shift of the frequency (phase)
+Results for манипуляция циклическими кодовыми последовательностями (simple):
+	manipulation with the cyclic code sequences
+Results for полярная манипуляция (simple):
+	polar manipulation
+Results for тональная частотная манипуляция (simple):
+	voice-frequency frequency manipulation
+Results for электронная манипуляция (simple):
+	electronic manipulation
+Results for мантисса логарифма (simple):
+	logarithm mantissa
+Results for маркер адреса (simple):
+	address marker
+Results for маркер блока (simple):
+	block marker
+Results for отражательный маркер (simple):
+	reflective marker
+Results for магнитная маркировка (simple):
+	magnetic marking
+Results for маркировка выводов (simple):
+	marking of conclusions
+Results for маркировка компонентов:
+	 component marking (Компьютеры)
+	 
+Results for маркировка приборов (simple):
+	marking of devices
+Results for маркировка проводов:
+	 wire marking (Техника)
+	 
+Results for маршрут для разгрузки основного пути (simple):
+	route for unloading of the main way
+Results for маршрут поиска:
+	 search pattern (Техника)
+	 
+Results for обходной маршрут:
+	 detour route (Техника)
+	 
+Results for ориентированный маршрут длины (simple):
+	the focused length route
+Results for полностью обеспеченный маршрут (simple):
+	completely provided route
+Results for лавинная маршрутизация:
+	 flood search routing (Компьютеры)
+	 
+	 flooding (Техника)
+	 
+Results for маршрутизация без задержки (simple):
+	routing without delay
+Results for маршрутизация сообщений (simple):
+	routing of messages
+Results for многоадресная маршрутизация:
+	 multiple routing (Компьютеры)
+	 
+Results for амплитудная маска (simple):
+	amplitude mask
+Results for градиентная маска (simple):
+	gradient mask
+Results for кодовая маска (simple):
+	code mask
+Results for маска для ионной имплантации:
+	 ion implantation mask (Компьютеры)
+	 
+Results for маска для напыления (травления) (simple):
+	mask for dusting (etching)
+Results for маска для формирования контактных площадок (simple):
+	mask for formation of contact platforms
+Results for маска , изготовленная с помощью ЭВМ (simple):
+	the mask made by means of the COMPUTER
+Results for маска из нитрида кремния (simple):
+	mask from silicon nitride
+Results for маска из фоторезиста (simple):
+	mask from photoresist
+Results for (не)удаляемая маска (simple):
+	not deleted mask
+Results for (обратная) контактная маска (simple):
+	(return) contact mask
+Results for оксидная маска:
+	 oxide mask (Компьютеры)
+	 
+Results for паяльная маска (simple):
+	soldering mask
+Results for планарная [плоская] маска (simple):
+	planar [flat] mask
+Results for подвижная маска:
+	 moving mask (Компьютеры)
+	 
+Results for прецизионная маска:
+	 precision mask (Компьютеры)
+	 
+Results for самосовмещённая маска (simple):
+	the self-combined mask
+Results for символическая маска (simple):
+	symbolical mask
+Results for смещённая маска (simple):
+	the displaced mask
+Results for стеклянная маска:
+	 glass mask (Компьютеры)
+	 
+Results for стойкая к травителям маска (simple):
+	mask, resistant to travitel
+Results for теневая маска:
+	 shadow mask (Компьютеры)
+	 
+	 aperture mask (Техника)
+	 
+Results for тестовая маска (simple):
+	test mask
+Results for фазовая маска (simple):
+	phase mask
+Results for цветоделительная маска (simple):
+	color-separation mask
+Results for щелевая маска (simple):
+	slot-hole mask
+Results for голографическое маскирование (simple):
+	holographic masking
+Results for избирательное маскирование (simple):
+	selective masking
+Results for копланарное маскирование (simple):
+	co-planar masking
+Results for маскирование оксидом (simple):
+	masking by oxide
+Results for маскирование ошибок (simple):
+	masking of mistakes
+Results for маскирование при селективной диффузии (simple):
+	masking at selective diffusion
+Results for маскирование фоторезистом (simple):
+	masking by photoresist
+Results for однократное маскирование (simple):
+	single masking
+Results for поразрядное маскирование (simple):
+	digit-by-digit masking
+Results for пространственное маскирование (simple):
+	spatial masking
+Results for теневое маскирование (simple):
+	shadow masking
+Results for трафаретное маскирование (simple):
+	pattern masking
+Results for фотолитографическое маскирование (simple):
+	photolithographic masking
+Results for цветовое маскирование (simple):
+	color masking
+Results for маскировка звука (simple):
+	masking of a sound
+Results for радиолокационная маскировка:
+	 radar deception (Техника)
+	 
+Results for акустическая масса (simple):
+	acoustic weight
+Results for критическая масса:
+	 critical mass (Естественные науки)
+	 
+Results for масса доменной границы (simple):
+	mass of domain border
+Results for масса дырки (simple):
+	mass of a hole
+Results for масса покоя:
+	 rest-mass (Естественные науки)
+	 
+	 rest mass (Компьютеры)
+	 
+Results for масса (свободного) электрона (simple):
+	mass (free) electron
+Results for масса ядра:
+	 nuclear mass (Естественные науки)
+	 
+Results for (отрицательная) эффективная масса (simple):
+	(negative) effective weight
+Results for приведённая масса (simple):
+	the specified weight
+Results for релятивистская масса:
+	 relativistic mass (Техника)
+	 
+Results for большой массив данных:
+	 data bulk (Компьютеры)
+	 
+Results for массив информации (simple):
+	array of information
+Results for массив инцидентности (simple):
+	massif of incidence
+Results for массив матриц (simple):
+	massif of matrixes
+Results for массив памяти (simple):
+	massif of memory
+Results for массив подчёркнутых контуров (simple):
+	massif of underlined contours
+Results for массив регистров (simple):
+	array of registers
+Results for массив со строками разной длины (simple):
+	the massif with lines of different length
+Results for массив указателей:
+	 pointer array (Компьютеры)
+	 
+Results for разрежённый массив (simple):
+	the resolved massif
+Results for (двойной) логарифмический масштаб (simple):
+	(double) logarithmic scale
+Results for линейный масштаб:
+	 linear ratio (Техника)
+	 
+	 distance scale (Естественные науки)
+	 
+Results for масштаб времени:
+	 time scale 
+Results for масштаб длины (simple):
+	length scale
+Results for масштаб шкалы азимута (дальности) (simple):
+	scale of a scale of an azimuth (range)
+Results for вакуумный материал (simple):
+	vacuum material
+Results for вспомогательный материал:
+	 by-product (Естественные науки)
+	 
+	 auxiliary material (Бизнес)
+	 
+	 supporting material (Естественные науки)
+	 
+	 accessory material (Техника)
+	 
+Results for диамагнитный материал (simple):
+	diamagnetic material
+Results for диэлектрический материал:
+	 dielectric material (Компьютеры)
+	 
+	 dielectric[ˌdaɪɪˈlektrɪk] (Техника)
+	 
+Results for защитный материал:
+	 protective material (Бизнес)
+	 
+	 protection material (Естественные науки)
+	 
+Results for изолирующий материал:
+	 insulating material (Техника)
+	 
+Results for изоляционный материал:
+	 insulant (Естественные науки)
+	 
+	 insulating material (Естественные науки)
+	 
+	 insulation material (Техника)
+	 
+Results for исходный материал:
+	 starting material (Естественные науки)
+	 
+	 basic material (Техника)
+	 
+Results for керамический материал (simple):
+	ceramic material
+Results for композиционный материал [композит] (simple):
+	composite material [composite]
+Results for лазерный (мазерный) материал (simple):
+	laser (mazerny) material
+Results for легированный материал:
+	 doped material (Техника)
+	 
+Results for магнитно-твёрдый материал (simple):
+	the magnetically hard material
+Results for материал, полученный методом зонной плавки (simple):
+	the material received by method of zonal melting
+Results for материал с кристаллографической текстурой (simple):
+	material with crystallographic texture
+Results for материал-хозяин (simple):
+	material owner
+Results for материал электронной чистоты (simple):
+	material of electronic purity
+Results for пассивирующий материал (simple):
+	the passivating material
+Results for поликристаллический материал:
+	 polycrystalline material (Компьютеры)
+	 
+Results for пропиточный материал (simple):
+	impregnating material
+Results for рекристаллизованный материал (simple):
+	the recrystallized material
+Results for (сверх)проводящий материал (simple):
+	(over) the carrying-out material
+Results for термореактивный материал:
+	 thermoset (Естественные науки)
+	 
+	 thermosetting material (Техника)
+	 
+Results for термо(фото)чувствительный материал (simple):
+	thermo (photo) sensitive material
+Results for фотопроводящий материал (simple):
+	photoconductive material
+Results for фотоупругий материал (simple):
+	photoelastic material
+Results for фотохромный материал (simple):
+	fotokhromny material
+Results for фотоэмиссионный материал (simple):
+	photoemission material
+Results for электретный материал (simple):
+	electret material
+Results for электроизоляционный материал:
+	 insulant (Естественные науки)
+	 
+Results for электрооптический материал (simple):
+	electrooptical material
+Results for (градационная) матрица смежности уровней (simple):
+	(graded) matrix of contiguity of levels
+Results for (де)кодирующая матрица (simple):
+	the coding matrix
+Results for диаграммообразующая матрица (simple):
+	diagrammoobrazuyushchy matrix
+Results for диодная матрица:
+	 diode matrix (Компьютеры)
+	 
+Results for единичная матрица:
+	 identity matrix (Естественные науки)
+	 
+	 unit matrix (Естественные науки)
+	 
+Results for ковариационная матрица:
+	 dispersion matrix (Естественные науки)
+	 
+Results for коммутационная матрица СВЧ-диапазона (simple):
+	switching matrix of microwave range
+Results for корреляционная матрица:
+	 correlation matrix (Естественные науки)
+	 
+	 complete correlation matrix (Естественные науки)
+	 
+Results for ленточная матрица:
+	 band matrix (Компьютеры)
+	 
+Results for матрица вентилей (simple):
+	matrix of gates
+Results for матрица (вероятностей) переходов (simple):
+	matrix (probabilities) of transitions
+Results for матрица выборки (simple):
+	selection matrix
+Results for матрица голограмм (simple):
+	matrix of holograms
+Results for матрица диодов формирователя сигналов (simple):
+	matrix of diodes of the shaper of signals
+Results for матрица изображения (simple):
+	image matrix
+Results for матрица иммитансов:
+	 immittance matrix (Техника)
+	 
+Results for матрица канальных электронных умножителей (simple):
+	matrix of channel electronic multipliers
+Results for матрица контроля чётности (simple):
+	matrix of control of parity
+Results for матрица контурных (полных) сопротивлений (simple):
+	matrix of planimetric (full) resistance
+Results for матрица нагрузки (simple):
+	loading matrix
+Results for матрица передачи (simple):
+	transfer matrix
+Results for матрица потерь:
+	 regret matrix (Естественные науки)
+	 
+Results for матрица преобразования:
+	 transformation matrix (Естественные науки)
+	 
+Results for матрица пространственного кодирования (simple):
+	matrix of spatial coding
+Results for матрица рассеяния цели (simple):
+	matrix of dispersion of the purpose
+Results for матрица расстояний (simple):
+	matrix of distances
+Results for матрица светодиодов (simple):
+	matrix of light-emitting diodes
+Results for матрица сдвига (simple):
+	shift matrix
+Results for матрица сердечников (simple):
+	matrix of cores
+Results for матрица серого (simple):
+	matrix of gray
+Results for матрица скремблера (simple):
+	scrambler matrix
+Results for матрица состояний (simple):
+	matrix of states
+Results for матрица с регулярной структурой:
+	 cellular array (Техника)
+	 
+Results for матрица-столбец (simple):
+	matrix column
+Results for матрица-строка:
+	 row matrix (Естественные науки)
+	 
+Results for матрица схемы (simple):
+	scheme matrix
+Results for матрица с электронной адрессацией (simple):
+	matrix with electronic addressing
+Results for матрица точек (simple):
+	matrix of points
+Results for матрица узловых проводимостей (simple):
+	matrix of nodal provodimost
+Results for матрица фонограммы (simple):
+	soundtrack matrix
+Results for матрица эффективной площади отражения цели (simple):
+	matrix of the effective area of reflection of the purpose
+Results for обратная матрица:
+	 reciprocal matrix (Естественные науки)
+	 
+	 inverse matrix (Естественные науки)
+	 
+Results for поляризационная матрица (simple):
+	polarizing matrix
+Results for порождающая матрица:
+	 generator matrix (Естественные науки)
+	 
+Results for про(раз)режённая матрица (simple):
+	about (time) the solved matrix
+Results for (расширенная) матрица полных проводимостей (simple):
+	(expanded) matrix of full provodimost
+Results for систолическая матрица (simple):
+	systolic matrix
+Results for сопряжённая матрица (simple):
+	the interfaced matrix
+Results for топологическая матрица (simple):
+	topological matrix
+Results for унитарная матрица:
+	 unitary matrix (Естественные науки)
+	 
+Results for циркулянтная матрица (simple):
+	tsirkulyantny matrix
+Results for эрмитова матрица:
+	 Hermitian matrix (Естественные науки)
+	 
+Results for амбиофоническое матрицирование (simple):
+	ambiofonichesky matritsirovaniye
+Results for (выдвижная) антенная мачта (simple):
+	(sliding) antenna mast
+Results for мачта с оттяжками:
+	 guyed mast (Техника)
+	 
+Results for пеленгационная мачта (simple):
+	pelengatsionny mast
+Results for телескопическая мачта:
+	 telescopic mast (Техника)
+	 
+Results for машина Больцмана (simple):
+	Boltzmann's car
+Results for машина Тьюринга:
+	 Turing machine (Естественные науки)
+	 
+Results for электронная вычислительная машина [компьютер] (simple):
+	electronic computer [computer]
+Results for аварийный маяк:
+	 emergency beacon (Техника)
+	 
+Results for аэродромный маяк:
+	 aerodrome beacon (Техника)
+	 
+Results for глиссадный маяк:
+	 landing beam transmitter (Техника)
+	 
+	 glide path beacon (Техника)
+	 
+Results for курсовой маяк:
+	 localizer beacon (Техника)
+	 
+Results for маркерный маяк:
+	 marker beacon (Техника)
+	 
+Results for маяк-ориентир (simple):
+	beacon reference point
+Results for маяк-ответчик:
+	 transponder beacon (Техника)
+	 
+Results for маяк-указатель (simple):
+	beacon index
+Results for навигационный маяк:
+	 navigation light (Техника)
+	 
+Results for наземный маяк:
+	 ground beacon (Техника)
+	 
+Results for направленный маяк:
+	 directional beacon (Техника)
+	 
+Results for пассивный маяк (simple):
+	passive beacon
+Results for посадочный маяк:
+	 localizer (Техника)
+	 
+	 landing beam beacon (Техника)
+	 
+Results for радиолокационный маяк:
+	 radar beacon (Естественные науки)
+	 
+Results for меднение проводящих элементов (simple):
+	medneniye of the carrying-out elements
+Results for бескислородная медь:
+	 oxygen-free copper (Техника)
+	 
+Results for катодная медь:
+	 cathode copper (Естественные науки)
+	 
+Results for листовая медь:
+	 sheet copper (Естественные науки)
+	 
+Results for отожжённая медь (simple):
+	the annealed copper
+Results for техническая медь:
+	 commercial copper (Техника)
+	 
+Results for электролитическая медь:
+	 electrolytic copper (Техника)
+	 
+Results for внешнее межсоединение (simple):
+	external interconnection
+Results for избирательное межсоединение (simple):
+	selective interconnection
+Results for межсоединение линий связи (simple):
+	interconnection of communication lines
+Results for металлизированное межсоединение (simple):
+	the metallized interconnection
+Results for напылённое межсоединение (simple):
+	the raised dust interconnection
+Results for сварное проволочное межсоединение (simple):
+	welded wire interconnection
+Results for тонкоплёночное межсоединение (simple):
+	thin-film interconnection
+Results for диффузионная мезаструктура (simple):
+	diffusive mesa structure
+Results for мезаструктура, полученная методом травления (simple):
+	the mesa structure received by an etching method
+Results for мезаструктура n-(р-)типа (simple):
+	n-mesa structure (р-) type
+Results for застеклованная мезофаза (simple):
+	zasteklovanny mesophase
+Results for нематическая мезофаза (simple):
+	nematic mesophase
+Results for смектическая мезофаза (simple):
+	smektichesky mesophase
+Results for мелькание изображения (simple):
+	flashing of the image
+Results for ионнообменная (катионная) мембрана (simple):
+	ion-exchange (cationic) membrane
+Results for мембрана микрофона (simple):
+	microphone membrane
+Results for электретная мембрана (simple):
+	electret membrane
+Results for меню программы (simple):
+	menu of the program
+Results for образцовая мера:
+	 reference standard (Техника)
+	 
+Results for техническая мера (simple):
+	technical measure
+Results for мерцание изображения (simple):
+	blinking of the image
+Results for мерцание катода:
+	 cathode flicker (Техника)
+	 
+Results for мерцание отметки цели (simple):
+	blinking of a mark of the purpose
+Results for мерцание радиосигнала (simple):
+	blinking of a radio signal
+Results for мерцание цветов (simple):
+	blinking of flowers
+Results for автоматизированное рабочее место (simple):
+	the automated workplace
+Results for место контакта:
+	 point of contact (Техника)
+	 
+Results for место назначения:
+	 destination[ˌdestɪˈneɪʃən] 
+Results for место повреждения:
+	 damaged area (Техника)
+	 
+Results for место подсоединения (simple):
+	place of connection
+Results for место приёма (simple):
+	place of reception
+Results for место спая (simple):
+	place spy
+Results for место управления (simple):
+	management place
+Results for благородный металл:
+	 precious metal 
+	 noble metal (Естественные науки)
+	 
+Results for металл-диэлектрик-полупроводник [МДП] (simple):
+	metal-dielectric-semiconductor [MDS]
+Results for металл-оксид-полупроводник [МОП] (simple):
+	metal-oxide-semiconductor [MOS]
+Results for прочный металл (simple):
+	strong metal
+Results for редкоземельный металл:
+	 rare-earth metal (Естественные науки)
+	 
+	 rare earth metal (Естественные науки)
+	 
+Results for щелочной металл:
+	 alkali metal (Естественные науки)
+	 
+Results for бесступенчатая металлизация (simple):
+	stepless metallization
+Results for групповая металлизация (simple):
+	group metallization
+Results for металлизация межсоединений (simple):
+	metallization of interconnections
+Results for металлизация отверстий (simple):
+	metallization of openings
+Results for многоуровневая [многослойная] металлизация (simple):
+	multilevel [multilayered] metallization
+Results for прецизионная металлизация:
+	 fine line metalization (Естественные науки)
+	 
+Results for финишная металлизация (simple):
+	finishing metallization
+Results for радиолокационная метеосводка (simple):
+	radar weather report
+Results for измерительная метка:
+	 measuring symbol (Техника)
+	 
+Results for калибровочная метка (simple):
+	calibration tag
+Results for масштабная метка (simple):
+	large-scale tag
+Results for метка адреса (simple):
+	address tag
+Results for метка времени:
+	 time stamp (Компьютеры)
+	 
+Results for метка записи (simple):
+	record tag
+Results for метка контрольной точки (simple):
+	tag of a control point
+Results for метка магнитной ленты (simple):
+	tag of a magnetic tape
+Results for метка набора данных (simple):
+	data set tag
+Results for метка обратного контроля (simple):
+	tag of the return control
+Results for метка передачи управления (simple):
+	tag of transfer of management
+Results for метка (электронной) шкалы азимута (угловой координаты) (simple):
+	tag (electronic) scale of an azimuth (angular coordinate)
+Results for метка (электронной) шкалы дальности (simple):
+	tag (electronic) range scale
+Results for монтажная метка:
+	 matchmark (Техника)
+	 
+Results for синхронизирующая метка (simple):
+	the synchronizing tag
+Results for ступенчатая стробирующая метка (simple):
+	step strobiruyushchy tag
+Results for точная метка развёртки (simple):
+	exact tag of development
+Results for аналитический метод (simple):
+	analytical method
+Results for баллистический метод (simple):
+	ballistic method
+Results for (бес)контактный метод (simple):
+	(demon) contact method
+Results for бокс-метод диффузии (simple):
+	box method of diffusion
+Results for выборочный метод:
+	 sampling method (Естественные науки)
+	 
+	 sample method (Компьютеры)
+	 
+Results for графический метод:
+	 graphic approach (Бизнес)
+	 
+	 graphical method (Естественные науки)
+	 
+	 graphic method (Техника)
+	 
+Results for групповой метод (simple):
+	group method
+Results for двухэкспозиционный метод (simple):
+	two-exposition method
+Results for дифракционный метод (simple):
+	diffraction method
+Results for диффузионный метод (simple):
+	diffusive method
+Results for импульсный метод:
+	 pulse method (Техника)
+	 
+Results for интерференционный метод (simple):
+	interferential method
+Results for компенсационный [нулевой] метод (simple):
+	compensation [zero] method
+Results for косвенный метод:
+	 indirect method (Естественные науки)
+	 
+Results for матричный метод:
+	 matrix approach (Компьютеры)
+	 
+Results for метод алгебраической реконструкции (simple):
+	method of algebraic reconstruction
+Results for метод анализа в пространстве состояний (simple):
+	analysis method in space of states
+Results for метод анализа контуров (рисунков) (simple):
+	method of the analysis of contours (drawings)
+Results for метод аппроксимации по производным (simple):
+	approximation method on derivatives
+Results for метод ближней (дальней) зоны (simple):
+	method of a near (distant) zone
+Results for метод Бриджмена (Вернейля, Чалмерса, Чохральского) (simple):
+	Bridzhmena method (Verneyl, Chalmersa, Chokhralsky)
+Results for метод булевых разностей (simple):
+	method of Boolean differences
+Results for метод (вакуумного) осаждения (simple):
+	method (vacuum) sedimentation
+Results for метод векторного квантования (simple):
+	method of vector quantization
+Results for метод векторного потенциала (simple):
+	method of vector potential
+Results for метод взаимной нагрузки (simple):
+	method of mutual loading
+Results for метод взвешенного счёта (simple):
+	method of the weighed account
+Results for метод возмущений:
+	 perturbation technique (Естественные науки)
+	 
+Results for метод восходящего (нисходящего) проектирования (simple):
+	method of the ascending (descending) design
+Results for метод встречного включения:
+	 opposition method (Техника)
+	 
+Results for метод высоковольтной тренировки (simple):
+	method of a high-voltage training
+Results for метод вычитания (сложения) цветов (simple):
+	method of subtraction (addition) of flowers
+Results for метод Галёркина (simple):
+	Galyorkin's method
+Results for метод гармонического баланса (simple):
+	method of harmonious balance
+Results for метод геометрической [лучевой] оптики (simple):
+	method of geometrical [beam] optics
+Results for метод глубокой печати (simple):
+	method of an intaglio printing
+Results for метод горячей и холодной нагрузок (simple):
+	method of hot and cold loadings
+Results for метод градиента (simple):
+	gradient method
+Results for метод двух экспозиций (simple):
+	method of two expositions
+Results for метод декорирования (simple):
+	dressing method
+Results for метод динамического коллапса (simple):
+	method of a dynamic collapse
+Results for метод динамического программирования (simple):
+	method of dynamic programming
+Results for метод дистанционного управления (simple):
+	method of remote control
+Results for метод дополнения (simple):
+	addition method
+Results for метод заграждения эхо-сигнала (simple):
+	echo signal obstacle method
+Results for метод замещений (simple):
+	method of replacements
+Results for метод защиты (simple):
+	protection method
+Results for метод зеркальных изображений:
+	 method of electrical images (Техника)
+	 
+Results for метод зонной плавки:
+	 floating-zone method (Техника)
+	 
+Results for метод идентификации и нумерации блоков сообщения (simple):
+	method of identification and numbering of blocks of the message
+Results for метод измерений сравнением:
+	 comparison measurement (Естественные науки)
+	 
+Results for метод интерполяции (simple):
+	interpolation method
+Results for метод ионной имплантации:
+	 ion implantation technique (Естественные науки)
+	 
+Results for метод касательных [метод Ньютона] (simple):
+	method of tangents [Newton's method]
+Results for метод квадратурной модуляции (simple):
+	method of quadrature modulation
+Results for метод кодирования:
+	 encoding technique (Компьютеры)
+	 
+	 compact coding method (Техника)
+	 
+Results for метод коммутации каналов (simple):
+	circuit switching method
+Results for метод компенсации (simple):
+	compensation method
+Results for метод конечных разностей (элементов) (simple):
+	method of final differences (elements)
+Results for метод контурных напряжений (токов, уравнений) (simple):
+	method of planimetric tension (currents, equations)
+Results for метод короткого замыкания:
+	 shunting method (Техника)
+	 
+Results for метод круговых диаграмм (simple):
+	method of circular charts
+Results for метод линейного предсказания (simple):
+	method of linear prediction
+Results for метод макроячеек (simple):
+	method of macrocells
+Results for метод максимального (наибольшего) правдоподобия (simple):
+	method of the maximum (greatest) likelihood
+Results for метод максимальной апостериорной вероятности (simple):
+	method of the maximum a posteriori probability
+Results for метод максимальной энтропии (simple):
+	method of the maximum entropy
+Results for метод максимума (simple):
+	maximum method
+Results for метод малого параметра:
+	 perturbation method (Техника)
+	 
+Results for метод маскирования:
+	 masking technique (Компьютеры)
+	 
+Results for метод масштабирования:
+	 scaling technique (Компьютеры)
+	 
+Results for метод матриц логических элементов (simple):
+	method of matrixes of logical elements
+Results for метод многостанционного доступа (simple):
+	method of multistation access
+Results for метод моделирования (simple):
+	modeling method
+Results for метод модуляции сигнала (simple):
+	method of modulation of a signal
+Results for метод модуляции электронного луча (simple):
+	method of modulation of an electronic beam
+Results for метод моментов (simple):
+	method of the moments
+Results for метод монтажа:
+	 mounting technique (Компьютеры)
+	 
+Results for метод Монте-Карло:
+	 Monte-Carlo method (Естественные науки)
+	 
+	 Monte Carlo method (Бизнес)
+	 
+Results for метод мультиплексора (simple):
+	multiplexer method
+Results for метод наведённых электродвижущих (магнитодвижущих) сил (simple):
+	method of the induced electromotive (magnetodriving) forces
+Results for метод наилучшего приближения:
+	 best fit (Естественные науки)
+	 
+	 best fit method (Техника)
+	 
+Results for метод наименьших квадратов:
+	 method of least squares (Естественные науки)
+	 
+	 least-squares method (Компьютеры)
+	 
+	 least square method (Естественные науки)
+	 
+	 least squares method (Техника)
+	 
+Results for метод наискорейшего спуска:
+	 method of steepest descent (Естественные науки)
+	 
+Results for метод наложения:
+	 superposition method (Техника)
+	 
+Results for метод напыления:
+	 sputtering technique (Естественные науки)
+	 
+Results for метод настройки (simple):
+	control method
+Results for метод неполного разложения Холески (simple):
+	method of incomplete decomposition Holeski
+Results for метод нулевых биений (simple):
+	method of zero beats
+Results for метод обработки:
+	 processing techniques (Техника)
+	 
+Results for метод однонаправленного планирования (simple):
+	method of the unidirectional planning
+Results for метод ортогонализированных плоских волн (simple):
+	method of ortogonalizirovanny flat waves
+Results for метод отрезков прямых (simple):
+	method of pieces of straight lines
+Results for метод оценок (simple):
+	method of estimates
+Results for метод падения напряжения (simple):
+	power failure method
+Results for метод парной перестановки (simple):
+	method of pair shift
+Results for метод пеленгования (simple):
+	pelengovaniye method
+Results for метод перевёрнутого кристалла (simple):
+	method of the turned crystal
+Results for метод передачи полномочия (simple):
+	method of transfer of power
+Results for метод передачи сигналов с расширенным спектром (simple):
+	signaling method with an expanded range
+Results for метод перекомпенсации (simple):
+	overcompensation method
+Results for метод переходных характеристик (simple):
+	method of transitional characteristics
+Results for метод подвижной маски (simple):
+	method of a mobile mask
+Results for метод подобия:
+	 similarity method (Техника)
+	 
+Results for метод подстановки (simple):
+	substitution method
+Results for метод полного перебора:
+	 exhaustive method (Техника)
+	 
+Results for метод последовательной релаксации (simple):
+	method of a consecutive relaxation
+Results for метод последовательных приближений:
+	 method of successive approximations (Естественные науки)
+	 
+	 approximation method (Естественные науки)
+	 
+Results for метод постоянного нагруженного резервирования (simple):
+	method of the constant loaded reservation
+Results for метод предсказания (simple):
+	prediction method
+Results for метод представлений в спектральной (частотной) области (simple):
+	method of representations in spectral (frequency) area
+Results for метод преимущественного поиска в глубину (ширину) (simple):
+	method of primary search in depth (width)
+Results for метод проб и ошибок:
+	 trial and error method 
+	 method of trial and error (Бизнес)
+	 
+	 trial-and-error method (Естественные науки)
+	 
+Results for метод проверки:
+	 check method (Техника)
+	 
+Results for метод прямого доступа:
+	 direct access method (Компьютеры)
+	 
+Results for метод псевдопотенциала (simple):
+	pseudo-potential method
+Results for метод равносигнальной зоны (simple):
+	method of an equal-signal zone
+Results for метод радиолокационного определения высоты цели (simple):
+	method of radar determination of height of the purpose
+Results for метод разделения времени (каналов, переменных) (simple):
+	method of division of time (channels, variables)
+Results for метод раздельного учёта потерь (simple):
+	method of separate accounting of losses
+Results for метод разложения по собственным модам (simple):
+	decomposition method on own fashion
+Results for метод разнесённого приёма (simple):
+	method of the carried reception
+Results for метод разностной доплеровской частоты (simple):
+	method of differential Doppler frequency
+Results for метод резиновой нити (simple):
+	method of rubber thread
+Results for метод самонаведения (simple):
+	homing method
+Results for метод связанных блоков (simple):
+	method of the connected blocks
+Results for метод секущих:
+	 secant method (Техника)
+	 
+Results for метод сжатия растра (simple):
+	method of compression of a raster
+Results for метод силовых функций (simple):
+	method of power functions
+Results for метод симметричного смещения (simple):
+	method of symmetric shift
+Results for метод симметричных составляющих (simple):
+	method of symmetric components
+Results for метод сканирования:
+	 scanning method (Компьютеры)
+	 
+Results for метод следящей связи (simple):
+	method of the watching communication
+Results for метод случайного блуждания (доступа) (simple):
+	method of random walk (access)
+Results for метод смешения на гармониках (simple):
+	mixture method on harmonicas
+Results for метод смещения несущей (поднесущей) (simple):
+	method of shift of bearing (subbearing)
+Results for метод согласования по полю (simple):
+	coordination method across the field
+Results for метод сопряжённых градиентов (simple):
+	method of the interfaced gradients
+Results for метод спектральной диафрагмы (simple):
+	method of a spectral diaphragm
+Results for метод сравнения:
+	 comparison method (Техника)
+	 
+Results for метод стандартных блоков (simple):
+	method of standard blocks
+Results for метод стационарной фазы (simple):
+	method of a stationary phase
+Results for метод считывания в процессе записи (simple):
+	reading method in the course of record
+Results for метод тёмного (яркого) поля (simple):
+	method of the dark (bright) field
+Results for метод тормозящего переменного поля (simple):
+	method of the braking variation field
+Results for метод трафаретной печати (simple):
+	method of a stencil process
+Results for метод трёх тонов (simple):
+	method of three tones
+Results for метод удаляемой маски (simple):
+	method of the deleted mask
+Results for метод узловых потенциалов (simple):
+	method of nodal potentials
+Results for метод фазового контраста:
+	 phase contrast (Техника)
+	 
+Results for метод фазовой плоскости (simple):
+	method of the phase plane
+Results for метод фотолитографии:
+	 photomasking method (Компьютеры)
+	 
+Results for метод функций Грина (simple):
+	method of functions of Green
+Results for метод эквивалентных поверхностных токов (simple):
+	method of equivalent superficial currents
+Results for метод экстраполяции (simple):
+	extrapolation method
+Results for метод электронно-лучевой [электронной] литографии (simple):
+	method of an electron beam [electronic] lithograph
+Results for метод электронных орбит (simple):
+	method of electronic orbits
+Results for метод Якоби (simple):
+	Jacobi's method
+Results for (не)разрушающий метод (simple):
+	not destroying method
+Results for порошковый метод (simple):
+	powder method
+Results for последовательный метод:
+	 sequential method (Техника)
+	 
+Results for прямой метод:
+	 direct method (Бизнес)
+	 
+Results for резонансный метод (simple):
+	resonant method
+Results for резонаторный метод (simple):
+	rezonatorny method
+Results for символический метод (simple):
+	symbolical method
+Results for событийный метод:
+	 event-driven method (Компьютеры)
+	 
+Results for стробоскопический метод (simple):
+	stroboscopic method
+Results for триангуляционный метод (simple):
+	triangulable method
+Results for четырёхзондовый метод (simple):
+	four-probe method
+Results for численный метод:
+	 numerical method (Компьютеры)
+	 
+Results for шлирен-метод (simple):
+	shliren-method
+Results for эвристический метод:
+	 heuristic method 
+Results for эпитаксиальный метод:
+	 epitaxial technique (Компьютеры)
+	 
+Results for методика исследования (simple):
+	research technique
+Results for методика обучения (simple):
+	training technique
+Results for (ин)дефинитная метрика (simple):
+	(ин) definitny metrics
+Results for метрика программного обеспечения:
+	 software metrics (Компьютеры)
+	 
+Results for равномерная метрика (simple):
+	uniform metrics
+Results for фоновая метрика (simple):
+	background metrics
+Results for исполнительный механизм:
+	 power unit (Техника)
+	 
+	 operating mechanism (Естественные науки)
+	 
+Results for лентопротяжный механизм:
+	 tape mechanism (Естественные науки)
+	 
+	 tape drive mechanism (Компьютеры)
+	 
+Results for механизм блокировки:
+	 interlock[ˌɪntəˈlɔk] (Естественные науки)
+	 
+	 locking gear (Техника)
+	 
+Results for механизм возврата каретки (simple):
+	mechanism of return of the carriage
+Results for механизм вращения антенны:
+	 scanner assembly (Техника)
+	 
+Results for механизм вывода (simple):
+	conclusion mechanism
+Results for механизм группирования (simple):
+	grouping mechanism
+Results for механизм дистанционного управления:
+	 remote control gear (Техника)
+	 
+Results for механизм защиты кристалла (simple):
+	mechanism of protection of a crystal
+Results for механизм излучения (simple):
+	radiation mechanism
+Results for механизм логических выводов (simple):
+	mechanism of logical conclusions
+Results for механизм намотки (транспортирования) ленты (simple):
+	mechanism of winding (transportation) of a tape
+Results for механизм настройки:
+	 tuning mechanism (Техника)
+	 
+Results for механизм опускания тонарма (simple):
+	mechanism of lowering of a tonarm
+Results for механизм протяжки бумаги (simple):
+	paper broach mechanism
+Results for механизм разграничения доступа (simple):
+	access differentiation mechanism
+Results for механизм разрешения (сопряжения) конфликтов (simple):
+	mechanism of permission (interface) of the conflicts
+Results for механизм распознавания (simple):
+	recognition mechanism
+Results for механизм фазовой фокусировки (simple):
+	mechanism of phase focusing
+Results for поворотный механизм:
+	 rotating apparatus (Естественные науки)
+	 
+Results for распределительный механизм:
+	 timming gear (Естественные науки)
+	 
+	 distributor gear (Техника)
+	 
+Results for реверсивный механизм:
+	 reverser (Естественные науки)
+	 
+	 reversing gear (Техника)
+	 
+Results for квантовая механика:
+	 quantum mechanics (Естественные науки)
+	 
+Results for точная механика:
+	 precision mechanics (Естественные науки)
+	 
+	 high-precision mechanics (Техника)
+	 
+Results for мигание изображения:
+	 image flicker (Техника)
+	 
+Results for мигание экрана:
+	 screen flash (Компьютеры)
+	 
+Results for миграция акцепторов (simple):
+	migration of acceptors
+Results for миграция вакансий (simple):
+	migration of vacancies
+Results for миграция дефектов (simple):
+	migration of defects
+Results for миграция доноров (simple):
+	migration of donors
+Results for миграция дырок:
+	 holes migration (Компьютеры)
+	 
+Results for миграция зарядов (simple):
+	migration of charges
+Results for миграция ионов:
+	 ion migration (Естественные науки)
+	 
+Results for миграция по междоузлиям (межзёренным границам) (simple):
+	migration on interstices (mezhzyorenny borders)
+Results for миграция электронов (simple):
+	migration of electrons
+Results for миграция энергии (simple):
+	energy migration
+Results for сканирующий микроденситометр (simple):
+	the scanning microdensitometer
+Results for ионный микрозонд:
+	 ion microprobe (Техника)
+	 
+Results for лазерный микрозонд:
+	 laser microprobe (Естественные науки)
+	 
+Results for сверхвысокочастотный [СВЧ-] микрозонд (simple):
+	superhigh-frequency [the microwave oven-] the microprobe
+Results for электронный микрозонд:
+	 electron-beam microprobe (Техника)
+	 
+Results for интегральный микромодуль (simple):
+	integrated micromodule
+Results for колончатый микромодуль (simple):
+	kolonchaty micromodule
+Results for микромодуль с двусторонними выводами:
+	 double-ended micromodule (Компьютеры)
+	 
+Results for плоский микромодуль (simple):
+	flat micromodule
+Results for собранный микромодуль (simple):
+	assembled micromodule
+Results for экранированный микромодуль (simple):
+	screened micromodule
+Results for этажерочный микромодуль:
+	 cordwood microminiature module (Техника)
+	 
+Results for микронеустойчивость плазмы (simple):
+	microinstability of plasma
+Results for главный [ведущий] микропроцессор (simple):
+	main [leader] microprocessor
+Results for микропроцессор ошибки ввода-вывода (simple):
+	input-output error microprocessor
+Results for микропроцессор с конвейерной обработкой данных (simple):
+	the microprocessor with conveyor data processing
+Results for микропроцессор с микропрограммным управлением:
+	 microprogrammed microprocessor (Компьютеры)
+	 
+Results for микропроцессор с наращиваемой (фиксированной) разрядностью (simple):
+	the microprocessor with the increased (fixed) word length
+Results for микропроцессор с перестраиваемой структурой (simple):
+	the microprocessor with the reconstructed structure
+Results for секционированный микропроцессор:
+	 bit slice microprocessor (Компьютеры)
+	 
+Results for специализированный микропроцессор:
+	 dedicated microprocessor (Компьютеры)
+	 
+Results for акустический микроскоп:
+	 acoustic microscope (Техника)
+	 
+Results for интерференционный микроскоп:
+	 interference microscope (Естественные науки)
+	 
+Results for ионный микроскоп:
+	 field-ion microscope (Техника)
+	 
+Results for поляризационный микроскоп:
+	 polarizing microscope (Естественные науки)
+	 
+	 polarized-light microscope (Техника)
+	 
+Results for протонный микроскоп:
+	 proton microscope (Техника)
+	 
+Results for радиометрический микроскоп (simple):
+	radiometric microscope
+Results for растровый микроскоп:
+	 scanning microscope (Техника)
+	 
+Results for туннельный микроскоп (simple):
+	tunnel microscope
+Results for ультразвуковой микроскоп (simple):
+	ultrasonic microscope
+Results for электронный микроскоп:
+	 supermicroscope (Естественные науки)
+	 
+	 electron microscope (Техника)
+	 
+Results for голографическая микроскопия (simple):
+	holographic microscopy
+Results for микроскопия по методу тёмного поля (simple):
+	microscopy by a method of the dark field
+Results for растровая электронная микроскопия (simple):
+	raster electronic microscopy
+Results for фазоконтрастная микроскопия (simple):
+	fazokontrastny microscopy
+Results for фотоакустическая микроскопия (simple):
+	photoacoustic microscopy
+Results for электронная микроскопия:
+	 submicroscopy (Естественные науки)
+	 
+	 electron microscopy (Естественные науки)
+	 
+Results for эмиссионная микроскопия (simple):
+	issue microscopy
+Results for безмембранный микрофон:
+	 no-diaphragm microphone (Техника)
+	 
+Results for встроенный микрофон (simple):
+	built-in microphone
+Results for губной микрофон:
+	 lip microphone (Компьютеры)
+	 
+Results for двунаправленный микрофон (simple):
+	bidirectional microphone
+Results for двух(четырёх)капсюльный микрофон (simple):
+	two (four) capsule microphone
+Results for дикторский микрофон:
+	 speaker microphone (Компьютеры)
+	 
+Results for дифференциальный микрофон:
+	 differential microphone (Техника)
+	 
+Results for измерительный микрофон (simple):
+	measuring microphone
+Results for керамический микрофон:
+	 ceramic microphone (Техника)
+	 
+Results for комбинированный микрофон (simple):
+	the combined microphone
+Results for конденсаторный микрофон:
+	 condenser microphone (Компьютеры)
+	 
+Results for контактный микрофон:
+	 contact microphone (Техника)
+	 
+Results for ленточный микрофон:
+	 ribbon microphone (Техника)
+	 
+Results for линейный микрофон:
+	 gun microphone (Компьютеры)
+	 
+Results for локальный микрофон (simple):
+	local microphone
+Results for магнитострикционный микрофон (simple):
+	magnetostriction microphone
+Results for микрофон ближнего действия (simple):
+	short-range microphone
+Results for микрофон линзового типа (simple):
+	microphone of lens type
+Results for микрофон переговорного устройства:
+	 interference microphone (Компьютеры)
+	 
+Results for микрофон-приёмник звукового давления (simple):
+	microphone receiver of sound pressure
+Results for микрофон с малым полным сопротивлением (simple):
+	the microphone with a small full resistance
+Results for микрофон с отражателем (simple):
+	the microphone with the reflector
+Results for микрофон с плоской частотной характеристикой (simple):
+	the microphone with the flat frequency characteristic
+Results for микрофон с преобразователем (simple):
+	the microphone with the converter
+Results for микрофон с фазосдвигающей цепочкой (simple):
+	the microphone with a fazosdvigayushchy chain
+Results for микрофон телефонного аппарата (simple):
+	microphone of the telephone set
+Results for миниатюрный микрофон (simple):
+	tiny microphone
+Results for нагрудный микрофон:
+	 lavaliere microphone (Компьютеры)
+	 
+	 chest plate assembly (Техника)
+	 
+Results for (не, остро)направленный микрофон (simple):
+	(not, sharply) the directed microphone
+Results for петличный микрофон (simple):
+	petlichny microphone
+Results for пьезоэлектрический микрофон (simple):
+	piezoelectric microphone
+Results for робастный микрофон (simple):
+	robastny microphone
+Results for ручной микрофон:
+	 hand microphone (Компьютеры)
+	 
+Results for студийный микрофон:
+	 professional microphone (Компьютеры)
+	 
+Results for тепловой микрофон (simple):
+	thermal microphone
+Results for термопарный микрофон (simple):
+	thermopair microphone
+Results for транзисторный микрофон (simple):
+	transistor microphone
+Results for угольный микрофон:
+	 carbon microphone (Компьютеры)
+	 
+	 granular microphone (Техника)
+	 
+Results for шумозащищённый микрофон (simple):
+	shumozashchishchyonny microphone
+Results for электретный микрофон:
+	 electret microphone (Компьютеры)
+	 
+Results for электродинамический микрофон:
+	 moving conductor microphone (Компьютеры)
+	 
+Results for электромагнитный микрофон:
+	 electromagnetic microphone (Компьютеры)
+	 
+	 magnetic microphone (Техника)
+	 
+Results for электронный микрофон (simple):
+	electronic microphone
+Results for электростатический микрофон (simple):
+	electrostatic microphone
+Results for эталонный микрофон (simple):
+	reference microphone
+Results for оптическая микрофотография (simple):
+	optical microphoto
+Results for (растровая) электронная микрофотография (simple):
+	(raster) electronic microphoto
+Results for интегральная микроэлектроника (simple):
+	integrated microelectronics
+Results for магнитная микроэлектроника (simple):
+	magnetic microelectronics
+Results for полупроводниковая микроэлектроника:
+	 solid-state microelectronics (Техника)
+	 
+Results for твердотельная микроэлектроника (simple):
+	solid-state microelectronics
+Results for функциональная микроэлектроника (simple):
+	functional microelectronics
+Results for безусловная минимизация:
+	 unconstrained minimization (Естественные науки)
+	 
+Results for минимизация логической функции (simple):
+	minimization of logical function
+Results for минимизация просачивания сигнала (simple):
+	minimization of infiltration of a signal
+Results for минимум диаграммы направленности антенны (simple):
+	minimum of the directional pattern of the antenna
+Results for минимум излучения (simple):
+	radiation minimum
+Results for минимум пеленга (simple):
+	bearing minimum
+Results for минимум потенциала (simple):
+	potential minimum
+Results for тупой минимум (simple):
+	stupid minimum
+Results for энергетический минимум в пространстве импульсов (simple):
+	power minimum in space of impulses
+Results for минор определителя (simple):
+	determinant minor
+Results for кремниевая мишень (simple):
+	silicon target
+Results for мишень с уменьшенным расплыванием (simple):
+	target with the reduced rasplyvaniye
+Results for мозаичная мишень (simple):
+	mosaic target
+Results for пироэлектрическая мишень (simple):
+	pyroelectric target
+Results for плазменная мишень (simple):
+	plasma target
+Results for сменная распыляемая мишень (simple):
+	the replaceable sprayed target
+Results for мнемоника операндов (simple):
+	mnemonic of operands
+Results for многообразие состояний (simple):
+	variety of states
+Results for многообразие физических механизмов (simple):
+	variety of physical mechanisms
+Results for многообразие форм:
+	 multiformity[ˌmʌltɪˈfɔ:mɪtɪ] (Естественные науки)
+	 
+Results for активный многополюсник (simple):
+	active multiterminal network
+Results for нелинейный многополюсник (simple):
+	nonlinear multiterminal network
+Results for пассивный многополюсник (simple):
+	passive multiterminal network
+Results for управляемый многополюсник (simple):
+	the operated multiterminal network
+Results for множество состояний (simple):
+	set of states
+Results for масштабный множитель:
+	 scale factor (Техника)
+	 
+Results for множитель шкалы (simple):
+	scale multiplier
+Results for аксиальная [осевая] мода (simple):
+	axial [axial] fashion
+Results for аксиально-симметричная мода (simple):
+	axial and symmetric fashion
+Results for активная мода (simple):
+	active fashion
+Results for акустическая мода (simple):
+	acoustic fashion
+Results for аномальная мода (simple):
+	abnormal fashion
+Results for антисимметричная мода (simple):
+	antisymmetric fashion
+Results for антистоксова мода (simple):
+	anti-Stokes fashion
+Results for (а)симметричная мода (simple):
+	(a) symmetric fashion
+Results for быстрая мода (simple):
+	fast fashion
+Results for возбуждаемая мода (simple):
+	the excited fashion
+Results for возбуждающая мода (simple):
+	exciting fashion
+Results for вынужденная мода (simple):
+	the compelled fashion
+Results for вытекающая мода (simple):
+	the following fashion
+Results for гауссова мода (simple):
+	the fashion is Gaussian
+Results for гибридная мода (simple):
+	hybrid fashion
+Results for гиромагнитная мода (simple):
+	gyromagnetic fashion
+Results for дебаевская [релаксационная] мода (simple):
+	Debye [relaxation] fashion
+Results for дипольная мода (simple):
+	dipolar fashion
+Results for диффузионная мода (simple):
+	diffusive fashion
+Results for дрейфовая мода (simple):
+	drift fashion
+Results for жёсткая мода (simple):
+	rigid fashion
+Results for запрещённая мода (simple):
+	the forbidden fashion
+Results for затухающая мода (simple):
+	the fading fashion
+Results for излучаемая мода (simple):
+	the radiated fashion
+Results for ионно-звуковая мода (simple):
+	ion-sound fashion
+Results for квадрупольная мода (simple):
+	kvadrupolny fashion
+Results for квазиневырожденная мода (simple):
+	quasinondegenerate fashion
+Results for критическая мода (simple):
+	critical fashion
+Results for крутильная мода (simple):
+	tortional fashion
+Results for лазерная мода (simple):
+	laser fashion
+Results for локализованная мода (simple):
+	the localized fashion
+Results for лучевая мода:
+	 beam mode (Компьютеры)
+	 
+Results for лучеводная мода (simple):
+	luchevodny fashion
+Results for магнитная мода (simple):
+	magnetic fashion
+Results for медленная мода (simple):
+	slow fashion
+Results for мода, восстанавливающая (понижающая) симметрию (simple):
+	the fashion restoring (lowering) symmetry
+Results for мода высшего (нулевого, первого) порядка (simple):
+	fashion of the highest (zero, the first) about
+Results for мода Голдстоуна (simple):
+	Goldstone's fashion
+Results for мода плазменного волновода (simple):
+	fashion of a plasma wave guide
+Results for мода с до(сверх)критическим затуханием (simple):
+	fashion with to (over) critical attenuation
+Results for мода с (левой, правой) круговой поляризацией (simple):
+	fashion with (left, right) circular polarization
+Results for мода Эрмита-Гаусса (simple):
+	Hermite-Gauss's fashion
+Results for мягкая мода (simple):
+	soft fashion
+Results for (не)возмущённая мода (simple):
+	(not) the indignant fashion

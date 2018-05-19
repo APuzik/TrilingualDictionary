@@ -1,0 +1,2406 @@
+Results for первичное напряжение:
+	 primary voltage (Техника)
+	 
+Results for переменное напряжение:
+	 alternating voltage 
+	 alternating stress (Естественные науки)
+	 
+Results for периодическое напряжение:
+	 repeated stress (Естественные науки)
+	 
+Results for пилообразное напряжение:
+	 sawtooth voltage (Техника)
+	 
+	 saw tooth voltage (Техника)
+	 
+Results for поверхностное напряжение:
+	 surface stress (Техника)
+	 
+Results for поляризующее напряжение (simple):
+	the polarizing tension
+Results for пороговое напряжение:
+	 threshold voltage (Естественные науки)
+	 
+Results for постоянное напряжение:
+	 constant voltage (Техника)
+	 
+	 continuous stress (Техника)
+	 
+Results for приложенное напряжение:
+	 impressed voltage (Техника)
+	 
+	 applied voltage (Техника)
+	 
+Results for пробивное напряжение [напряжение пробоя] (simple):
+	penetrative tension [breakdown tension]
+Results for противодействующее напряжение:
+	 bucking voltage (Техника)
+	 
+Results for противофазное напряжение (simple):
+	antiphase tension
+Results for прямое напряжение:
+	 forward voltage (Техника)
+	 
+Results for псофометрическое напряжение (simple):
+	psofometrichesky tension
+Results for рабочее напряжение:
+	 running voltage (Естественные науки)
+	 
+	 operating voltage (Техника)
+	 
+Results for равновесное напряжение (simple):
+	equilibrium tension
+Results for разрядное напряжение:
+	 spark-over voltage (Естественные науки)
+	 
+	 discharge voltage (Техника)
+	 
+Results for реактивное напряжение:
+	 reactive voltage (Естественные науки)
+	 
+Results for сверхвысокое напряжение:
+	 extra-high voltage (Техника)
+	 
+Results for синфазное напряжение:
+	 common-mode voltage (Техника)
+	 
+Results for стабилизированное напряжение (simple):
+	the stabilized tension
+Results for тактовое напряжение (simple):
+	clock tension
+Results for термическое напряжение:
+	 heat stress (Естественные науки)
+	 
+Results for тормозящее напряжение:
+	 decelerating voltage (Техника)
+	 
+Results for управляющее напряжение:
+	 control voltage (Техника)
+	 
+Results for ускоряющее напряжение:
+	 acceleration voltage (Техника)
+	 
+Results for фокусирующее напряжение (simple):
+	the focusing tension
+Results for электрострикционное напряжение:
+	 piezoelectric stress (Техника)
+	 
+Results for эмиттерное напряжение (simple):
+	emitter tension
+Results for эффективное напряжение:
+	 rms voltage (Техника)
+	 
+Results for напряжённость магнитного (электрического) поля (simple):
+	tension of the magnetic (electric) field
+Results for напряжённость поля в свободном пространстве (simple):
+	tension of the field in free space
+Results for напряжённость поля падающего излучения (simple):
+	tension of the field of the falling radiation
+Results for напряжённость поля сигнала (радиошумов) (simple):
+	tension of the field of a signal (radio noise)
+Results for напряжённость шумового поля (simple):
+	tension of the noise field
+Results for косвенное напыление (simple):
+	indirect dusting
+Results for напыление тонких плёнок (simple):
+	dusting of thin films
+Results for последовательное напыление (simple):
+	consecutive dusting
+Results for прямое напыление (simple):
+	direct dusting
+Results for реактивное напыление (simple):
+	jet dusting
+Results for электронно-лучевое напыление (simple):
+	electron beam dusting
+Results for наработка на отказ:
+	 time between failures 
+	 time to failure (Техника)
+	 
+Results for нарастание колебаний (simple):
+	increase of fluctuations
+Results for нарастание мощности (simple):
+	increase of power
+Results for нарастание напряжения (simple):
+	increase of tension
+Results for нарастание тока:
+	 current build-up (Техника)
+	 
+Results for нарастание фронта импульсов (simple):
+	increase of the front of impulses
+Results for (временное) нарушение радиосвязи (simple):
+	(temporary) violation of a radio communication
+Results for кратковременное нарушение радиосвязи (simple):
+	short-term violation of a radio communication
+Results for нарушение работоспособности (simple):
+	violation of working capacity
+Results for нарушение синхронизма:
+	 loss-of-synchronism (Техника)
+	 
+Results for нарушение телефонной связи (simple):
+	violation of telephone communication
+Results for нарушение упорядоченности (simple):
+	violation of orderliness
+Results for нарушение устойчивости (simple):
+	stability violation
+Results for нарушение целостности данных (simple):
+	violation of integrity of data
+Results for нарушение электроснабжения:
+	 mains interruption (Техника)
+	 
+Results for населённость энергетических уровней (simple):
+	density of population of power levels
+Results for автоматическая настройка:
+	 automatic configuration 
+	 autotune (Техника)
+	 
+Results for акустооптическая настройка (simple):
+	optical-acoustic control
+Results for бесшумная настройка:
+	 quiet tuning (Компьютеры)
+	 
+Results for грубая настройка:
+	 coarse tuning (Компьютеры)
+	 
+	 coarse adjustment (Техника)
+	 
+Results for двойная настройка (simple):
+	double control
+Results for дистанционная настройка:
+	 distance tuning (Техника)
+	 
+Results for ёмкостная настройка (simple):
+	capacitor control
+Results for кнопочная настройка:
+	 pushbutton tuning (Компьютеры)
+	 
+Results for механическая настройка (simple):
+	mechanical control
+Results for настройка антенны (simple):
+	setup of the antenna
+Results for настройка в резонанс (simple):
+	control in a resonance
+Results for настройка генератора:
+	 oscillator adjustment (Компьютеры)
+	 
+Results for настройка катушкой индуктивности (simple):
+	control by the inductance coil
+Results for настройка конденсатором (simple):
+	control by the condenser
+Results for настройка на одну частоту (simple):
+	control for one frequency
+Results for настройка на радиостанцию (simple):
+	control for radio station
+Results for настройка на среднее значение (simple):
+	control for average value
+Results for настройка по ключу (simple):
+	control on a key
+Results for настройка по нулевым биениям (simple):
+	control on zero beats
+Results for настройка по частоте:
+	 frequency adjustment (Компьютеры)
+	 
+Results for настройка приёмника (simple):
+	setup of the receiver
+Results for настройка программы (simple):
+	setting up program
+Results for настройка с автоматической подстройкой частоты (simple):
+	control with automatic frequency trim
+Results for настройка сопротивлением:
+	 resistance tuning (Техника)
+	 
+Results for настройка с помощью винта (simple):
+	control by means of the screw
+Results for настройка с перекрытием (simple):
+	control with overlapping
+Results for настройка усилителя (simple):
+	setup of the amplifier
+Results for острая настройка:
+	 hairbreadth tuning (Компьютеры)
+	 
+Results for плавная настройка:
+	 continuous tuning (Компьютеры)
+	 
+Results for ручная настройка:
+	 manual setting (Естественные науки)
+	 
+	 manual adjustment (Компьютеры)
+	 
+	 manual tuning (Техника)
+	 
+Results for тепловая настройка (simple):
+	thermal control
+Results for тонкая настройка:
+	 fine adjustment (Техника)
+	 
+Results for сенсорная настройка (simple):
+	touch control
+Results for синхронная настройка (simple):
+	synchronous control
+Results for точная настройка:
+	 coincidence tuning (Компьютеры)
+	 
+	 fine adjustment (Техника)
+	 
+	 line tuning (Техника)
+	 
+Results for тупая настройка (simple):
+	stupid control
+Results for эксплуатационная настройка (simple):
+	operational control
+Results for электрическая настройка (simple):
+	electric control
+Results for электронная настройка:
+	 electronic tuning (Техника)
+	 
+Results for наступление события:
+	 occurrence of an event (Естественные науки)
+	 
+Results for насыщение видеосигнала (simple):
+	saturation of video signal
+Results for насыщение квантового парамагнитного усилителя [твердотельного мазера] (simple):
+	saturation of the quantum paramagnetic amplifier [solid-state Mather]
+Results for насыщение линии (simple):
+	saturation of the line
+Results for насыщение магнитного материала (simple):
+	saturation of magnetic material
+Results for насыщение магнитострикции (simple):
+	saturation of a magnetostriction
+Results for насыщение накачки (simple):
+	saturation of a rating
+Results for насыщение перехода (simple):
+	transition saturation
+Results for насыщение связей (simple):
+	saturation of communications
+Results for насыщение сигнала (simple):
+	saturation of a signal
+Results for насыщение транзистора (simple):
+	saturation of the transistor
+Results for насыщение электронной лампы (simple):
+	saturation of the electron tube
+Results for высокая (низкая) насыщенность цвета (simple):
+	high (low) saturation of color
+Results for натяжение ленты магнитофона (simple):
+	tension of a tape of the tape recorder
+Results for натяжение провода:
+	 wire tension (Техника)
+	 
+Results for начальное натяжение (simple):
+	initial tension
+Results for поверхностное натяжение:
+	 interfacial tension (Естественные науки)
+	 
+	 surface tension (Естественные науки)
+	 
+	 surface intention (Естественные науки)
+	 
+Results for предварительное натяжение:
+	 prestressing (Техника)
+	 
+	 pre-stressing (Техника)
+	 
+Results for электростатическое натяжение (simple):
+	electrostatic tension
+Results for наушники радиопеленгатора (simple):
+	radio direction finder earphones
+Results for телефонные наушники:
+	 can[kæn] (Естественные науки)
+	 
+Results for нахождение первообразной (simple):
+	finding of an antiderivative
+Results for нахождение решения уравнения (simple):
+	finding of the solution of the equation
+Results for начало генерации (simple):
+	beginning of generation
+Results for начало действия импульса (simple):
+	beginning of action of an impulse
+Results for начало координат:
+	 origin of coordinates (Естественные науки)
+	 
+	 origin[ˈɔrɪdʒɪn] (Техника)
+	 
+Results for начало ленты (simple):
+	beginning of a tape
+Results for начало обзора (simple):
+	beginning of the review
+Results for начало обратного обмена (simple):
+	beginning of the return exchange
+Results for начало оперативного цикла (simple):
+	beginning of an operational cycle
+Results for начало отсчёта:
+	 reference mark 
+Results for начало пробоя (simple):
+	beginning of breakdown
+Results for начало проверки (simple):
+	beginning of check
+Results for начало развёртки по времени (simple):
+	the beginning of development on time
+Results for начало установки (simple):
+	beginning of installation
+Results for начало участка характеристики (simple):
+	beginning of the site of the characteristic
+Results for невязка исходного уравнения (simple):
+	not knitting of the initial equation
+Results for невязка приближённого решения (simple):
+	not knitting of the approximate decision
+Results for цветной негатив (simple):
+	color negative
+Results for незавершённость программы (simple):
+	incompleteness of the program
+Results for независимость от частоты (simple):
+	independence of frequency
+Results for незаселённость энергетических уровней (simple):
+	not population of power levels
+Results for механическая неисправность:
+	 mechanical failure (Техника)
+	 
+Results for неисправность прибора (simple):
+	malfunction of the device
+Results for постоянная неисправность (simple):
+	constant malfunction
+Results for адаптивный нейрон (simple):
+	adaptive neuron
+Results for афферентный нейрон:
+	 afferent neuron (Естественные науки)
+	 
+Results for возбуждающий нейрон:
+	 excitatory neuron (Естественные науки)
+	 
+Results for двигательный нейрон:
+	 motor neuron 
+Results for интегрирующий нейрон (simple):
+	the integrating neuron
+Results for искусственный нейрон (simple):
+	artificial neuron
+Results for линейный нейрон (simple):
+	linear neuron
+Results for пороговый нейрон (simple):
+	threshold neuron
+Results for регулирующий нейрон:
+	 adjustor neuron (Естественные науки)
+	 
+Results for суммирующий нейрон (simple):
+	the summarizing neuron
+Results for тонический нейрон (simple):
+	tonic neuron
+Results for униполярный нейрон:
+	 unipolar neuron (Естественные науки)
+	 
+Results for нейтрализация с помощью петлевой обратной связи (simple):
+	neutralization by means of loopback feedback
+Results for (полная) нейтрализация обратной связи (simple):
+	(full) neutralization of feedback
+Results for медленный нейтрон (simple):
+	slow neutron
+Results for тепловой нейтрон:
+	 thermal neutron (Естественные науки)
+	 
+Results for некритичность по чувствительности (simple):
+	noncriticality on sensitivity
+Results for безынерционная нелинейность (simple):
+	inertialess nonlinearity
+Results for магнитоупругая нелинейность (simple):
+	magnetoelastic nonlinearity
+Results for нелинейность в полосе пропускания (simple):
+	nonlinearity in bandwidth
+Results for нелинейность модуляционной (фазочастотной) характеристики (simple):
+	nonlinearity of the modulation (phase-frequency) characteristic
+Results for нелинейность развёртки (simple):
+	nonlinearity of development
+Results for нелинейность с ограниченной крутизной (simple):
+	nonlinearity with the narrow steepness
+Results for квадратное неравенство (simple):
+	square inequality
+Results for линейное неравенство (simple):
+	linear inequality
+Results for строгое неравенство:
+	 strict inequality (Естественные науки)
+	 
+Results for неравномерность коэффициента передачи (simple):
+	unevenness of coefficient of transfer
+Results for неравномерность частотной характеристики:
+	 variations in frequency response (Техника)
+	 
+Results for алгоритмическая неразрешимость (simple):
+	algorithmic unsolvability
+Results for нерегулярность процесса (simple):
+	irregularity of process
+Results for нерезкость изображения (simple):
+	unsharpness of the image
+Results for неровность поверхности подложки (simple):
+	roughness of a surface of a substrate
+Results for несоблюдение правил (simple):
+	non-compliance with rules
+Results for несовместимость дуплексной связи (simple):
+	incompatibility of duplex communication
+Results for электромагнитная несовместимость (simple):
+	electromagnetic incompatibility
+Results for несовместность системы уравнений (simple):
+	not compatibility of system of the equations
+Results for несовместность случайных событий (simple):
+	not compatibility of casual events
+Results for несовпадение фаз (simple):
+	discrepancy of phases
+Results for несовпадение шкал (simple):
+	discrepancy of scales
+Results for несогласованность волновых сопротивлений (simple):
+	inconsistency of wave resistance
+Results for несогласованность нагрузки с линией передачи (simple):
+	inconsistency of loading with a transmission line
+Results for несоизмеримость величин (simple):
+	incommensurability of sizes
+Results for несоответствие параметров (simple):
+	discrepancy of parameters
+Results for долго(кратко)временная нестабильность (simple):
+	long (briefly) temporary instability
+Results for мгновенная нестабильность (simple):
+	instant instability
+Results for нестабильность амплитуды (simple):
+	instability of amplitude
+Results for нестабильность синхронизации (simple):
+	instability of synchronization
+Results for нестабильность фазы:
+	 phase instability (Компьютеры)
+	 
+Results for нестабильность частоты:
+	 frequency instability (Компьютеры)
+	 
+Results for температурная нестабильность (simple):
+	temperature instability
+Results for авторегулируемая несущая (simple):
+	autoadjustable bearing
+Results for амплитудно(частотно)-модулированная несущая (simple):
+	it is amplitude (is frequency) - modulated bearing
+Results for восстановленная несущая (simple):
+	the restored bearing
+Results for высокочастотная несущая (simple):
+	high-frequency bearing
+Results for звуковая несущая:
+	 voice carrier (Компьютеры)
+	 
+Results for импульсная несущая:
+	 pulse carrier (Компьютеры)
+	 
+Results for контрольная несущая (simple):
+	control bearing
+Results for модулированная несущая:
+	 modulated carrier (Компьютеры)
+	 
+Results for непрерывная несущая (simple):
+	continuous bearing
+Results for несущая абонентской линии (simple):
+	bearing a subscriber line
+Results for несущая, включаемая потоком данных (речевым сигналом) (simple):
+	bearing, included by a data flow (a speech signal)
+Results for несущая изображения (звукового сопровождения) соседнего канала (simple):
+	bearing the image (soundtrack) of the neighboring canal
+Results for несущая постоянной мощности (simple):
+	bearing constant power
+Results for несущая, сдвинутая по фазе (simple):
+	bearing, shifted on a phase
+Results for несущая сигнала яркости (simple):
+	bearing brightness signal
+Results for несущая служебных каналов (simple):
+	bearing office channels
+Results for несущая частота:
+	 carrier frequency (Естественные науки)
+	 
+Results for ослабленная несущая (simple):
+	the weakened bearing
+Results for подавленная несущая:
+	 suppressed carrier (Компьютеры)
+	 
+Results for СВЧ-несущая (simple):
+	Microwave bearing
+Results for смещённая несущая (simple):
+	the displaced bearing
+Results for фазомодулированная несущая (simple):
+	phase-modulated bearing
+Results for неупорядоченность состояний (simple):
+	disorder of states
+Results for абсолютная неустойчивость:
+	 absolute instability (Естественные науки)
+	 
+Results for балонная неустойчивость (simple):
+	balloon instability
+Results for взрывная неустойчивость (simple):
+	explosive instability
+Results for винтовая неустойчивость:
+	 corkscrew instability (Естественные науки)
+	 
+Results for ганновская неустойчивость (simple):
+	gannovsky instability
+Results for гидромагнитная неустойчивость:
+	 hydromagnetic instability (Естественные науки)
+	 
+Results for глобальная неустойчивость (simple):
+	global instability
+Results for динамическая неустойчивость:
+	 dynamic instability (Естественные науки)
+	 
+Results for дрейфовая неустойчивость (simple):
+	drift instability
+Results for желобковая неустойчивость (simple):
+	zhelobkovy instability
+Results for замороженная неустойчивость (simple):
+	the frozen instability
+Results for изгибная неустойчивость (simple):
+	flexural instability
+Results for ионно-звуковая неустойчивость (simple):
+	ion-sound instability
+Results for кинетическая неустойчивость (simple):
+	kinetic instability
+Results for конвективная неустойчивость:
+	 convective instability (Естественные науки)
+	 
+Results for конусная неустойчивость (simple):
+	conical instability
+Results for магнитная неустойчивость:
+	 magnetic instability (Естественные науки)
+	 
+Results for магнитоакустическая неустойчивость (simple):
+	magnetoacoustic instability
+Results for неустойчивость замкнутой системы (simple):
+	instability of the closed system
+Results for неустойчивость захваченных частиц (simple):
+	instability of the taken particles
+Results for неустойчивость изображений (simple):
+	instability of images
+Results for неустойчивость колебаний (simple):
+	instability of fluctuations
+Results for неустойчивость кристаллической решётки (simple):
+	instability of a crystal lattice
+Results for неустойчивость мод (simple):
+	instability of fashion
+Results for неустойчивость плазмы (simple):
+	instability of plasma
+Results for неустойчивость поверхностных состояний (simple):
+	instability of superficial states
+Results for неустойчивость под действием собственного поля тока (simple):
+	instability under the influence of own field of current
+Results for неустойчивость при высоком уровне мощности (simple):
+	instability at high power level
+Results for неустойчивость при отрицательном смещении (simple):
+	instability at negative shift
+Results for неустойчивость при упругой накачке (simple):
+	instability at an elastic rating
+Results for неустойчивость спиновых волн (simple):
+	instability of spin waves
+Results for неустойчивость токовых струй (simple):
+	instability of current streams
+Results for неустойчивость усилителя (simple):
+	instability of the amplifier
+Results for неустойчивость фазы (simple):
+	instability of a phase
+Results for поперечная неустойчивость:
+	 rolling instability (Техника)
+	 
+	 lateral instability (Техника)
+	 
+Results for пролётная неустойчивость (simple):
+	flying instability
+Results for пучковая [потоковая] неустойчивость (simple):
+	puchkovy [stream] instability
+Results for статическая неустойчивость:
+	 static instability (Естественные науки)
+	 
+Results for стохастическая неустойчивость (simple):
+	stochastic instability
+Results for структурная неустойчивость (simple):
+	structural instability
+Results for тепловая неустойчивость (simple):
+	thermal instability
+Results for тормозная неустойчивость (simple):
+	brake instability
+Results for упругая неустойчивость (simple):
+	elastic instability
+Results for циклотронная неустойчивость (simple):
+	cyclotron instability
+Results for шланговая неустойчивость (simple):
+	hose instability
+Results for электрическая неустойчивость (simple):
+	electric instability
+Results for электронно-звуковая неустойчивость (simple):
+	electronic and sound instability
+Results for электростатическая неустойчивость (simple):
+	electrostatic instability
+Results for электротермическая неустойчивость (simple):
+	electrothermal instability
+Results for нечёткость изображения (simple):
+	illegibility of the image
+Results for электродный ниппель (simple):
+	electrode nipple
+Results for визирная нить:
+	 cross hair (Техника)
+	 
+Results for вихревая нить:
+	 vortex line (Естественные науки)
+	 
+Results for волластоновская нить (simple):
+	vollastonovsky thread
+Results for вольфрамовая нить:
+	 tungsten filament (Техника)
+	 
+Results for зигзагообразная нить:
+	 saw-tooth filament (Техника)
+	 
+Results for калиброванная нить (simple):
+	the calibrated thread
+Results for кварцевая нить:
+	 quartz fiber (Естественные науки)
+	 
+	 quartz fibre (Техника)
+	 
+Results for нить накала:
+	 filament[ˈfɪləmənt] 
+	 GUI filament (Техника)
+	 
+Results for нить подвеса (simple):
+	suspension thread
+Results for оксидная нить (simple):
+	oxidic thread
+Results for световая нить (simple):
+	light thread
+Results for спиральная нить (simple):
+	spiral thread
+Results for стеклянная нить:
+	 glass thread (Естественные науки)
+	 
+Results for тепловая нить (simple):
+	thermal thread
+Results for торированная нить (simple):
+	thoriated thread
+Results for угольная нить (simple):
+	coal thread
+Results for шёлковая нить:
+	 silk thread 
+Results for светящаяся ниша (simple):
+	the shining niche
+Results for экологическая ниша:
+	 environmental niche (Естественные науки)
+	 
+Results for гребешковая ножка (simple):
+	grebeshkovy leg
+Results for ножка камертона (simple):
+	tuning fork leg
+Results for ножка лампы (simple):
+	lamp leg
+Results for ножка микросхемы (simple):
+	chip leg
+Results for ножка цоколя (simple):
+	socle leg
+Results for опорная ножка (simple):
+	basic leg
+Results for пуговичная ножка (simple):
+	button leg
+Results for стеклянная ножка (simple):
+	glass leg
+Results for номенклатура изделий:
+	 listed products 
+	 range of products (Естественные науки)
+	 
+Results for абонентский номер:
+	 subscriber number 
+	 directory number (Компьютеры)
+	 
+Results for атомный номер:
+	 atomic number 
+	 charge number (Техника)
+	 
+Results for вызываемый номер:
+	 call number (Компьютеры)
+	 
+	 called number (Техника)
+	 
+Results for добавочный номер:
+	 extension number 
+Results for заводской номер:
+	 serial number 
+	 production number (Техника)
+	 
+Results for многозначный номер (simple):
+	multiple-valued number
+Results for номер блока:
+	 block number (Компьютеры)
+	 
+Results for номер диапазона частот (simple):
+	number of range of frequencies
+Results for номер канавки записи (simple):
+	number of a flute of record
+Results for номер логического канала:
+	 logical channel number (Компьютеры)
+	 
+Results for номер позиции (simple):
+	number of a position
+Results for номер строки:
+	 line number 
+	 row number (Компьютеры)
+	 
+Results for парольный номер (simple):
+	password number
+Results for порядковый номер:
+	 serial number 
+	 ordinal value (Естественные науки)
+	 
+	 sequence number (Компьютеры)
+	 
+	 order number (Естественные науки)
+	 
+Results for программируемый номер (simple):
+	programmable number
+Results for автоматический номеронабиратель:
+	 auto dialer (Компьютеры)
+	 
+Results for дисковый номеронабиратель (simple):
+	disk dialing unit
+Results for кнопочный номеронабиратель:
+	 push-button dialer (Компьютеры)
+	 
+	 push-button dial (Техника)
+	 
+Results for амортизационная норма (simple):
+	depreciation norm
+Results for норма вектора:
+	 norm of a vector (Техника)
+	 
+Results for норма времени выполнения операции (simple):
+	norm of time of performance of operation
+Results for норма выработки:
+	 performance standard 
+	 output rate (Естественные науки)
+	 
+Results for норма допускаемых индустриальных радиопомех (simple):
+	norm of the allowed industrial radio noise
+Results for норма допустимого излучения (simple):
+	norm of admissible radiation
+Results for норма функции (simple):
+	norm of function
+Results for волновая нормаль (simple):
+	wave normal
+Results for нормаль к кривой (поверхности) (simple):
+	normal to curve (surface)
+Results for фазовая нормаль (simple):
+	phase normal
+Results for нормально--замкнутый (simple):
+	normally - closed
+Results for нормально--разомкнутый (simple):
+	normally - opened
+Results for восстановленный носитель (simple):
+	the restored carrier
+Results for захваченный носитель (simple):
+	the captured carrier
+Results for избыточный носитель (simple):
+	excess carrier
+Results for инжектированный носитель (simple):
+	the injected carrier
+Results for ионизирующий носитель (simple):
+	the ionizing carrier
+Results for магнитный носитель:
+	 magnetic medium (Техника)
+	 
+Results for (не)основной носитель (simple):
+	(not) the main carrier
+Results for (не)собственный носитель (simple):
+	(not) own carrier
+Results for носитель данных:
+	 data medium (Компьютеры)
+	 
+Results for носитель записи:
+	 recording medium (Естественные науки)
+	 
+Results for носитель заряда:
+	 charge carrier (Естественные науки)
+	 
+Results for носитель информации:
+	 data carrier 
+	 information medium (Компьютеры)
+	 
+Results for носитель с высокой энергией (simple):
+	the carrier with high energy
+Results for плёночный носитель (simple):
+	film carrier
+Results for ракета-носитель:
+	 carrier rocket 
+	 launch vehicle (Техника)
+	 
+Results for свободный носитель:
+	 free carrier (Естественные науки)
+	 
+Results for тёплый носитель (simple):
+	warm carrier
+Results for ферромагнитный носитель (simple):
+	ferromagnetic carrier
+Results for фотовозбуждённый носитель (simple):
+	the photoexcited carrier
+Results for абсолютный нуль:
+	 absolute zero (Техника)
+	 
+Results for вещественный нуль (simple):
+	material zero
+Results for внешкальный нуль:
+	 inferred zero (Техника)
+	 
+Results for двоичный нуль (simple):
+	binary zero
+Results for десятичный нуль (simple):
+	decimal zero
+Results for комплексный нуль (simple):
+	complex zero
+Results for машинный нуль (simple):
+	machine zero
+Results for мнимый нуль (simple):
+	imaginary zero
+Results for нуль-вектор (simple):
+	zero vector
+Results for нуль диаграммы направленности антенны (simple):
+	zero directional pattern of the antenna
+Results for нуль-индикатор:
+	 null indicator 
+Results for нуль машины (simple):
+	zero car
+Results for нуль оси времени (simple):
+	zero axis of time
+Results for нуль-отношение (simple):
+	zero relation
+Results for нуль-тензор (simple):
+	zero tensor
+Results for нуль функции (simple):
+	zero function
+Results for нуль шкалы дальности (simple):
+	zero range scale
+Results for плавающий нуль:
+	 floating zero (Техника)
+	 
+Results for разрушенный нуль (simple):
+	the destroyed zero
+Results for сдвинутый нуль (simple):
+	the shifted zero
+Results for арабская нумерация (simple):
+	Arab numbering
+Results for десятичная нумерация (simple):
+	decimal numbering
+Results for (псевдо)совершенная нумерация (simple):
+	(pseudo) perfect numbering
+Results for римская нумерация (simple):
+	Roman numbering
+Results for нутация вектора магнитного момента (simple):
+	nutation of a vector of the magnetic moment
+Results for оптическая нутация (simple):
+	optical nutation
+Results for обгорание контактов:
+	 contact burning (Техника)
+	 
+Results for аппаратное обеспечение:
+	 hardware[ˈhɑ:dwɛə] 
+Results for информационное обеспечение:
+	 information support 
+	 data support (Техника)
+	 
+Results for математическое обеспечение:
+	 software 
+Results for (микро)программное обеспечение (simple):
+	(micro) software
+Results for обеспечение машинной графикой (simple):
+	providing with machine graphics
+Results for обеспечение нормального приёма (simple):
+	ensuring normal reception
+Results for обеспечение принятия решения (simple):
+	ensuring decision-making
+Results for техническое обеспечение:
+	 hardware[ˈhɑ:dwɛə] (Естественные науки)
+	 
+	 equipment[ɪˈkwɪpmənt] (Бизнес)
+	 
+	 engineering[ˌendʒɪˈnɪərɪŋ] (Техника)
+	 
+Results for экономическое обеспечение (simple):
+	economic providing
+Results for обеспечивание методик измерения (simple):
+	obespechivaniye of techniques of measurement
+Results for обжиг лампы (simple):
+	roasting of a lamp
+Results for обжиг полюсных наконечников (simple):
+	roasting of polar tips
+Results for боковой обзор:
+	 sideways view (Техника)
+	 
+Results for загоризонтный обзор (simple):
+	over-the-horizon review
+Results for круговой обзор:
+	 all-around view (Техника)
+	 
+Results for обзор поверхности земли (simple):
+	review of the Earth's surface
+Results for обзор рабочей зоны (simple):
+	review of a working zone
+Results for обзор состояний устройства (simple):
+	review of conditions of the device
+Results for передний обзор:
+	 forward view (Техника)
+	 
+Results for пространственный обзор (simple):
+	spatial review
+Results for радиолокационный обзор:
+	 radar scanning (Техника)
+	 
+Results for радиометрический обзор (simple):
+	radiometric review
+Results for секторный обзор:
+	 sector display (Техника)
+	 
+Results for обкладка конденсатора:
+	 capacitor plate (Естественные науки)
+	 
+Results for электронное облако:
+	 electron atmosphere (Естественные науки)
+	 
+Results for активная область:
+	 lasing region (Техника)
+	 
+Results for анодная область (simple):
+	anode area
+Results for базовая область:
+	 base area (Бизнес)
+	 
+Results for ближняя ИК-область спектра (simple):
+	near IK-area of a range
+Results for высокоомная область (simple):
+	high-resistance area
+Results for граничная область:
+	 cutoff region (Естественные науки)
+	 
+	 boundary region (Компьютеры)
+	 
+Results for динамическая область (simple):
+	dynamic area
+Results for доверительная область:
+	 confidence region (Естественные науки)
+	 
+Results for допороговая область (simple):
+	prethreshold area
+Results for замкнутая область (simple):
+	the closed area
+Results for катодная область (simple):
+	cathodic area
+Results for коллекторная область:
+	 collector region (Компьютеры)
+	 
+Results for намагниченная область (simple):
+	the magnetized area
+Results for нормальная область (simple):
+	normal area
+Results for обеднённая область (simple):
+	the impoverished area
+Results for область белых цветов (simple):
+	area of white colors
+Results for область взаимодействия:
+	 interconnection area (Компьютеры)
+	 
+	 interaction space (Техника)
+	 
+Results for область видимости (simple):
+	area of visibility
+Results for область возбуждения (simple):
+	area of excitement
+Results for область впадины (simple):
+	area of the hollow
+Results for область встречи (simple):
+	area of a meeting
+Results for область высоких (низких) частот (simple):
+	area of high (low) frequencies
+Results for область высокой корреляции (simple):
+	area of high correlation
+Results for область Гейгера-Мюллера (simple):
+	Area of Geygera-Myullera
+Results for область геометрической [лучевой] оптики (simple):
+	field of geometrical [beam] optics
+Results for область двойникования (simple):
+	area of a dvoynikovaniye
+Results for область дифракции (simple):
+	area of diffraction
+Results for область долины (simple):
+	area of the valley
+Results for область допустимых значений:
+	 range of tolerance (Техника)
+	 
+Results for область заполнения (simple):
+	area of filling
+Results for область затвора:
+	 gate region (Компьютеры)
+	 
+Results for область захвата (simple):
+	field of capture
+Results for область значений функции (simple):
+	area of values of function
+Results for область исследования:
+	 universe of discourse (Техника)
+	 
+Results for область истока (стока) (simple):
+	area of a source (drain)
+Results for область (квази)зеркального отражения (simple):
+	field (quasi) specular reflection
+Results for область когерентности (simple):
+	area of coherence
+Results for область команд (simple):
+	area of teams
+Results for область лавинного пробоя (умножения) (simple):
+	area of avalanche breakdown (multiplication)
+Results for область малых времён характеристики (simple):
+	area of small times of the characteristic
+Results for область насыщения (simple):
+	area of saturation
+Results for область науки (simple):
+	field of science
+Results for область ограничения (simple):
+	field of restriction
+Results for область (ограниченной) пропорциональности (simple):
+	area (limited) proportionality
+Results for область определения частот (simple):
+	range of definition of frequencies
+Results for область отрицательного сопротивления:
+	 negative resistance region (Техника)
+	 
+Results for область отсечки:
+	 cut-off region (Техника)
+	 
+Results for область памяти (simple):
+	area of memory
+Results for область перекрытия (simple):
+	field of overlapping
+Results for область переполнения:
+	 file overflow area (Компьютеры)
+	 
+Results for область поиска:
+	 search span (Компьютеры)
+	 
+	 search area (Техника)
+	 
+Results for область применения:
+	 scope[skəup] 
+	 range of application (Естественные науки)
+	 
+	 field of application (Техника)
+	 
+Results for область прозрачности (simple):
+	area of transparency
+Results for область пространственного [объёмного] заряда (simple):
+	area of a spatial [volume] charge
+Results for область прямой инжекции (электропроводимости) (simple):
+	area of direct injection (electric conductance)
+Results for область рассеяния на колебаниях решётки (simple):
+	area of dispersion on fluctuations of a lattice
+Results for область сильного поля (simple):
+	area of the strong field
+Results for область синхронизации:
+	 locking range (Естественные науки)
+	 
+Results for область слухового восприятия (simple):
+	area of acoustical perception
+Results for область сохранения содержания регистров (simple):
+	field of saving contents of registers
+Results for область спектральной чувствительности (simple):
+	area of spectral sensitivity
+Results for область срабатывания (simple):
+	area of operation
+Results for область страничного обмена (simple):
+	field of page exchange
+Results for область сходимости аргумента (simple):
+	area of convergence of an argument
+Results for область тени:
+	 shadow area (Бизнес)
+	 
+	 shadow zone (Техника)
+	 
+Results for область трассировки (simple):
+	area of trace
+Results for область умножения (simple):
+	field of multiplication
+Results for область управления (simple):
+	field of management
+Results for область устойчивости:
+	 stability region (Техника)
+	 
+Results for область хранения команд (simple):
+	area of storage of teams
+Results for область «чернее чёрного» (simple):
+	the area "is more black black"
+Results for область чувствительности (simple):
+	area of sensitivity
+Results for область р-n-перехода (simple):
+	area р - n - transition
+Results for обогащённая область (simple):
+	the enriched area
+Results for односвязная область:
+	 simply connected region (Естественные науки)
+	 
+	 singly connected domain (Компьютеры)
+	 
+Results for омическая область (simple):
+	ohmic area
+Results for охранная область (simple):
+	security area
+Results for первоначальная область включения (simple):
+	initial field of inclusion
+Results for переходная область (simple):
+	transitional area
+Results for (плавающая) базовая область (simple):
+	(floating) basic area
+Results for поляризованная область (simple):
+	the polarized area
+Results for рэлеевская область (simple):
+	Rayleigh region
+Results for скомпенсированная область (simple):
+	the compensated area
+Results for сплавная область (simple):
+	floatable area
+Results for эквипотенциальная область (simple):
+	equipotential area
+Results for экспонированная область резиста (simple):
+	the exhibited area of the rezist
+Results for эмиттерная область:
+	 emitter area (Компьютеры)
+	 
+Results for вибраторный облучатель (simple):
+	dipole irradiator
+Results for волноводный облучатель (simple):
+	the waveguide irradiator
+Results for гибридно-модовый облучатель (simple):
+	hybrid модовый irradiator
+Results for двухщелевой облучатель (simple):
+	two-slot-hole irradiator
+Results for многолучевой облучатель (simple):
+	multibeam irradiator
+Results for многорупорный облучатель (simple):
+	mnogoruporny irradiator
+Results for многоэлементный облучатель (simple):
+	multielement irradiator
+Results for облучатель антенны (simple):
+	antenna irradiator
+Results for одномодовый облучатель (simple):
+	single-mode irradiator
+Results for точечный облучатель (simple):
+	dot irradiator
+Results for (четырёх)рупорный облучатель (simple):
+	(four) ruporny irradiator
+Results for облучение лазером:
+	 laser irradiation (Естественные науки)
+	 
+Results for облучение мишени (simple):
+	radiation of a target
+Results for облучение цели (simple):
+	radiation of the purpose
+Results for ионный обмен:
+	 ion exchange (Естественные науки)
+	 
+Results for обмен в реальном масштабе времени (simple):
+	exchange in real time
+Results for обмен данными:
+	 data exchange 
+	 data traffic (Техника)
+	 
+Results for обмен по запросам (simple):
+	exchange by inquiries
+Results for обмен по шине (simple):
+	exchange on the tire
+Results for обмен прерываний (simple):
+	exchange of interruptions
+Results for обмен сообщениями:
+	 message exchange (Компьютеры)
+	 
+Results for обмен телевизионными программами:
+	 TV program exchange (Компьютеры)
+	 
+Results for простой обмен (simple):
+	simple exchange
+Results for условный обмен (simple):
+	conditional exchange
+Results for анодная обмотка (simple):
+	anode winding
+Results for барабанная обмотка:
+	 drum winding (Техника)
+	 
+Results for безындуктивная обмотка (simple):
+	bezynduktivny winding
+Results for бифилярная обмотка:
+	 bifilar winding (Компьютеры)
+	 
+Results for вторичная обмотка:
+	 secondary winding (Техника)
+	 
+	 secondary coil (Техника)
+	 
+Results for высоко(низко)вольтная обмотка (simple):
+	highly (low) voltny winding
+Results for в(ы)ходная обмотка (simple):
+	in (y) hodny winding
+Results for галетная обмотка (simple):
+	galetny winding
+Results for главная обмотка (simple):
+	main winding
+Results for двойная волновая (петлевая) обмотка (simple):
+	double wave (loopback) winding
+Results for демпферная обмотка:
+	 damper winding (Техника)
+	 
+Results for дифференциальная обмотка:
+	 differential winding (Техника)
+	 
+Results for дробно-шаговая обмотка (simple):
+	fractional and step winding
+Results for замедляющая обмотка (simple):
+	the slowing-down winding
+Results for замкнутая обмотка:
+	 closed-coil winding (Техника)
+	 
+Results for кольцевая обмотка:
+	 toroidal winding (Техника)
+	 
+Results for коммутационная обмотка (simple):
+	switching winding
+Results for компенсационная обмотка:
+	 compensating winding (Техника)
+	 
+Results for корзиночная обмотка:
+	 basket winding (Техника)
+	 
+Results for лягушачья обмотка (simple):
+	frog winding
+Results for множественно-волновая (петлевая) обмотка (simple):
+	multiple and wave (loopback) winding
+Results for обмотка «в навал» (simple):
+	winding "in a pile"
+Results for обмотка возбуждения:
+	 magnetizing coil (Естественные науки)
+	 
+	 drive winding (Компьютеры)
+	 
+	 field winding (Техника)
+	 
+Results for обмотка записи (simple):
+	record winding
+Results for обмотка запрета:
+	 inhibit winding (Техника)
+	 
+Results for обмотка накала (simple):
+	heat winding
+Results for обмотка обратной связи:
+	 feedback winding (Техника)
+	 
+Results for обмотка подмагничивания:
+	 field winding (Техника)
+	 
+Results for обмотка ротора:
+	 rotor winding (Техника)
+	 
+Results for обмотка самоблокировки (simple):
+	automatic interlock winding
+Results for обмотка сдвига:
+	 shift winding (Компьютеры)
+	 
+Results for обмотка с диаметральным (укороченным) шагом (simple):
+	winding with the diametrical (shortened) step
+Results for обмотка сердечника (якоря) (simple):
+	winding of the core (anchor)
+Results for обмотка смещения:
+	 bias coil (Техника)
+	 
+Results for обмотка с отводом от средней точки (simple):
+	winding with branch from an average point
+Results for обмотка считывания:
+	 read-out winding (Техника)
+	 
+Results for обмотка с V-образными катушками (simple):
+	winding with V-shaped coils
+Results for обмотка типа «беличья клетка» («ёлочка») (simple):
+	winding like "squirrel cage" ("fir-tree")
+Results for обмотка трансформатора:
+	 transformer winding (Техника)
+	 
+Results for обмотка управления:
+	 signal winding (Компьютеры)
+	 
+	 control winding (Техника)
+	 
+Results for первичная обмотка:
+	 primary winding (Компьютеры)
+	 
+Results for петлевая обмотка:
+	 lap winding (Техника)
+	 
+Results for пусковая обмотка:
+	 starting winding (Техника)
+	 
+Results for равносекционная обмотка:
+	 diamond winding (Техника)
+	 
+Results for разрядная обмотка:
+	 bit winding (Техника)
+	 
+Results for рядовая обмотка (simple):
+	ordinary winding
+Results for сверхпроводящая обмотка (simple):
+	superconducting winding
+Results for секционированная обмотка:
+	 tappet winding (Техника)
+	 
+Results for сосредоточенная обмотка:
+	 concentrated winding (Техника)
+	 
+Results for стабилизирующая обмотка:
+	 stabilizing winding (Техника)
+	 
+Results for ступенчатая обмотка:
+	 step winding (Техника)
+	 
+Results for токовая обмотка:
+	 current winding (Техника)
+	 
+Results for успокоительная обмотка (simple):
+	soothing winding
+Results for шаговая обмотка:
+	 full-pitch winding (Техника)
+	 
+Results for асимптотически робастное обнаружение (simple):
+	asymptotically robastny detection
+Results for дальнее обнаружение:
+	 early detection (Техника)
+	 
+Results for двухальтернативное обнаружение (simple):
+	two-alternative detection
+Results for загоризонтное обнаружение (simple):
+	over-the-horizon detection
+Results for обнаружение доплеровского сдвига частоты (simple):
+	detection of Doppler shift of frequency
+Results for обнаружение за несколько обзоров (simple):
+	detection for several reviews
+Results for обнаружение за один обзор (simple):
+	detection for one review
+Results for обнаружение излучения:
+	 radiation detection (Техника)
+	 
+Results for обнаружение места повреждений (simple):
+	detection of the place of damages
+Results for обнаружение на фоне мешающего отражения (simple):
+	detection against the background of the disturbing reflection
+Results for обнаружение невосстанавливаемой ошибки (simple):
+	detection of a nonrestorable mistake
+Results for обнаружение неисправностей:
+	 fault detection (Компьютеры)
+	 
+Results for обнаружение низколетящих целей (simple):
+	detection of the low-flying purposes
+Results for обнаружение объектов вне зоны видимости водителя (simple):
+	detection of objects out of a visibility range of the driver
+Results for обнаружение ошибок при приёме с нулевой зоной (simple):
+	detection of mistakes at reception with a zero zone
+Results for обнаружение пакетов ошибок (simple):
+	detection of packages of mistakes
+Results for обнаружение по методу максимального правдоподобия (simple):
+	detection by a method of maximum likelihood
+Results for обнаружение помех (simple):
+	detection of hindrances
+Results for обнаружение сверхтока (simple):
+	detection of an overcurrent
+Results for обнаружение сигнала тревоги (simple):
+	detection of an alarm signal
+Results for обнаружение с классификацией целей (simple):
+	detection with classification of the purposes
+Results for обнаружение с переменным порогом (simple):
+	detection with a variable threshold
+Results for обнаружение цели:
+	 target acquisition (Техника)
+	 
+Results for оптическое обнаружение (simple):
+	optical detection
+Results for пороговое обнаружение (simple):
+	threshold detection
+Results for радиолокационное обнаружение (simple):
+	radar detection
+Results for обнаружитель электромагнитного излучения (simple):
+	detector of electromagnetic radiation
+Results for обнуление регистра (simple):
+	zeroing of the register
+Results for обогащение слоя (simple):
+	enrichment of a layer
+Results for буквенное обозначение:
+	 alphabetic reference 
+	 letter symbol (Компьютеры)
+	 
+	 alphabetic designation (Техника)
+	 
+Results for векторное обозначение (simple):
+	vector designation
+Results for кодовое обозначение:
+	 specification symbol (Бизнес)
+	 
+Results for обозначение выводов:
+	 lead identification (Компьютеры)
+	 
+Results for обозначение класса точности (simple):
+	designation of a class of accuracy
+Results for обозначение ключа (simple):
+	designation of a key
+Results for сокращённое обозначение (simple):
+	the reduced designation
+Results for условное обозначение:
+	 symbol[ˈsɪmbəl] 
+	 reference designation (Компьютеры)
+	 
+	 conventional designation (Техника)
+	 
+Results for вакуумная оболочка (simple):
+	vacuum cover
+Results for замкнутая оболочка:
+	 closed shell (Бизнес)
+	 
+Results for защитная оболочка:
+	 protective shell (Естественные науки)
+	 
+	 protective sheath (Техника)
+	 
+Results for изолирующая оболочка (simple):
+	the isolating cover
+Results for оболочка кабеля:
+	 cable sheathing (Техника)
+	 
+Results for сетчатая оболочка:
+	 retina[ˈretɪnə] (Естественные науки)
+	 
+Results for электронная оболочка:
+	 electron shell 
+	 electronic shell (Естественные науки)
+	 
+Results for оборот вектора вокруг оси (simple):
+	vector turn around an axis
+Results for полный оборот:
+	 complete revolution 
+	 whole turnover 
+Results for абонентское оборудование (simple):
+	subscriber equipment
+Results for автономное оборудование:
+	 offline equipment (Компьютеры)
+	 
+	 off-line equipment (Техника)
+	 
+Results for вакуумное оборудование:
+	 vacuum equipment (Техника)
+	 
+Results for вспомогательное оборудование:
+	 service equipment 
+	 accessory equipment (Естественные науки)
+	 
+	 auxiliary equipment (Компьютеры)
+	 
+Results for групповое оборудование (simple):
+	group equipment
+Results for оборудование для (де)монтажа компонентов (simple):
+	the equipment for installation of components
+Results for оборудование для литографии микронного разрешения (simple):
+	equipment for a lithograph of micron permission
+Results for оборудование для производства полупроводников (simple):
+	equipment for production of semiconductors
+Results for оборудование для чистых комнат (simple):
+	equipment for clean rooms
+Results for оборудование жизнеобеспечения:
+	 lifesaving equipment (Техника)
+	 
+Results for периферийное оборудование:
+	 peripheral equipment (Компьютеры)
+	 
+Results for помехоподавляющее оборудование (simple):
+	noise suppressing equipment
+Results for ремонтное оборудование:
+	 repair equipment (Техника)
+	 
+Results for телеметрическое оборудование:
+	 telemetering equipment (Техника)
+	 
+Results for технологическое оборудование:
+	 processing equipment 
+	 technology equipment (Компьютеры)
+	 
+	 production equipment (Техника)
+	 
+Results for электронное оборудование:
+	 electronic instrumentation (Естественные науки)
+	 
+	 electronic equipment (Техника)
+	 
+Results for обоснование исследований (simple):
+	justification of researches
+Results for обострённость характеристики (simple):
+	acuteness of the characteristic
+Results for обостритель импульсов:
+	 peaker (Техника)
+	 
+Results for автоматическая обработка:
+	 hands-off processing (Компьютеры)
+	 
+Results for акустическая обработка (simple):
+	acoustic processing
+Results for ассоциативная обработка (simple):
+	associative processing
+Results for бортовая обработка данных (simple):
+	onboard data processing
+Results for вакуумная обработка (simple):
+	vacuum processing
+Results for векторная обработка (simple):
+	vector processing
+Results for гомоморфная обработка речи (simple):
+	homomorphic processing of the speech
+Results for групповая обработка:
+	 batch processing (Техника)
+	 
+Results for индексно-последовательная обработка (simple):
+	indexed-sequential processing
+Results for интерактивная обработка (simple):
+	interactive processing
+Results for ионная обработка (simple):
+	ionic processing
+Results for когерентная обработка (simple):
+	coherent processing
+Results for конвейерная обработка:
+	 pipeline processing (Компьютеры)
+	 
+Results for корреляционная обработка (simple):
+	correlation processing
+Results for многовыборочная обработка (simple):
+	multiselective processing
+Results for обработка в диалоговом режиме (simple):
+	processing in the dialogue mode
+Results for обработка (видео)сигналов (simple):
+	processing (video) of signals
+Results for обработка во временной области (simple):
+	processing in a time domain
+Results for обработка в режиме трансляции (simple):
+	processing in the broadcasting mode
+Results for обработка вызывных сигналов (simple):
+	processing of calling signals
+Results for обработка высокочастотными [ВЧ-] токами (simple):
+	processing by high-frequency [VCh-] currents
+Results for обработка данных в реальном масштабе времени (simple):
+	data processing in real time
+Results for обработка данных о вызовах (simple):
+	data processing about calls
+Results for обработка данных о поиске цели (simple):
+	data processing about search of the purpose
+Results for обработка информации:
+	 information processing 
+Results for обработка кодированных данных (simple):
+	processing of the coded data
+Results for обработка команд (simple):
+	processing of teams
+Results for обработка методом зонной очистки (simple):
+	processing by method of zonal cleaning
+Results for обработка научно-технической информации (simple):
+	processing of scientific and technical information
+Results for обработка ошибок измерений (simple):
+	error handling of measurements
+Results for обработка поверхности:
+	 surfacing (Естественные науки)
+	 
+	 surface treatment (Бизнес)
+	 
+Results for обработка по заданному методу (simple):
+	processing by the set method
+Results for обработка по требованию (simple):
+	processing on demand
+Results for обработка прерываний:
+	 interrupt handling (Компьютеры)
+	 
+Results for обработка производственных данных (simple):
+	processing of production data
+Results for обработка распылением:
+	 spray treatment (Техника)
+	 
+Results for обработка с адаптацией к движению (simple):
+	processing with adaptation to the movement
+Results for обработка сигналов методом парных импульсов (simple):
+	processing of signals by method of pair impulses
+Results for обработка сигналов при синтезировании раскрыва антенны (simple):
+	processing of signals when synthesizing a raskryv of the antenna
+Results for обработка сигналов с помощью антенны с синтезированной апертурой (simple):
+	processing of signals by means of the antenna with the synthesized aperture
+Results for обработка сигналов с помощью согласованного фильтра (simple):
+	processing of signals by means of the coordinated filter
+Results for обработка с компенсацией движения (simple):
+	processing with compensation of the movement
+Results for обработка со счётом интервалов (simple):
+	processing with the account of intervals
+Results for обработка спекл-структур (simple):
+	processing of spekl-structures
+Results for обработка текстов (simple):
+	processing of texts
+Results for обработка транзакций:
+	 transaction processing (Компьютеры)
+	 
+Results for окончательная обработка:
+	 finish machining (Естественные науки)
+	 
+Results for пакетная обработка:
+	 batch operation 
+	 batch processing (Естественные науки)
+	 
+Results for плазменная обработка (simple):
+	plasma processing
+Results for поэлементная (цифровая) обработка изображений (simple):
+	step-by-step (digital) processing of images
+Results for предварительная обработка:
+	 pretreatment (Естественные науки)
+	 
+	 preprocessing (Кулинария)
+	 
+	 preparative treatment (Техника)
+	 
+Results for пространственно-временная обработка (simple):
+	existential processing
+Results for распределённая обработка (simple):
+	the distributed processing
+Results for фоновая обработка:
+	 background processing (Компьютеры)
+	 
+Results for электронно-лучевая обработка:
+	 electron beam machining (Техника)
+	 
+Results for аналитический образ (simple):
+	analytical image
+Results for геометрический образ (simple):
+	geometrical image
+Results for звуковой образ:
+	 sound pattern (Компьютеры)
+	 
+Results for мнимый образ (simple):
+	imaginary image
+Results for образ множества (simple):
+	image of a set
+Results for образ элемента (simple):
+	image of an element
+Results for образец для испытаний:
+	 test piece 
+	 test sample (Естественные науки)
+	 
+	 test specimen (Техника)
+	 
+Results for образец-эталон:
+	 approved sample 
+Results for опытный образец:
+	 prototype 
+	 development type (Техника)
+	 
+	 test piece (Естественные науки)
+	 
+Results for образование провала [«выжигание дырки»] на резонансной кривой (simple):
+	formation of a failure ["burning out of a hole"] on a resonant curve
+Results for образование провалов в спектре (simple):
+	formation of failures in a range
+Results for обратимость процессов (simple):
+	reversibility of processes
+Results for обращение волнового фронта:
+	 wavefront reversal (Естественные науки)
+	 
+	 wave-front reversal (Компьютеры)
+	 
+Results for обращение интеграла (simple):
+	address of integral
+Results for обращение к запоминающему устройству:
+	 storage access (Техника)
+	 
+Results for обращение к памяти посредством окон (simple):
+	the appeal to memory by means of windows
+Results for обращение к подпрограмме:
+	 call to subprogram (Техника)
+	 
+Results for обращение матрицы:
+	 inversion of matrix (Естественные науки)
+	 
+Results for обращение по имени (simple):
+	address by name
+Results for обращение по назначению (simple):
+	address to destination
+Results for обращение по смыслу (simple):
+	the address on sense
+Results for обращение ряда (simple):
+	address of a row
+Results for обращение свёртки (simple):
+	address of convolution
+Results for обращение спектра:
+	 reversal of the spectrum (Техника)
+	 
+Results for обрыв линии передачи (simple):
+	break of a transmission line
+Results for обрыв провода:
+	 wire break (Техника)
+	 
+Results for орбитальная обсерватория:
+	 orbiting observatory (Естественные науки)
+	 
+Results for обслуживание вызова (simple):
+	service of a call
+Results for обслуживание на расстоянии (simple):
+	service at distance
+Results for обслуживание по расписанию (simple):
+	service according to the schedule
+Results for обслуживание с ожиданием (simple):
+	service with expectation
+Results for обслуживание терминалов (simple):
+	service of terminals
+Results for профилактическое обслуживание:
+	 preventive maintenance 
+	 protective service (Естественные науки)
+	 
+	 preventing maintenance (Техника)
+	 
+Results for текущее обслуживание:
+	 routine maintenance 
+Results for техническое обслуживание:
+	 maintenance[ˈmeɪntənəns] 
+	 technical maintenance (Бизнес)
+	 
+	 engineering service (Естественные науки)
+	 
+Results for армированный обтекатель (simple):
+	the reinforced fairing
+Results for надувной обтекатель (simple):
+	inflatable fairing
+Results for носовой обтекатель:
+	 nose cowling (Техника)
+	 
+Results for обтекатель антенны:
+	 radome (Техника)
+	 
+Results for обтекатель с жалюзи (simple):
+	the fairing with blinds
+Results for обтекатель с малым аэродинамическим сопротивлением (simple):
+	the fairing with a small aerodynamic resistance
+Results for обтекатель с полуволновой стенкой (simple):
+	the fairing with a half-wave wall
+Results for оживальный обтекатель (simple):
+	ozhivalny fairing
+Results for слоистый обтекатель (simple):
+	layered fairing
+Results for n-лопастный обтюратор (simple):
+	n-bladed shutter
+Results for обучение с использованием ЭВМ (simple):
+	training with use of the COMPUTER
+Results for обход контура:
+	 path-tracing (Техника)
+	 
+Results for обход линии (simple):
+	line round
+Results for объединение в блоки (жгут) (simple):
+	association in blocks is (burned down)
+Results for объединение команд (simple):
+	combination of commands
+Results for объединение сигналов (simple):
+	association of signals
+Results for восстановленный объект (simple):
+	the restored object
+Results for движущийся объект (simple):
+	moving object
+Results for диффузно отражающий объект (simple):
+	diffuzno the reflecting object
+Results for неподвижный объект (simple):
+	motionless object
+Results for объект восприятия:
+	 percept[ˈpə:sept] (Техника)
+	 
+Results for объект передачи (simple):
+	subject to transfer
+Results for объект регулирования:
+	 controlled process (Техника)
+	 
+Results for объект ссылки (simple):
+	subject of the reference
+Results for объект стандартизации:
+	 subject of standardization (Бизнес)
+	 
+Results for объект технического диагностирования (simple):
+	subject to technical diagnosing
+Results for объект управления:
+	 control object (Компьютеры)
+	 
+Results for освещаемый объект (simple):
+	the lit object
+Results for пусковой объект (simple):
+	starting object
+Results for рассеивающий объект (simple):
+	the disseminating object
+Results for телеуправляемый объект (simple):
+	long-distance object
+Results for фазовый объект (simple):
+	phase object
+Results for объектив Рэлея (simple):
+	Rayleigh's lens
+Results for объектив с переменным фокусным расстоянием:
+	 zoom lens (Техника)
+	 
+Results for проекционный объектив:
+	 projection lens (Естественные науки)
+	 
+Results for критический объём (simple):
+	critical volume
+Results for объём взаимодействия (simple):
+	interaction volume
+Results for объём в фазовом пространстве (simple):
+	volume in phase space
+Results for объём выборки (simple):
+	selection volume
+Results for объём данных (simple):
+	volume of data
+Results for объём когерентности (simple):
+	coherence volume
+Results for объём памяти:
+	 memory size 
+Results for объём программы (simple):
+	program volume
+Results for объём пространства сканирования (simple):
+	scanning space volume
+Results for объём пространственного заряда (simple):
+	volume of a spatial charge
+Results for разрядный объём (simple):
+	digit volume
+Results for рассеивающий объём (simple):
+	the disseminating volume
+Results for фазовый объём (simple):
+	phase volume
+Results for огибающая боковых лепестков (simple):
+	bending around side petals
+Results for огибающая луча (пучка) (simple):
+	bending around a beam (bunch)
+Results for огибающая модулированного сигнала (simple):
+	bending around the modulated signal
+Results for огибающая несглаженная (simple):
+	the bending-around not smoothed
+Results for огибающая пичков (simple):
+	bending around pichok
+Results for огибающая радиоимпульса (simple):
+	bending around a radio impulse
+Results for огибающая спектра (simple):
+	bending around a range
+Results for рэлеевская огибающая (simple):
+	the Rayleigh bending around
+Results for шумовая огибающая (simple):
+	noise bending around
+Results for амплитудное ограничение (simple):
+	amplitude restriction
+Results for двух(одно)стороннее ограничение (simple):
+	two (one) third-party restrictions
+Results for ограничение по памяти (simple):
+	restriction on memory
+Results for ограничение по полосе пропускания (simple):
+	restriction on bandwidth
+Results for ограничение пространственным зарядом (simple):
+	restriction with a spatial charge
+Results for ограничение уровня излучения по боковым лепесткам (simple):
+	restriction of level of radiation on side petals
+Results for варакторный ограничитель (simple):
+	varaktorny limiter
+Results for генератор-ограничитель (simple):
+	generator limiter
+Results for двухкаскадный ограничитель (simple):
+	two-cascade limiter
+Results for диодный ограничитель:
+	 diode limiter (Техника)
+	 
+Results for мостиковый ограничитель (simple):
+	mastic limiter
+Results for невзаимный ограничитель (simple):
+	not mutual limiter
+Results for ограничитель амплитуды сверху (снизу) (simple):
+	amplitude limiter from above (from below)
+Results for ограничитель выбросов (simple):
+	limiter of emissions
+Results for ограничитель динамического диапазона (simple):
+	limiter of dynamic range
+Results for ограничитель мощности СВЧ (simple):
+	microwave oven power limiter
+Results for ограничитель на высокий уровень мощности (simple):
+	the limiter on high power level
+Results for ограничитель на гранате (simple):
+	the limiter on a grenade
+Results for ограничитель на двойном диоде (simple):
+	the limiter on the double diode
+Results for ограничитель наклона (simple):
+	inclination limiter
+Results for ограничитель напряжения:
+	 voltage limiter (Техника)
+	 
+Results for ограничитель на эффекте концентрации поля (simple):
+	the limiter on effect of concentration of the field
+Results for ограничитель на эффекте сдвига резонансной частоты (simple):
+	the limiter on effect of shift of resonant frequency
+Results for ограничитель параметра (simple):
+	parameter limiter
+Results for ограничитель полосы частот (simple):
+	limiter of a strip of frequencies
+Results for ограничитель по максимуму и минимуму (simple):
+	limiter to the maximum and to a minimum
+Results for ограничитель с большим усилением (simple):
+	the limiter with big strengthening
+Results for ограничитель с гиромагнитной связью (simple):
+	the limiter with gyromagnetic communication
+Results for ограничитель синхроимпульсов (simple):
+	limiter of clock pulses
+Results for ограничитель с плавным (резким) порогом (simple):
+	the limiter with a smooth (sharp) threshold
+Results for ограничитель стека (simple):
+	stack limiter
+Results for ограничитель тока:
+	 current limit (Естественные науки)
+	 
+Results for ограничитель шумов:
+	 noise limiter (Техника)
+	 
+Results for параметрический ограничитель (simple):
+	parametrical limiter
+Results for полосовой ограничитель:
+	 bandpass limiter (Компьютеры)
+	 
+Results for твердотельный ограничитель (simple):
+	solid-state limiter
+Results for усилитель-ограничитель:
+	 limiter amplifier (Компьютеры)
+	 
+	 amplifier-limiter (Техника)
+	 
+Results for ферримагнитный ограничитель (simple):
+	ferrimagnitny limiter
+Results for ферритовый ограничитель (simple):
+	ferrite limiter
+Results for частотно-избирательный ограничитель (simple):
+	frequency-selective limiter
+Results for огрубление результатов измерений (simple):
+	posterization of results of measurements
+Results for оже-спектрометр:
+	 Auger spectrometer (Техника)
+	 
+Results for оже-спектроскопия (simple):
+	ozhe-spectroscopy
+Results for математическое ожидание:
+	 population mean 
+	 expectation[ˌekspekˈteɪʃən] (Естественные науки)
+	 
+	 mathematical expectation (Компьютеры)
+	 
+	 ensemble average (Техника)
+	 
+Results for ожидание в течение не более N шагов (simple):
+	expectation during no more than N steps
+Results for окантовка изображения (simple):
+	image fringing
+Results for цветная окантовка (simple):
+	color fringing
+Results for окисление контактов (simple):
+	oxidation of contacts
+Results for брюстеровское окно:
+	 Brewster angle window (Техника)
+	 
+Results for волноводное окно:
+	 waveguide window (Техника)
+	 
+Results for контактное окно:
+	 contact hole (Компьютеры)
+	 
+Results for (не)резонансное окно (simple):
+	(not) resonant window
+Results for окно в слое оксида (simple):
+	window in an oxide layer
+Results for окно для ввода данных с клавиатуры (simple):
+	window for data input from the keyboard
+Results for окно для диффузии (simple):
+	window for diffusion
+Results for окно для формирования базы (simple):
+	window for formation of base
+Results for окно доступа (simple):
+	access window
+Results for окно на экране дисплея (simple):
+	window on the display screen
+Results for окно прозрачности атмосферы (simple):
+	window of transparency of the atmosphere
+Results for окно (радио)прозрачности (simple):
+	window (radio) of transparency
+Results for окно слабой (частичной) прозрачности (simple):
+	window of weak (partial) transparency
+Results for окно экрана дисплея (simple):
+	display screen window
+Results for окончание передачи (simple):
+	end of transfer
+Results for окраска звука (simple):
+	coloring of a sound
+Results for окраска изображения (simple):
+	coloring of the image
+Results for окрестность множества (simple):
+	vicinity of a set
+Results for окрестность точки (simple):
+	vicinity of a point
+Results for округление с недостатком (избытком) (simple):
+	rounding with a shortcoming (surplus)
+Results for в(о)писанная окружность (simple):
+	in (o) written circle
+Results for соприкасающаяся окружность (simple):
+	the adjoining circle
+Results for анодный оксид (simple):
+	anode oxide
+Results for бинарный оксид (simple):
+	binary oxide
+Results for изолирующий оксид (simple):
+	the isolating oxide
+Results for оксид, полученный в атмосфере паров воды (simple):
+	the oxide received in the atmosphere of vapors of water
+Results for пассивирующий оксид (simple):
+	the passivating oxide
+Results for пиролитически осаждённый оксид (simple):
+	pyrolitic the besieged oxide
+Results for рельефный оксид (simple):
+	relief oxide
+Results for самомаскирующий оксид (simple):
+	the self-masking oxide
+Results for термически образованный оксид (simple):
+	thermally educated oxide
+Results for тройной оксид (simple):
+	threefold oxide
+Results for оксидирование в атмосфере паров воды (simple):
+	oxygenating in the atmosphere of vapors of water
+Results for оксидирование в паровой фазе (simple):
+	oxygenating in a steam phase
+Results for оксидирование при низком давлении:
+	 low-pressure oxidation (Естественные науки)
+	 
+Results for поверхностное оксидирование:
+	 surface oxidation (Техника)
+	 
+Results for сухое оксидирование:
+	 dry oxidation (Естественные науки)
+	 
+Results for термическое оксидирование:
+	 thermal oxidation (Естественные науки)
+	 
+Results for фотохимическое оксидирование (simple):
+	photochemical oxygenating
+Results for тороидальный октуполь (simple):
+	toroidal октуполь
+Results for автоколлимационный окуляр (simple):
+	autocollimation eyepiece
+Results for компенсационный окуляр:
+	 compensating ocular (Естественные науки)
+	 
+Results for призматический окуляр (simple):
+	prismatic eyepiece
+Results for проекционный окуляр (simple):
+	projective eyepiece
+Results for широкоугольный окуляр (simple):
+	wide-angle eyepiece
+Results for мостовой омметр (simple):
+	bridge ohmmeter
+Results for омметр с магнитоэлектрическим логометром (simple):
+	ohmmeter with the magnetoelectric crossed-coil instrument
+Results for цифровой омметр (simple):
+	digital ohmmeter
+Results for электронный омметр (simple):
+	electronic ohmmeter
+Results for ондулятор динамического типа (simple):
+	undulator of dynamic type
+Results for ондулятор для подачи сухих чернил (simple):
+	undulator for supply of dry ink
+Results for операнд в памяти (simple):
+	operand in memory
+Results for операнд команды (simple):
+	team operand
+Results for операнд машинной операции (simple):
+	operand of machine operation
+Results for аддитивный оператор (simple):
+	additive operator
+Results for аналитический оператор (simple):
+	analytical operator
+Results for (без)условный оператор (simple):
+	(without) conditional operator
+Results for бозе-оператор (simple):
+	boze-operator
+Results for векторный оператор (simple):
+	vector operator
+Results for дежурный оператор:
+	 duty operator (Техника)
+	 
+Results for единичный оператор:
+	 unity operator (Естественные науки)
+	 
+	 unit operator (Техника)
+	 
+Results for интегральный оператор (simple):
+	integrated operator
+Results for матричный оператор Адамара (simple):
+	matrix operator of Hadamard
+Results for минимально-фазовый оператор (simple):
+	minimum-phase operator
+Results for (не)помеченный оператор (simple):
+	not marked operator
+Results for обменный оператор (simple):
+	exchange operator
+Results for оператор аннигиляции [уничтожения] (simple):
+	operator of annihilation [destruction]
+Results for оператор безусловного перехода:
+	 imperative go-to statement (Компьютеры)
+	 
+Results for оператор ветвления (simple):
+	operator of branching
+Results for оператор возврата:
+	 return statement (Компьютеры)
+	 
+Results for оператор выбора:
+	 case statement (Компьютеры)
+	 
+Results for оператор вызова (simple):
+	operator of a call
+Results for оператор градиента (simple):
+	operator of a gradient
+Results for оператор импульса (simple):
+	operator of an impulse
+Results for оператор индексации (simple):
+	operator of indexation
+Results for оператор квазичастиц (simple):
+	operator of quasiparticles
+Results for оператор комментария (simple):
+	operator of the comment
+Results for оператор Лапласа [лапласиан] (simple):
+	Laplace's operator [лапласиан]
+Results for оператор на входном языке (simple):
+	the operator in a source language
+Results for оператор объявления:
+	 declaration statement (Компьютеры)
+	 
+Results for оператор описания данных (simple):
+	operator of the description of data
+Results for оператор определения файлов (simple):
+	operator of definition of files
+Results for оператор отображения (simple):
+	operator of display
+Results for оператор передачи управления (simple):
+	operator of transfer of management
+Results for оператор пересылки данных (simple):
+	operator of transfer of data
+Results for оператор перехода:
+	 goto statement (Компьютеры)
+	 
+	 transition operator (Техника)
+	 
+Results for оператор предсказания (simple):
+	operator of prediction
+Results for оператор преобразования:
+	 conversion operator (Компьютеры)
+	 
+Results for оператор приёма данных (simple):
+	operator of reception of data
+Results for оператор присваивания:
+	 assignment operator (Компьютеры)
+	 
+	 assignment statement (Техника)
+	 
+Results for оператор пульта управления (simple):
+	operator of the control panel
+Results for оператор радиопеленгатора (simple):
+	operator of a radio direction finder
+Results for оператор редактирования (simple):
+	operator of editing
+Results for оператор рождения (simple):
+	operator of the birth
+Results for оператор системы управления воздушным движением (simple):
+	operator of a control system of air traffic
+Results for оператор спина (simple):
+	operator back
+Results for оператор сравнения с эталоном (simple):
+	operator of comparison with a standard
+Results for оператор субдискретизации (simple):
+	operator of subsampling
+Results for оператор умолчания (simple):
+	operator of default
+Results for оператор усечения (simple):
+	operator of truncation
+Results for оператор условного перехода:
+	 conditional go-to statement (Компьютеры)
+	 
+Results for оператор функциональной абстракции (simple):
+	operator of functional abstraction
+Results for оператор ЭВМ (simple):
+	operator of the COMPUTER
+Results for оператор энергии [гамильтониан] (simple):
+	operator of energy [Hamiltonian]
+Results for оператор языка (simple):
+	operator of language
+Results for передаточный оператор (simple):
+	transfer operator
+Results for пустой оператор (simple):
+	empty operator
+Results for (само)сопряжённый оператор (simple):
+	() the interfaced operator
+Results for составной оператор:
+	 composite operator (Естественные науки)
+	 
+Results for тензорный оператор (simple):
+	tensor operator
+Results for тождественный оператор (simple):
+	identical operator
+Results for унитарный оператор (simple):
+	unitary operator
+Results for управляющий оператор:
+	 control statement (Техника)
+	 
+Results for ферми-оператор (simple):
+	fermi-operator
+Results for эволюционный оператор (simple):
+	evolutionary operator
+Results for эрмитов оператор (simple):
+	Hermite operator
+Results for аддитивная операция (simple):
+	additive operation
+Results for алгебраическая операция (simple):
+	algebraic operation
+Results for арифметическая операция (simple):
+	arithmetic operation
+Results for графическая операция (simple):
+	graphic operation
+Results for двоичная операция (simple):
+	binary operation
+Results for логическая операция:
+	 logical action (Естественные науки)
+	 
+Results for недействительная операция (simple):
+	invalid operation
+Results for операция (без)условного перехода (simple):
+	operation (without) conditional transition
+Results for операция возведения в степень (simple):
+	operation of exponentiation
+Results for операция за один проход (simple):
+	operation for one pass
+Results for операция записи данных (simple):
+	data recording operation
+Results for операция идентичности (simple):
+	operation of identity
+Results for операция извлечения корня (simple):
+	operation of extraction of a root
+Results for операция, инициируемая нажатием клавиши (simple):
+	the operation initiated by pressing of a key
+Results for операция над базой данных (simple):
+	operation over the database
+Results for операция над множествами (simple):
+	operation over sets
+Results for операция над числами двойной длины (simple):
+	operation over numbers of double length
+Results for операция, обратная данной (simple):
+	operation, the return this
+Results for операция отрицания идентичности [эквивалентности] (simple):
+	operation of denial of identity [equivalence]
+Results for операция с переменным циклом (simple):
+	operation with a variable cycle
+Results for операция считывания:
+	 read operation (Техника)
+	 
+Results for операция тождественного преобразования (simple):
+	operation of identical transformation
+Results for операция управления:
+	 control operation (Техника)
+	 
+Results for операция чтения данных (simple):
+	data reading operation
+Results for операция эквивалентности (simple):
+	operation of equivalence
+Results for средняя вычислительная операция (simple):
+	average computing operation
+Results for теоретико-множественная операция (simple):
+	set-theoretic operation
+Results for холостая операция (simple):
+	single operation
+Results for опережение зажигания:
+	 ignition advance (Техника)
+	 
+Results for опережение по фазе:
+	 phase advance (Компьютеры)
+	 
+Results for опережение пуска (simple):
+	start-up advancing
+Results for описание условий эксплуатации (simple):
+	description of service conditions
+Results for оплавление контактов (simple):
+	oplavleniye of contacts
+Results for оповещение о стихийном бедствии (simple):
+	the notification about natural disaster
+Results for оповещение о тревоге (simple):
+	the notification about alarm
+Results for опознавание адреса назначения (simple):
+	identification of the address of appointment
+Results for опознавание информационного символа (simple):
+	identification of information symbol
+Results for опознавание образов:
+	 pattern recognition (Техника)
+	 
+Results for опознавание сигналов (simple):
+	identification of signals
+Results for радиолокационное опознавание государственной принадлежности цели (simple):
+	radar identification of the state accessory of the purpose
+Results for опознание «свой-чужой» (simple):
+	identification "-others"
+Results for анкерная опора:
+	 anchor[ˈæŋkə] (Техника)
+	 
+	 anchoring pole (Техника)
+	 
+	 rigid tower (Техника)
+	 
+Results for башенная опора (simple):
+	tower support
+Results for вводная опора:
+	 orifice pole (Техника)
+	 
+Results for вращающаяся опора (simple):
+	the rotating support
+Results for жёсткая опора (simple):
+	rigid support
+Results for изолирующая опора (simple):
+	the isolating support
+Results for кабельная опора (simple):
+	cable support
+Results for катковая опора:
+	 roller support (Техника)
+	 
+Results for качающаяся опора (simple):
+	the shaking support
+Results for концевая опора:
+	 terminal tower (Техника)
+	 
+Results for линейная опора (simple):
+	linear support
+Results for массивная опора (simple):
+	massive support
+Results for мачтовая опора (simple):
+	mast support
+Results for маятниковая опора:
+	 pendulum bearing (Техника)
+	 
+Results for мёртвая опора (simple):
+	dead support
+Results for натяжная опора (simple):
+	tension support
+Results for неподвижная опора:
+	 immovable support (Техника)
+	 
+Results for ножевая опора:
+	 blade bearing (Техника)
+	 
+Results for одиночная опора (simple):
+	single support
+Results for повышенная опора (simple):
+	the raised support
+Results for подшипниковая опора (simple):
+	bearing support
+Results for портальная опора (simple):
+	portal support
+Results for призматическая опора:
+	 fulcrum bearing (Естественные науки)
+	 
+	 knife-edge support (Техника)
+	 
+Results for промежуточная опора:
+	 suspension tower (Техника)
+	 
+	 intermediate support (Естественные науки)
+	 
+	 sampson (Техника)
+	 

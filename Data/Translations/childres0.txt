@@ -1,0 +1,2416 @@
+Results for аберрация антенны (simple):
+	antenna aberration
+Results for аберрация восстановленного фронта волны (simple):
+	aberration of the restored front of a wave
+Results for аберрация восстановленной волны (simple):
+	aberration of the restored wave
+Results for аберрация высшего порядка (simple):
+	aberration of the highest order
+Results for аберрация голограммы (simple):
+	hologram aberration
+Results for аберрация зеркала (simple):
+	mirror aberration
+Results for аберрация изображения (simple):
+	image aberration
+Results for аберрация луча (simple):
+	beam aberration
+Results for аберрация первого порядка (simple):
+	aberration of the first order
+Results for аберрация положения (simple):
+	situation aberration
+Results for аберрация при сканировании (simple):
+	aberration when scanning
+Results for аберрация света:
+	 light aberration (Естественные науки)
+	 
+Results for аберрация увеличения [усиления] (simple):
+	aberration of increase [strengthening]
+Results for внеосевая аберрация (simple):
+	off-axis aberration
+Results for волновая аберрация (simple):
+	wave aberration
+Results for геометрическая аберрация:
+	 geometrical aberration (Техника)
+	 
+Results for голографическая аберрация (simple):
+	holographic aberration
+Results for индуцированная аберрация (simple):
+	the induced aberration
+Results for конвекционная аберрация (simple):
+	convection aberration
+Results for линейная аберрация (simple):
+	linear aberration
+Results for меридиальная аберрация (simple):
+	meridialny aberration
+Results for (моно, не)хроматическая аберрация (simple):
+	(mono, not) chromatic aberration
+Results for нечётно-симметричная аберрация (simple):
+	odd and symmetric aberration
+Results for оптическая аберрация:
+	 optical aberration (Естественные науки)
+	 
+Results for поперечная аберрация:
+	 lateral aberration (Естественные науки)
+	 
+Results for продольная аберрация:
+	 longitudinal aberration (Естественные науки)
+	 
+	 axial aberration (Естественные науки)
+	 
+Results for произвольная аберрация (simple):
+	any aberration
+Results for сагиттальная аберрация (simple):
+	sagittalny aberration
+Results for стигматическая аберрация (simple):
+	stigmatic aberration
+Results for сферическая аберрация:
+	 spherical aberration (Естественные науки)
+	 
+Results for термооптическая аберрация (simple):
+	thermooptical aberration
+Results for угловая аберрация (simple):
+	angular aberration
+Results for чётно-симметричная аберрация (simple):
+	even and symmetric aberration
+Results for электроннооптическая аберрация (simple):
+	electron-optical aberration
+Results for электрооптическая аберрация:
+	 electro-optical aberration (Естественные науки)
+	 
+Results for автоколлиматор со светлым полем (simple):
+	the autocollimator with the light field
+Results for автоколлиматор с переменным фокусным расстоянием (simple):
+	the autocollimator with variable focal length
+Results for автоколлиматор с тёмным полем (simple):
+	the autocollimator with the dark field
+Results for фотоэлектрический автоколлиматор (simple):
+	photo-electric autocollimator
+Results for электронный автоколлиматор (simple):
+	electronic autocollimator
+Results for лазерный автокоррелятор (simple):
+	laser autocorrelator
+Results for оптический автокоррелятор (simple):
+	optical autocorrelator
+Results for автокорреляция помех:
+	 noise autocorrelation (Компьютеры)
+	 
+Results for автокорреляция шумов (simple):
+	autocorrelation of noise
+Results for двойная автокорреляция (simple):
+	double autocorrelation
+Results for асинхронный автомат (simple):
+	asynchronous automatic machine
+Results for вероятностный автомат:
+	 probabilistic mashine (Техника)
+	 
+Results for детерминированный автомат:
+	 deterministic automaton (Компьютеры)
+	 
+	 deterministic mashine (Техника)
+	 
+Results for дискретный автомат:
+	 discrete mashine (Техника)
+	 
+Results for избыточный автомат:
+	 redundant mashine (Техника)
+	 
+Results for итеративный автомат (simple):
+	iterative automatic machine
+Results for клеточный автомат:
+	 cellular automaton 
+Results for конечный автомат:
+	 finite-state machine 
+	 finite state machine (Компьютеры)
+	 
+	 finite automation (Естественные науки)
+	 
+Results for (кусочно-)линейный автомат (simple):
+	(piecewise) linear automatic machine
+Results for регистровый автомат (simple):
+	register automatic machine
+Results for самовоспроизводящийся автомат (simple):
+	self-replicating automatic machine
+Results for самонастраивающийся автомат (simple):
+	the self-adjusted automatic machine
+Results for самоприспосабливающийся автомат (simple):
+	the self-adapting automatic machine
+Results for стохастический автомат:
+	 stochastic automaton (Техника)
+	 
+Results for цифровой автомат:
+	 digital automaton (Техника)
+	 
+Results for ячеистый автомат (simple):
+	cellular automatic machine
+Results for автоматизация научных исследований (simple):
+	automation of scientific research
+Results for автоматизация обработки данных:
+	 data processing automatization (Компьютеры)
+	 
+Results for автоматизация проектирования:
+	 design automation (Компьютеры)
+	 
+Results for автоматизация производства:
+	 industrial automation (Естественные науки)
+	 
+	 production automation (Техника)
+	 
+Results for автоматизация производственных процессов:
+	 automation of production operations (Техника)
+	 
+Results for автоматизация с применением программируемых устройств (simple):
+	automation with use of programmable devices
+Results for автоматизация управления производством (simple):
+	production management automation
+Results for гибкая автоматизация:
+	 flexible automation (Компьютеры)
+	 
+Results for цифровая автоматика:
+	 digital automation (Компьютеры)
+	 
+Results for автоперевод строк (simple):
+	autotranslation of lines
+Results for автоперевод текста (simple):
+	autotranslation of the text
+Results for агрегат данных:
+	 data aggregate (Компьютеры)
+	 
+Results for кристаллический агрегат:
+	 crystalline aggregate (Компьютеры)
+	 
+Results for агрегирование вакансий (simple):
+	aggregation of vacancies
+Results for итеративная адаптация (simple):
+	iterative adaptation
+Results for световая адаптация:
+	 light adaptation (Естественные науки)
+	 
+Results for слоговая адаптация (simple):
+	syllabic adaptation
+Results for темновая адаптация:
+	 darkness adaptation (Техника)
+	 
+Results for яркостная адаптация (simple):
+	the brightness adaptation
+Results for адаптер графических устройств (simple):
+	adapter of graphic devices
+Results for адаптер дистанционной (межканальной) связи (simple):
+	adapter of remote (interchannel) communication
+Results for адаптер линии связи (simple):
+	communication line adapter
+Results for адаптер передачи (сбора) данных (simple):
+	adapter of transfer (collecting) of data
+Results for адаптер последовательного интерфейса (simple):
+	adapter of the consecutive interface
+Results for адаптер сопряжения (simple):
+	interface adapter
+Results for адгезия фоторезиста:
+	 photoresist adhesion (Компьютеры)
+	 
+Results for электрическая адгезия (simple):
+	electric adhesion
+Results for абсолютный адрес:
+	 absolute address (Техника)
+	 
+Results for адрес в пространстве памяти (simple):
+	the address in memory space
+Results for адрес за пределами адресного пространства (simple):
+	the address outside address space
+Results for адрес хранения данных (simple):
+	data storage address
+Results for адрес ячейки памяти:
+	 memory address (Техника)
+	 
+Results for базовый адрес:
+	 base address (Компьютеры)
+	 
+Results for исполнительный адрес:
+	 execution address (Техника)
+	 
+	 actual address (Компьютеры)
+	 
+Results for косвенный адрес:
+	 deferred address (Компьютеры)
+	 
+Results for относительный адрес:
+	 differential address (Компьютеры)
+	 
+Results for плавающий адрес (simple):
+	floating address
+Results for прямой адрес:
+	 direct address (Компьютеры)
+	 
+Results for символический адрес:
+	 symbolic address (Компьютеры)
+	 
+Results for фиктивный адрес:
+	 dummy address (Техника)
+	 
+Results for адресование поля управления связью (simple):
+	addressing of the field of management of communication
+Results for деплетивная адсорбция (simple):
+	depletivny adsorption
+Results for кумулятивная адсорбция (simple):
+	cumulative adsorption
+Results for поверхностная адсорбция (simple):
+	superficial adsorption
+Results for физическая адсорбция:
+	 physical adsorption (Естественные науки)
+	 
+Results for астрономический азимут:
+	 astronomic azimuth (Техника)
+	 
+Results for географический азимут:
+	 geographic azimuth (Техника)
+	 
+Results for истинный азимут (simple):
+	true azimuth
+Results for магнитный азимут:
+	 magnetic azimuth (Естественные науки)
+	 
+Results for железоникелевый аккумулятор:
+	 iron storage battery (Техника)
+	 
+Results for никелево-кадмиевый аккумулятор:
+	 nickel-cadmium battery (Техника)
+	 
+Results for свинцовый аккумулятор:
+	 lead accumulator (Техника)
+	 
+Results for гигантский аксон (simple):
+	huge axon
+Results for неоднородный аксон (simple):
+	non-uniform axon
+Results for акт ионизации:
+	 ionizing event (Естественные науки)
+	 
+	 ionization act (Техника)
+	 
+Results for акт технического осмотра:
+	 technical inspection report (Бизнес)
+	 
+	 inspection certificate (Техника)
+	 
+Results for приёмо-сдаточный акт:
+	 acceptance report 
+Results for активатор люминофора:
+	 phosphor activator (Техника)
+	 
+Results for оптический активатор (simple):
+	optical activator
+Results for активированный катод:
+	 activated cathode (Естественные науки)
+	 
+Results for активность нуклида (simple):
+	activity of a nuclide
+Results for активность термокатода (simple):
+	activity of the thermocathode
+Results for активность файла (simple):
+	activity of the file
+Results for акустическая активность (simple):
+	acoustic activity
+Results for магнитная активность (simple):
+	magnetic activity
+Results for оптическая активность:
+	 optical activity (Естественные науки)
+	 
+Results for (удельная) объёмная (поверхностная) активность (simple):
+	(specific) volume (superficial) activity
+Results for волновая акустика:
+	 wave acoustics (Естественные науки)
+	 
+Results for инженерная акустика:
+	 engineering acoustics (Естественные науки)
+	 
+Results for квантовая акустика (simple):
+	quantum acoustics
+Results for лучевая акустика (simple):
+	beam acoustics
+Results for низкотемпертурная акустика (simple):
+	nizkotemperturny acoustics
+Results for СВЧ-акустика (simple):
+	Microwave acoustics
+Results for избыточный акцептор (simple):
+	excess acceptor
+Results for ионизированный акцептор:
+	 ionized acceptor (Компьютеры)
+	 
+Results for алгебра алгоритмов (simple):
+	algebra of algorithms
+Results for алгебра Буля:
+	 Boolean algebra (Техника)
+	 
+Results for алгебра ветвления (simple):
+	branching algebra
+Results for алгебра высказываний (simple):
+	algebra of statements
+Results for алгебра логики:
+	 Boolean algebra (Техника)
+	 
+Results for алгебра матриц:
+	 matrix algebra (Техника)
+	 
+Results for алгебра множеств:
+	 algebra of sets (Техника)
+	 
+Results for алгебра переключательных схем (simple):
+	algebra of switching schemes
+Results for алгебра событий:
+	 event algebra (Естественные науки)
+	 
+Results for алгебра структур данных (simple):
+	algebra of structures of data
+Results for операторная алгебра (simple):
+	operator algebra
+Results for алгоритм ветвления (simple):
+	branching algorithm
+Results for алгоритм выбора решений (simple):
+	algorithm of the choice of decisions
+Results for алгоритм классификации образов (simple):
+	algorithm of classification of images
+Results for алгоритм моделирования (simple):
+	modeling algorithm
+Results for алгоритм нахождения кратчайшего пути (simple):
+	algorithm of finding of the shortest way
+Results for алгоритм опознавания (simple):
+	identification algorithm
+Results for алгоритм планирования (simple):
+	planning algorithm
+Results for алгоритм поиска оптимального пути (simple):
+	algorithm of search of an optimum way
+Results for алгоритм поиска цели (simple):
+	algorithm of search of the purpose
+Results for алгоритм работы устройств (simple):
+	algorithm of operation of devices
+Results for алгоритм управления:
+	 control algorithm 
+Results for алфавит верхнего (нижнего) регистра (simple):
+	alphabet of the upper (lower) case
+Results for алфавит переменных (simple):
+	alphabet of variables
+Results for алфавит устройства (simple):
+	alphabet of the device
+Results for алфавит языка программирования (simple):
+	alphabet of a programming language
+Results for телеграфный алфавит (simple):
+	cable alphabet
+Results for альбедо земной поверхности (simple):
+	albedo of the land surface
+Results for видимое альбедо:
+	 apparent albedo (Естественные науки)
+	 
+Results for визуальное альбедо (simple):
+	visual albedo
+Results for геометрическое альбедо (simple):
+	geometrical albedo
+Results for истинное альбедо (simple):
+	true albedo
+Results for спектральное альбедо:
+	 differential albedo (Естественные науки)
+	 
+Results for сферическое альбедо (simple):
+	spherical albedo
+Results for абсолютный альтиметр (simple):
+	absolute altitude indicator
+Results for акустический альтиметр (simple):
+	acoustic altitude indicator
+Results for отражательный альтиметр (simple):
+	reflective altitude indicator
+Results for радиолокационный альтиметр (simple):
+	radar altitude indicator
+Results for (электро)ёмкостный альтиметр (simple):
+	(electro) capacitor altitude indicator
+Results for альфа-излучение:
+	 alpha radiation 
+Results for альфа-распад:
+	 alpha decay 
+Results for альфа-частица:
+	 alpha particle 
+Results for альфа-язык (simple):
+	alpha language
+Results for ампер-виток:
+	 ampere turn (Естественные науки)
+	 
+Results for ампер-секунда:
+	 ampere-second 
+Results for ампер-час:
+	 ampere-hour 
+Results for амплитуда вероятности:
+	 probability amplitude (Естественные науки)
+	 
+Results for амплитуда волны:
+	 wave amplitude (Естественные науки)
+	 
+Results for амплитуда вынужденных (затухающих, свободных, собственных) колебаний (simple):
+	amplitude compelled (fading, free, own) fluctuations
+Results for амплитуда (гармонических) колебаний (simple):
+	amplitude (harmonious) fluctuations
+Results for амплитуда импульса:
+	 pulse amplitude (Компьютеры)
+	 
+	 pulse height (Техника)
+	 
+Results for амплитуда корректирующего напряжения (simple):
+	amplitude of the correcting tension
+Results for амплитуда (модулирующего) сигнала (simple):
+	amplitude (modulating) signal
+Results for амплитуда напряжения шумов (simple):
+	amplitude of tension of noise
+Results for амплитуда несущей:
+	 carrier amplitude (Компьютеры)
+	 
+Results for амплитуда отклонения:
+	 deviation amplitude (Компьютеры)
+	 
+Results for амплитуда пичка (simple):
+	amplitude pichka
+Results for амплитуда рассеяния:
+	 scattering amplitude (Естественные науки)
+	 
+Results for амплитуда рассеяния тока (simple):
+	amplitude of dispersion of current
+Results for амплитуда рассеяния состояния (simple):
+	amplitude of dispersion of a state
+Results for комплексная амплитуда рассеяния (simple):
+	complex amplitude of dispersion
+Results for максимальная амплитуда рассеяния (simple):
+	maximum amplitude of dispersion
+Results for резонансная амплитуда рассеяния (simple):
+	resonant amplitude of dispersion
+Results for результирующая амплитуда рассеяния (simple):
+	the resulting dispersion amplitude
+Results for активационный анализ:
+	 activation analysis (Естественные науки)
+	 
+Results for анализ изображения (simple):
+	analysis of the image
+Results for анализ неисправностей:
+	 malfunction analysis (Компьютеры)
+	 
+Results for анализ отказов:
+	 failure analysis (Техника)
+	 
+Results for анализ переходных процессов:
+	 transient analysis (Естественные науки)
+	 
+Results for анализ устойчивости решения (системы) (simple):
+	analysis of stability of the decision (system)
+Results for анализ цепи:
+	 chain analysis (Компьютеры)
+	 
+Results for анализ электрических цепей (simple):
+	analysis of electric chains
+Results for восходящий анализ:
+	 bottom-up analysis (Компьютеры)
+	 
+Results for гармонический анализ:
+	 Fourier analysis (Естественные науки)
+	 
+	 harmonic analysis (Компьютеры)
+	 
+Results for групповой анализ (simple):
+	group analysis
+Results for инкрементальный анализ (simple):
+	incremental analysis
+Results for интерферометрический анализ:
+	 interferometric analysis (Естественные науки)
+	 
+Results for кепстральный анализ (simple):
+	kepstralny analysis
+Results for лазерный анализ (simple):
+	laser analysis
+Results for логический анализ (simple):
+	logical analysis
+Results for люминесцентный анализ:
+	 luminescent analysis (Естественные науки)
+	 
+	 fluorescence analysis (Естественные науки)
+	 
+Results for матричный анализ (simple):
+	matrix analysis
+Results for микрозондовый анализ:
+	 microprobe analysis (Компьютеры)
+	 
+Results for многоуровневый анализ (simple):
+	multilevel analysis
+Results for нисходящий анализ (simple):
+	the descending analysis
+Results for операционный анализ:
+	 operations analysis (Бизнес)
+	 
+Results for оптический анализ (simple):
+	optical analysis
+Results for радиометрический анализ:
+	 radioametric analysis (Техника)
+	 
+Results for системный анализ:
+	 systems analysis (Естественные науки)
+	 
+Results for спектральный анализ:
+	 spectral analysis (Естественные науки)
+	 
+	 spectrographic analysis (Техника)
+	 
+	 spectrum analysis (Компьютеры)
+	 
+	 emission analysis (Техника)
+	 
+Results for спектрофотометрический анализ:
+	 spectrophotometric analysis (Естественные науки)
+	 
+	 spectrofotometric analysis (Техника)
+	 
+Results for статистический анализ:
+	 statistical analysis (Естественные науки)
+	 
+	 statistic analysis (Компьютеры)
+	 
+Results for структурный анализ:
+	 structure analysis (Естественные науки)
+	 
+	 structural analysis (Компьютеры)
+	 
+Results for схемотехнический [схемный] анализ (simple):
+	circuitry [circuit] analysis
+Results for тензорный анализ:
+	 tensor analysis (Естественные науки)
+	 
+Results for фототермоэлектрический анализ (simple):
+	photothermoelectric analysis
+Results for функциональный анализ:
+	 functional analysis (Естественные науки)
+	 
+Results for злектронно-зондовый анализ (simple):
+	zlektronno-probe analysis
+Results for электронографический анализ:
+	 electron diffraction analysis (Естественные науки)
+	 
+Results for (авто)корреляционный анализатор (simple):
+	(car) correlation analyzer
+Results for амплитудный анализатор:
+	 height analyzer (Компьютеры)
+	 
+	 pulse-height analyser (Техника)
+	 
+Results for анализатор антисовпадений:
+	 anticoincidence analysis (Естественные науки)
+	 
+Results for анализатор времени задержки (simple):
+	delay time analyzer
+Results for анализатор временных интервалов (simple):
+	analyzer of time intervals
+Results for анализатор высоты импульса (simple):
+	impulse height analyzer
+Results for анализатор гармоник:
+	 Fourier analysis (Естественные науки)
+	 
+Results for анализатор группового спектра (simple):
+	analyzer of a group range
+Results for анализатор звука:
+	 sound analyzer (Естественные науки)
+	 
+Results for анализатор импульсов:
+	 pulse analyzer (Естественные науки)
+	 
+Results for анализатор искажений:
+	 distortion analyzer (Компьютеры)
+	 
+Results for анализатор команд (simple):
+	analyzer of teams
+Results for анализатор кривых:
+	 curve analyser (Естественные науки)
+	 
+Results for анализатор механических колебаний (simple):
+	analyzer of mechanical oscillations
+Results for анализатор непрерывного действия:
+	 continuous analyser (Техника)
+	 
+Results for анализатор переходных процессов:
+	 transient analyzer (Естественные науки)
+	 
+Results for анализатор помех (simple):
+	analyzer of hindrances
+Results for анализатор (сложных) сигналов (simple):
+	analyzer (difficult) signals
+Results for анализатор сочленений (simple):
+	analyzer of joints
+Results for анализатор спектра:
+	 spectrum analyzer (Естественные науки)
+	 
+Results for анализатор формы волны:
+	 wave analyzer (Естественные науки)
+	 
+Results for анализатор формы сигналов:
+	 waveform analyzer (Компьютеры)
+	 
+Results for анализатор частотных характеристик (simple):
+	analyzer of frequency characteristics
+Results for анализатор шума:
+	 noise analyzer (Компьютеры)
+	 
+Results for бортовой самолётный анализатор (simple):
+	onboard plane analyzer
+Results for взаимно корреляционный анализатор (simple):
+	cross-correlation analyzer
+Results for гармонический анализатор:
+	 harmonic analyzer (Компьютеры)
+	 
+Results for гетеродинный анализатор (simple):
+	heterodyne analyzer
+Results for дифференциальный анализатор:
+	 differential analyzer (Естественные науки)
+	 
+Results for звуковой анализатор (simple):
+	sound analyzer
+Results for многоканальный анализатор:
+	 multichannel analyzer (Естественные науки)
+	 
+	 multichannel sample analyzer (Кулинария)
+	 
+Results for одноканальный анализатор:
+	 single-channel analyzer (Естественные науки)
+	 
+Results for октавный анализатор (simple):
+	octava analyzer
+Results for оптический анализатор:
+	 optical analyzer (Естественные науки)
+	 
+Results for панорамный анализатор спектра (simple):
+	panoramic analyzer of a range
+Results for полутеневой анализатор (simple):
+	penumbral analyzer
+Results for резонансный анализатор (simple):
+	resonant analyzer
+Results for сигнатурный анализатор (simple):
+	signature analyzer
+Results for субоктавный анализатор (simple):
+	suboctava analyzer
+Results for фазный анализатор (simple):
+	phase analyzer
+Results for цифровой анализатор (simple):
+	digital analyzer
+Results for анизотропия диэлектрических свойств (simple):
+	anisotropy of dielectric properties
+Results for анизотропия захвата (simple):
+	anisotropy of capture
+Results for анизотропия кристаллов:
+	 crystals anisotropy (Естественные науки)
+	 
+Results for анизотропия обменного взаимодействия (simple):
+	anisotropy of exchange interaction
+Results for анизотропия типа «лёгкая ось» («лёгкая плоскость») (simple):
+	anisotropy like "easy axis" ("the easy plane")
+Results for анизотропия упругих свойств:
+	 elastic anisotropy (Естественные науки)
+	 
+Results for анизотропия формы:
+	 form anisotropy (Естественные науки)
+	 
+Results for анизотропия ферромагнетика (simple):
+	anisotropy of a ferromagnetic
+Results for анизотропия энергетической щели:
+	 energy gap anisotropy (Естественные науки)
+	 
+Results for вращательная анизотропия (simple):
+	rotary anisotropy
+Results for двухосная анизотропия (simple):
+	two-axis anisotropy
+Results for кубическая анизотропия:
+	 cubic anisotropy (Естественные науки)
+	 
+Results for магнитная анизотропия:
+	 magnetic anisotropy (Естественные науки)
+	 
+Results for магнитокристаллическая анизотропия (simple):
+	magnetocrystalline anisotropy
+Results for микроструктурная анизотропия (simple):
+	microstructural anisotropy
+Results for наведенная [индуцированная] анизотропия (simple):
+	the induced [induced] anisotropy
+Results for однонаправленная анизотропия:
+	 undirectional anisotropy (Естественные науки)
+	 
+Results for одноосная анизотропия:
+	 uniaxial anisotropy (Естественные науки)
+	 
+Results for оптическая анизотропия:
+	 optical anisotropy (Естественные науки)
+	 
+Results for структурная анизотропия (simple):
+	structural anisotropy
+Results for фотоиндуцированная анизотропия (simple):
+	the photoinduced anisotropy
+Results for аннигиляция блоховских линий (simple):
+	annihilation of Bloch lines
+Results for аннигиляция пар (simple):
+	annihilation of couples
+Results for n-квантовая [n-фотонная] аннигиляция (simple):
+	n-quantum [n-photon] annihilation
+Results for триплет-триплетная аннигиляция (simple):
+	triplet-tripletnaya annihilation
+Results for анод гетеродина (simple):
+	heterodyne anode
+Results for анод зажигания:
+	 ignition anode (Техника)
+	 
+Results for анод кинескопа (simple):
+	kinescope anode
+Results for анод-ловушка (simple):
+	anode trap
+Results for анод (независимого) возбуждения (simple):
+	anode (independent) excitement
+Results for анод-подложка (simple):
+	anode substrate
+Results for анод с воздушным (естественным, жидкостным, лучистым) охлаждением (simple):
+	the anode with air (natural, liquid, radiant) cooling
+Results for анод с люминоформным покрытием (simple):
+	the anode with a lyuminoformny covering
+Results for анод топливного элемента:
+	 fuel cell anode (Техника)
+	 
+Results for анод электровакуумного прибора (simple):
+	anode of the electrovacuum device
+Results for виртуальный анод:
+	 virtual anode (Естественные науки)
+	 
+Results for вращающийся анод:
+	 rotating anode (Компьютеры)
+	 
+Results for вспомогательный анод:
+	 relieving anode (Естественные науки)
+	 
+	 auxiliary anode (Компьютеры)
+	 
+Results for второй анод:
+	 second gun (Техника)
+	 
+Results for главный анод:
+	 main anode (Естественные науки)
+	 
+Results for графитовый анод:
+	 carbon anode (Естественные науки)
+	 
+Results for дежурный анод (simple):
+	anode on duty
+Results for дисковый анод:
+	 disk anode (Компьютеры)
+	 
+Results for охлаждаемый анод (simple):
+	the cooled anode
+Results for первый анод:
+	 first gun (Техника)
+	 
+Results for плазменный анод:
+	 plasma anode (Компьютеры)
+	 
+Results for подхватывающий анод (simple):
+	the picking-up anode
+Results for полый анод:
+	 hollow anode (Компьютеры)
+	 
+Results for пусковой анод:
+	 starting anode (Естественные науки)
+	 
+Results for сетчатый анод (simple):
+	mesh anode
+Results for цилиндрический анод (simple):
+	cylindrical anode
+Results for анодирование с целью подгонки параметров (simple):
+	anodizing for the purpose of adjustment of parameters
+Results for плазменное анодирование (simple):
+	plasma anodizing
+Results for твёрдое анодирование (simple):
+	firm anodizing
+Results for электролитическое анодирование (simple):
+	electrolytic anodizing
+Results for аномалия распространения:
+	 propagation anomaly (Компьютеры)
+	 
+Results for аномалия цветового зрения (simple):
+	anomaly of color sight
+Results for высокочастотная аномалия (simple):
+	high-frequency anomaly
+Results for магнитная аномалия:
+	 magnetic anomaly (Техника)
+	 
+	 magnetic disturbance (Естественные науки)
+	 
+Results for ансамбль сообщений:
+	 message ensemble (Техника)
+	 
+Results for ансамбль частиц (simple):
+	ensemble of particles
+Results for ансамбль электронов (simple):
+	ensemble of electrons
+Results for канонический ансамбль:
+	 canonical assembly (Естественные науки)
+	 
+Results for нейронный ансамбль (simple):
+	neural ensemble
+Results for абсолютно ненаправленная антенна (simple):
+	the antenna which isn't directed at all
+Results for адаптивная антенна:
+	 adaptive antenna (Компьютеры)
+	 
+Results for активная антенна:
+	 exciting antenna (Компьютеры)
+	 
+Results for амплитудная моноимпульсная антенна (simple):
+	amplitude monopulse antenna
+Results for антенна Бевереджа (simple):
+	Beveredzha antenna
+Results for антенна бегущей волны:
+	 travelling-wave antenna (Естественные науки)
+	 
+	 progressive wave antenna (Компьютеры)
+	 
+Results for антенна бокового обзора (simple):
+	antenna of the side review
+Results for антенна в виде вытянутого (сплюснутого) сфероида (simple):
+	the antenna in the form of the extended (flattened) spheroid
+Results for антенна в виде кольцевой решётки (simple):
+	the antenna in the form of a ring lattice
+Results for антенна в виде полу(четверть)волнового вибратора (simple):
+	the antenna in a look to a floor (quarter) of the wave vibrator
+Results for антенна в виде симметричного вибратора (simple):
+	the antenna in the form of the symmetric vibrator
+Results for антенна в виде спирали Архимеда (simple):
+	the antenna in the form of Archimedes's spiral
+Results for антенна всенаправленного (глиссадного) радиомаяка (simple):
+	antenna of the omnidirectional (glissadny) radio beacon
+Results for антенна в форме полуромба (simple):
+	the antenna in the form of a semi-rhombus
+Results for антенна голографической РЛС (simple):
+	antenna of holographic radar station
+Results for антенна гравитационных волн (simple):
+	antenna of gravitational waves
+Results for антенна Грегори (simple):
+	Gregory's antenna
+Results for антенна дальномерной системы (simple):
+	antenna of ranging system
+Results for антенна для дальнего (разнесённого) приёма (simple):
+	the antenna for the distant (carried) reception
+Results for антенна для измерения азимута (угла места) (simple):
+	the antenna for measurement of an azimuth (a place corner)
+Results for антенна запоминающего устройства (simple):
+	antenna of the memory device
+Results for антенна зенитного (осевого, поперечного) излучения (simple):
+	antenna antiaircraft (axial, cross) radiations
+Results for антенна-зонд (simple):
+	antenna probe
+Results for антенна интерферометра (simple):
+	interferometer antenna
+Results for антенна ионозонда (simple):
+	antenna of an ionozond
+Results for антенна Кассегрена:
+	 Cassegrain aerial (Техника)
+	 
+Results for антенна управления стрельбой (simple):
+	antenna of management of firing
+Results for антенна Кристиансена (simple):
+	Christiansen's antenna
+Results for антенна кругового обзора (simple):
+	antenna of the circular review
+Results for антенна линии связи (simple):
+	communication line antenna
+Results for антенна на зонной пластинке Френеля (simple):
+	the antenna on a zonal plate of Fresnel
+Results for антенна на печатных схемах (simple):
+	the antenna on printed circuits
+Results for антенна на подвижном объекте (simple):
+	the antenna on a mobile object
+Results for антенна оптического типа (simple):
+	antenna of optical type
+Results for антенна-передатчик (поверхностной волны) (simple):
+	antenna transmitter (superficial wave)
+Results for антенна поверхностных волн:
+	 ground-wave antenna (Естественные науки)
+	 
+Results for антенна-преобразователь (simple):
+	antenna converter
+Results for антенна радиорелейной станции (simple):
+	antenna of the radio relay station
+Results for антенна радиотелескопа типа «крест Миллса» (simple):
+	" radio telescope antenna Mills's cross"
+Results for антенна РЛС-измерения угла места цели (simple):
+	antenna of radar station measurement of a corner of the place of the purpose
+Results for антенна рупорного (секториального) типа (simple):
+	antenna of ruporny (sectorial) type
+Results for антенна с веерной (игольчатой) диаграммой направленности (simple):
+	the antenna with the fan (needle) directional pattern
+Results for антенна с вертикальной (горизонтальной) поляризацией (simple):
+	the antenna with vertical (horizontal) polarization
+Results for антенна с встроенным выпрямителем (simple):
+	the antenna with the built-in rectifier
+Results for антенна с двойной поляризацией (simple):
+	the antenna with double polarization
+Results for антенна с двумя раскрывами:
+	 dual aperture antenna (Компьютеры)
+	 
+Results for антенна с двумя V-образными петлевыми симметричными вибраторами (simple):
+	the antenna with two V-shaped loopback symmetric vibrators
+Results for антенна с диаграммой направленности типа «двойной косеканс» (simple):
+	the antenna with the directional pattern like "double cosecant"
+Results for антенна с дискретным (коммутационным) сканированием (simple):
+	the antenna with discrete (switching) scanning
+Results for антенна с ёмкостной нагрузкой (simple):
+	the antenna with capacitor loading
+Results for антенна системы поискового вызова (simple):
+	antenna of system of a search call
+Results for антенна системы радиолокационного опознавания (simple):
+	antenna of system of radar identification
+Results for антенна (системы) радиоэлектронного подавления (simple):
+	antenna (systems) of radio-electronic suppression
+Results for антенна системы самонаведения:
+	 homing aerial (Техника)
+	 
+Results for антенна системы сопровождения (simple):
+	antenna of system of maintenance
+Results for антенна с коническим сканированием:
+	 conical scanning antenna (Компьютеры)
+	 
+Results for антенна с концевым питанием:
+	 end-fed aerial (Техника)
+	 
+Results for антенна с косвенным возбуждением (simple):
+	the antenna with indirect excitement
+Results for антенна с круговой (линейной, эллиптической) поляризацией (simple):
+	the antenna with circular (linear, elliptic) polarization
+Results for антенна с круговым раскрывом (simple):
+	the antenna with a circular raskryv
+Results for антенна-смеситель (simple):
+	antenna mixer
+Results for антенна с многолепестковой диаграммой направленности (simple):
+	the antenna with the multipetal directional pattern
+Results for антенна с низким уровнем шумов (simple):
+	the antenna with the low level of noise
+Results for антенна с обтекателем (simple):
+	the antenna with the fairing
+Results for антенна со сканером Льюиса (Робинсона, Фостера) (simple):
+	the antenna with Lewis's scanner (Robinson, Foster)
+Results for антенна со сканером типа «улитка» (simple):
+	the antenna with the "snail" scanner
+Results for антенна со сканированием по углу места (simple):
+	the antenna with scanning in a place corner
+Results for антенна со сферическим зеркалом (simple):
+	the antenna with a spherical mirror
+Results for антенна с периодической структурой (simple):
+	the antenna with periodic structure
+Results for антенна с плоским зеркалом (simple):
+	the antenna with a flat mirror
+Results for антенна с поляризационным разнесением (simple):
+	the antenna with a polarizing razneseniye
+Results for антенна с профилированной диаграммой (simple):
+	the antenna with the pro-thinned-out chart
+Results for антенна с синтезированной апертурой (simple):
+	the antenna with the synthesized aperture
+Results for антенна стоячей волны:
+	 standing-wave aerial (Техника)
+	 
+Results for антенна с треугольным отражателем (simple):
+	the antenna with the triangular reflector
+Results for антенна с уголковым решетчатым рефлектором (simple):
+	the antenna with an angular trellised reflector
+Results for антенна с управлением положением диаграммы направленности (simple):
+	the antenna with management of the provision of the directional pattern
+Results for антенна с ферритовым сердечником (simple):
+	the antenna with the ferrite core
+Results for антенна с частотным сканированием:
+	 frequency scanned antenna (Компьютеры)
+	 
+Results for антенна с электромеханическим (электронным, электрическим) сканированием (simple):
+	the antenna with electromechanical (electronic, electric) scanning
+Results for антенна с эллипсоидальными вибраторами (simple):
+	the antenna with ellipsoidal vibrators
+Results for антенна телескопического типа (simple):
+	antenna of telescopic type
+Results for антенна типа «волновой канал» (simple):
+	" antenna wave channel"
+Results for антенна типа «лист клевера» («цеппелин») (simple):
+	" antenna leaf of a clover" ("zeppelin")
+Results for антенна-усилитель (simple):
+	antenna amplifier
+Results for антифединговая антенна:
+	 anti-fading antenna (Компьютеры)
+	 
+	 anti-fading aerial (Техника)
+	 
+Results for апертурная антенна (simple):
+	aperture antenna
+Results for башенная антенна (simple):
+	tower antenna
+Results for биконическая антенна:
+	 biconical aerial (Техника)
+	 
+Results for бифокальная антенна (simple):
+	bifocal antenna
+Results for бортовая антенна:
+	 airborne antenna (Компьютеры)
+	 
+	 airborne aerial (Техника)
+	 
+Results for буксируемая антенна:
+	 trailing wire antenna (Техника)
+	 
+Results for вертикальная антенна:
+	 lance antenna (Техника)
+	 
+Results for внешняя антенна (simple):
+	external antenna
+Results for волноводная антенна:
+	 wave-guide antenna (Естественные науки)
+	 
+Results for волноводно-щелевая антенна:
+	 slotted waveguide antenna (Техника)
+	 
+Results for вращающаяся [поворотная] антенна (simple):
+	the rotating [rotary] antenna
+Results for всенаправленная антенна:
+	 omnidirectional antenna (Естественные науки)
+	 
+	 omni-directional antenna (Компьютеры)
+	 
+Results for встроенная антенна:
+	 built-in antenna (Компьютеры)
+	 
+	 built-in aerial (Техника)
+	 
+Results for геодезическая антенна (simple):
+	geodetic antenna
+Results for гибкая штыревая антенна (simple):
+	flexible pin antenna
+Results for Г(Т)-образная антенна (simple):
+	(T)-shaped antenna
+Results for гониометрическая антенна (simple):
+	goniometrichesky antenna
+Results for горизонтальная антенна (simple):
+	horizontal antenna
+Results for гофрированная антенна:
+	 corrugated antenna (Компьютеры)
+	 
+Results for гребенчатая рупорная антенна (simple):
+	edge ruporny antenna
+Results for двойная сегментно-параболическая антенна (simple):
+	double segment and parabolic antenna
+Results for двух(много, одно)лучевая антенна (simple):
+	two (it is a lot of, one) the beam antenna
+Results for двунаправленная антенна:
+	 bi-directional antenna (Компьютеры)
+	 
+	 bidirectional aerial (Техника)
+	 
+Results for двухдиапазонная антенна:
+	 dual band antenna (Компьютеры)
+	 
+Results for двух(много)заходная спиральная антенна (simple):
+	two (much) zakhodny spiral antenna
+Results for двухзеркальная антенна:
+	 Cassegrainian aerial (Техника)
+	 
+Results for двух(много)модовая антенна (simple):
+	two (many) modovy antenna
+Results for двухщелевая антенна (simple):
+	two-slot-hole antenna
+Results for двухчастотная антенна (simple):
+	two-frequency antenna
+Results for диплексная антенна (simple):
+	the diplex antenna
+Results for директорная антенна:
+	 Yagi aerial (Техника)
+	 
+	 director antenna (Компьютеры)
+	 
+Results for дисковая антенна (simple):
+	disk antenna
+Results for дискоконусная антенна (simple):
+	diskokonusny antenna
+Results for диэлектрическая (линзовая, стержневая) антенна (simple):
+	dielectric (lens, rod) antenna
+Results for ёмкостная антенна (simple):
+	capacitor antenna
+Results for зеркальная антенна:
+	 optical-type antenna (Естественные науки)
+	 
+	 mirror antenna (Компьютеры)
+	 
+	 reflector aerial (Техника)
+	 
+Results for зонированная (линзовая) антенна (simple):
+	the zoned (lens) antenna
+Results for зонтичная антенна:
+	 umbrella antenna (Техника)
+	 
+Results for интегральная тонкоплёночная антенна (simple):
+	integrated thin-film antenna
+Results for каркасная щелевая антенна (simple):
+	frame slot-hole antenna
+Results for квадратная (круглая, рамочная) антенна (simple):
+	square (round, frame) antenna
+Results for квадрупольная антенна (simple):
+	kvadrupolny antenna
+Results for квазиоптическая антенна (simple):
+	quasioptical antenna
+Results for керамическая стержневая антенна:
+	 ceramic rod antenna (Компьютеры)
+	 
+Results for килевая (самолётная) коаксиальная антенна (simple):
+	keel (plane) coaxial antenna
+Results for коаксиальная антенна:
+	 coaxial antenna (Компьютеры)
+	 
+Results for коаксиально-штыревая антенна (simple):
+	coaxial and pin antenna
+Results for коллективная антенна:
+	 community aerial (Техника)
+	 
+	 community antenna (Компьютеры)
+	 
+	 collective antenna (Техника)
+	 
+Results for коллинеарная антенна:
+	 collinear aerial (Техника)
+	 
+	 collinear antenna (Компьютеры)
+	 
+Results for комнатная антенна:
+	 indoor antenna (Компьютеры)
+	 
+	 internal antenna (Техника)
+	 
+Results for коническая рупорная (спиральная) антенна (simple):
+	conic ruporny (spiral) antenna
+Results for конусно-штыревая антенна (simple):
+	conical and pin antenna
+Results for коробчатая антенна:
+	 box antenna (Компьютеры)
+	 
+	 box aerial (Техника)
+	 
+Results for коротковолновая антенна:
+	 HF aerial (Техника)
+	 
+Results for круговая антенна:
+	 circular antenna (Естественные науки)
+	 
+	 full round antenna (Техника)
+	 
+Results for ленточная антенна:
+	 ribbon aerial (Техника)
+	 
+Results for линейная антенна:
+	 linear antenna (Компьютеры)
+	 
+	 hog-trough antenna (Техника)
+	 
+	 uniform linear array (Техника)
+	 
+Results for линзовая антенна Люнеберга (Максвелла) (simple):
+	lens antenna of Lyuneberg (Maxwell)
+Results for логарифмическая спиральная антенна (simple):
+	logarithmic spiral antenna
+Results for логопериодическая антенна (simple):
+	the log-periodic antenna
+Results for мачтовая антенна:
+	 mast antenna (Техника)
+	 
+Results for металловоздушная антенна (simple):
+	metalair antenna
+Results for металлопластинчатая антенна (simple):
+	metallamellar antenna
+Results for микрополосковая антенна:
+	 micro-strip antenna (Компьютеры)
+	 
+Results for многовибраторная синфазная антенна:
+	 pine free array (Компьютеры)
+	 
+Results for много(одно)ярусная антенна (simple):
+	many (one) level antenna
+Results for многопроводная антенна (simple):
+	multiwire antenna
+Results for многопрограммная антенна (simple):
+	multiprogramme antenna
+Results for многоэлементная антенна:
+	 multi-element antenna (Компьютеры)
+	 
+Results for моноимпульсная антенна:
+	 monopulse aerial (Техника)
+	 
+Results for нагруженная [нагружённая] антенна (simple):
+	the loaded [nagruzhyonny] antenna
+Results for надувная антенна:
+	 air inflated antenna (Компьютеры)
+	 
+Results for наземная антенна:
+	 ground antenna (Компьютеры)
+	 
+Results for наклонная антенна:
+	 inclined antenna (Компьютеры)
+	 
+Results for наружная антенна:
+	 exterior antenna (Компьютеры)
+	 
+	 external aerial (Техника)
+	 
+Results for настроенная антенна:
+	 tuned antenna (Техника)
+	 
+	 tuned aerial (Техника)
+	 
+Results for невыступающая пазовая антенна (simple):
+	not acting grooving antenna
+Results for ненагруженная [ненагружённая] антенна (simple):
+	not loaded [nenagruzhyonny] antenna
+Results for (не)направленная антенна (simple):
+	not directed antenna
+Results for (не)резонансная антенна (simple):
+	(not) the resonant antenna
+Results for несимметричная вибраторная антенна (simple):
+	asymmetrical dipole antenna
+Results for несимметрично-усечённая антенна (simple):
+	the asymmetrical truncated antenna
+Results for одноапертурная антенна (simple):
+	one-aperture antenna
+Results for однопроводная антенна (simple):
+	single-wire antenna
+Results for однощелевая антенна (simple):
+	one-slot-hole antenna
+Results for опорная антенна (simple):
+	basic antenna
+Results for остронаправленная антенна:
+	 super directional antenna (Компьютеры)
+	 
+	 spotbeam antenna (Техника)
+	 
+	 high-directional aerial (Техника)
+	 
+Results for пазовая антенна (simple):
+	grooving antenna
+Results for панельная антенна (simple):
+	panel antenna
+Results for параболическая антенна (с зеркалом в виде параболоида вращения) (simple):
+	the parabolic antenna (with a mirror in the form of a rotation paraboloid)
+Results for параболоцилиндрическая антенна (simple):
+	parabolotsilindrichesky antenna
+Results for пассивная антенна (simple):
+	passive antenna
+Results for передающая антенна:
+	 transmitting antenna (Естественные науки)
+	 
+Results for передвижная антенна:
+	 movable antenna (Компьютеры)
+	 
+Results for переизлучающая антенна (simple):
+	the reradiating antenna
+Results for перископическая антенна (simple):
+	periscopic antenna
+Results for пирамидальная рупорная антенна (simple):
+	pyramidal ruporny antenna
+Results for плоская антенна поверхностной волны с многоштыревой замедляющей структурой (simple):
+	the flat antenna of a superficial wave with the multipin slowing-down structure
+Results for плоская ребристая антенна поверхностных волн (simple):
+	flat ridge antenna of superficial waves
+Results for плоская спиральная антенна (simple):
+	flat spiral antenna
+Results for подводная антенна:
+	 underwater aerial (Техника)
+	 
+Results for подземная антенна:
+	 belowground antenna (Компьютеры)
+	 
+	 buried aerial (Техника)
+	 
+Results for полистироловая стержневая антенна (simple):
+	polystyrene rod antenna
+Results for полосковая антенна:
+	 stripline antenna (Компьютеры)
+	 
+Results for приёмная антенна (simple):
+	reception antenna
+Results for приёмно-передающая антенна (simple):
+	send-receive antenna
+Results for проволочная антенна:
+	 wire antenna (Техника)
+	 
+Results for радиоастрономическая антенна (simple):
+	radio-astronomical antenna
+Results for радиолокационная антенна:
+	 radar antenna (Техника)
+	 
+Results for радиопеленгаторная антенна:
+	 directional aerial (Техника)
+	 
+Results for разборная антенна:
+	 demountable antenna (Компьютеры)
+	 
+Results for развёртываемая антенна (simple):
+	the developed antenna
+Results for рамочная антенна:
+	 coil antenna (Естественные науки)
+	 
+	 frame antenna (Компьютеры)
+	 
+Results for ребристо-стержневая антенна сигарообразной формы (simple):
+	ridge and rod antenna of a cigar-shaped form
+Results for резонаторная антенна:
+	 echo box antenna (Компьютеры)
+	 
+Results for резонаторно-щелевая антенна:
+	 cavity slot antenna (Компьютеры)
+	 
+Results for ретрансляционная ромбическая антенна (simple):
+	relaying rhombic antenna
+Results for рупорная антенна:
+	 funnel-shaped antenna (Естественные науки)
+	 
+	 horn antenna (Компьютеры)
+	 
+Results for рупорно-параболическая антенна (simple):
+	ruporno-parabolic antenna
+Results for самолётная антенна (simple):
+	plane antenna
+Results for самофазирующая антенна:
+	 self-phasing aerial (Техника)
+	 
+Results for самофокусирующая антенна:
+	 self-focusing aerial (Техника)
+	 
+Results for сверхнаправленная антенна:
+	 superdirective aerial (Техника)
+	 
+Results for сверхпроводящая антенна (simple):
+	superconducting antenna
+Results for СВЧ-антенна (simple):
+	Microwave antenna
+Results for сдвоенная антенна:
+	 double antenna (Компьютеры)
+	 
+	 pair of aerials (Техника)
+	 
+Results for сегментно-параболическая антенна (simple):
+	segment and parabolic antenna
+Results for секториальная антенна (simple):
+	sectorial antenna
+Results for секционированная антенна (simple):
+	the partitioned antenna
+Results for серповидная антенна (simple):
+	crescent antenna
+Results for симметричная антенна:
+	 symmetric antenna (Компьютеры)
+	 
+	 dipole antenna (Техника)
+	 
+Results for синфазная антенна (simple):
+	inphase antenna
+Results for сканирующая антенна:
+	 scanning antenna (Компьютеры)
+	 
+Results for складная антенна:
+	 foldable antenna (Компьютеры)
+	 
+Results for спиральная антенна:
+	 helical aerial (Техника)
+	 
+	 helical antenna (Естественные науки)
+	 
+Results for спутниковая антенна (с компенсацией вращения) (simple):
+	the satellite antenna (with rotation compensation)
+Results for стабилизированная антенна (со схемой демпфирования) (simple):
+	the stabilized antenna (with the scheme of damping)
+Results for стержневая антенна:
+	 rod antenna (Техника)
+	 
+Results for сферическая антенна:
+	 spherical aerial (Техника)
+	 
+Results for телеметрическая антенна (simple):
+	telemetric antenna
+Results for телескопическая антенна:
+	 telescopic antenna (Естественные науки)
+	 
+Results for трипольная антенна (simple):
+	tripolny antenna
+Results for турникетная антенна (simple):
+	turnstile antenna
+Results for управляющая антенна:
+	 steering antenna (Техника)
+	 
+Results for усечённая [многомодовая] антенна (simple):
+	the truncated [multimode] antenna
+Results for фазовая многоимпульсная антенна (simple):
+	phase multipulse antenna
+Results for ферритовая антенна:
+	 ferrite antenna (Компьютеры)
+	 
+	 ferrite-rod aerial (Техника)
+	 
+Results for частотно-независимая антенна (simple):
+	frequency-independent antenna
+Results for широкодиапазонная антенна:
+	 all-band antenna (Компьютеры)
+	 
+Results for широкополосная антенна:
+	 wideband antenna (Компьютеры)
+	 
+	 broadband aerial (Техника)
+	 
+Results for щелевая антенна с кольцевыми излучающими отверстиями (simple):
+	the slot-hole antenna with the ring radiating openings
+Results for щелевая (трубчатая) антенна (simple):
+	slot-hole (tubular) antenna
+Results for экранированная антенна:
+	 suppressor antenna (Техника)
+	 
+Results for экспоненциальная (рупорная) антенна (simple):
+	exponential (ruporny) antenna
+Results for эталонная антенна:
+	 reference antenna (Компьютеры)
+	 
+	 artificial aerial (Техника)
+	 
+Results for V-образная [уголковая] антенна (simple):
+	V-shaped [angular] antenna
+Results for антиферромагнетик с анизотропией типа «легкая ось» (simple):
+	anti-ferromagnetic with anisotropy like "easy axis"
+Results for антиферромагнетик со слабым ферромагнетизмом (simple):
+	anti-ferromagnetic with weak ferromagnetics
+Results for антиферромагнетик с синглетным основным состоянием (simple):
+	anti-ferromagnetic with a singletny main state
+Results for двухосный антиферромагнетик (simple):
+	two-axis anti-ferromagnetic
+Results for двухподрешёточный антиферромагнетик (simple):
+	two-sublattice anti-ferromagnetic
+Results for коллинеарный антиферромагнетик (simple):
+	collinear anti-ferromagnetic
+Results for кубический антиферромагнетик (simple):
+	cubic anti-ferromagnetic
+Results for ромбический антиферромагнетик (simple):
+	rhombic anti-ferromagnetic
+Results for акустическая апертура (simple):
+	acoustic aperture
+Results for апертура аналого-цифрового преобразователя (simple):
+	aperture of the analog-digital converter
+Results for апертура антенны (simple):
+	antenna aperture
+Results for апертура записи голограммы (simple):
+	hologram recording aperture
+Results for апертура луча (simple):
+	beam aperture
+Results for апертура пучка:
+	 beam aperture (Естественные науки)
+	 
+Results for апертура развёртывающего элемента (simple):
+	aperture of the developing element
+Results for апертура связи (simple):
+	communication aperture
+Results for апертура схемы выборки и запоминания (simple):
+	aperture of the scheme of selection and storing
+Results for апертура угла поляризации (simple):
+	aperture of an angle of polarization
+Results for апертура характеристики дискриминатора (simple):
+	aperture of the characteristic of the discriminator
+Results for интерполирующая апертура (simple):
+	the interpolating aperture
+Results for колиммирующая апертура (simple):
+	kolimmiruyushchy aperture
+Results for круглая апертура (simple):
+	round aperture
+Results for плоская апертура (simple):
+	flat aperture
+Results for приёмная апертура (simple):
+	reception aperture
+Results for прямоугольная апертура (simple):
+	rectangular aperture
+Results for треугольная апертура (simple):
+	triangular aperture
+Results for угловая апертура:
+	 angular aperture (Естественные науки)
+	 
+Results for числовая апертура:
+	 numerical aperture (Естественные науки)
+	 
+Results for щелевая апертура (simple):
+	slot-hole aperture
+Results for аварийный аппарат (simple):
+	emergency device
+Results for автоматический аппарат (simple):
+	automatic device
+Results for аппарат для внутренней установки (simple):
+	the device for internal installation
+Results for аппарат низкого напряжения (simple):
+	device of low voltage
+Results for аппарат с поглощающей нагрузкой (simple):
+	the device with the absorbing loading
+Results for аппарат управления:
+	 management personnel 
+	 control machine (Техника)
+	 
+Results for буквопечатающий аппарат:
+	 printing apparatus (Техника)
+	 
+Results for герметический аппарат (simple):
+	hermetic device
+Results for звукозаписывающий аппарат:
+	 recorder[rɪˈkɔ:də] 
+	 sound recoder (Техника)
+	 
+Results for испытательный аппарат (simple):
+	test device
+Results for кодирующий испытательный аппарат (simple):
+	the coding test device
+Results for командный испытательный аппарат (simple):
+	command test device
+Results for контрольный испытательный аппарат (simple):
+	control test device
+Results for магнитный испытательный аппарат (simple):
+	magnetic test device
+Results for настенный испытательный аппарат (simple):
+	wall test device
+Results for осветительный испытательный аппарат (simple):
+	lighting test device
+Results for передающий испытательный аппарат (simple):
+	the transferring test device
+Results for переносной испытательный аппарат (simple):
+	portable test device
+Results for пишущий испытательный аппарат (simple):
+	the writing test device
+Results for приёмный испытательный аппарат (simple):
+	reception test device
+Results for регулирующий испытательный аппарат (simple):
+	the regulating test device
+Results for рентгеновский испытательный аппарат (simple):
+	x-ray test device
+Results for (свето)сигнальный испытательный аппарат (simple):
+	(light) alarm test device
+Results for синхронный испытательный аппарат (simple):
+	synchronous test device
+Results for слуховой испытательный аппарат (simple):
+	hearing test aid
+Results for телефонный испытательный аппарат (simple):
+	telephone test set
+Results for токоограничивающий испытательный аппарат (simple):
+	current-limiting test device
+Results for универсальный испытательный аппарат (simple):
+	universal test device
+Results for унифицированный испытательный аппарат (simple):
+	the unified test device
+Results for фототелеграфный испытательный аппарат (simple):
+	the phototelegraphic test device
+Results for электрический испытательный аппарат (simple):
+	electric test device
+Results for электроакустический испытательный аппарат (simple):
+	electro-acoustic test device
+Results for эталонный испытательный аппарат (simple):
+	reference test device
+Results for аппаратная технического контроля (simple):
+	equipment room of technical control
+Results for акустическая аппаратура:
+	 acoustic equipment (Техника)
+	 
+Results for аппаратура внутренней связи (simple):
+	equipment of internal communication
+Results for аппаратура дистанционного управления:
+	 remote control equipment (Компьютеры)
+	 
+	 remote-control equipment (Техника)
+	 
+Results for аппаратура для квадрафонической записи и воспроизведения звука (simple):
+	the equipment for quadraphonic record and reproduction of a sound
+Results for аппаратура запроса ошибок (simple):
+	equipment of inquiry of mistakes
+Results for аппаратура звукозаписи и звуковоспроизведения (simple):
+	equipment of sound recording and sound reproduction
+Results for аппаратура магнитной записи (simple):
+	equipment of the magnetic record
+Results for аппаратура обмена (simple):
+	exchange equipment
+Results for аппаратура образования (разделения) каналов (simple):
+	equipment of education (division) of channels
+Results for аппаратура объединения (simple):
+	association equipment
+Results for аппаратура организации телеграфных каналов (simple):
+	equipment of the organization of cable channels
+Results for аппаратура первичной обработки информации (simple):
+	equipment of preprocessing of information
+Results for аппаратура передачи данных:
+	 data communication equipment (Компьютеры)
+	 
+Results for аппаратура предварительной обработки (simple):
+	equipment of preliminary processing
+Results for аппаратура радиотелеграфного канала (simple):
+	equipment of the radiotelegraphic channel
+Results for аппаратура (раз)уплотнения (simple):
+	equipment (time) of consolidation
+Results for аппаратура служебной связи:
+	 order wire service equipment (Компьютеры)
+	 
+Results for аппаратура факсимильной связи (simple):
+	fax equipment
+Results for вспомогательная аппаратура (simple):
+	auxiliary equipment
+Results for высоковакуумная аппаратура (simple):
+	high-vacuum equipment
+Results for защитная аппаратура (simple):
+	protective equipment
+Results for излучающая аппаратура (simple):
+	the radiating equipment
+Results for испытательная аппаратура:
+	 test apparatus 
+	 test equipment (Техника)
+	 
+Results for (контрольно-)измерительная аппаратура (simple):
+	(control) measuring equipment
+Results for переносная аппаратура:
+	 portable equipment (Техника)
+	 
+Results for приёмо-усилительная аппаратура (simple):
+	priyomo-intensifying equipment
+Results for регулирующая аппаратура (simple):
+	the regulating equipment
+Results for рентгеновская аппаратура (simple):
+	x-ray equipment
+Results for светоизмерительная аппаратура (simple):
+	photometric equipment
+Results for токораспределительная аппаратура (simple):
+	current-distributing equipment
+Results for токорегулирующая аппаратура (simple):
+	tokoreguliruyushchy equipment
+Results for трансляционная аппаратура (simple):
+	transmitting equipment
+Results for электрическая аппаратура (simple):
+	electric equipment
+Results for электроакустическая аппаратура (simple):
+	electro-acoustic equipment
+Results for аппликатор излучения (simple):
+	radiation applicator
+Results for имплантируемый аппликатор СВЧ-излучения (simple):
+	the implanted microwave radiation applicator
+Results for аппроксимация функции (simple):
+	function approximation
+Results for аппроксимация характеристики (simple):
+	approximation of the characteristic
+Results for глобальная аппроксимация (simple):
+	global approximation
+Results for аргумент комплексного числа:
+	 amplitude of complex number (Естественные науки)
+	 
+Results for аргумент функции:
+	 function argument (Компьютеры)
+	 
+Results for вещественный аргумент (simple):
+	material argument
+Results for запаздывающий аргумент:
+	 retarded argument (Естественные науки)
+	 
+Results for комплексный аргумент:
+	 complex argument (Техника)
+	 
+Results for мнимый аргумент (simple):
+	imaginary argument
+Results for арендатор каналов радиосвязи (simple):
+	tenant of channels of a radio communication
+Results for арифметика двоичных чисел (simple):
+	arithmetics of binary numbers
+Results for арифметика значащей цифры (simple):
+	arithmetics of significant figure
+Results for арифметика повышенной точности (simple):
+	arithmetics of the increased accuracy
+Results for арифметика порядков (simple):
+	arithmetics of orders
+Results for арифметика с плавающей запятой (точкой) (simple):
+	arithmetics with a floating comma (point)
+Results for арифметика с фиксированной запятой (simple):
+	arithmetics from the fixed comma
+Results for арифметика цифровых сигналов (simple):
+	arithmetics of digital signals
+Results for архитектура аппаратного (программного) обеспечения (simple):
+	architecture of hardware (program) providing
+Results for архитектура (семейства) ЭВМ (simple):
+	architecture (families) of the COMPUTER
+Results for встречно-поточная архитектура (simple):
+	counter and line architecture
+Results for многопроцессорная архитектура:
+	 multiprocessor architecture (Компьютеры)
+	 
+Results for открытая архитектура:
+	 open architecture (Компьютеры)
+	 
+Results for секционная архитектура:
+	 bit slice architecture (Компьютеры)
+	 
+Results for систолическая архитектура (simple):
+	systolic architecture
+Results for внутримолекулярная асимметрия (simple):
+	intramolecular asymmetry
+Results for астатизм n-го порядка (simple):
+	order n-go astatism
+Results for анизотропный астигматизм:
+	 anisotropic astigmatism (Естественные науки)
+	 
+Results for астигматизм высшего порядка (simple):
+	astigmatism of the highest order
+Results for компенсирующий астигматизм (simple):
+	the compensating astigmatism
+Results for остаточный астигматизм (simple):
+	residual astigmatism
+Results for электронно-оптический астигматизм (simple):
+	electron-optical astigmatism
+Results for радиолокационная астрономия:
+	 radar astronomy (Техника)
+	 
+Results for рентгеновская астрономия:
+	 X-ray astronomy (Техника)
+	 
+Results for верхняя атмосфера (simple):
+	top atmosphere
+Results for взрывоопасная атмосфера:
+	 explosive atmosphere (Естественные науки)
+	 
+Results for инертная атмосфера:
+	 inert atmosphere (Естественные науки)
+	 
+Results for нижняя атмосфера:
+	 lower atmosphere (Техника)
+	 
+Results for стандартная атмосфера:
+	 standard atmosphere (Естественные науки)
+	 
+Results for техническая атмосфера:
+	 technical atmosphere (Естественные науки)
+	 
+Results for физическая атмосфера:
+	 standard atmosphere (Естественные науки)
+	 
+Results for свистящий атмосферик (simple):
+	the whistling atmospheric
+Results for активаторный атом (simple):
+	activated atom
+Results for акцепторный атом (simple):
+	acceptor atom
+Results for атом активного вещества (simple):
+	atom of active agent
+Results for атом в основном состоянии:
+	 normal atom (Естественные науки)
+	 
+Results for атом замещения:
+	 substitutional atom (Естественные науки)
+	 
+Results for атом (кристаллической) решётки (simple):
+	atom (crystal) lattice
+Results for атом основного кристалла:
+	 host crystal atom (Техника)
+	 
+Results for атом отдачи:
+	 recoil atom (Естественные науки)
+	 
+Results for атом с заполненными электронными оболочками:
+	 closed-shell atom (Естественные науки)
+	 
+Results for возбуждённый атом (simple):
+	the excited atom
+Results for горячий атом (simple):
+	hot atom
+Results for донорный [примесный] атом (simple):
+	donorny [impurity] atom
+Results for излучающий атом:
+	 radiating atom (Естественные науки)
+	 
+Results for имплантированный атом:
+	 implanted atom (Естественные науки)
+	 
+Results for инородный [примесный] атом (simple):
+	alien [impurity] atom
+Results for ионизированный атом:
+	 ionized atom (Естественные науки)
+	 
+Results for кросс-релаксирующий атом (simple):
+	the cross-relaxing atom
+Results for магнитный атом:
+	 magnetic atom (Естественные науки)
+	 
+Results for метастабильный атом:
+	 metastable atom (Естественные науки)
+	 
+Results for мигрирующий атом (simple):
+	the migrating atom
+Results for много(одно)электронный атом (simple):
+	many (one) electronic atom
+Results for связанный атом:
+	 bound atom (Естественные науки)
+	 
+Results for атрибут данных:
+	 data attribute (Техника)
+	 
+Results for атрибут доступа к файлу:
+	 access file attribute (Компьютеры)
+	 
+Results for атрибут класса памяти (simple):
+	attribute of a class of memory
+Results for атрибут секретности (simple):
+	attribute of privacy
+Results for атрибут символа (simple):
+	attribute of a symbol
+Results for атрибут установки (simple):
+	attribute of installation
+Results for атрибут файла:
+	 file attribute (Компьютеры)
+	 
+Results for АТС (автоматическая телефонная станция) с групповыми (шаговыми) искателями (simple):
+	ATE (automatic telephone exchange) with group (step) seekers
+Results for АТС (автоматическая телефонная станция) с исходящей и входящей связью (simple):
+	ATE (automatic telephone exchange) with the proceeding and entering communication
+Results for АТС (автоматическая телефонная станция) с контактными коммутационными элементами (simple):
+	ATE (automatic telephone exchange) with contact switching elements
+Results for АТС (автоматическая телефонная станция) с программным управлением (simple):
+	ATE (automatic telephone exchange) with program control
+Results for АТС (автоматическая телефонная станция) с пространственным разделением каналов (simple):
+	ATE (automatic telephone exchange) with spatial division of channels
+Results for асимметричный аттенюатор (simple):
+	asymmetric attenuator
+Results for аттенюатор-вентиль (simple):
+	attenuator gate
+Results for аттенюатор-делитель мощности (simple):
+	power attenuator divider
+Results for аттенюатор лестничного (мостового) типа (simple):
+	attenuator of ladder (bridge) type
+Results for аттенюатор на антиферромагнетике (simple):
+	attenuator on an anti-ferromagnetic
+Results for аттенюатор на высокий уровень мощности (simple):
+	attenuator on high power level
+Results for аттенюатор на катодном повторителе (simple):
+	attenuator on the cathodic repeater
+Results for аттенюатор на магнитной пленке (simple):
+	attenuator on a magnetic film
+Results for аттенюатор на n-образном волноводе (simple):
+	attenuator on a n-shaped wave guide
+Results for аттенюатор на пропускающей дифракционной решётке (simple):
+	attenuator on the passing diffraction lattice
+Results for аттенюатор на эффекте смещения поля (simple):
+	attenuator on effect of shift of the field
+Results for аттенюатор на эффекте Фарадея (simple):
+	attenuator on Faraday's effect
+Results for аттенюатор с Г(Н, П, Т)-образной схемой (simple):
+	attenuator since (N, P, T) the-shaped scheme
+Results for аттенюатор с двумя поглощающими пластинами (simple):
+	attenuator with two absorbing plates
+Results for аттенюатор с диафрагменной (петлевой) связью (simple):
+	attenuator with diaphragm (loopback) communication
+Results for аттенюатор с минимальными потерями (simple):
+	attenuator with the minimum losses
+Results for аттенюатор с плоской фазочастотной характеристикой (simple):
+	attenuator with the flat phase-frequency characteristic
+Results for аттенюатор с поворотной пластиной (simple):
+	attenuator with a rotary plate
+Results for аттенюатор с поглощающей пластиной (simple):
+	attenuator with the absorbing plate
+Results for аттенюатор с последовательным включением (simple):
+	attenuator with consecutive inclusion
+Results for введённый аттенюатор (simple):
+	the entered attenuator
+Results for в(вы)ходной аттенюатор (simple):
+	in (you) hodny attenuator
+Results for взаимный аттенюатор (simple):
+	mutual attenuator
+Results for волноводный аттенюатор (с поперечной поглощающей плёнкой) (simple):
+	the waveguide attenuator (with the cross absorbing film)
+Results for вращающийся аттенюатор (simple):
+	the rotating attenuator
+Results for выведенный аттенюатор (simple):
+	the removed attenuator
+Results for высокочастотный аттенюатор (simple):
+	high-frequency attenuator
+Results for газоразрядный аттенюатор (simple):
+	gas-discharge attenuator
+Results for двухпризменный аттенюатор (simple):
+	two-prismatic attenuator
+Results for декадный аттенюатор (simple):
+	decade attenuator
+Results for диапазонный аттенюатор (simple):
+	band attenuator
+Results for диодный аттенюатор:
+	 diode attenuator (Компьютеры)
+	 
+Results for дисковый аттенюатор (simple):
+	disk attenuator
+Results for ёмкостный аттенюатор (simple):
+	capacitor attenuator
+Results for запредельный аттенюатор (simple):
+	ultraboundary attenuator
+Results for индуктивный аттенюатор:
+	 mutual-induction attenuator (Техника)
+	 
+Results for калиброванный аттенюатор:
+	 calibrated attenuator (Компьютеры)
+	 
+Results for калибровочный аттенюатор (simple):
+	calibration attenuator
+Results for квазиоптический аттенюатор (simple):
+	quasioptical attenuator
+Results for коаксиальный аттенюатор (с вертикальным шлейфом) (simple):
+	coaxial attenuator (with a vertical loop)
+Results for микрополосковый аттенюатор:
+	 micro-strip attenuator (Компьютеры)
+	 
+Results for невзаимный аттенюатор (simple):
+	not mutual attenuator
+Results for ножевой аттенюатор (simple):
+	knife attenuator
+Results for однонаправленный аттенюатор (simple):
+	unidirectional attenuator
+Results for плавно-переменный аттенюатор (simple):
+	smooth and variable attenuator
+Results for плавный аттенюатор с магнитной регулировкой (simple):
+	smooth attenuator with magnetic adjustment
+Results for плёночный аттенюатор (simple):
+	film attenuator
+Results for поглощающий аттенюатор:
+	 absorptive attenuator (Компьютеры)
+	 
+Results for (полностью) согласованный аттенюатор (simple):
+	(completely) coordinated attenuator
+Results for полупроводниковый аттенюатор (simple):
+	semiconductor attenuator
+Results for поляризационный аттенюатор (simple):
+	polarizing attenuator
+Results for поршневой аттенюатор (simple):
+	piston attenuator
+Results for предельный аттенюатор (simple):
+	limit attenuator
+Results for прецизионный аттенюатор:
+	 precision attenuator (Компьютеры)
+	 
+Results for призматический аттенюатор (simple):
+	prismatic attenuator
+Results for развязывающий аттенюатор (simple):
+	the untying attenuator
+Results for регулируемый аттенюатор (simple):
+	adjustable attenuator
+Results for резистивный аттенюатор (simple):
+	resistive attenuator
+Results for резонансный аттенюатор (simple):
+	resonant attenuator
+Results for СВЧ-аттенюатор (simple):
+	Microwave attenuator
+Results for сетчатый аттенюатор (simple):
+	mesh attenuator
+Results for симметрирующий аттенюатор (simple):
+	the symmetrizing attenuator
+Results for симметричный аттенюатор (simple):
+	symmetric attenuator
+Results for ступенчатый аттенюатор:
+	 step attenuator (Компьютеры)
+	 
+Results for твердотельный аттенюатор (simple):
+	solid-state attenuator
+Results for уравновешенный аттенюатор (simple):
+	balanced attenuator
+Results for фарадеевский аттенюатор [аттенюатор на эффекте Фарадея] (simple):
+	Faraday attenuator [an attenuator on Faraday's effect]
+Results for ферритовый аттенюатор (simple):
+	ferrite attenuator
+Results for фиксированный [постоянный] аттенюатор (simple):
+	the fixed [constant] attenuator
+Results for четвертьволновый аттенюатор (simple):
+	quarter wave attenuator
+Results for широкополосный аттенюатор (simple):
+	broadband attenuator
+Results for эталонный аттенюатор (simple):
+	reference attenuator
+Results for аттестация измерительного прибора (simple):
+	certification of the measuring device
+Results for аттестация программы (simple):
+	certification of the program
+Results for аттестация сотрудника:
+	 employee assessment (Бизнес)
+	 
+Results for аттрактор Лоренца:
+	 Lorenz attractor (Компьютеры)
+	 
+Results for одномерный аттрактор (simple):
+	one-dimensional attractor
+Results for регулярный аттрактор (simple):
+	regular attractor
+Results for странный аттрактор (simple):
+	strange attractor
+Results for аудиограмма порога слышимости:
+	 threshold audiogram (Естественные науки)
+	 
+Results for маскирующая аудиограмма:
+	 masking audiogram (Техника)
+	 
+Results for шумовая аудиограмма:
+	 noise audiogram (Естественные науки)
+	 
+Results for аутентификация источника данных (simple):
+	authentication of data source
+Results for аутентификация однорангового объекта (simple):
+	authentication of a peer object
+Results for аутентификация пользователя:
+	 user authentication (Компьютеры)
+	 
+Results for аутентификация приёмной или передающей станции (simple):
+	authentication of a reception or transmitting station
+Results for аутентификация сети станций (simple):
+	authentication of network of stations
+Results for двусторонняя аутентификация (simple):
+	bilateral authentication
+Results for аэромаяк дальней связи (simple):
+	aero beacon of a long-distance communication
+Results for активная база (simple):
+	active base
+Results for база без управляющего электрода (simple):
+	base without the operating electrode
+Results for база громкоговорителей (simple):
+	base of loudspeakers
+Results for база данных общего пользования (назначения) (simple):
+	public database (appointments)
+Results for база знаний:
+	 knowledge base 
+Results for база интерферометра (simple):
+	base of the interferometer
+Results for база при фазовой пеленгации (simple):
+	base at phase direction finding
+Results for база программ (simple):
+	base of programs
+Results for база радиосигнала (simple):
+	base of a radio signal
+Results for база с плавным изменением удельного сопротивления (simple):
+	base with smooth change of specific resistance
+Results for база с собственной электропроводностью (simple):
+	base with own conductivity
+Results for база тензорезистора (simple):
+	base of the tensoresistor
+Results for база топологического пространства (simple):
+	base of topological space
+Results for база транзистора (simple):
+	base of the transistor
+Results for база широкополосного сигнала (simple):
+	base of a broadband signal
+Results for диффузионная база (simple):
+	diffusive base
+Results for заземлённая база (simple):
+	the grounded base
+Results for иерархическая база (simple):
+	hierarchical base
+Results for короткая база (simple):
+	short base
+Results for (не)однородная база (simple):
+	(not) uniform base
+Results for пассивная база (simple):
+	passive base
+Results for первичная база (simple):
+	primary base
+Results for плавающая база (simple):
+	floating base
+Results for сверхдлинная база (simple):
+	superlong base
+Results for удалённая база (simple):
+	remote base
+Results for базис векторного пространства (simple):
+	basis of vector space
+Results for байт данных (simple):
+	byte of data
+Results for байт запрета (simple):
+	ban byte
+Results for байт состояния:
+	 status byte (Компьютеры)
+	 
+Results for запоминающий байт (simple):
+	the memorable byte
+Results for избыточный байт (simple):
+	excess byte
+Results for контрольный байт (simple):
+	control byte
+Results for продольный байт (simple):
+	longitudinal byte
+Results for баланс реактивных мощностей (simple):
+	balance of jet capacities
+Results for баланс энергии:
+	 energy balance (Техника)
+	 
+Results for баллон кварцедержателя (simple):
+	cylinder of a kvartsederzhatel
+Results for баллон кинескопа (simple):
+	kinescope cylinder
+Results for баллон лампы (simple):
+	lamp cylinder
+Results for баллон электровакуумного прибора (simple):
+	cylinder of the electrovacuum device
+Results for банк данных (с временной ориентацией) (simple):
+	databank (with temporary orientation)
+Results for банк информационных систем (simple):
+	bank of information systems
+Results for банк памяти (simple):
+	bank of memory
+Results for банк телевизионных программ (simple):
+	bank of television programs
+Results for барабан видеоголовок (simple):
+	drum of video heads
+Results for зеркальный барабан (simple):
+	mirror drum
+Results for линзовый барабан (simple):
+	lens drum
+Results for магнитный барабан:
+	 magnetic drum (Естественные науки)
+	 
+Results for развёртывающий барабан (simple):
+	the developing drum
+Results for железоводородный барретер (simple):
+	zhelezovodorodny barreter
+Results for барьер импульсного (непрерывного) излучения (simple):
+	barrier of pulse (continuous) radiation
+Results for барьер на границе диэлектрика (simple):
+	barrier on dielectric border
+Results for барьер на границе раздела (двух сред) (simple):
+	barrier on limit of the section (two environments)
+Results for барьер пиннинга (simple):
+	pinning barrier
+Results for диффузионный барьер:
+	 diffusion barrier (Естественные науки)
+	 
+Results for контактный барьер (simple):
+	contact barrier
+Results for кулоновский барьер:
+	 Coulomb barrier (Техника)
+	 
+Results for поверхностный барьер (simple):
+	superficial barrier
+Results for потенциальный барьер:
+	 potential barrier (Техника)
+	 
+	 potential hill (Естественные науки)
+	 
+Results for прямоугольный барьер (simple):
+	rectangular barrier
+Results for рекомбинационный барьер (simple):
+	recombinational barrier
+Results for треугольный барьер (simple):
+	triangular barrier
+Results for электростатический барьер (simple):
+	electrostatic barrier
+Results for энергетический барьер:
+	 energy barrier (Естественные науки)
+	 
+Results for ядерный барьер (simple):
+	nuclear barrier
+Results for аварийная батарея:
+	 survival battery (Техника)
+	 
+Results for аккумуляторная батарея:
+	 rechargeable battery 
+	 storage battery (Техника)
+	 
+	 electrochemical battery (Естественные науки)
+	 
+Results for анодная батарея:
+	 high-tension battery (Естественные науки)
+	 
+Results for батарея гальванических (сухих) элементов (simple):
+	battery of galvanic (dry) cells
+Results for батарея конденсаторов:
+	 capacitor bank (Естественные науки)
+	 
+Results for батарея накала:
+	 low-tension battery (Естественные науки)
+	 
+Results for галетная батарея:
+	 disk battery (Естественные науки)
+	 
+Results for карманная батарея (simple):
+	pocket battery
+Results for линейная батарея:
+	 line battery (Техника)
+	 
+Results for микрофонная батарея (simple):
+	microphone battery
+Results for передвижная батарея (simple):
+	mobile battery
+Results for переносная батарея:
+	 portable battery (Естественные науки)
+	 
+Results for радионакальная батарея (simple):
+	radio filament battery
+Results for сеточная батарея:
+	 grid-bias battery (Естественные науки)
+	 
+Results for стартерная [стартёрная] батарея (simple):
+	starter [starter] battery
+Results for телеграфная батарея (simple):
+	cable battery
+Results for электрическая батарея (simple):
+	electric battery
+Results for белизна экрана (simple):
+	whiteness of the screen
+Results for бета-излучение:
+	 beta-ray (Естественные науки)
+	 
+Results for бета-кварц:
+	 beta-quartz 
+Results for бета-лучи:
+	 beta rays (Кулинария)
+	 
+Results for бета-распад:
+	 beta decay 
+Results for бета-распределение:
+	 beta-distribution (Естественные науки)
+	 
+Results for бета-спектрометр:
+	 ketrone (Естественные науки)
+	 
+Results for бета-частица:
+	 beta particle 
+Results for параметр бета (simple):
+	parameter beta
+Results for биение колебаний (simple):
+	beating of fluctuations
+Results for биение напряжения (simple):
+	beating of tension
+Results for нулевое биение:
+	 zero beat (Компьютеры)
+	 
+Results for биения волн (simple):
+	beats of waves
+Results for биения в теории колебаний (simple):
+	beats in the theory of fluctuations
+Results for биения частоты:
+	 beat frequency (Естественные науки)
+	 
+Results for межмодовые биения (simple):
+	intermode beats
+Results for нулевые биения:
+	 zero beat (Компьютеры)
+	 нулевая биение 
+	 Существительное нулевая биение / нулевые биения 
+	 zero beat (Техника)
+	 
+Results for перекрёстные биения (simple):
+	cross beats
+Results for пространственные биения (simple):
+	spatial beats
+Results for сложные биения (simple):
+	difficult beats
+Results for бинокль ночного видения (simple):
+	field-glass of night vision
+Results for бипирамида кристалла (simple):
+	crystal bipyramid
+Results for оптическая бистабильность (simple):
+	optical bistability
+Results for экситонная бистабильность (simple):
+	exciton bistability
+Results for адресный бит:
+	 address bit (Компьютеры)
+	 
+Results for бит блокировки (simple):
+	blocking bit
+Results for бит готовности (simple):
+	readiness bit
+Results for бит достоверности (simple):
+	reliability bit
+Results for бит защиты:
+	 security bit (Компьютеры)
+	 
+Results for бит изменения (simple):
+	change bit
+Results for бит информации:
+	 information bit (Техника)
+	 
+Results for бит модификации (simple):
+	modification bit
+Results for бит обращения (simple):
+	address bit
+Results for бит переполнения (simple):
+	overflow bit
+Results for бит признака:
+	 tag bit (Техника)
+	 
+Results for бит синхронизации [синхробит] (simple):
+	the bit of synchronization [sinkhrobit]
+Results for бит управления:
+	 control bit (Компьютеры)
+	 
+Results for бит чётности (simple):
+	parity bit
+Results for избыточный бит (simple):
+	excess bit
+Results for квалифицирующий бит (simple):
+	the qualifying bit
+Results for стартовый бит (simple):
+	starting bit
+Results for стоповый бит:
+	 stop bit (Компьютеры)
+	 
+Results for бифуркация рождения цикла (simple):
+	bifurcation of the birth of a cycle
+Results for глобальная бифуркация (simple):
+	global bifurcation
+Results for бланк данных (simple):
+	form of data
+Results for бланк для записи:
+	 record sheet (Техника)
+	 
+Results for бланк кодирования:
+	 code sheet (Компьютеры)
+	 
+Results for бланкирование напряжения экрана (simple):
+	blanking of tension of the screen
+Results for бланкирование радиопеленгатора (simple):
+	blanking of a radio direction finder
+Results for блеск поверхности экрана (simple):
+	gloss of a surface of the screen
+Results for блик механической записи (simple):
+	patch of light of mechanical recording
+Results for блики на экране (simple):
+	patches of light on the screen
+Results for анодный блок:
+	 anodal block (Естественные науки)
+	 
+Results for блок ввода (simple):
+	input block
+Results for блок видеосигналов (simple):
+	block of video signals
+Results for блок вращающихся видеоголовок (simple):
+	the block of the rotating video heads
+Results for блок выпрямителей (simple):
+	block of rectifiers
+Results for блок вычитания (simple):
+	subtraction block
+Results for блок генераторов (simple):
+	block of generators
+Results for блок групповой модуляции (simple):
+	block of group modulation
+Results for блок динамического сведения лучей (simple):
+	block of dynamic data of beams
+Results for блок дискретного действия (simple):
+	block of discrete action
+Results for блок доступа к среде (simple):
+	the access block by Wednesday
+Results for блок задержки:
+	 delay unit (Техника)
+	 
+Results for блок запаздывания (simple):
+	delay block
+Results for блок измерительной системы (simple):
+	block of measuring system
+Results for блок интегрирования (simple):
+	integration block
+Results for блок интерфейса (simple):
+	interface block
+Results for блок информации:
+	 message[ˈmesɪdʒ] (Естественные науки)
+	 
+	 information block (Компьютеры)
+	 
+Results for блок коммутации:
+	 switching unit (Техника)
+	 
+Results for блок конденсаторов (simple):
+	block of condensers
+Results for блок-контакт:
+	 interlock contact (Техника)
+	 
+Results for блок коррекции ошибок (simple):
+	block of correction of mistakes
+Results for блок магнитных головок:
+	 magnetic head assembly (Компьютеры)
+	 
+	 head stack (Техника)
+	 

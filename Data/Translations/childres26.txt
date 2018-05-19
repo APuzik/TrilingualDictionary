@@ -1,0 +1,2403 @@
+Results for несущая частота:
+	 carrier frequency (Естественные науки)
+	 
+Results for номинальная частота:
+	 rated frequency (Компьютеры)
+	 
+Results for опорная частота:
+	 reference frequency (Компьютеры)
+	 
+Results for (оптимальная) рабочая частота (simple):
+	(optimum) working frequency
+Results for основная частота:
+	 base frequency (Естественные науки)
+	 
+	 basic frequency (Компьютеры)
+	 
+Results for плавно изменяющаяся частота (simple):
+	smoothly changing frequency
+Results for плазменная частота:
+	 plasma frequency (Естественные науки)
+	 
+Results for пороговая частота:
+	 threshold frequency (Компьютеры)
+	 
+Results for присвоенная частота:
+	 authorized frequency (Компьютеры)
+	 
+	 assigned frequency (Техника)
+	 
+Results for промежуточная частота:
+	 intermediate frequency (Естественные науки)
+	 
+Results for промышленная частота:
+	 commercial frequency (Техника)
+	 
+	 industrial frequency (Компьютеры)
+	 
+	 mains frequency (Техника)
+	 
+Results for пространственная частота:
+	 spatial frequency (Техника)
+	 
+Results for разностная частота:
+	 difference frequency (Техника)
+	 
+Results for реактивная (резистивная) частота отсечки (simple):
+	jet (resistive) frequency of a cut-off
+Results for резервная частота:
+	 reserved frequency (Техника)
+	 
+Results for резонансная частота:
+	 resonant frequency (Естественные науки)
+	 
+	 resonance frequency (Техника)
+	 
+Results for сверхвысокая частота:
+	 super-high frequency (Компьютеры)
+	 
+Results for собственная частота:
+	 fundamental frequency (Естественные науки)
+	 
+	 natural frequency (Компьютеры)
+	 
+Results for спиновая частота (simple):
+	spin frequency
+Results for средняя частота:
+	 midrange frequency (Музыка)
+	 
+	 mid frequency (Компьютеры)
+	 
+	 medium frequency (Техника)
+	 
+Results for стандартная частота:
+	 standard frequency (Компьютеры)
+	 
+Results for суммарная частота:
+	 sum frequency (Техника)
+	 
+Results for тактовая частота:
+	 clock rate (Компьютеры)
+	 
+	 clock frequency (Техника)
+	 
+Results for тональная частота:
+	 voice frequency (Техника)
+	 
+	 audio frequency (Техника)
+	 
+Results for угловая частота:
+	 angular frequency (Естественные науки)
+	 
+Results for фиксированная частота:
+	 spot frequency (Техника)
+	 
+	 fixed frequency (Компьютеры)
+	 
+Results for характеристическая частота:
+	 characteristic frequency (Естественные науки)
+	 
+Results for холостая частота:
+	 idler frequency (Компьютеры)
+	 
+Results for циклотронная частота:
+	 cyclotron frequency (Техника)
+	 
+Results for частота биений:
+	 beat frequency (Естественные науки)
+	 
+Results for частота взятия отсчётов (simple):
+	frequency of capture of counting
+Results for частота возбуждения:
+	 driving frequency (Естественные науки)
+	 
+	 exciting frequency (Компьютеры)
+	 
+Results for частота вращения:
+	 rotation frequency (Естественные науки)
+	 
+	 rotating speed (Техника)
+	 
+Results for частота выборки цифровых данных (simple):
+	frequency of selection of digital data
+Results for частота вынужденных колебаний:
+	 forced oscillation frequency (Техника)
+	 
+Results for частота высокочастотной детонации (simple):
+	frequency of a high-frequency detonation
+Results for частота гармоники:
+	 harmonic frequency (Компьютеры)
+	 
+Results for частота геликона (simple):
+	helicon frequency
+Results for частота гетеродина:
+	 heterodyne frequency (Компьютеры)
+	 
+Results for частота гетеродинирования (simple):
+	heterodyning frequency
+Results for частота дискретизации:
+	 sampling rate (Компьютеры)
+	 
+Results for частота задающего генератора (simple):
+	frequency of the setting generator
+Results for частота запросов:
+	 interrogation rate (Компьютеры)
+	 
+Results for частота зеркального канала (simple):
+	frequency of the mirror channel
+Results for частота излучения лазера:
+	 laser frequency (Естественные науки)
+	 
+Results for частота кадров:
+	 picture frequency (Компьютеры)
+	 
+Results for частота канала связи (simple):
+	communication channel frequency
+Results for частота качания (simple):
+	swing frequency
+Results for частота колебаний решётки (simple):
+	frequency of fluctuations of a lattice
+Results for частота коррекции (simple):
+	correction frequency
+Results for частота манипуляции:
+	 keying frequency (Компьютеры)
+	 
+Results for частота мельканий:
+	 flicker frequency (Естественные науки)
+	 
+Results for частота мерцания (simple):
+	blinking frequency
+Results for частота миганий (simple):
+	frequency of blinkings
+Results for частота модуляции:
+	 modulation frequency (Компьютеры)
+	 
+Results for частота накачки:
+	 pumping rate (Компьютеры)
+	 
+	 pump frequency (Техника)
+	 
+Results for частота настройки фильтра-пробки (simple):
+	frequency of setup of the filter stopper
+Results for частота несущей (simple):
+	frequency of bearing
+Results for частота обновления информации (simple):
+	frequency of updating of information
+Results for частота ограниченного излучения (simple):
+	frequency of limited radiation
+Results for частота основной гармоники (simple):
+	frequency of the main harmonica
+Results for частота отказов:
+	 failure ratio (Компьютеры)
+	 
+	 failure frequency (Техника)
+	 
+Results for частота отсечки:
+	 shut-off frequency (Техника)
+	 
+Results for частота паузы:
+	 spacing frequency (Естественные науки)
+	 
+Results for частота переключения положения лепестков (simple):
+	frequency of switching of provision of petals
+Results for частота перехода, обусловленная сверхтонким расщеплением (simple):
+	the transition frequency caused by superthin splitting
+Results for частота повторения импульсов (пичков) (simple):
+	frequency of repetition of impulses (pichok)
+Results for частота повторяемости (simple):
+	repeatability frequency
+Results for частота подмагничивания (simple):
+	podmagnichivaniye frequency
+Results for частота поднесущей (simple):
+	frequency of subbearing
+Results for частота полей (simple):
+	frequency of fields
+Results for частота поступления сигналов (simple):
+	frequency of receipt of signals
+Results for частота посылок (simple):
+	frequency of parcels
+Results for частота появления ошибок (simple):
+	frequency of emergence of mistakes
+Results for частота прерываний (simple):
+	frequency of interruptions
+Results for частота прерывистой генерации приёмоответчика (simple):
+	frequency of faltering generation of the transponder
+Results for частота прецессии:
+	 precessional frequency (Техника)
+	 
+Results for частота продвижения ЦМД (simple):
+	frequency of advance of TsMD
+Results for частота проникновения (simple):
+	penetration frequency
+Results for частота пульсаций:
+	 ripple frequency (Техника)
+	 
+Results for частота развёртки (simple):
+	development frequency
+Results for частота рассеяния:
+	 scattering frequency (Естественные науки)
+	 
+Results for частота регенерации:
+	 fusion frequency (Компьютеры)
+	 
+	 refresh rate (Техника)
+	 
+Results for частота режекции (simple):
+	rezhektion frequency
+Results for частота резонанса (simple):
+	resonance frequency
+Results for частота резонатора:
+	 resonator frequency (Компьютеры)
+	 
+Results for частота самонейтрализации (simple):
+	self-neutralization frequency
+Results for частота свободной генерации (simple):
+	frequency of free generation
+Results for частота (свободных) колебаний (simple):
+	frequency (free) fluctuations
+Results for частота сети:
+	 network frequency (Техника)
+	 
+Results for частота сигнала бедствия:
+	 distress signal frequency (Техника)
+	 
+Results for частота синхронизации:
+	 locking frequency (Компьютеры)
+	 
+	 synchronization frequency (Техника)
+	 
+Results for частота сканирования:
+	 scan frequence (Естественные науки)
+	 
+	 scan frequency (Компьютеры)
+	 
+Results for частота скольжения (simple):
+	sliding frequency
+Results for частота следования импульсов:
+	 pulse repetition rate (Естественные науки)
+	 
+Results for частота слияния мельканий (simple):
+	frequency of merge of flashings
+Results for частота собственных колебаний (simple):
+	frequency of own fluctuations
+Results for частота сопряжения (simple):
+	interface frequency
+Results for частота спектральной линии (simple):
+	frequency of the spectral line
+Results for частота среза (simple):
+	cut frequency
+Results for частота срыва колебаний:
+	 quench frequency (Техника)
+	 
+Results for частота стирания (simple):
+	deleting frequency
+Results for частота столкновений [соударений] (simple):
+	frequency of collisions [impacts]
+Results for частота строк:
+	 line frequency (Техника)
+	 
+Results for частота субгармоники:
+	 subharmonic frequency (Компьютеры)
+	 
+Results for частота точек (simple):
+	frequency of points
+Results for частота факсимильного видеосигнала (simple):
+	frequency of facsimile video signal
+Results for частота флу[ю]ктуаций амплитуды эхо-сигналов (simple):
+	frequency to a fl [yu] of ktuation of amplitude of echo signals
+Results for частота фонона (simple):
+	phonon frequency
+Results for частота форманты:
+	 formant frequency (Компьютеры)
+	 
+Results for частота штриховки дифракционной решётки (simple):
+	frequency of shading of a diffraction lattice
+Results for электронная плазменная частота (simple):
+	electronic plasma frequency
+Results for гетеродинный частотомер:
+	 heterodyne frequency meter (Компьютеры)
+	 
+Results for дифференциальный частотомер (simple):
+	differential frequency meter
+Results for коаксиальный частотомер (simple):
+	coaxial frequency meter
+Results for поглощающий частотомер (simple):
+	the absorbing frequency meter
+Results for частотомер с объёмным резонатором (simple):
+	frequency meter with the volume resonator
+Results for частотомер с резонансным контуром на лехеровской линии (simple):
+	frequency meter with a resonant contour on the lekherovsky line
+Results for адресная (исполнительная) часть (simple):
+	address (executive) part
+Results for (не)индексируемая часть (simple):
+	not indexed part
+Results for часть массива (simple):
+	part of the massif
+Results for часть программы (simple):
+	part of the program
+Results for часть системы (simple):
+	part of system
+Results for камертонные часы:
+	 tuning fork clock 
+Results for квантовые часы (simple):
+	quantum hours
+Results for кварцевые часы:
+	 quartz watch 
+	 quartz clock (Техника)
+	 
+Results for цезиевые часы (simple):
+	caesium hours
+Results for часы реального времени:
+	 real time clock 
+Results for часы с цифровым табло (simple):
+	hours with a digital board
+Results for электронные часы:
+	 electronic clock 
+Results for посимвольное чередование (simple):
+	posimvolny alternation
+Results for чередование адресов (simple):
+	alternation of addresses
+Results for чередование битов (simple):
+	alternation of bits
+Results for чередование пакетов (simple):
+	alternation of packages
+Results for чередование секторов:
+	 sector interleaving (Компьютеры)
+	 
+Results for чередование фаз:
+	 order of the phases (Техника)
+	 
+Results for чередование цветов (simple):
+	alternation of flowers
+Results for сборочный чертёж:
+	 assembly drawing 
+Results for топологический чертёж (simple):
+	topological drawing
+Results for чертёж печатного монтажа (simple):
+	drawing of printed circuit wiring
+Results for чертёж схемы (simple):
+	drawing of the scheme
+Results for эталонный чертёж (simple):
+	reference drawing
+Results for звёздная четвёрка (simple):
+	star four
+Results for вертикальная (горизонтальная) чёткость (simple):
+	vertical (horizontal) clearness
+Results for высокая (низкая) чёткость (simple):
+	high (low) definition
+Results for цветовая чёткость (simple):
+	color clearness
+Results for чёткость изображения:
+	 image sharpness 
+	 image clarity (Компьютеры)
+	 
+Results for яркостная чёткость (simple):
+	the brightness clearness
+Results for зарядовая чётность (simple):
+	charging parity
+Results for чётность байта (simple):
+	parity of byte
+Results for двойной Т-образный четырёхполюсник (simple):
+	double T-shaped two-port network
+Results for (не)симметричный четырёхполюсник (simple):
+	(not) the symmetric two-port network
+Results for (не)уравновешенный четырёхполюсник (simple):
+	(not) the balanced two-port network
+Results for собственные числа:
+	 eigenvalue (Техника)
+	 
+Results for числа критериев подобия (simple):
+	numbers of criteria of similarity
+Results for числа отсчётов (simple):
+	numbers of counting
+Results for азимутальное [орбитальное] число (simple):
+	azimuthal [orbital] number
+Results for главное (дополнительное, колебательное, магнитное, спиновое, трансляционное) число (simple):
+	main (additional, oscillatory, magnetic, spin, transmitting) number
+Results for квантовое число:
+	 quantum number (Естественные науки)
+	 
+Results for критическое волновое число (simple):
+	critical wave number
+Results for число аббе (Грасхофа, Гуммеля, Лоренца, Лундквиста, Нуссельта, Прандтля, Рейнольдса, Фарадея, Френеля, Шервуда, Шмидта) (simple):
+	number to ABBA (Graskhof, Hummel, Lorentz, Lundqvist, Nusselt, Prandtl, Reynolds, Faraday, Fresnel, Sherwood, Schmidt)
+Results for число возможных (рабочих) положений (simple):
+	number of possible (workers) provisions
+Results for число выводов (simple):
+	number of conclusions
+Results for число двойной длины (simple):
+	number of double length
+Results for число знакоперемен (simple):
+	number знакоперемен
+Results for число измерений (simple):
+	number of measurements
+Results for число коммутаций (simple):
+	number of kommutation
+Results for число круговой волны (simple):
+	number of a circular wave
+Results for число ложных тревог (simple):
+	number of false alarms
+Results for число межслойных переходов (simple):
+	number of interlaminar transitions
+Results for число оборотов антенны (simple):
+	antenna speed
+Results for число оборотов в единицу времени:
+	 revolutions per unit time (Техника)
+	 
+Results for число обращений (simple):
+	number of addresses
+Results for число отсчётов (simple):
+	number of counting
+Results for число переменных (simple):
+	number of variables
+Results for число переносов (simple):
+	number of transfers
+Results for число периодов колебаний (simple):
+	number of the periods of fluctuations
+Results for число попаданий:
+	 accuracy hit rate 
+Results for число порядка (simple):
+	order number
+Results for число пульсаций (simple):
+	number of pulsations
+Results for число разветвлений (simple):
+	number of branchings
+Results for число разрядов (simple):
+	number of categories
+Results for число с двойной точностью (simple):
+	number with a double accuracy
+Results for число с избытком (simple):
+	the number is a lot of
+Results for число слоёв (simple):
+	number of layers
+Results for число случайных событий (simple):
+	number of casual events
+Results for число со знаком:
+	 signed number (Компьютеры)
+	 
+Results for число с основанием:
+	 based integer (Компьютеры)
+	 
+Results for число состояний (simple):
+	number of states
+Results for число сочетаний (simple):
+	number of combinations
+Results for число с плавающей (фиксированной) запятой (simple):
+	number from the floating (fixed) comma
+Results for число степеней подвижности (свободы) (simple):
+	number of degrees of mobility (freedom)
+Results for число строк в кадре (simple):
+	number of lines in a shot
+Results for число строк разложения (телевизионного растра) (simple):
+	number of lines of decomposition (television raster)
+Results for число строк (элементов) изображения (simple):
+	number of lines (elements) of the image
+Results for число разрешаемых элементов (simple):
+	number of the resolved elements
+Results for число точек (simple):
+	number of points
+Results for число уровней квантования (simple):
+	number of levels of quantization
+Results for число уровней межсоединений (simple):
+	number of levels of interconnections
+Results for число циклов считывания (simple):
+	number of cycles of reading
+Results for число часов использования (simple):
+	number of hours of use
+Results for число элементов растра:
+	 raster count (Компьютеры)
+	 
+Results for колометрическая чистота (simple):
+	kolometrichesky purity
+Results for модовая чистота (simple):
+	modovy purity
+Results for спектральная чистота:
+	 spectroquality (Естественные науки)
+	 
+Results for условная чистота (цвета) (simple):
+	conditional purity (colors)
+Results for чистота исходного материала (simple):
+	purity of initial material
+Results for чистота поверхности:
+	 surface finish (Техника)
+	 
+Results for чистота поляризации (simple):
+	purity of polarization
+Results for чистота цвета:
+	 purity of color 
+	 color purity (Техника)
+	 
+Results for высший (нижний) член (simple):
+	the highest (lower) member
+Results for главный член (simple):
+	main member
+Results for дробный член (simple):
+	fractional member
+Results for крайний (средний) член (simple):
+	extreme (average) member
+Results for общий член:
+	 general term (Техника)
+	 
+Results for член набора (simple):
+	member of set
+Results for член последовательности (simple):
+	member of the sequence
+Results for член прогрессии (simple):
+	member of a progression
+Results for чтение в обратном (прямом) направлении (simple):
+	reading in the opposite (direct) direction
+Results for чтение голограмм (simple):
+	reading holograms
+Results for чтение данных:
+	 data reading 
+Results for вольтовая чувствительность (simple):
+	volt sensitivity
+Results for дифференциальная чувствительность (simple):
+	differential sensitivity
+Results for зарядовая чувствительность (simple):
+	charging sensitivity
+Results for избирательная чувствительность (simple):
+	selective sensitivity
+Results for интегральная чувствительность:
+	 total responsivity (Техника)
+	 
+Results for кодовая чувствительность (simple):
+	code sensitivity
+Results for контрастная чувствительность (simple):
+	contrast sensitivity
+Results for максимальная чувствительность (simple):
+	maximum sensitivity
+Results for монохроматическая чувствительность:
+	 monochromatic sensitivity (Техника)
+	 
+Results for парафоническая чувствительность (simple):
+	paraphonic sensitivity
+Results for пороговая чувствительность:
+	 threshold sensitivity (Компьютеры)
+	 
+Results for предельная чувствительность:
+	 usable sensitivity (Компьютеры)
+	 
+Results for световая чувствительность (simple):
+	light sensitivity
+Results for спектральная чувствительность:
+	 spectral response (Техника)
+	 
+Results for статическая чувствительность (simple):
+	static sensitivity
+Results for тангенциальная чувствительность (simple):
+	tangential sensitivity
+Results for токовая чувствительность (simple):
+	current sensitivity
+Results for чувствительность в диффузном поле (simple):
+	sensitivity in the diffusion field
+Results for чувствительность в точке изгиба кривой (simple):
+	sensitivity in a curve bend point
+Results for чувствительность датчика (simple):
+	sensitivity of the sensor
+Results for чувствительность зрения (simple):
+	sensitivity of sight
+Results for чувствительность измерительного прибора (simple):
+	sensitivity of the measuring device
+Results for чувствительность к входному воздействию (simple):
+	sensitivity to entrance influence
+Results for чувствительность к девиации частоты (simple):
+	sensitivity to deviation of frequency
+Results for чувствительность к излучению:
+	 radiation sensitivity 
+Results for чувствительность к красному цвету (simple):
+	sensitivity to red color
+Results for чувствительность к лучистому (световому) потоку (simple):
+	sensitivity to a radiant (light) stream
+Results for чувствительность к магнитному полю (simple):
+	sensitivity to magnetic field
+Results for чувствительность к отклонению (simple):
+	sensitivity to a deviation
+Results for чувствительность к ошибкам:
+	 error sensitivity (Компьютеры)
+	 
+Results for чувствительность к помехам:
+	 interference susceptibility (Компьютеры)
+	 
+Results for чувствительность к ударным нагрузкам:
+	 shock sensitivity (Естественные науки)
+	 
+Results for чувствительность моста (simple):
+	sensitivity of the bridge
+Results for чувствительность отклонения электронного луча по вертикали (simple):
+	sensitivity of a deviation of an electronic beam down
+Results for чувствительность пеленгования (simple):
+	sensitivity of a pelengovaniye
+Results for чувствительность передающей телевизионной трубки (simple):
+	sensitivity of the transferring television tube
+Results for чувствительность по аноду (simple):
+	sensitivity on the anode
+Results for чувствительность по вертикали (горизонтали) (simple):
+	sensitivity down (horizontals)
+Results for чувствительность по давлению:
+	 pressure sensitivity (Техника)
+	 
+Results for чувствительность по напряжению (току) (simple):
+	sensitivity on tension (current)
+Results for чувствительность по отклонению (simple):
+	sensitivity on a deviation
+Results for чувствительность по управляющему току (simple):
+	sensitivity on the operating current
+Results for чувствительность по фазовой (частотной) модуляции (simple):
+	sensitivity on phase (frequency) modulation
+Results for чувствительность приёмного тракта (simple):
+	sensitivity of a reception path
+Results for чувствительность при записи (simple):
+	sensitivity at record
+Results for чувствительность при измерении (simple):
+	sensitivity at measurement
+Results for чувствительность (радио)приёмника (simple):
+	sensitivity (radio) of the receiver
+Results for чувствительность резиста (simple):
+	sensitivity of the rezist
+Results for чувствительность средства измерений (simple):
+	sensitivity of a measuring instrument
+Results for чувствительность фотоэлектрического датчика (simple):
+	sensitivity of the photo-electric sensor
+Results for чувствительность фотоэлемента (simple):
+	sensitivity of a photo cell
+Results for прецизионный шаблон (simple):
+	precision template
+Results for шаблон данных:
+	 data pattern 
+Results for шаблон для намотки катушки (simple):
+	template for winding of the coil
+Results for шаблон для рентгеновской (электронно-лучевой) литографии (simple):
+	template for a x-ray (electron beam) lithograph
+Results for шаблон для формирования контактов (simple):
+	template for formation of contacts
+Results for шаблон матрицы накопителя (simple):
+	store matrix template
+Results for коммутационный шаг (simple):
+	switching step
+Results for полюсный шаг (simple):
+	polar step
+Results for шаг антенной решётки (simple):
+	step of an antenna lattice
+Results for шаг выводов (simple):
+	step of conclusions
+Results for шаг графопостроителя (simple):
+	graph plotter step
+Results for шаг дифракционной решётки (simple):
+	step of a diffraction lattice
+Results for шаг дорожек (строчек) записи (simple):
+	step of paths (lines) of record
+Results for шаг задания:
+	 job step (Техника)
+	 
+Results for шаг канавки (simple):
+	flute step
+Results for шаг квантования:
+	 quantum[ˈkwɔntəm] (Техника)
+	 
+Results for шаг маски накопителя (simple):
+	store mask step
+Results for шаг матрицы:
+	 array pitch (Компьютеры)
+	 
+Results for шаг обмотки:
+	 winding pitch (Техника)
+	 
+Results for шаг перфорации (simple):
+	perforation step
+Results for шаг подачи:
+	 line advance (Техника)
+	 
+Results for шаг пупинизации:
+	 coil spacing (Техника)
+	 
+Results for шаг развёртки (simple):
+	development step
+Results for шаг резьбы:
+	 pitch[pɪtʃ] (Естественные науки)
+	 
+	 thread pitch (Техника)
+	 
+Results for шаг сетки:
+	 slot pitch (Компьютеры)
+	 
+Results for шаг сканирования (simple):
+	scanning step
+Results for шаг скрутки:
+	 strand pitch (Компьютеры)
+	 
+Results for шаг строки (simple):
+	step of a line
+Results for шаг цикла (simple):
+	cycle step
+Results for шаг числового интегрирования (simple):
+	step of numerical integration
+Results for выпрямительная шайба (simple):
+	vypryamitelny washer
+Results for изолирующая шайба:
+	 insulating washer (Техника)
+	 
+Results for изоляционная шайба:
+	 insulating washer (Компьютеры)
+	 
+Results for оксидированная шайба (simple):
+	the oxidized washer
+Results for селеновая шайба:
+	 selenium bead (Естественные науки)
+	 
+Results for слюдяная шайба (simple):
+	mica washer
+Results for шайба крепления (simple):
+	fastening washer
+Results for замкнутый шар (simple):
+	the closed sphere
+Results for открытый шар (simple):
+	open sphere
+Results for шар-зонд:
+	 sounding balloon 
+Results for шар трассировки (simple):
+	trace sphere
+Results for самоходное шасси:
+	 self-propelling landing gear (Техника)
+	 
+	 tool carrier (Техника)
+	 
+Results for шасси под напряжением (simple):
+	chassis energized
+Results for шасси прибора:
+	 device chassis (Техника)
+	 
+Results for шасси приёмника (simple):
+	receiver chassis
+Results for шероховатость поверхности:
+	 roughness[ˈrʌfnɪs] (Естественные науки)
+	 
+	 surface roughness (Техника)
+	 
+Results for магнитный шимм (simple):
+	magnetic шимм
+Results for шимм полюсных наконечников (simple):
+	шимм polar tips
+Results for адресная шина:
+	 address bus (Компьютеры)
+	 
+Results for двунаправленная шина данных (simple):
+	bidirectional tire of data
+Results for межблочная шина (simple):
+	interblock tire
+Results for межмодульная шина (simple):
+	intermodular tire
+Results for общая шина:
+	 common bus (Компьютеры)
+	 
+Results for токоведущая шина (simple):
+	current carrying tire
+Results for универсальная шина (simple):
+	universal tire
+Results for управляющая шина:
+	 field bus (Техника)
+	 
+Results for шина ввода-вывода (simple):
+	input-output tire
+Results for шина в оболочке (simple):
+	the tire in a cover
+Results for шина высокого напряжения (simple):
+	tire of high voltage
+Results for шина главного процессора (simple):
+	tire of the main processor
+Results for шина графических данных (simple):
+	tire of graphic data
+Results for шина для соединения ИС (simple):
+	the tire for the IS connection
+Results for шина дублирования (simple):
+	duplication tire
+Results for шина заземления:
+	 grounding bus (Компьютеры)
+	 
+Results for шина записи (считывания) адреса (simple):
+	tire of record (reading) of the address
+Results for шина младших разрядов данных (simple):
+	tire of younger categories of data
+Results for шина мультиплексирования (simple):
+	multiplexing tire
+Results for шина передачи элементов изображения (simple):
+	tire of transfer of elements of the image
+Results for шина расширения (simple):
+	expansion tire
+Results for шина с временным разделением (simple):
+	the tire with temporary division
+Results for шина смещения (simple):
+	shift tire
+Results for шина сопряжения (simple):
+	interface tire
+Results for шина состояния (simple):
+	state tire
+Results for шина с последовательным опросом (simple):
+	the tire with consecutive poll
+Results for шина управления:
+	 control bus (Компьютеры)
+	 
+Results for шина чтения:
+	 read bus (Компьютеры)
+	 
+Results for шина широковещательной рассылки (simple):
+	multicasting tire
+Results for шипение магнитной ленты (simple):
+	hissing of a magnetic tape
+Results for шипение микрофона (simple):
+	hissing of the microphone
+Results for нормированная (октавная, перестраиваемая) ширина полосы частот (simple):
+	rated (octava, reconstructed) width of a strip of frequencies
+Results for ширина бокового (главного) лепестка диаграммы направленности (simple):
+	width of a side (main) petal of the directional pattern
+Results for ширина диаграммы направленности антенны (simple):
+	width of the directional pattern of the antenna
+Results for ширина задержания (приёма, пропускания) сигнала (simple):
+	detention width (reception, transmission) signal
+Results for ширина зазора магнитной головки (simple):
+	width of a gap of a magnetic head
+Results for ширина занимаемой (информационной, разрешённой) полосы частот (simple):
+	width occupied (information, resolved) strips of frequencies
+Results for ширина запрещённой зоны (simple):
+	width of the forbidden zone
+Results for ширина излучения (simple):
+	radiation width
+Results for ширина импульсов (simple):
+	width of impulses
+Results for ширина канала:
+	 channel width (Техника)
+	 
+Results for ширина контакта реле (simple):
+	width of contact of the relay
+Results for ширина ленты (simple):
+	tape width
+Results for ширина линии сигнала ФМР (ЭПР, ЯМР) (simple):
+	width of the line of a signal of FMR (EPR, nuclear magnetic resonance)
+Results for ширина луча антенны (simple):
+	antenna beam width
+Results for ширина неиспользованной полосы (simple):
+	width of an unused strip
+Results for ширина перехода (simple):
+	transition width
+Results for ширина полосы модулирующих (пространственных) частот (simple):
+	width of a strip of the modulating (spatial) frequencies
+Results for ширина полосы пропускания:
+	 bandwidth (Техника)
+	 
+Results for ширина промежутка (simple):
+	interval width
+Results for ширина пучка (simple):
+	bunch width
+Results for ширина спектральной линии:
+	 linewidth (Естественные науки)
+	 
+Results for ширина спектра (по первым нулям) (simple):
+	range width (on the first zero)
+Results for ширина частот по Найквисту (simple):
+	width of frequencies according to Nyquist
+Results for ширина частот по уровню половинной мощности (simple):
+	width of frequencies on the level of half power
+Results for ширина штриха дифракционной решётки (simple):
+	width of a stroke of a diffraction lattice
+Results for эффективная ширина полосы пропускания:
+	 effective band width (Компьютеры)
+	 
+Results for блочный шифр:
+	 block cipher (Компьютеры)
+	 
+Results for полиалфавитный шифр:
+	 polyalphabetic cipher (Компьютеры)
+	 
+Results for поточный шифр:
+	 stream cipher (Компьютеры)
+	 
+Results for производный шифр (simple):
+	derivative code
+Results for шифр с бегущим ключом (simple):
+	the code with the running key
+Results for шифр с самосинхронизацией (simple):
+	the code with self-synchronization
+Results for шифр типа «генератор потока» (simple):
+	the code like "stream generator"
+Results for шифратор входных сигналов (simple):
+	shifrator of entrance signals
+Results for шифратор сообщений (simple):
+	shifrator of messages
+Results for групповое шифрование (simple):
+	group enciphering
+Results for поточное шифрование:
+	 stream encryption (Компьютеры)
+	 
+Results for сквозное шифрование (simple):
+	through enciphering
+Results for шифрование данных:
+	 data encryption (Компьютеры)
+	 
+Results for шифрование , защищённое от перехвата (simple):
+	the enciphering protected from interception
+Results for шифрование передач по линиям связи (simple):
+	enciphering of transfers on communication lines
+Results for шифрование с открытым ключом:
+	 public key cryptography (Компьютеры)
+	 
+Results for градуировочная шкала (simple):
+	calibration scale
+Results for линейная шкала:
+	 linear scale (Естественные науки)
+	 
+Results for логарифмическая шкала:
+	 log chart (Естественные науки)
+	 
+	 logarithmic scale (Техника)
+	 
+Results for международная шкала температур (simple):
+	international scale of temperatures
+Results for (не)равномерная шкала (simple):
+	(not) uniform scale
+Results for растянутая шкала настройки (simple):
+	the stretched control scale
+Results for серая шкала настройки (simple):
+	gray scale of control
+Results for субъективная шкала оценки качества (simple):
+	subjective scale of assessment of quality
+Results for температурная шкала:
+	 temperature scale (Техника)
+	 
+Results for шкала аналогового (измерительного) прибора (simple):
+	scale of the analog (measuring) device
+Results for шкала атомного времени (simple):
+	scale of atomic time
+Results for шкала градуировки (simple):
+	graduation scale
+Results for шкала грубого (точного) отсчёта (simple):
+	scale of rough (exact) counting
+Results for шкала длин волн (simple):
+	scale of lengths of waves
+Results for шкала индикатора (simple):
+	indicator scale
+Results for шкала квантования (simple):
+	quantization scale
+Results for шкала классификации:
+	 size scale (Техника)
+	 
+Results for шкала нониуса (simple):
+	nonius scale
+Results for шкала оценки искажений (качества) (simple):
+	scale of assessment of distortions (quality)
+Results for шкала полутонов:
+	 grayscale (Компьютеры)
+	 
+Results for шкала ранжирования (simple):
+	ranging scale
+Results for шкала с непосредственным отсчётом (simple):
+	scale with direct counting
+Results for шкала с нулём посредине (simple):
+	scale with zero in the middle
+Results for шкала с подавленным нулём (simple):
+	scale with suppressed zero
+Results for шкала сравнительной оценки (simple):
+	scale of comparative assessment
+Results for шкала средства измерений (simple):
+	measuring instrument scale
+Results for шкала счётной линейки (simple):
+	scale of a calculating ruler
+Results for шкала цветового тона (simple):
+	scale of color tone
+Results for шкала электромагнитных волн:
+	 electromagnetic spectrum (Техника)
+	 
+Results for аппаратный шкаф (simple):
+	hardware case
+Results for сушильный шкаф:
+	 drying cabinet 
+	 drying chamber (Естественные науки)
+	 
+	 cabinet dryer (Техника)
+	 
+	 drying oven (Естественные науки)
+	 
+Results for антенный шлейф (simple):
+	antenna loop
+Results for волноводный шлейф (simple):
+	the waveguide loop
+Results for ёмкостный (индуктивный) шлейф (simple):
+	capacitor (inductive) loop
+Results for коаксиальный шлейф (simple):
+	coaxial loop
+Results for короткозамкнутый шлейф (simple):
+	short-circuited loop
+Results for металлический шлейф (simple):
+	metal loop
+Results for настроечный шлейф (simple):
+	adjusting loop
+Results for полосковый шлейф (simple):
+	strip loop
+Results for проверочный шлейф (simple):
+	test loop
+Results for реактивный шлейф (simple):
+	jet loop
+Results for согласующий шлейф (simple):
+	the coordinating loop
+Results for фазирующий шлейф (simple):
+	the phasing loop
+Results for четвертьволновой шлейф (simple):
+	quarter wave loop
+Results for шлейф воздушной линии (simple):
+	air-line loop
+Results for шлейф-резонатор (simple):
+	loop resonator
+Results for шлейф с подвижным короткозамыкателем (simple):
+	loop with a mobile korotkozamykatel
+Results for косой шлиф:
+	 lap[læp] (Естественные науки)
+	 
+Results for шлюзование данных (simple):
+	locking of data
+Results for микротелефонный шнур:
+	 coiled cord (Компьютеры)
+	 
+Results for сверхгибкий шнур (simple):
+	superflexible cord
+Results for сетевой шнур (simple):
+	network cord
+Results for соединительный шнур:
+	 patch cord (Компьютеры)
+	 
+	 parchcord (Техника)
+	 
+Results for шнур с проводом заземления (simple):
+	cord with a grounding wire
+Results for заземляющий штекер (simple):
+	the grounding plug
+Results for соединительный штекер (simple):
+	connecting plug
+Results for телефонный штекер:
+	 telephone plug (Компьютеры)
+	 
+Results for блокирующий штепсель (simple):
+	the blocking plug
+Results for вызывной штепсель:
+	 calling plug (Техника)
+	 
+Results for избирательный штепсель (simple):
+	selective plug
+Results for опросный штепсель:
+	 answering plug (Техника)
+	 
+Results for размыкающий штепсель (simple):
+	the disconnecting plug
+Results for соединительный штепсель:
+	 contact plug (Техника)
+	 
+Results for цилиндрический штепсель (simple):
+	cylindrical plug
+Results for штепсель с защёлкой (simple):
+	plug with a latch
+Results for волноводный штырь:
+	 waveguide post (Техника)
+	 
+Results for настроечный штырь:
+	 tuning post (Компьютеры)
+	 
+Results for штепсельный штырь (simple):
+	plug probe
+Results for авроральный шум (simple):
+	avroralny noise
+Results for аддитивный шум:
+	 additive noise (Естественные науки)
+	 
+Results for амплитудный (модуляционный) шум (simple):
+	amplitude (modulation) noise
+Results for аппаратный шум (simple):
+	hardware noise
+Results for атмосферный шум (simple):
+	atmospheric noise
+Results for белый шум:
+	 white noise (Естественные науки)
+	 
+Results for вибрационный шум:
+	 vibrational noise (Компьютеры)
+	 
+Results for вне(внутри)полосный шум (simple):
+	out of (inside) band noise
+Results for внешний шум:
+	 external noise (Естественные науки)
+	 
+Results for вносимый шум:
+	 noise contribution (Компьютеры)
+	 
+	 added noise (Естественные науки)
+	 
+Results for галактический шум (simple):
+	galactic noise
+Results for гауссов шум (simple):
+	noise is Gaussian
+Results for генерационно-рекомбинационный шум:
+	 generation recombination noise (Компьютеры)
+	 
+Results for гидродинамический шум:
+	 hydrodynamic noise (Техника)
+	 
+Results for гладкий шум (simple):
+	smooth noise
+Results for дельта-шум:
+	 delta noise (Естественные науки)
+	 
+Results for диффузионный шум:
+	 diffusion noise (Естественные науки)
+	 
+Results for дробовой шум:
+	 Schottky noise (Естественные науки)
+	 
+	 shot noise (Компьютеры)
+	 
+Results for естественный шум (simple):
+	natural noise
+Results for избыточный шум:
+	 excess noise (Компьютеры)
+	 
+Results for индустриальный шум (simple):
+	industrial noise
+Results for интермодуляционный шум:
+	 inter-modulation noise (Компьютеры)
+	 
+Results for инфразвуковой шум (simple):
+	infrasonic noise
+Results for ионный шум (simple):
+	ionic noise
+Results for кавитационный шум:
+	 cavitation noise (Техника)
+	 
+Results for квантовый шум:
+	 quantun noise (Техника)
+	 
+Results for коллекторный шум:
+	 collector noise (Компьютеры)
+	 
+Results for контактный шум:
+	 contact noise (Компьютеры)
+	 
+Results for контурный шум (simple):
+	planimetric noise
+Results for космический шум (simple):
+	space noise
+Results for марковский шум (simple):
+	Markov noise
+Results for микроплазменный шум (simple):
+	microplasma noise
+Results for микрофонный шум:
+	 microphonic noise (Компьютеры)
+	 
+Results for модовый шум (simple):
+	modovy noise
+Results for мультипликативный шум (simple):
+	multiplicative noise
+Results for наведённый шум (simple):
+	the induced noise
+Results for (не)стробированный шум (simple):
+	(not) strobirovanny noise
+Results for ограниченный шум (simple):
+	limited noise
+Results for плазменный шум (simple):
+	plasma noise
+Results for поверхностный шум:
+	 surface noise (Компьютеры)
+	 
+Results for пространственно-коррелированный шум (simple):
+	the spatial correlated noise
+Results for пространственный шум (simple):
+	spatial noise
+Results for псевдослучайный шум (simple):
+	pseudorandom noise
+Results for псофометрический шум:
+	 psophometric noise (Компьютеры)
+	 
+Results for радиочастотный шум (simple):
+	radio-frequency noise
+Results for результирующий шум (simple):
+	the resulting noise
+Results for синфазный шум (simple):
+	inphase noise
+Results for собственный шум:
+	 intrinsic noise (Компьютеры)
+	 
+	 self noise (Техника)
+	 
+Results for структурный шум:
+	 structural noise (Техника)
+	 
+Results for тепловой шум:
+	 thermal noise (Естественные науки)
+	 
+Results for угловой шум (simple):
+	angular noise
+Results for узкополосный шум (simple):
+	narrow-band noise
+Results for фазовый шум:
+	 phase noise (Компьютеры)
+	 
+Results for фликкер-шум [шум мерцаний] (simple):
+	flikker-noise [noise of blinkings]
+Results for флу[ю]ктуационный шум (simple):
+	to fl [yu] ktuatsionny noise
+Results for фоновый шум:
+	 ambient noise (Компьютеры)
+	 
+	 ground noise (Естественные науки)
+	 
+Results for фононный шум (simple):
+	phonon noise
+Results for фотонный шум:
+	 photon noise (Техника)
+	 
+Results for широкополосный шум (simple):
+	broadband noise
+Results for шум антенны:
+	 antenna noise (Техника)
+	 
+Results for шум базы (simple):
+	noise of base
+Results for шум в молчащем канале (simple):
+	noise in the silent channel
+Results for шум вспомогательного разряда (simple):
+	noise of the auxiliary category
+Results for шум диода (simple):
+	noise of the diode
+Results for шум записи (simple):
+	record noise
+Results for шум звуковой частоты (simple):
+	noise of sound frequency
+Results for шум квантования:
+	 quantization noise (Компьютеры)
+	 
+Results for шум лавинного умножения (simple):
+	noise of avalanche multiplication
+Results for шум лампы:
+	 tube noise (Техника)
+	 
+Results for шум линии связи (simple):
+	noise of the communication line
+Results for шум накачки:
+	 pump noise (Техника)
+	 
+Results for шум на(раз)магниченного носителя магнитной записи (simple):
+	noise on (time) of the magnichenny carrier of the magnetic record
+Results for шум неба (simple):
+	noise of the sky
+Results for шум, обусловленный объёмными ловушками (simple):
+	the noise caused by volume traps
+Results for шум окружающей среды:
+	 environmental noise (Естественные науки)
+	 
+	 ambient noise (Техника)
+	 
+Results for шум от системы зажигания (simple):
+	noise from the system of ignition
+Results for шум от электротехнического оборудования (simple):
+	noise from the electrotechnical equipment
+Results for шум паузы:
+	 bias noise (Техника)
+	 
+Results for шум перегрузки по наклону (simple):
+	noise of an overload on an inclination
+Results for шум покоя (simple):
+	rest noise
+Results for шум приёмника (simple):
+	noise of the receiver
+Results for шум при наличии речевого сигнала (simple):
+	noise in the presence of a speech signal
+Results for шум пучка (simple):
+	noise of a bunch
+Results for шум сетки (simple):
+	noise of a grid
+Results for шум (спиновой) системы (simple):
+	noise (spin) system
+Results for шум схемы (тракта, цепи) (simple):
+	noise of the scheme (path, chain)
+Results for шум темнового тока (simple):
+	noise of dark current
+Results for шум токораспределения (simple):
+	noise of a tokoraspredeleniye
+Results for шум транзистора (simple):
+	noise of the transistor
+Results for шум трения:
+	 friction murmur (Естественные науки)
+	 
+	 rubbing sound (Техника)
+	 
+Results for шум угловой модуляции (simple):
+	noise of angular modulation
+Results for шум усилителя:
+	 amplifier noise (Компьютеры)
+	 
+Results for шум-фактор:
+	 noise factor (Естественные науки)
+	 
+Results for шум (фото)датчика (simple):
+	noise (photo) of the sensor
+Results for шум фототока (simple):
+	noise of photocurrent
+Results for эквивалентный в(вы)ходной шум (simple):
+	equivalent in (you) hodny noise
+Results for электромагнитный шум (simple):
+	electromagnetic noise
+Results for пороговый шумоподавитель (simple):
+	threshold noise suppressor
+Results for сейсмические шумы (simple):
+	seismic noise
+Results for собственные шумы тракта (simple):
+	own noise of a path
+Results for шумы Баркгаузена (simple):
+	Barkgauzen's noise
+Results for шумы взаимной модуляции (simple):
+	noise of mutual modulation
+Results for шумы насыщения (simple):
+	saturation noise
+Results for шумы побережья (simple):
+	noise of the coast
+Results for шумы , подчиняющиеся закону 1/f (simple):
+	the noise submitting to the law 1/f
+Results for шумы следящей системы (simple):
+	noise of the watching system
+Results for шумы цели (simple):
+	noise of the purpose
+Results for магнитный шунт (simple):
+	magnetic shunt
+Results for универсальный шунт (simple):
+	universal shunt
+Results for шунт гальванометра (simple):
+	galvanometer shunt
+Results for шунт измерительного прибора (simple):
+	shunt of the measuring device
+Results for шунтирование контура (simple):
+	shunting of a contour
+Results for излучающая щель (simple):
+	the radiating crack
+Results for петлевая щель (simple):
+	loopback crack
+Results for щель подвижности (simple):
+	mobility crack
+Results for щель связи (simple):
+	communication crack
+Results for энергетическая щель:
+	 energy gap (Естественные науки)
+	 
+Results for армированная щётка (simple):
+	the reinforced brush
+Results for сетчатая щётка (simple):
+	mesh brush
+Results for скользящая щётка (simple):
+	the sliding brush
+Results for слоистая щётка (simple):
+	layered brush
+Results for щётка генератора (simple):
+	generator brush
+Results for антенный щит (simple):
+	antenna board
+Results for главный щит (simple):
+	main board
+Results for групповой щит (simple):
+	group board
+Results for диспетчерский щит:
+	 instrument panel (Техника)
+	 
+Results for кабельный щит (simple):
+	cable board
+Results for коммутационный щит:
+	 switchboard panel (Компьютеры)
+	 
+Results for контрольный щит:
+	 trestle tree (Техника)
+	 
+Results for местный щит (simple):
+	local board
+Results for многопанельный щит (simple):
+	multipanel board
+Results for направляющий щит (simple):
+	the directing board
+Results for распределительный щит:
+	 switchboard[ˈswɪtʃbɔ:d] 
+	 distribution board (Естественные науки)
+	 
+	 distribution frame (Компьютеры)
+	 
+Results for щит освещения:
+	 lighting switchboard (Техника)
+	 
+Results for щит переключений:
+	 interlock board (Техника)
+	 
+Results for щит управления:
+	 control panel 
+	 instrument assembly (Естественные науки)
+	 
+Results for щиток защиты (simple):
+	protection guard
+Results for щиток переключений (simple):
+	guard of switchings
+Results for щиток с предохранителями:
+	 cutout board (Компьютеры)
+	 
+Results for акустический щуп (simple):
+	acoustic probe
+Results for атмосферный щуп (simple):
+	atmospheric probe
+Results for высоковольтный щуп (simple):
+	high-voltage probe
+Results for щуп прибора (simple):
+	device probe
+Results for абонентская ЭВМ (электронная вычислительная машина) (simple):
+	subscriber EC (electronic computer)
+Results for аналоговая ЭВМ (электронная вычислительная машина) (simple):
+	analog EC (electronic computer)
+Results for аналого-цифровая ЭВМ (электронная вычислительная машина) (simple):
+	analog-digital EC (electronic computer)
+Results for асинхронная ЭВМ (электронная вычислительная машина) (simple):
+	asynchronous EC (electronic computer)
+Results for главная ЭВМ (электронная вычислительная машина) (simple):
+	host EC (electronic computer)
+Results for домашняя ЭВМ (электронная вычислительная машина) (simple):
+	home EC (electronic computer)
+Results for клавишная ЭВМ (электронная вычислительная машина) (simple):
+	keyboard EC (electronic computer)
+Results for конвейерная ЭВМ (электронная вычислительная машина) (simple):
+	conveyor EC (electronic computer)
+Results for многопользовательская ЭВМ (электронная вычислительная машина) (simple):
+	multiuser EC (electronic computer)
+Results for настольная ЭВМ (электронная вычислительная машина) (simple):
+	desk-top EC (electronic computer)
+Results for однокристальная ЭВМ (электронная вычислительная машина) (simple):
+	single-crystal EC (electronic computer)
+Results for периферийная ЭВМ (электронная вычислительная машина) (simple):
+	peripheral EC (electronic computer)
+Results for персональная ЭВМ (электронная вычислительная машина) (simple):
+	personal EC (electronic computer)
+Results for пиктографическая ЭВМ (электронная вычислительная машина) (simple):
+	pictographic EC (electronic computer)
+Results for подключённая ЭВМ (электронная вычислительная машина) (simple):
+	connected EC (electronic computer)
+Results for сопрягающая ЭВМ (электронная вычислительная машина) (simple):
+	interfacing EC (electronic computer)
+Results for специализированная ЭВМ (электронная вычислительная машина) (simple):
+	specialized EC (electronic computer)
+Results for твердотельная ЭВМ (электронная вычислительная машина) (simple):
+	solid-state EC (electronic computer)
+Results for универсальная ЭВМ (электронная вычислительная машина) (simple):
+	universal EC (electronic computer)
+Results for управляющая ЭВМ (электронная вычислительная машина) (simple):
+	operating EC (electronic computer)
+Results for ЭВМ (электронная вычислительная машина) для управления производством (технологическими процессами) (simple):
+	EC (electronic computer) for production management (technological processes)
+Results for ЭВМ (электронная вычислительная машина) коллективного (промышленного) использования (simple):
+	EC (electronic computer) of collective (industrial) use
+Results for ЭВМ (электронная вычислительная машина) младшей (старшей) модели (simple):
+	EC (electronic computer) of younger (senior) model
+Results for ЭВМ (электронная вычислительная машина) пятого поколения (simple):
+	EC (electronic computer) of the fifth generation
+Results for ЭВМ (электронная вычислительная машина) резервного действия (simple):
+	EC (electronic computer) of reserve action
+Results for ЭВМ (электронная вычислительная машина) сети (simple):
+	EC (electronic computer) of network
+Results for ЭВМ (электронная вычислительная машина) с жёсткой (хранимой) программой (simple):
+	EC (electronic computer) with the tough (stored) program
+Results for ЭВМ (электронная вычислительная машина) с кассетными ЗУ (simple):
+	EC (electronic computer) with cassette STORAGES
+Results for ЭВМ (электронная вычислительная машина) с мандатной адресацией (simple):
+	EC (electronic computer) with mandatory addressing
+Results for ЭВМ (электронная вычислительная машина) со страничной организацией памяти (simple):
+	EC (electronic computer) with the page organization of memory
+Results for ЭВМ (электронная вычислительная машина) специального применения (simple):
+	EC (electronic computer) of special application
+Results for ЭВМ (электронная вычислительная машина) с полным (сокращённым) набором команд (simple):
+	EC (electronic computer) with the full (reduced) set of teams
+Results for ЭВМ (электронная вычислительная машина) средней производительности (simple):
+	EC (electronic computer) of average productivity
+Results for ЭВМ (электронная вычислительная машина) , управляемая потоком команд (simple):
+	EC (electronic computer) operated by a flow of teams
+Results for ЭВМ (электронная вычислительная машина) целевого назначения (simple):
+	EC (electronic computer) of purpose
+Results for эволюция сигнала (simple):
+	evolution of a signal
+Results for эволюция солитона (simple):
+	evolution of a soliton
+Results for ЭДС (электродвижущая сила) источника питания (simple):
+	EMF (electromotive force) of the power supply
+Results for эжекция пучка (simple):
+	ejection of a bunch
+Results for графический эквалайзер:
+	 graphic equalizer (Компьютеры)
+	 
+Results for параметрический эквалайзер:
+	 parameter equalizer (Компьютеры)
+	 
+Results for стереофонический эквалайзер (simple):
+	stereophonic equalizer
+Results for (треть)октавный эквалайзер (simple):
+	(third) octava equalizer
+Results for эквалайзер верхних и нижних (средних) звуковых частот (simple):
+	equalizer of the top and lower (average) sound frequencies
+Results for эквалайзер для создания эффекта присутствия (simple):
+	equalizer for creation of effect of presence
+Results for диодный эквивалент (simple):
+	diode equivalent
+Results for механический эквивалент света (simple):
+	mechanical equivalent of light
+Results for эквивалент антенны:
+	 dummy antenna (Естественные науки)
+	 
+Results for эквивалент затухания (simple):
+	attenuation equivalent
+Results for эквивалент нагрузки:
+	 dummy load (Компьютеры)
+	 
+Results for эквивалент продолжительности (simple):
+	duration equivalent
+Results for эквивалент сети (simple):
+	equivalent of network
+Results for логическая эквивалентность (simple):
+	logical equivalence
+Results for экземпляр прибора (simple):
+	device copy
+Results for экземпляр устройства (simple):
+	device copy
+Results for акустический экран:
+	 acoustical baffle (Естественные науки)
+	 
+	 acoustic baffle (Компьютеры)
+	 
+Results for алюминированный экран (simple):
+	the aluminized screen
+Results for белый матовый (перламутровый, полуматовый) экран (simple):
+	white opaque (nacreous, semi-gloss) screen
+Results for (ветро)защитный экран (simple):
+	(winds) filter
+Results for голографический экран (simple):
+	holographic screen
+Results for диамагнитный экран (simple):
+	diamagnetic screen
+Results for жемчужный экран (simple):
+	pearl screen
+Results for жидкокристаллический экран:
+	 LCD screen (Компьютеры)
+	 
+Results for заземлённый экран (simple):
+	the grounded screen
+Results for защитный экран:
+	 filter[ˈfɪltə] 
+	 protecting screen (Естественные науки)
+	 
+	 protective screen (Техника)
+	 
+Results for коаксиальный экран (simple):
+	coaxial screen
+Results for линзорастровый экран (simple):
+	linzorastrovy screen
+Results for магнитный экран:
+	 magnetic shield (Техника)
+	 
+Results for металлизированный экран:
+	 metal-backed screen (Техника)
+	 
+Results for (не)направленный экран (simple):
+	not directed screen
+Results for пермаллоевый экран:
+	 permalloy shield (Техника)
+	 
+Results for плоский экран:
+	 plane baffle (Техника)
+	 
+Results for подсвечивающий экран (simple):
+	the highlighting screen
+Results for противобликовый [матированный] экран (simple):
+	anti-glare [matirovanny] screen
+Results for растровый экран:
+	 fine screen (Компьютеры)
+	 
+Results for (рир, фронт)проекционный экран (simple):
+	(рир, front) projection screen
+Results for сверхпроводящий экран (simple):
+	superconducting screen
+Results for светорассеивающий экран (simple):
+	light-scattering screen
+Results for сенсорный экран:
+	 touch screen (Компьютеры)
+	 
+	 tactile screen (Техника)
+	 
+Results for слоистый экран:
+	 laminated shield (Техника)
+	 
+Results for сплошной экран:
+	 bulk shield (Техника)
+	 
+Results for текстурированный экран (simple):
+	the textured screen
+Results for тепловой экран:
+	 heat shield (Естественные науки)
+	 
+Results for торцевой [торцовый] экран (simple):
+	face [face] screen
+Results for ферромагнитный экран (simple):
+	ferromagnetic screen
+Results for флу[ю]оресцирующий экран (simple):
+	to fl [yu] orestsiruyushchy screen
+Results for цокольный экран (simple):
+	socle screen
+Results for экран без послесвечения (simple):
+	the screen without afterglow
+Results for экран для защиты от коронного разряда (simple):
+	the screen for protection against the crown category
+Results for экран для темновой записи (simple):
+	the screen for dark record
+Results for экран индикатора РЛС [радара] (simple):
+	screen of the indicator of radar station [radar]
+Results for экран кабеля:
+	 pair shield (Техника)
+	 
+Results for экран с длительным (малым, средним) послесвечением (simple):
+	the screen with long (small, average) afterglow
+Results for экран с нейтральным светофильтром (simple):
+	the screen with the neutral light filter
+Results for экран соединителя (simple):
+	connector screen
+Results for экран (цветного) кинескопа (simple):
+	screen (color) kinescope
+Results for экран ЭЛТ (simple):
+	CRT screen
+Results for (электро)люминесцентный экран (simple):
+	(electro) luminescent screen
+Results for электростатический экран:
+	 electrostatic shield (Техника)
+	 
+Results for дебаевское экранирование (simple):
+	Debye shielding
+Results for магнитное экранирование (simple):
+	magnetic shielding
+Results for экранирование гальванометра (simple):
+	shielding of a galvanometer
+Results for экранирование катода (simple):
+	shielding of the cathode
+Results for экранирование от импульсных помех (радиопомех) (simple):
+	shielding from pulse hindrances (radio noise)
+Results for экранирование устройства (simple):
+	shielding of the device
+Results for электростатическое экранирование (simple):
+	electrostatic shielding
+Results for триплетный эксиплекс (simple):
+	tripletny эксиплекс
+Results for (не)чётный экситон (simple):
+	(not) even exciton
+Results for свободный экситон (simple):
+	free exciton
+Results for связанный экситон (simple):
+	connected exciton
+Results for триплетный экситон (simple):
+	tripletny exciton
+Results for экситон Ванье-Мотта (simple):
+	Vanye-Mott's exciton
+Results for экситон Френеля (simple):
+	Fresnel's exciton
+Results for дополняющий экспандер (simple):
+	the supplementing expander
+Results for слоговый экспандер (simple):
+	slogovy expander
+Results for цифровой экспандер (simple):
+	digital expander
+Results for совместный эксперимент:
+	 joint experiment 
+Results for умозрительный эксперимент (simple):
+	speculative experiment
+Results for эксплуатация системы с нарушением установленного режима (simple):
+	operation of system with violation of the set mode
+Results for энергетическая экспозиция:
+	 radiant exposure (Техника)
+	 
+Results for длительное экспонирование (simple):
+	long exhibiting
+Results for экспонирование в открытом пространстве (simple):
+	exhibiting in open space
+Results for экспресс-анализ:
+	 snap analysis (Естественные науки)
+	 
+Results for экспресс-измерения (simple):
+	express measurements
+Results for экспресс-информация (simple):
+	express information
+Results for экспресс-лаборатория:
+	 express laboratory (Естественные науки)
+	 
+Results for экстракция горячих носителей (simple):
+	extraction of hot carriers
+Results for экстраполирование переходного (релаксационного, случайного) процесса (simple):
+	extrapolation transitional (relaxation, casual) process
+Results for абсолютный (относительный) экстремум (simple):
+	absolute (relative) extremum
+Results for глобальный (локальный) экстремум (simple):
+	global (local) extremum
+Results for сильный (слабый) экстремум (simple):
+	strong (weak) extremum
+Results for условный экстремум:
+	 conditional extremum (Техника)
+	 
+Results for гомополярный электрет (simple):
+	homopolar electret
+Results for керамический электрет (simple):
+	ceramic electret
+Results for органический электрет (simple):
+	organic electret
+Results for контактная электризация:
+	 contact electricity (Техника)
+	 
+Results for электризация путём передачи заряда (simple):
+	electrization by transfer of a charge
+Results for атмосферное электричество:
+	 atmospheric electricity (Техника)
+	 
+Results for земное электричество:
+	 terrestrial electricity (Техника)
+	 
+Results for отрицательное (положительное) электричество (simple):
+	negative (positive) electricity
+Results for статическое электричество:
+	 static electricity (Естественные науки)
+	 
+Results for электричество трения (simple):
+	friction electricity
+Results for активный электрод:
+	 active electrode (Компьютеры)
+	 
+Results for базовый электрод:
+	 base electrode (Компьютеры)
+	 
+Results for би(моно)полярный электрод (simple):
+	би (mono) polar electrode
+Results for бифункциональный электрод (simple):
+	bifunctional electrode
+Results for боковой электрод (simple):
+	side electrode
+Results for вживлённый электрод (simple):
+	the implanted electrode
+Results for вживляемый электрод (simple):
+	the implanted electrode
+Results for внутриклеточный электрод:
+	 intracellular electrode (Естественные науки)
+	 
+Results for водородный электрод:
+	 hydrogen electrode (Компьютеры)
+	 
+Results for выступающий электрод (simple):
+	the acting electrode
+Results for газодиффузионный электрод (simple):
+	gas-diffusive electrode
+Results for газонасыщенный электрод (simple):
+	gas-saturated electrode
+Results for двухкаркасный электрод (simple):
+	two-frame electrode
+Results for децинормальный электрод (simple):
+	decinormal electrode
+Results for ионоселективный электрод:
+	 ion-selective electrode (Естественные науки)
+	 
+Results for кислородный электрод:
+	 oxygen electrode (Естественные науки)
+	 
+Results for коллекторный электрод (simple):
+	collector electrode
+Results for контрольный электрод:
+	 monitoring electrode (Компьютеры)
+	 
+Results for лицевой электрод (simple):
+	front electrode
+Results for лучеобразующий электрод (simple):
+	beam-forming electrode
+Results for накладной электрод (simple):
+	laid on electrode
+Results for напылённый электрод (simple):
+	the raised dust electrode
+Results for неподвижный электрод (simple):
+	motionless electrode
+Results for нормальный электрод:
+	 standard electrode (Естественные науки)
+	 
+Results for обезгаженный электрод (simple):
+	the outgased electrode
+Results for окислительный электрод (simple):
+	oxidizing electrode
+Results for отводящий электрод:
+	 pickup electrode (Естественные науки)
+	 
+Results for отклоняющий электрод:
+	 deflection electrode (Компьютеры)
+	 
+	 deflecting electrode (Техника)
+	 
+Results for отрицательный (положительный) электрод (simple):
+	negative (positive) electrode
+Results for передающий электрод (simple):
+	the transferring electrode
+Results for переключающий электрод (simple):
+	the switching electrode
+Results for переходной электрод (simple):
+	transitional electrode
+Results for плавающий электрод (simple):
+	floating electrode
+Results for поджигающий электрод:
+	 igniter electrode (Компьютеры)
+	 
+Results for пористый электрод (simple):
+	porous electrode
+Results for (после)ускоряющий электрод (simple):
+	(after) the accelerating electrode
+Results for приёмный электрод (simple):
+	reception electrode
+Results for прозрачный электрод:
+	 transparent electrode (Компьютеры)
+	 
+Results for рабочий электрод (simple):
+	working electrode
+Results for сверхпроводящий электрод (simple):
+	superconducting electrode
+Results for секционированный электрод (simple):
+	the partitioned electrode
+Results for собирающий электрод:
+	 collector electrode (Компьютеры)
+	 
+Results for стандартный электрод:
+	 standard electrode (Естественные науки)
+	 
+Results for топливный электрод:
+	 fuel electrode (Техника)
+	 
+Results for тормозящий электрод (simple):
+	the braking electrode
+Results for угольный электрод:
+	 baked carbon (Естественные науки)
+	 
+	 carbon electrode (Компьютеры)
+	 
+Results for управляющий электрод:
+	 control electrode (Компьютеры)
+	 
+Results for ускоряющий электрод:
+	 accelerating electrode (Компьютеры)
+	 
+Results for фокусирующий электрод:
+	 focusing electrode (Компьютеры)
+	 
+Results for электрод вспомогательного разряда (simple):
+	electrode of the auxiliary category
+Results for электрод для прожигания (simple):
+	electrode for burning
+Results for электрод заземления (simple):
+	grounding electrode
+Results for электрод затвора (истока, стока) (simple):
+	lock electrode (source, drain)
+Results for электрод клапанного типа (simple):
+	electrode of valvate type
+Results for электрод, корректирующий поле (simple):
+	the electrode correcting the field
+Results for электрод сравнения:
+	 reference electrode (Естественные науки)
+	 
+Results for электрод хранения (simple):
+	storage electrode
+Results for эмиттерный электрод (simple):
+	emitter electrode
+Results for электродвигатель двойного питания (simple):
+	electric motor of double food
+Results for электродвигатель параллельного (последовательного, смешанного) возбуждения (simple):
+	the electric motor parallel (consecutive, mixed) excitement
+Results for электродвигатель переменного (постоянного) тока (simple):
+	electric motor of alternating (constant) current
+Results for электродвигатель с жёсткой (мягкой) характеристикой (simple):
+	the electric motor with the tough (soft) characteristic
+Results for электродвигатель с искусственным (принудительным) воздушным охлаждением (simple):
+	the electric motor with artificial (compulsory) air cooling
+Results for электродвигатель с независимым возбуждением (simple):
+	the electric motor with independent excitement
+Results for электродвигатель с переключением числа полюсов (simple):
+	the electric motor with switching of number of poles
+Results for электродвигатель с переменной (регулируемой) частотой вращения (simple):
+	the electric motor with a variable (adjustable) frequency of rotation
+Results for электродвигатель с печатной обмоткой (simple):
+	the electric motor with a printing winding
+Results for электродвигатель с расщеплённой фазой (simple):
+	the electric motor with the split phase
+Results for электродвигатель с расщеплёнными полюсами (simple):
+	the electric motor with the split poles
+Results for электродвигатель с самовозбуждением (simple):
+	the electric motor with self-excitation
+Results for квантовая электродинамика (simple):
+	quantum electrodynamics
+Results for классическая электродинамика (simple):
+	classical electrodynamics
+Results for макро(микро)скопическая электродинамика (simple):
+	macro (micro) skopichesky electrodynamics
+Results for нелинейная электродинамика (simple):
+	nonlinear electrodynamics
+Results for СВЧ-электродинамика (simple):
+	Microwave electrodynamics
+Results for техническая электродинамика (simple):
+	technical electrodynamics
+Results for электродинамика движущихся сред (simple):
+	electrodynamics of moving environments
+Results for (без)водный электролит (simple):
+	(without) water electrolyte
+Results for жидкий электролит:
+	 liquid electrolyte (Техника)
+	 
+Results for загрязнённый электролит (simple):
+	the polluted electrolyte
+Results for загущённый электролит (simple):
+	thickened electrolyte
+Results for ионнообменный электролит (simple):
+	ion-exchange electrolyte
+Results for матричный электролит (simple):
+	matrix electrolyte
+Results for неорганический электролит (simple):
+	inorganic electrolyte
+Results for одновалентный электролит (simple):
+	monovalent electrolyte
+Results for (полу)твёрдый электролит (simple):
+	(floor) solid electrolyte
+Results for расплавленный электролит:
+	 molten electrolyte (Компьютеры)
+	 
+	 fused electrolyte (Техника)
+	 
+Results for втяжной электромагнит:
+	 plunger electromagnet (Техника)
+	 
+Results for сверхпроводящий электромагнит:
+	 super-conducting magnet (Техника)
+	 
+Results for секторный электромагнит (simple):
+	sector electromagnet
+Results for соленоидный электромагнит (simple):
+	solenoidal electromagnet
+Results for удерживающий электромагнит:
+	 pulling magnet (Техника)
+	 
+Results for электромагнит с железным сердечником (simple):
+	electromagnet with the iron core
+Results for абсолютный электрометр:
+	 absolute electrometer (Техника)
+	 
+Results for вибрационный электрометр (simple):
+	vibration electrometer
+Results for динамический электрометр:
+	 dynamic electrometer (Техника)
+	 
+Results for квадрантный электрометр:
+	 quadrant electrometer (Техника)
+	 
+Results for ламповый электрометр:
+	 vacuum tube electrometer (Техника)
+	 
+Results for твердотельный электрометр (simple):
+	solid-state electrometer
+Results for электромиграция ионов в растворе (simple):
+	electromigration of ions in solution
+Results for электромиграция на границах зёрен (simple):
+	electromigration on borders of grains
+Results for быстрый электрон:
+	 high-velocity electron (Естественные науки)
+	 
+	 fast electron (Техника)
+	 
+Results for валентный электрон:
+	 valence electron (Естественные науки)
+	 
+Results for внешний электрон:
+	 outer-shell electron (Естественные науки)
+	 
+	 outer electron (Компьютеры)
+	 
+Results for вращающийся электрон (simple):
+	the rotating electron
+Results for вторичный электрон:
+	 secondary electron (Техника)
+	 
+Results for горячий электрон:
+	 hot electron (Естественные науки)
+	 
+Results for дрейфующий электрон (simple):
+	the drifting electron
+Results for замедленный электрон (simple):
+	the slowed-down electron
+Results for захваченный электрон:
+	 trapped electron (Естественные науки)
+	 
+Results for избыточный электрон (simple):
+	excess electron
+Results for комптоновский электрон (simple):
+	Compton electron
+Results for конверсионный электрон:
+	 conversion electron (Естественные науки)
+	 
+Results for налетающий электрон (simple):
+	the flying electron
+Results for неосновной электрон (simple):
+	nonbasic electron
+Results for (не)связанный электрон (simple):
+	(not) the connected electron
+Results for неспареный электрон (simple):
+	nespareny electron
+Results for неравновесный электрон (simple):
+	nonequilibrium electron
+Results for нормальный электрон (simple):
+	normal electron
+Results for одиночный электрон (simple):
+	single electron
+Results for орбитальный электрон:
+	 planetary electron (Естественные науки)
+	 
+	 orbital electron (Техника)
+	 
+Results for первичный электрон:
+	 primary electron (Естественные науки)
+	 
+Results for подвижный электрон (simple):
+	mobile electron
+Results for резонансный электрон (simple):
+	resonant electron
+Results for сверхпроводящий электрон (simple):
+	superconducting electron
+Results for свободный электрон:
+	 free electron (Естественные науки)
+	 
+Results for тёплый электрон (simple):
+	warm electron
+Results for туннелирующий электрон:
+	 tunneling electron (Техника)
+	 
+Results for (ультра)релятивистский электрон (simple):
+	(ultra) relativistic electron
+Results for уходящий электрон (simple):
+	the leaving electron
+Results for фотовозбуждённый электрон (simple):
+	the photoexcited electron
+Results for электрон-вольт:
+	 electron-volt 
+Results for электрон газового разряда (simple):
+	electron of the gas category
+Results for электрон оболочки (simple):
+	cover electron
+Results for электрон Оже (simple):
+	Auger's electron
+Results for электрон отдачи:
+	 Compton electron (Естественные науки)
+	 
+	 recoil electron (Компьютеры)
+	 
+Results for электрон плазмы (simple):
+	plasma electron
+Results for электрон проводимости:
+	 conduction electron (Естественные науки)
+	 
+Results for авиационно-космическая электроника (simple):
+	aerospace electronics
+Results for интегральная электроника:
+	 integronics (Техника)
+	 
+Results for квантовая электроника:
+	 quantum electronics (Естественные науки)
+	 
+Results for космическая электроника:
+	 space electronics (Техника)
+	 
+Results for криогенная электроника:
+	 cryogenic electronics (Техника)
+	 
+Results for медицинская электроника:
+	 medical electronics (Техника)
+	 
+Results for микромодульная электроника (simple):
+	micromodular electronics
+Results for молекулярная электроника [молектроника] (simple):
+	molecular electronics [molectronics]
+Results for навигационная электроника (simple):
+	navigation electronics
+Results for низкотемпературная электроника (simple):
+	low-temperature electronics
+Results for параметрическая электроника:
+	 parametric electronics (Техника)
+	 
+Results for полупроводниковая электроника:
+	 semiconductor electronics (Компьютеры)
+	 
+Results for промышленная электроника (simple):
+	industrial electronics
+Results for сверхпроводниковая электроника (simple):
+	superconductor electronics
+Results for СВЧ-электроника (simple):
+	Microwave electronics
+Results for техническая электроника:
+	 engineering electronics (Техника)
+	 
+Results for твердотельная электроника (simple):
+	solid-state electronics
+Results for (тонко)плёночная электроника (simple):
+	(thinly) film electronics
+Results for транзисторная электроника:
+	 transistor electronics (Компьютеры)
+	 
+Results for физическая электроника (simple):
+	physical electronics
+Results for функциональная электроника:
+	 functional electronics (Техника)
+	 
+Results for электроника средств первичного преобразования информации (simple):
+	electronics of means of primary transformation of information
+Results for электроника средств связи (simple):
+	electronics of means of communication
+Results for ядерная электроника:
+	 nuclear electronics (Техника)
+	 
+Results for спаренные электроны (simple):
+	the coupled electrons
+Results for дырочная электропроводность:
+	 hole conduction (Естественные науки)
+	 
+Results for ионная электропроводность:
+	 ionic conduction (Естественные науки)
+	 
+Results for неомическая электропроводность (simple):
+	not ohmic conductivity
+Results for примесная электропроводность:
+	 impurity conduction (Естественные науки)
+	 
+	 extrinsic conduction (Компьютеры)
+	 
+Results for прыжковая электропроводность (simple):
+	hopping conductivity
+Results for собственная электропроводность:
+	 intrinsic conductivity (Естественные науки)
+	 
+Results for стримерная электропроводность (simple):
+	streamer conductivity
+Results for темновая электропроводность (simple):
+	dark conductivity
+Results for удельная электропроводность:
+	 direct-current conductivity (Естественные науки)
+	 
+Results for электронная электропроводность:
+	 electron conduction (Естественные науки)
+	 
+Results for электропроводность электролита:
+	 electrolytic conductivity (Естественные науки)
+	 
+Results for электрохимия полупроводников (simple):
+	electrochemistry of semiconductors
+Results for активный (пассивный) элемент (simple):
+	active (passive) element
+Results for асинхронный элемент (simple):
+	asynchronous element
+Results for базовый функциональный элемент (simple):
+	Basic functional Element
+Results for бистабильный элемент (simple):
+	bistable element
+Results for быстродействующий элемент:
+	 high-speed element (Компьютеры)
+	 
+Results for внутрирезонаторный элемент (simple):
+	vnutrirezonatorny element
+Results for возбудимый элемент (simple):
+	excitable element
+Results for возбуждаемый элемент (simple):
+	the excited element
+Results for возбуждающий элемент (simple):
+	exciting element
+Results for волоконно-оптический элемент:
+	 optical fiber component (Компьютеры)
+	 
+Results for выпрямительный элемент:
+	 rectifier cell (Компьютеры)
+	 
+Results for гальванический элемент:
+	 galvanic cell 
+	 voltaic cell (Техника)
+	 
+Results for голографический элемент (simple):
+	holographic element
+Results for дву(одно)направленный элемент (simple):
+	two-(one) the directed element
+Results for дискретный элемент:
+	 discrete element (Компьютеры)
+	 
+	 discrete component (Техника)
+	 
+Results for диффузионный элемент (simple):
+	diffusive element
+Results for единичный элемент:
+	 unity element (Естественные науки)
+	 
+	 unit element (Компьютеры)
+	 
+Results for ёмкостный элемент (simple):
+	capacitor element
+Results for задающий элемент (simple):
+	the setting element
+Results for запоминающий элемент:
+	 storage element (Компьютеры)
+	 
+Results for звукопоглощающий элемент (simple):
+	sound-absorbing element
+Results for излучающий элемент:
+	 emitter unit (Техника)
+	 
+Results for индуктивный элемент (simple):
+	inductive element
+Results for исполнительный элемент:
+	 actuator[ˈæktjueɪtə] (Техника)
+	 
+	 effector (Естественные науки)
+	 
+Results for коллимирующий элемент (simple):
+	the collimating element
+Results for коммутационный элемент:
+	 switching element (Техника)
+	 
+Results for компенсирующий элемент (simple):
+	the compensating element
+Results for корректирующий элемент (simple):
+	the correcting element
+Results for легирующий элемент:
+	 doping element (Естественные науки)
+	 
+	 alloying element (Техника)
+	 легирующий элемент 
+	 Прилагательное легирующий элемент /   /  
+	 alloying element (Естественные науки)
+	 
+Results for логический элемент:
+	 logic gate (Компьютеры)
+	 
+	 logical component (Техника)
+	 
+Results for матричный элемент:
+	 element of a matrix (Техника)
+	 
+Results for монолитный элемент (simple):
+	monolithic element
+Results for навесной элемент:
+	 interconnection component (Техника)
+	 
+Results for нагревательный элемент:
+	 heating element (Естественные науки)
+	 
+Results for настроечный элемент (simple):
+	adjusting element
+Results for опорный элемент:
+	 reference element (Компьютеры)
+	 
+	 support member (Техника)
+	 
+Results for оптоэлектронный элемент (simple):
+	optoelectronic element
+Results for отображающий элемент (simple):
+	the displaying element
+Results for пассивный элемент:
+	 undriven element (Компьютеры)
+	 
+Results for первичный элемент:
+	 primary cell (Техника)
+	 
+Results for печатный элемент:
+	 printed component (Техника)
+	 
+Results for пиктографический элемент (simple):
+	pictographic element
+Results for подвижный элемент (simple):
+	mobile element
+Results for подстроечный элемент (simple):
+	tuning element
+Results for полупроводниковый элемент:
+	 semiconductor element (Компьютеры)
+	 
+Results for помехоподавляющий элемент (simple):
+	noise suppressing element
+Results for пороговый элемент (simple):
+	threshold element
+Results for преломляющий элемент (simple):
+	the refracting element
+Results for примесный элемент:
+	 impurity element (Техника)
+	 
+Results for проводящий элемент резистора (simple):
+	the carrying-out resistor element
+Results for пьезоэлектрический элемент (simple):
+	piezoelectric element
+Results for регистрирующий элемент (simple):
+	the registering element
+Results for регулирующий элемент (simple):
+	the regulating element
+Results for резистивный элемент (simple):
+	resistive element
+Results for резонансный элемент (simple):
+	resonant element
+Results for решающий элемент:
+	 decision element (Естественные науки)
+	 
+Results for светоделительный элемент (simple):
+	svetodelitelny element
+Results for сегнетоэлектрический элемент:
+	 ferroelectric element (Техника)
+	 
+Results for (син)хронизирующий элемент (simple):
+	(Xing) Hroniziruyushchy element
+Results for сменный элемент:
+	 plug-in element (Техника)
+	 
+Results for сопряжённый элемент (simple):
+	the interfaced element
+Results for стартовый элемент (simple):
+	starting element
+Results for стоповый элемент (simple):
+	stop element
+Results for стробирующий элемент (simple):
+	strobiruyushchy element
+Results for сухой элемент:
+	 dry cell (Естественные науки)
+	 
+	 dry battery (Естественные науки)
+	 
+Results for схемный элемент:
+	 circuit detail (Компьютеры)
+	 
+	 circuit element (Техника)
+	 
+Results for считывающий элемент (simple):
+	the reading-out element
+Results for тепловыделяющий элемент:
+	 fuel element 
+Results for термочувствительный элемент:
+	 temperature bulb (Естественные науки)
+	 
+Results for типовой элемент (simple):
+	standard element
+Results for толсто(тонко)плёночный элемент (simple):
+	thickly (thinly) film element
+Results for топливный элемент:
+	 combustion cell (Естественные науки)
+	 
+	 fuel cell (Техника)
+	 
+Results for топологический элемент (simple):
+	topological element
+Results for управляющий элемент:
+	 control element 
+	 controlling unit (Компьютеры)
+	 
+	 command element (Техника)
+	 
+Results for (фото)гальванический элемент (simple):
+	(photo) galvanic cell
+Results for шевронный элемент (simple):
+	shevronny element
+Results for электрический элемент (simple):
+	electric element
+Results for электролюминесцентный элемент (simple):
+	electroluminescent element
+Results for электроотрицательный элемент (simple):
+	electronegative element

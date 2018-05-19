@@ -1,0 +1,2288 @@
+Results for параллельная (последовательная) передача данных (simple):
+	parallel (consecutive) data transmission
+Results for передача без искажений (ошибок) (simple):
+	transfer without distortions (mistakes)
+Results for передача без несущей частоты (simple):
+	transfer without the bearing frequency
+Results for передача в диапазоне волн (частот) (simple):
+	transfer with the wave band (frequencies)
+Results for передача в записи (simple):
+	transfer to records
+Results for передача видеосигнала без постоянной составляющей (simple):
+	transfer of video signal without constant component
+Results for передача возбуждения (simple):
+	excitement transfer
+Results for передача голограмм (simple):
+	transfer of holograms
+Results for передача данных по каналам связи (simple):
+	data transmission on communication channels
+Results for передача данных через спутник (simple):
+	data transmission via the satellite
+Results for передача изображения:
+	 image transfer (Компьютеры)
+	 
+	 picture transmission (Техника)
+	 
+Results for передача информации:
+	 information transfer 
+	 transmission of information (Техника)
+	 
+Results for передача крупным планом (simple):
+	transfer close up
+Results for передача на двух боковых полосах:
+	 double sideband transmission (Компьютеры)
+	 
+	 double-sideband transmission (Техника)
+	 
+Results for передача на несущей частоте:
+	 carrier transmission (Компьютеры)
+	 
+Results for передача пакетов сообщений (simple):
+	transfer of packages of messages
+Results for передача по абонентской линии (simple):
+	transfer on a subscriber line
+Results for передача по запросу (требованию) (simple):
+	transfer on demand (requirement)
+Results for передача по кабелю (проводам) (simple):
+	transfer on a cable (wires)
+Results for передача по световоду [световодная передача] (simple):
+	transfer on the light guide [light-guide transfer]
+Results for передача по сети проводного вещания (simple):
+	transfer on network of wire broadcasting
+Results for передача постоянной яркости (simple):
+	transfer of constant brightness
+Results for передача по шине (simple):
+	transfer on the tire
+Results for передача программ (simple):
+	transfer of programs
+Results for передача речевых сигналов (simple):
+	transfer of speech signals
+Results for передача речи:
+	 speech transmission 
+	 voice transmission (Компьютеры)
+	 
+Results for передача с временным уплотнением (simple):
+	transfer with temporary consolidation
+Results for передача сигнала системы поискового вызова (simple):
+	signal transmission of system of a search call
+Results for передача сигнала яркости и двух цветоразностных сигналов (simple):
+	signal transmission of brightness and two color-difference signals
+Results for передача сигналов на большое расстояние (simple):
+	signaling on long distance
+Results for передача сигналов с предварительным сжатием во времени (simple):
+	signaling with preliminary compression in time
+Results for передача с несколькими несущими (simple):
+	transfer with several bearing
+Results for передача с обратной связью (simple):
+	transfer with feedback
+Results for передача с одной боковой полосой:
+	 single sideband transmission (Компьютеры)
+	 
+Results for передача сообщений (без избыточных символов) (simple):
+	transmission of messages (without excess symbols)
+Results for передача с подавлением части боковой полосы частот (simple):
+	transfer with suppression of a part of a side strip of frequencies
+Results for передача с пониженной мощностью:
+	 low-power transmission (Техника)
+	 
+Results for передача с разветвлением:
+	 forked working (Компьютеры)
+	 
+Results for передача с субтитрами по требованию (simple):
+	transfer with subtitlings on demand
+Results for передача с (частично) подавленной боковой полосой (simple):
+	transfer with (partially) suppressed side strip
+Results for передача с частотным уплотнением каналов (simple):
+	transfer with frequency consolidation of channels
+Results for передача управления:
+	 hand-over function (Техника)
+	 
+Results for передача цветовой поднесущей (simple):
+	transfer of color subbearing
+Results for передача энергии:
+	 transmission of energy 
+	 power transmission (Естественные науки)
+	 
+	 transmission of power (Техника)
+	 
+Results for побитовая передача:
+	 bit transfer (Техника)
+	 
+Results for поблочная передача:
+	 block transfer (Компьютеры)
+	 
+Results for (полу)дуплексная передача (simple):
+	(floor) duplex transfer
+Results for полутораполосная передача (simple):
+	polutorapolosny transfer
+Results for прямая передача:
+	 user-to-user transmission (Компьютеры)
+	 
+	 direct transmission (Техника)
+	 
+Results for симплексная [односторонняя] передача (simple):
+	simplex [unilateral] transfer
+Results for стартстопная передача (simple):
+	startstopny transfer
+Results for студийная передача (simple):
+	studio transfer
+Results for факсимильная передача в негативном (позитивном) режиме (simple):
+	facsimile transfer in the negative (positive) mode
+Results for широкополосная передача:
+	 wide-band transmission (Техника)
+	 
+Results for передемпфирование колебаний (simple):
+	overdamping of fluctuations
+Results for пережигание перемычек (simple):
+	perezhiganiye of crossing points
+Results for перезапуск с контрольной точки:
+	 checkpoint restart (Компьютеры)
+	 
+Results for активный переключатель (simple):
+	active switch
+Results for антенный переключатель:
+	 antenna selector (Компьютеры)
+	 
+	 aerial switch (Техника)
+	 
+	 aerial change-over switch (Техника)
+	 
+Results for барабанный переключатель:
+	 drum switch (Техника)
+	 
+Results for бесконтактный переключатель:
+	 static switch (Техника)
+	 
+Results for быстродействующий переключатель:
+	 high-speed switch (Техника)
+	 
+Results for взрывобезопасный переключатель (simple):
+	explosion-proof switch
+Results for воздушный переключатель:
+	 air switch (Техника)
+	 
+Results for волноводный переключатель (simple):
+	the waveguide switch
+Results for волоконно-оптический переключатель (simple):
+	fiber-optical switch
+Results for высоковольтный переключатель (simple):
+	high-voltage switch
+Results for галетный переключатель:
+	 wafer switch (Техника)
+	 
+Results for двоичный переключатель:
+	 binary switch (Техника)
+	 
+Results for двунаправленный переключатель (simple):
+	bidirectional switch
+Results for двух(много, трёх, четырёх)позиционный переключатель (simple):
+	two (it is a lot of, three, four) the position switch
+Results for двух(трёх)полюсный переключатель (simple):
+	two (three) polar switch
+Results for декадный переключатель (simple):
+	decade switch
+Results for диодный переключатель:
+	 diode switch (Техника)
+	 
+Results for дистанционный переключатель:
+	 remote switch (Техника)
+	 
+Results for защищённый переключатель (simple):
+	the protected switch
+Results for клавишный переключатель:
+	 key switch (Техника)
+	 
+Results for кнопочный переключатель:
+	 push-button switch (Компьютеры)
+	 
+Results for коаксиальный переключатель:
+	 coaxial switch (Техника)
+	 
+Results for контрольный переключатель:
+	 tamper switch (Компьютеры)
+	 
+	 control switch (Техника)
+	 
+Results for координатный переключатель:
+	 cross-bar switch (Техника)
+	 
+Results for криогенный переключатель (simple):
+	cryogenic switch
+Results for криотронный переключатель (simple):
+	cryotron switch
+Results for кулачковый переключатель:
+	 cam switch (Техника)
+	 
+Results for логический переключатель (simple):
+	logical switch
+Results for магнитоуправляемый переключатель (simple):
+	the magnetooperated switch
+Results for мембранный переключатель (simple):
+	membrane switch
+Results for микромощный переключатель (simple):
+	micropowerful switch
+Results for пассивный переключатель (simple):
+	passive switch
+Results for переключатель бесшумной настройки (simple):
+	switch of silent control
+Results for переключатель блокировки (simple):
+	blocking switch
+Results for переключатель выбора (simple):
+	choice switch
+Results for переключатель выходных обмоток:
+	 ratio adjuster (Техника)
+	 
+Results for переключатель диапазонов:
+	 wave changer (Естественные науки)
+	 
+	 range selector (Компьютеры)
+	 
+Results for переключатель добротности (simple):
+	good quality switch
+Results for переключатель заземления антенны:
+	 antenna-grounding switch (Техника)
+	 
+Results for переключатель измерительного прибора (simple):
+	switch of the measuring device
+Results for переключатель интервала при печати (simple):
+	the interval switch at the press
+Results for переключатель каналов:
+	 channel switch (Техника)
+	 
+Results for переключатель контроля записи (simple):
+	record control switch
+Results for переключатель мгновенного действия (simple):
+	switch of instant action
+Results for переключатель на джозефсоновском переходе (simple):
+	the switch on Josephson transition
+Results for переключатель направлений (simple):
+	switch of the directions
+Results for переключатель направления обзора (поиска) (simple):
+	switch of the direction of the review (search)
+Results for переключатель напряжения питания (simple):
+	supply voltage switch
+Results for переключатель на халькогенидном стекле (simple):
+	the switch on halkogenidny glass
+Results for переключатель на элементах Овшинского (simple):
+	the switch on Ovshinsky's elements
+Results for переключатель на эффекте Фарадея (simple):
+	the switch on Faraday's effect
+Results for переключатель останова (simple):
+	stop switch
+Results for переключатель положений (simple):
+	switch of provisions
+Results for переключатель полюсов:
+	 pole-changer (Техника)
+	 
+Results for переключатель поляризации (simple):
+	polarization switch
+Results for переключатель пределов (simple):
+	switch of limits
+Results for переключатель «приём-передача» (simple):
+	reception-transmission switch
+Results for переключатель режима когерентности (питания) (simple):
+	switch of the mode of coherence (food)
+Results for переключатель рода работ (simple):
+	switch of a sort of works
+Results for переключатель с автоматического режима на ручной (simple):
+	the switch from the automatic mode on manual
+Results for переключатель с автоматической выдержкой времени (simple):
+	the switch with automatic endurance of time
+Results for переключатель с быстрым замыканием (размыканием) (simple):
+	the switch with fast short circuit (disconnection)
+Results for переключатель СВЧ (simple):
+	microwave oven switch
+Results for переключатель с дистанционным управлением (simple):
+	the switch with remote control
+Results for переключатель с защитой против дребезжания (simple):
+	the switch with protection against jingle
+Results for переключатель с врубным контактом [рубильник] (simple):
+	the switch with vrubny contact [knife switch]
+Results for переключатель системы тревожной сигнализации (simple):
+	switch of system of the disturbing alarm system
+Results for переключатель с кодовым управлением (simple):
+	the switch with code management
+Results for переключатель с многократным размыканием (simple):
+	the switch with repeated disconnection
+Results for переключатель с (не)перекрывающимися контактами (simple):
+	the switch with not blocked contacts
+Results for переключатель с сохраняющимся положением контактов (simple):
+	the switch with the remaining provision of contacts
+Results for переключатель телевизионных каналов [ПТК] (simple):
+	switch of television channels [STC]
+Results for переключатель типа магнитной ленты (simple):
+	the switch like a magnetic tape
+Results for переключатель тока эмиссии (simple):
+	issue current switch
+Results for переключатель уровня громкости (simple):
+	loudness level switch
+Results for переключатель функций (simple):
+	switch of functions
+Results for переключатель чувствительности (simple):
+	sensitivity switch
+Results for печатный переключатель (simple):
+	printing switch
+Results for поворотный переключатель:
+	 rotary switch (Техника)
+	 
+Results for ползунковый переключатель (simple):
+	polzunkovy switch
+Results for полупроводниковый переключатель:
+	 semi-conductor switch (Техника)
+	 
+Results for поплавковый переключатель (simple):
+	float-operated switch
+Results for пороговый переключатель (simple):
+	threshold switch
+Results for программный переключатель:
+	 program switch (Техника)
+	 
+Results for регенеративный переключатель (simple):
+	regenerative switch
+Results for ртутный переключатель (simple):
+	mercury switch
+Results for ручной переключатель:
+	 hand switch (Техника)
+	 
+Results for световодный переключатель (simple):
+	light-guide switch
+Results for секционный переключатель (simple):
+	section switch
+Results for сенсорный переключатель (simple):
+	touch switch
+Results for следящий переключатель (simple):
+	the watching switch
+Results for тактируемый переключатель (simple):
+	taktiruyemy switch
+Results for термостатирующий переключатель (simple):
+	thermostatic switch
+Results for трёхплечий переключатель (simple):
+	tryokhplechy switch
+Results for турникетный переключатель (simple):
+	turnstile switch
+Results for фазоинвертирующий переключатель (simple):
+	fazoinvertiruyushchy switch
+Results for ферритовый переключатель (simple):
+	ferrite switch
+Results for электролитический переключатель:
+	 electrolytic switch (Техника)
+	 
+Results for электромагнитный переключатель (simple):
+	electromagnetic switch
+Results for активное переключение (simple):
+	active switching
+Results for зарядовое переключение (simple):
+	charging switching
+Results for локальное переключение (simple):
+	local switching
+Results for неосновное переключение (simple):
+	nonbasic switching
+Results for параметрическое переключение (simple):
+	parametrical switching
+Results for переключение в схеме (simple):
+	switching in the scheme
+Results for переключение добротности:
+	 Q-switching (Техника)
+	 
+Results for переключение каналов:
+	 channel switching (Техника)
+	 
+Results for переключение на линии (simple):
+	switching to lines
+Results for переключение на регистр (simple):
+	switching to the register
+Results for переключение положения главного лепестка (лепестков) диаграммы направленности антенны (simple):
+	switching of provision of the main petal (petals) of the directional pattern of the antenna
+Results for переключение при критическом поле (simple):
+	switching at the critical field
+Results for переключение скоростей:
+	 gear shifting (Техника)
+	 
+Results for переключение состояния (simple):
+	switching of a state
+Results for переключение с памятью (simple):
+	switching with memory
+Results for поверхностное переключение (simple):
+	superficial switching
+Results for пороговое переключение (simple):
+	threshold switching
+Results for термомагнитное переключение (simple):
+	thermomagnetic switching
+Results for электротермическое переключение (simple):
+	electrothermal switching
+Results for энергетическое переключение (simple):
+	power switching
+Results for перекодирование в языках программирования (simple):
+	code conversion in programming languages
+Results for перекомпенсация смещения (simple):
+	overcompensation of shift
+Results for перекос факсимильного изображения (simple):
+	distortion of the facsimile image
+Results for визирное перекрестие (simple):
+	vizirny cross hairs
+Results for перекрестие оптического прицела (simple):
+	riflescope cross hairs
+Results for перекрытие затворов (simple):
+	overlapping of locks
+Results for перекрытие изоляции (simple):
+	blocking of isolation
+Results for перекрытие импульсов:
+	 impulse flashover (Техника)
+	 
+Results for перекрытие частот (simple):
+	overlapping of frequencies
+Results for перекрытие энергетических зон (simple):
+	overlapping of power zones
+Results for (не)когерентное перемагничивание (simple):
+	(not) coherent magnetic reversal
+Results for термическое перемагничивание (simple):
+	thermal magnetic reversal
+Results for циклическое перемагничивание (simple):
+	cyclic magnetic reversal
+Results for перематывание ленты (simple):
+	rewinding of a tape
+Results for временное перемежение (simple):
+	temporary interleaving
+Results for кодовое перемежение (simple):
+	code interleaving
+Results for перемежение импульсов (simple):
+	interleaving of impulses
+Results for перемежение пакетов (simple):
+	interleaving of packages
+Results for точечное перемежение (simple):
+	pointed interleaving
+Results for частотное перемежение (simple):
+	frequency interleaving
+Results for перемена мест (simple):
+	change of places
+Results for перемена порядка (simple):
+	change of an order
+Results for аналоговая переменная (simple):
+	analog variable
+Results for базисная переменная (simple):
+	basic variable
+Results for вещественная [действительная] переменная (simple):
+	material [valid] variable
+Results for вспомогательная переменная:
+	 auxiliary[ɔ:ɡˈzɪljərɪ] (Естественные науки)
+	 
+Results for глобальная переменная:
+	 global variable (Компьютеры)
+	 
+Results for дискретная переменная:
+	 discrete variable (Естественные науки)
+	 
+	 discrete change variable (Техника)
+	 
+Results for инструментальная переменная (simple):
+	tool variable
+Results for каноническая переменная (simple):
+	initial variable
+Results for комплексная переменная:
+	 complex variable (Естественные науки)
+	 
+Results for логическая переменная:
+	 logic variable (Компьютеры)
+	 
+Results for (не)зависимая переменная (simple):
+	(not) dependent variable
+Results for неизвестная переменная (simple):
+	unknown variable
+Results for переменная выбора (simple):
+	choice variable
+Results for переменная данных (simple):
+	variable of data
+Results for переменная состояния:
+	 state variable (Компьютеры)
+	 
+Results for связанная переменная:
+	 apparent variable (Естественные науки)
+	 
+Results for случайная переменная:
+	 variate (Естественные науки)
+	 
+	 random variable (Компьютеры)
+	 
+Results for естественное перемешивание (simple):
+	natural hashing
+Results for искусственное перемешивание (simple):
+	artificial hashing
+Results for электродинамическое перемешивание (simple):
+	electrodynamic hashing
+Results for относительное перемещение (simple):
+	relative movement
+Results for перемещение вихрей потока (simple):
+	movement of whirlwinds of a stream
+Results for перемещение зарядов (simple):
+	movement of charges
+Results for перемещение решётки (simple):
+	movement of a lattice
+Results for угловое перемещение:
+	 angular travel (Техника)
+	 
+Results for перемножение сдвинутых по фазе сигналов (simple):
+	multiplication of the signals shifted on a phase
+Results for перемотка вперёд (simple):
+	rewind forward
+Results for перемотка назад:
+	 backward wind (Компьютеры)
+	 
+Results for ускоренная перемотка:
+	 high-speed rewind (Музыка)
+	 
+	 fast rewind (Компьютеры)
+	 
+Results for клеммная перемычка (simple):
+	terminal crossing point
+Results for короткозамыкающая перемычка:
+	 short-circuit jumper (Техника)
+	 
+Results for электрическая перемычка (simple):
+	electric crossing point
+Results for перенакопление данных (simple):
+	overinvestment of data
+Results for колебательное перенапряжение:
+	 ascillatory surge (Техника)
+	 
+Results for коммутационное перенапряжение (simple):
+	switching overstrain
+Results for косвенное (прямое) грозовое перенапряжение (simple):
+	indirect (direct) storm overstrain
+Results for кратковременное перенапряжение (simple):
+	short-term overstrain
+Results for перенапряжение в сети питания (simple):
+	overstrain in network of food
+Results for перенапряжение конденсатора (simple):
+	condenser overstrain
+Results for перенапряжение переходного процесса (simple):
+	overstrain of transition process
+Results for перенапряжение счётчика Гейгера-Мюллера (simple):
+	overstrain of the counter of Geygera-Müller
+Results for резонансное перенапряжение:
+	 overvoltage due to resonance (Техника)
+	 
+Results for перенаселённость энергетических уровней (simple):
+	overpopulation of power levels
+Results for перенасыщение экрана (simple):
+	glut of the screen
+Results for автоматический перенос (simple):
+	automatic transfer
+Results for баллистический перенос:
+	 ballistic transport (Техника)
+	 
+Results for двоичный [бинарный] перенос (simple):
+	binary [binary] transfer
+Results for командный перенос (simple):
+	team transfer
+Results for междолинный перенос (simple):
+	intervalley transfer
+Results for конвективный перенос:
+	 convective diffusion (Естественные науки)
+	 
+Results for параллельный перенос:
+	 parallel translation 
+Results for перенос изображения (simple):
+	transfer of the image
+Results for перенос ионов (simple):
+	transfer of ions
+Results for перенос носителей заряда (simple):
+	transfer of carriers of a charge
+Results for перенос объёмного (поверхностного) заряда (simple):
+	transfer of a volume (superficial) charge
+Results for перенос энергии:
+	 transmission of energy (Техника)
+	 
+Results for полный перенос (simple):
+	full transfer
+Results for поразрядный [каскадный] перенос (simple):
+	digit-by-digit [cascade] transfer
+Results for реактивный перенос (simple):
+	jet transfer
+Results for сквозной перенос:
+	 ripple-through carry (Естественные науки)
+	 
+Results for ускоренный перенос:
+	 look-ahead carry (Компьютеры)
+	 
+Results for циклический [круговой] перенос (simple):
+	cyclic [circular] transfer
+Results for частичный перенос (simple):
+	partial transfer
+Results for переносчик информации (simple):
+	carrier of information
+Results for перепад напряжения:
+	 change of voltage (Естественные науки)
+	 
+Results for перепад сигнала (simple):
+	difference of a signal
+Results for перепад тока пучка (simple):
+	difference of current of a bunch
+Results for перепад яркости:
+	 jump in brightness (Техника)
+	 
+Results for температурный перепад:
+	 heat drop (Естественные науки)
+	 
+	 temperature drop (Техника)
+	 
+Results for переполнение дорожки (simple):
+	overflow of a path
+Results for переполнение при делении (сложении) (simple):
+	overflow at division (addition)
+Results for переполнение разрядов порядка:
+	 exponent overflow (Техника)
+	 
+Results for переполнение регистра (simple):
+	overflow of the register
+Results for переполнение счетчика:
+	 meter overflow (Бизнес)
+	 
+Results for переполненность знакового разряда (simple):
+	overpopulation of the sign category
+Results for автоматический переприём (simple):
+	automatic rereception
+Results for реперфораторный переприём (simple):
+	reperforatorny rereception
+Results for ручной переприём (simple):
+	manual rereception
+Results for перераспределение населённостей уровней (simple):
+	redistribution of densities of population of levels
+Results for перераспределение параметров (simple):
+	redistribution of parameters
+Results for перераспределение токов в системе параллельно соединённых компонентов (simple):
+	redistribution of currents in system in parallel the connected components
+Results for перерыв в обслуживании (в радиопередаче) (simple):
+	having rummaged in service (in a broadcast)
+Results for перерыв электроснабжения (simple):
+	power supply break
+Results for пересекание линий передач (simple):
+	peresekaniye of lines of transfers
+Results for перескок воспроизводящей иглы (simple):
+	jump of the reproducing needle
+Results for перескок мод (simple):
+	jump of fashion
+Results for перестраивание колебательного контура (simple):
+	perestraivaniye of an oscillatory contour
+Results for перестраивание системы (simple):
+	perestraivany systems
+Results for перестройка длины волны (simple):
+	reorganization of wavelength
+Results for перестройка каналов (simple):
+	reorganization of channels
+Results for перестройка конструкции прибора (simple):
+	reorganization of a design of the device
+Results for перестройка частоты (simple):
+	reorganization of frequency
+Results for скачкообразная перестройка (simple):
+	spasmodic reorganization
+Results for активный перехват (simple):
+	active interception
+Results for пассивный перехват (simple):
+	passive interception
+Results for перехват воздушных целей:
+	 interception of air targets (Техника)
+	 
+Results for перехват информации в линии связи (simple):
+	interception of information in the communication line
+Results for перехват пеленга (simple):
+	interception of a bearing
+Results for перехват сообщений (simple):
+	interception of messages
+Results for перехват тока:
+	 current hogging (Техника)
+	 
+Results for преднамеренный перехват (simple):
+	deliberate interception
+Results for радиолокационный перехват (simple):
+	radar interception
+Results for перехватчик информации (simple):
+	interceptor of information
+Results for (без)условный переход (simple):
+	(without) conditional transition
+Results for безызлучательный переход:
+	 nonradiative jump (Техника)
+	 
+Results for быстрый переход (simple):
+	fast transition
+Results for внутризонный переход (simple):
+	intra-zone transition
+Results for волноводный переход:
+	 waveguide transition (Компьютеры)
+	 
+Results for вращательный переход (simple):
+	rotary transition
+Results for двух(много, одно)квантовый переход (simple):
+	two (it is a lot of, one) quantum transition
+Results for джозефсоновский переход (simple):
+	Josephson transition
+Results for дипольный переход:
+	 dipole transition (Естественные науки)
+	 
+Results for дырочный переход (simple):
+	hole transition
+Results for запрещённый переход (simple):
+	the forbidden transition
+Results for инвертированный переход (simple):
+	the inverted transition
+Results for индуцированный [вынужденный] переход (simple):
+	the induced [compelled] transition
+Results for квадрупольный переход (simple):
+	kvadrupolny transition
+Results for квантовый переход:
+	 quantum transition (Естественные науки)
+	 
+Results for колебательно-вращательный переход (simple):
+	oscillatory and rotary transition
+Results for коллекторный переход:
+	 collector junction (Компьютеры)
+	 
+Results for кросс-релаксационный переход (simple):
+	cross-relaxation transition
+Results for междолинный переход (simple):
+	intervalley transition
+Results for межзонный переход (simple):
+	interzonal transition
+Results for межслойный переход (simple):
+	interlaminar transition
+Results for метамагнитный переход (simple):
+	metamagnetic transition
+Results for мультипольный переход (simple):
+	multipolar transition
+Results for насыщенный переход (simple):
+	saturated transition
+Results for (не)прямой переход (simple):
+	(not) direct transition
+Results for оптический переход (simple):
+	optical transition
+Results for основной переход (simple):
+	main transition
+Results for переход без отражений (simple):
+	transition without reflections
+Results for переход в канале (simple):
+	transition in the channel
+Results for переход в программе (simple):
+	transition in the program
+Results for переход в режим генерации (simple):
+	transition to the generation mode
+Results for переход из зоны на примесный уровень (simple):
+	transition from a zone to impurity level
+Results for переход из зоны проводимости в валентную зону (на акцепторный уровень) (simple):
+	transition from a conductivity zone to a valent zone (on acceptor level)
+Results for переход из нормального состояния в сверхпроводящее (simple):
+	transition from the normal state to superconducting
+Results for переход металл-полупроводник (simple):
+	transition metal semiconductor
+Results for переход на более высокий (низкий) уровень [переход вверх (вниз)] (simple):
+	transition to higher (low) level [transition up (down)]
+Results for переход на границе с подложкой (simple):
+	transition on border with a substrate
+Results for переход накачки (simple):
+	transition of a rating
+Results for переход Оже [оже-переход] (simple):
+	transition Auger [ozhe-transition]
+Results for переход по знаку минус (плюс) (simple):
+	transition on a minus sign (plus)
+Results for переход, полученный методом выращивания и диффузии (simple):
+	the transition received by method of cultivation and diffusion
+Results for переход по (не)отрицательному результату (simple):
+	transition by (not) negative result
+Results for переход по неравенству:
+	 branch on unequality (Компьютеры)
+	 
+Results for переход по нечётности (simple):
+	transition on oddness
+Results for переход по отсутствию переноса (simple):
+	transition on lack of transfer
+Results for переход по переполнению (simple):
+	transition on overflow
+Results for переход по условию «не больше» (simple):
+	transition on a condition is "no more"
+Results for переход при множественном ветвлении:
+	 multiway jump (Компьютеры)
+	 
+Results for переход сверхпроводник-изолятор-сверхпро-водник [СИС-структура] (simple):
+	transition superconductor-insulator-superconductor [[SIS-structure]
+Results for переход с донорного уровня в валентную зону (на акцепторный) (simple):
+	transition from donorny level to a valent zone (on acceptor)
+Results for переход с захватом (simple):
+	transition with capture
+Results for переход с переворотом двух (нескольких) спинов (simple):
+	transition with a revolution of two (several) spin
+Results for переход с переворотом (переориентацией) спина (simple):
+	transition with a revolution (reorientation) a back
+Results for переход типа «порядок-беспорядок» (simple):
+	transition like "order disorder"
+Results for плавный переход:
+	 gradient junction (Техника)
+	 
+	 soft junction (Компьютеры)
+	 
+Results for побочный переход (simple):
+	collateral transition
+Results for поглощательный переход (simple):
+	the absorptive transition
+Results for рабочий [сигнальный] переход (simple):
+	working [alarm] transition
+Results for разрешённый переход (simple):
+	the allowed transition
+Results for резонансный переход:
+	 resonant transition (Естественные науки)
+	 
+Results for рекомбинационный переход:
+	 recombination transition (Естественные науки)
+	 
+Results for релаксационный переход:
+	 relaxation transition (Естественные науки)
+	 
+Results for самопроизвольный переход:
+	 spontaneous transition (Естественные науки)
+	 
+Results for (сверх)излучающий переход (simple):
+	(over) the radiating transition
+Results for сверхпроводящий переход:
+	 superconducting transition (Естественные науки)
+	 
+	 superconducting junction (Компьютеры)
+	 
+Results for слабый переход (simple):
+	weak transition
+Results for согласующий переход (simple):
+	the coordinating transition
+Results for спонтанный переход:
+	 spontaneous transition (Естественные науки)
+	 
+Results for стоковый переход (simple):
+	stock transition
+Results for тактовый переход (simple):
+	clock transition
+Results for туннельный переход:
+	 tunnelling junction (Компьютеры)
+	 
+	 tunnelling (Техника)
+	 
+Results for фазовый переход второго (первого) рода (simple):
+	phase transition of the second (first) sort
+Results for холостой переход (simple):
+	single transition
+Results for экситон-магнонный переход (simple):
+	exciton - magnon transition
+Results for электронно-колебательный переход (simple):
+	electronic-vibration transition
+Results for электронный переход:
+	 electronic transition (Естественные науки)
+	 
+Results for эмиттерный переход:
+	 emitter junction (Компьютеры)
+	 
+Results for энергетический переход:
+	 energy jump (Естественные науки)
+	 
+Results for начальный период работы (simple):
+	initial stage of work
+Results for период биений (simple):
+	period of beats
+Results for период блокирования (simple):
+	blocking period
+Results for период высокочастотных [ВЧ-] колебаний (simple):
+	period of high-frequency [VCh-] fluctuations
+Results for период гашения луча (simple):
+	period of clearing of a beam
+Results for период действия обратного (прямого) напряжения (simple):
+	period of action of the return (direct) tension
+Results for период дискретизации:
+	 sample period (Компьютеры)
+	 
+Results for период дифракционной решётки (simple):
+	period of a diffraction lattice
+Results for период (доменной) решётки (simple):
+	period (domain) lattice
+Results for период записи (simple):
+	record period
+Results for период изнашивания (simple):
+	wear period
+Results for период кадровой (строчной) развёртки (simple):
+	period of vertical (lower case) sweep
+Results for период компиляции (simple):
+	compilation period
+Results for период молчания (simple):
+	silence period
+Results for период нахождения прибора в закрытом (открытом) состоянии (simple):
+	the period of finding of the device in the closed (open) state
+Results for период (нерегулярных) колебаний (simple):
+	period (irregular) fluctuations
+Results for период нормальной работы (simple):
+	period of normal work
+Results for период обзора:
+	 scanning interval (Техника)
+	 
+Results for период обработки разряда (simple):
+	period of processing of the category
+Results for период обратного хода луча (simple):
+	period of reverse motion of a beam
+Results for период паузной комбинации (simple):
+	period of a pauzny combination
+Results for период повторения (тактовых) импульсов (simple):
+	period of repetition (clock) impulses
+Results for период полевой развёртки (simple):
+	period of field development
+Results for период полураспада:
+	 half-life period 
+	 half-life (Естественные науки)
+	 
+Results for период постоянной интенсивности отказов (simple):
+	period of constant failure rate
+Results for период примитивной ячейки (simple):
+	period of a primitive cell
+Results for период развёртки (simple):
+	development period
+Results for период реверберации:
+	 reverberation period (Техника)
+	 
+Results for период регенерации (сохранения) записи (simple):
+	period of regeneration (preservation) of record
+Results for период сканирования (simple):
+	scanning period
+Results for период следования импульсов:
+	 pulse period (Компьютеры)
+	 
+	 pulse interval (Техника)
+	 
+Results for период собственных [свободных] колебаний (simple):
+	period of own [free] fluctuations
+Results for период срыва слежения (simple):
+	tracking failure period
+Results for период строк растра (simple):
+	period of lines of a raster
+Results for период суммирования (simple):
+	summation period
+Results for период считывания:
+	 read period (Компьютеры)
+	 
+Results for период тире (точки) (simple):
+	period of a dash (point)
+Results for период функции (simple):
+	function period
+Results for периферия электронно-вычислительного комnлекса (simple):
+	periphery electronic and computing komnleksa
+Results for пермеаметр для измерения малой магнитной проницаемости (simple):
+	пермеаметр for measurement of small magnetic permeability
+Results for пермеаметр компенсационного типа (simple):
+	пермеаметр compensation type
+Results for пермеаметр сильных полей с замкнутой магнитной цепью (simple):
+	пермеаметр strong fields with the closed magnetic chain
+Results for дискретизирующее перо (simple):
+	the sampling feather
+Results for перо графического дисплея (simple):
+	feather of the graphic display
+Results for перо с фотоэлектронным умножителем (simple):
+	feather with the photoelectronic multiplier
+Results for световое перо:
+	 light pen (Компьютеры)
+	 
+	 control pen (Техника)
+	 
+Results for магнитный перовскит (simple):
+	magnetic perovskite
+Results for редкоземельный перовскит (simple):
+	rare-earth perovskite
+Results for сегнетоэлектрический перовскит (simple):
+	segnetoelektrichesky perovskite
+Results for звуковая перспектива (simple):
+	sound prospect
+Results for (бесконечная) петля (магнитной) ленты (simple):
+	(infinite) loop (magnetic) tape
+Results for динамическая (статическая) петля гистерезиса (simple):
+	dynamic (static) loop of a hysteresis
+Results for дислокационная петля (simple):
+	dislocation loop
+Results for петля возбуждения (simple):
+	excitement loop
+Results for петля магнитного (диэлектрического) гистерезиса (simple):
+	loop of a magnetic (dielectric) hysteresis
+Results for петля отрицательной (положительной) связи (simple):
+	loop of negative (positive) communication
+Results for петля размагничивания кинескопа (simple):
+	loop of demagnetization of a kinescope
+Results for петля связи (simple):
+	communication loop
+Results for петля точечных дефектов (simple):
+	loop of dot defects
+Results for петля трасформатора (магнитного) потока (simple):
+	loop of a trasformator (magnetic) stream
+Results for петля фазовой синхронизации (simple):
+	loop of phase synchronization
+Results for предельная (рэлеевская, собственная, частная) петля гистерезиса (simple):
+	limit (Rayleigh, own, private) hysteresis loop
+Results for безударная печать (simple):
+	unaccented press
+Results for ксерографическая печать (simple):
+	xerographic press
+Results for магнитографическая печать (simple):
+	magnetographic press
+Results for (не)автономная печать (simple):
+	(not) the autonomous press
+Results for проекционная печать:
+	 projection printing 
+Results for трафаретная печать:
+	 stencil process 
+	 stencil printing (Техника)
+	 
+Results for электростатическая печать (simple):
+	electrostatic press
+Results for высокочастотная печь:
+	 high-frequency furnace (Техника)
+	 
+Results for дуговая печь:
+	 arc furnace (Естественные науки)
+	 
+Results for индукционная печь:
+	 induction furnace (Естественные науки)
+	 
+Results for муфельная печь:
+	 muffle furnace (Естественные науки)
+	 
+	 muffle[ˈmʌfl] (Естественные науки)
+	 
+Results for электрическая печь:
+	 electric oven (Техника)
+	 
+Results for электронно-лучевая печь:
+	 electron beam furnace (Техника)
+	 
+Results for биполярный ПЗС (прибор с зарядовой связью) (simple):
+	bipolar CCD (charge-coupled device)
+Results for двух(много, трёх)слойный [двух(много, трёх)уровневый] ПЗС (прибор с зарядовой связью) (simple):
+	two (it is a lot of, three) layer [two (much, three)-level] the CCD (charge-coupled device)
+Results for интегрирующий ПЗС (прибор с зарядовой связью) (simple):
+	the integrating CCD (charge-coupled device)
+Results for многоотводный ПЗС (прибор с зарядовой связью) (simple):
+	multiby-pass CCD (charge-coupled device)
+Results for перистальтический ПЗС (прибор с зарядовой связью) (simple):
+	peristaltic CCD (charge-coupled device)
+Results for ПЗС (прибор с зарядовой связью), изготовленный методом смещённой маски (simple):
+	The CCD (charge-coupled device) manufactured by method of the displaced mask
+Results for ПЗС (прибор с зарядовой связью) на основных носителях (simple):
+	The CCD (charge-coupled device) on the main carriers
+Results for ПЗС (прибор с зарядовой связью) с алюминиевыми (поликристаллическими кремниевыми) затворами (simple):
+	The CCD (charge-coupled device) with aluminum (polycrystalline silicon) locks
+Results for ПЗС (прибор с зарядовой связью) с вытравленными канавками (simple):
+	The CCD (charge-coupled device) with the etched flutes
+Results for ПЗС (прибор с зарядовой связью) с изолированным каналом (simple):
+	The CCD (charge-coupled device) with the isolated channel
+Results for ПЗС (прибор с зарядовой связью) с имплантированными барьерами (simple):
+	The CCD (charge-coupled device) with the implanted barriers
+Results for ПЗС (прибор с зарядовой связью) с каналом n(р)-типа (simple):
+	The CCD (charge-coupled device) with n (r) channel - type
+Results for ПЗС (прибор с зарядовой связью) с объёмным (поверхностным) каналом (simple):
+	The CCD (charge-coupled device) with the volume (superficial) channel
+Results for ПЗС (прибор с зарядовой связью) с однородно легированной подложкой (simple):
+	The CCD (charge-coupled device) with uniformly alloyed substrate
+Results for ПЗС (прибор с зарядовой связью) со скрытым каналом (simple):
+	The CCD (charge-coupled device) with the hidden channel
+Results for ПЗС (прибор с зарядовой связью) со ступенчатым профилем оксида (simple):
+	The CCD (charge-coupled device) with a step profile of oxide
+Results for ПЗС (прибор с зарядовой связью) с параллельным переносом (simple):
+	The CCD (charge-coupled device) with parallel translation
+Results for ПЗС (прибор с зарядовой связью) с перекрывающимися затворами (simple):
+	The CCD (charge-coupled device) with the blocked locks
+Results for ПЗС (прибор с зарядовой связью) с подрезанной изоляцией (simple):
+	The CCD (charge-coupled device) with the cut isolation
+Results for ПЗС (прибор с зарядовой связью) с рециркуляцией заряда (simple):
+	The CCD (charge-coupled device) with recirculation of a charge
+Results for ПЗС (прибор с зарядовой связью) с самосовмещёнными электродами (simple):
+	The CCD (charge-coupled device) with the self-combined electrodes
+Results for ПЗС (прибор с зарядовой связью) с субмикронным расстоянием между электродами (simple):
+	The CCD (charge-coupled device) with submicronic distance between electrodes
+Results for ПЗС (прибор с зарядовой связью) с четырьмя входами (simple):
+	The CCD (charge-coupled device) with four entrances
+Results for ПЗС (прибор с зарядовой связью) с широким зазором (simple):
+	The CCD (charge-coupled device) with a wide gap
+Results for ПЗС (прибор с зарядовой связью) типа «пожарная цепочка» (simple):
+	CCD " (charge-coupled device) fire chain"
+Results for поверхностно-легированный ПЗС (прибор с зарядовой связью) (simple):
+	the superficial alloyed CCD (charge-coupled device)
+Results for четырёхфазный ПЗС (прибор с зарядовой связью) (simple):
+	quadriphase CCD (charge-coupled device)
+Results for пик амплитуды тока (simple):
+	current amplitude peak
+Results for пик импульса (simple):
+	impulse peak
+Results for пик нагрузки:
+	 peak load (Бизнес)
+	 
+	 load peak (Техника)
+	 
+Results for пик плотности мощности (simple):
+	power density peak
+Results for пик СВЧ поглощения (simple):
+	absorption microwave oven peak
+Results for пик сигнала (simple):
+	signal peak
+Results for высокочастотный пилот-сигнал (simple):
+	high-frequency pilot signal
+Results for пилот-сигнал на несущей частоте (simple):
+	the pilot signal at the bearing frequency
+Results for пиннинг вихрей (simple):
+	pinning of whirlwinds
+Results for линейный пинч (simple):
+	linear пинч
+Results for пинч-разряд:
+	 pinch discharge 
+Results for пинч-эффект:
+	 pinch effect (Естественные науки)
+	 
+Results for тета-пинч (simple):
+	theta-pinch
+Results for пирамида роста:
+	 growth pyramid (Компьютеры)
+	 
+Results for двухцветный пирометр (simple):
+	two-color pyrometer
+Results for интегральный пирометр (simple):
+	integrated pyrometer
+Results for пирометр полного (частичного) излучения (simple):
+	pyrometer of full (partial) radiation
+Results for пирометр спектрального отношения:
+	 spectral ratio pyrometer (Техника)
+	 
+Results for пирометр сравнения цветов (simple):
+	pyrometer of comparison of flowers
+Results for радиационный пирометр:
+	 radiation pyrometer (Естественные науки)
+	 
+Results for радиолокационный пирометр (simple):
+	radar pyrometer
+Results for яркостный пирометр (simple):
+	the brightness pyrometer
+Results for радиационная пирометрия (simple):
+	radiation pyrometry
+Results for автономное питание:
+	 self-contained supply (Компьютеры)
+	 
+Results for батарейное питание:
+	 battery power supply (Компьютеры)
+	 
+	 battery supply (Техника)
+	 
+Results for групповое питание (simple):
+	group food
+Results for двустороннее питание (simple):
+	bilateral food
+Results for дистанционное питание:
+	 distant feed (Компьютеры)
+	 
+Results for индивидуальное питание (simple):
+	individual food
+Results for много(одно)фазное питание (simple):
+	many (one) phase food
+Results for независимое питание (simple):
+	independent food
+Results for питание антенны (simple):
+	power supply of the antenna
+Results for питание от сети:
+	 mains supply (Естественные науки)
+	 
+Results for питание переменным напряжением (simple):
+	food alternating voltage
+Results for питание постоянным током:
+	 direct current feed (Техника)
+	 
+Results for смешанное питание (simple):
+	the mixed food
+Results for плавность настройки (simple):
+	smoothness of control
+Results for плавность регулирования (simple):
+	smoothness of regulation
+Results for анодная плазма (simple):
+	anode plasma
+Results for безэлектродная плазма (simple):
+	electrodeless plasma
+Results for бесстолкновительная плазма (simple):
+	collisionless plasma
+Results for бестоковая плазма (simple):
+	bestokovy plasma
+Results for водородная плазма (simple):
+	hydrogen plasma
+Results for вторичная плазма (simple):
+	secondary plasma
+Results for высоко(низко)температурная плазма (simple):
+	highly (low) temperature plasma
+Results for высоко(слабо)ионизированная плазма (simple):
+	highly (poorly) ionized plasma
+Results for гарячая плазма (simple):
+	hot plasma
+Results for гиромагнитная плазма (simple):
+	gyromagnetic plasma
+Results for гиротропная плазма (simple):
+	girotropny plasma
+Results for гироэлектрическая плазма (simple):
+	giroelektrichesky plasma
+Results for диффузная плазма:
+	 diffuse plasma (Техника)
+	 
+Results for диффундирующая плазма (simple):
+	diffundiruyushchy plasma
+Results for дрейфующая плазма (simple):
+	the drifting plasma
+Results for заряженная [заряжённая] плазма (simple):
+	the loaded [zaryazhyonny] plasma
+Results for захваченная плазма (simple):
+	the taken plasma
+Results for излучающая плазма:
+	 emitting plasma (Техника)
+	 
+Results for изотермическая плазма (simple):
+	isothermal plasma
+Results for изотропная плазма (simple):
+	isotropic plasma
+Results for инжектированная плазма (simple):
+	the injected plasma
+Results for ион-ионная плазма (simple):
+	ion - ion plasma
+Results for ионная плазма:
+	 ionic plasma (Техника)
+	 
+Results for ионосферная плазма (simple):
+	ionospheric plasma
+Results for катодная плазма (simple):
+	cathodic plasma
+Results for (квази)нейтральная плазма (simple):
+	(quasi) neutral plasma
+Results for (квази)равновесная плазма (simple):
+	(quasi) equilibrium plasma
+Results for коллапсирующая плазма (simple):
+	collapsing plasma
+Results for кулоновская плазма (simple):
+	Coulomb plasma
+Results for лавинная плазма (simple):
+	avalanche plasma
+Results for лазерная плазма (simple):
+	laser plasma
+Results for ламинарная плазма:
+	 laminar plasma (Техника)
+	 
+Results for лоренцева плазма (simple):
+	lorentseva plasma
+Results for люминесцирующая плазма (simple):
+	the luminescing plasma
+Results for магнитоактивная плазма (simple):
+	magnetoactive plasma
+Results for магнитоионная плазма (simple):
+	magnetoionic plasma
+Results for много(одно)компонентная плазма (simple):
+	many (one) component plasma
+Results for (не)возмущённая плазма (simple):
+	(not) the indignant plasma
+Results for невырожденная плазма (simple):
+	nondegenerate plasma
+Results for (не)намагниченная [(не)замагниченная] плазма (simple):
+	not magnetized [(not) magnetized] plasma
+Results for непрозрачная плазма (simple):
+	opaque plasma
+Results for неравновесная плазма (simple):
+	nonequilibrium plasma
+Results for нерелятивистская плазма (simple):
+	the nonrelativistic plasma
+Results for (не)стационарная плазма (simple):
+	(not) stationary plasma
+Results for (не)устойчивая плазма (simple):
+	(not) steady plasma
+Results for ограниченная плазма (simple):
+	limited plasma
+Results for одножидкостная плазма (simple):
+	one-liquid plasma
+Results for (оптически) возбуждённая плазма (simple):
+	(optically) the excited plasma
+Results for остаточная плазма (simple):
+	residual plasma
+Results for переохлаждённая плазма (simple):
+	the overcooled plasma
+Results for плазма большой (малой) плотности (simple):
+	plasma of big (small) density
+Results for плазма в ударной трубе (simple):
+	plasma in a shock pipe
+Results for плазма высокочастотного [ВЧ-] (СВЧ-) разряда (simple):
+	plasma of high-frequency [VCh-] (the microwave oven-) the category
+Results for плазма высокой энергии:
+	 energetic plasma (Техника)
+	 
+Results for плазма газового (дугового) разряда (simple):
+	plasma of the gas (arc) category
+Results for плазма катодного пятна (simple):
+	plasma of a cathodic spot
+Results for плазма низкого (постоянного) давления (simple):
+	plasma of low (constant) pressure
+Results for плазма переменного тока (simple):
+	plasma of alternating current
+Results for плазма послесвечения (simple):
+	afterglow plasma
+Results for плазма свободных носителей (simple):
+	plasma of free carriers
+Results for плазма с линейным градиентом концентрации (simple):
+	plasma with a linear gradient of concentration
+Results for плазма с носителями двух типов (simple):
+	plasma with carriers of two types
+Results for плазма со встречными потоками (simple):
+	plasma with counter flows
+Results for плазма с одним типом носителей (simple):
+	plasma with one type of carriers
+Results for плазма тета-пинча (simple):
+	plasma theta-pincha
+Results for плазма экзосферы (simple):
+	exosphere plasma
+Results for плоскослоистая плазма (simple):
+	ploskosloisty plasma
+Results for полностью (предварительно, частично) ионизированная плазма (simple):
+	completely (previously, partially) the ionized plasma
+Results for продольно-намагниченная плазма (simple):
+	the longitudinally magnetized plasma
+Results for резистивная плазма (simple):
+	resistive plasma
+Results for резонансная плазма:
+	 resonant plasma (Техника)
+	 
+Results for разреженная плазма:
+	 rarefied plasma (Техника)
+	 
+Results for рекомбинирующая плазма (simple):
+	the recombining plasma
+Results for самоиндуцированная плазма (simple):
+	the self-induced plasma
+Results for самоподдерживающаяся плазма (simple):
+	self-sustaining plasma
+Results for самостягивающаяся плазма (simple):
+	the self-pulling together plasma
+Results for самоудерживаемая плазма (simple):
+	the self-withheld plasma
+Results for (сверх)плотная плазма (simple):
+	(over) dense plasma
+Results for спокойная плазма (simple):
+	quiet plasma
+Results for стримерная плазма (simple):
+	streamer plasma
+Results for твёрдотельная плазма (simple):
+	solid-state plasma
+Results for тёплая плазма (simple):
+	warm plasma
+Results for термодинамически равновесная плазма (simple):
+	thermodynamic equilibrium plasma
+Results for термоядерная плазма:
+	 thermonuclear plasma (Техника)
+	 
+Results for токонесущая плазма (simple):
+	current-carrying plasma
+Results for тороидальная плазма (simple):
+	toroidal plasma
+Results for турбулентная плазма (simple):
+	turbulent plasma
+Results for ударно-ионизированная плазма (simple):
+	the shock ionized plasma
+Results for удерживаемая плазма (simple):
+	the withheld plasma
+Results for устойчивая плазма (simple):
+	steady plasma
+Results for фоновая плазма (simple):
+	background plasma
+Results for холодная плазма (simple):
+	cold plasma
+Results for эквипотенциальная плазма (simple):
+	equipotential plasma
+Results for электронная плазма (simple):
+	electronic plasma
+Results for электронно-дырочная (-ионная, -про-тонная) плазма (simple):
+	electron-hole (-ionic, - proton) plasma
+Results for объёмный плазмон (simple):
+	volume plasmon
+Results for поверхностный плазмон (simple):
+	superficial plasmon
+Results for пламя дуги (simple):
+	arch flame
+Results for план выборочного контроля:
+	 sampling plan (Бизнес)
+	 
+Results for план организации каналов (simple):
+	plan of the organization of channels
+Results for поуровневый план (simple):
+	pourovnevy plan
+Results for планирование заданий (simple):
+	planning of tasks
+Results for планирование эксперимента:
+	 design of experiments (Техника)
+	 
+Results for графический планшет:
+	 graphics pad (Компьютеры)
+	 
+Results for радиолокационный планшет:
+	 radar plot (Техника)
+	 
+Results for диэлектрическая согласующая пластина (simple):
+	the dielectric coordinating plate
+Results for композитная пластина (simple):
+	composite plate
+Results for микроканальная пластина (simple):
+	microchannel plate
+Results for опорная пластина:
+	 bed plate (Компьютеры)
+	 
+Results for пластина батареи аккумуляторов (simple):
+	plate of the battery of accumulators
+Results for пластина вертикального (горизонтального) отклонения (simple):
+	plate of a vertical (horizontal) deviation
+Results for пластина заземления:
+	 grounding plate (Компьютеры)
+	 
+Results for пластина интерферометра (simple):
+	interferometer plate
+Results for пластина кварцевого фильтра (simple):
+	plate of the quartz filter
+Results for пластина преобразователя Холла (simple):
+	plate of the converter of Hall
+Results for полуволновая пластина (simple):
+	half-wave plate
+Results for пьезоэлектрическая пластина (simple):
+	piezoelectric plate
+Results for сигнальная пластина (simple):
+	alarm plate
+Results for собирающая пластина (simple):
+	the collecting plate
+Results for фазовая пластина (simple):
+	phase plate
+Results for фазокорректирующая пластина (simple):
+	fazokorrektiruyushchy plate
+Results for фазосдвигающая пластина (simple):
+	fazosdvigayushchy plate
+Results for четвертьволновая пластина (simple):
+	quarter wave plate
+Results for голографическая пластинка (simple):
+	holographic plate
+Results for кодирующая пластинка (simple):
+	the coding plate
+Results for плоско-параллельная пластинка (simple):
+	plane-parallel plate
+Results for тонкая диэлектрическая пластинка (simple):
+	thin dielectric plate
+Results for ферритовая пластинка (simple):
+	ferrite plate
+Results for пластификатор смолы (simple):
+	pitch softener
+Results for дву(одно)сторонняя плата (simple):
+	two-(one) third-party payment
+Results for дополнительная плата:
+	 additional fee 
+	 mezzanine board (Компьютеры)
+	 
+Results for индикаторная плата (simple):
+	indicator payment
+Results for микропроцессорная плата (simple):
+	microprocessor payment
+Results for многослойная плата (simple):
+	multilayered payment
+Results for монтажная плата (simple):
+	assembly payment
+Results for объединительная плата (simple):
+	unifying payment
+Results for печатная плата:
+	 printed circuit board 
+	 printboard (Техника)
+	 
+Results for плата без монтажа (simple):
+	payment without installation
+Results for плата объединения модулей (simple):
+	payment of combination of modules
+Results for плата с монтажом (simple):
+	payment with installation
+Results for теплоизоляционная плата (simple):
+	heat-insulating payment
+Results for плато на графической зависимости (simple):
+	the plateau on graphic dependence
+Results for гидростабилизированная платформа (simple):
+	the hydrostabilized platform
+Results for платформа самолётной РЛС (simple):
+	platform of plane radar station
+Results for платформа с аппаратурой для дистанционных измерений (simple):
+	the platform with the equipment for remote measurements
+Results for поворотная платформа:
+	 rotating platform (Техника)
+	 
+Results for юстировочная платформа (simple):
+	justified platform
+Results for адсорбированная плёнка (simple):
+	the adsorbed film
+Results for аморфная плёнка (simple):
+	amorphous film
+Results for анодная плёнка (simple):
+	anode film
+Results for гетеро(гомо)эпитаксиальная плёнка (simple):
+	hetero (Goma) epitaxial film
+Results for диэлектрическая плёнка (simple):
+	dielectric film
+Results for жидкокристаллическая плёнка (simple):
+	liquid crystal film
+Results for защитная плёнка (simple):
+	protective film
+Results for изолирующая плёнка (simple):
+	the isolating film
+Results for ионно-имплантированная плёнка (simple):
+	the ion-implanted film
+Results for каптоновая плёнка (simple):
+	kaptonovy film
+Results for катодная плёнка (simple):
+	cathodic film
+Results for (крупно, мелко)зернистая плёнка (simple):
+	(largely, small) granular film
+Results for лавсановая плёнка (simple):
+	mylar film
+Results for линзорастровая плёнка (simple):
+	linzorastrovy film
+Results for магнитная плёнка (simple):
+	magnetic film
+Results for металлизированная плёнка (simple):
+	the metallized film
+Results for металлическая плёнка (simple):
+	metal film
+Results for металлокерамическая плёнка (simple):
+	ceramic-metal film
+Results for много(моно, субмоно)слойная плёнка (simple):
+	the layer film is a lot of (mono, submono)
+Results for монокристаллическая плёнка (simple):
+	single-crystal film
+Results for мономолекулярная плёнка (simple):
+	monomolecular film
+Results for монооксидная плёнка (simple):
+	monooxidic film
+Results for напылённая плёнка (simple):
+	the raised dust film
+Results for (не)отожжённая плёнка (simple):
+	not annealed film
+Results for органическая плёнка (simple):
+	organic film
+Results for пассивирующая плёнка (simple):
+	the passivating film
+Results for плёнка Лэнгмюра (simple):
+	Lengmyur's film
+Results for плёнка непосредственно после выращивания (simple):
+	film directly after cultivation
+Results for плёнка со средним размером зёрен (simple):
+	film with an average size of grains
+Results for плёнка сплава (simple):
+	alloy film
+Results for плёнка (фото)резиста (simple):
+	film (photo) of the rezist
+Results for поверхностная плёнка (simple):
+	superficial film
+Results for полупроводниковая плёнка (simple):
+	semiconductor film
+Results for поляроидная плёнка (simple):
+	polarized film
+Results for пьезоэлектрическая плёнка (simple):
+	piezoelectric film
+Results for размерно-квантованная плёнка (simple):
+	dimensional and quantized film
+Results for рентгеновская плёнка (simple):
+	x-ray film
+Results for сверхпроводящая плёнка (simple):
+	superconducting film
+Results for светоизлучающая плёнка (simple):
+	light-emitting film
+Results for сегнетоэлектрическая плёнка (simple):
+	segnetoelektrichesky film
+Results for сплошная плёнка (simple):
+	continuous film
+Results for структурированная плёнка (simple):
+	the structured film
+Results for толстая (тонкая) плёнка (simple):
+	thick (thin) film
+Results for фотополимерная плёнка (simple):
+	photopolymeric film
+Results for фотохромная плёнка (simple):
+	fotokhromny film
+Results for экспонированная плёнка (simple):
+	the exhibited film
+Results for эпитаксиальная плёнка (simple):
+	epitaxial film
+Results for в(вы)ходное плечо (simple):
+	in (you) hodny shoulder
+Results for питаемое плечо (simple):
+	the fed shoulder
+Results for плечо делителя (simple):
+	divider shoulder
+Results for плечо интерферометра (simple):
+	interferometer shoulder
+Results for плечо коммутационного аппарата (simple):
+	shoulder of the switching device
+Results for плечо моста:
+	 bridge arm (Естественные науки)
+	 
+	 arm of bridge (Естественные науки)
+	 
+Results for плечо преобразователя (simple):
+	converter shoulder
+Results for плечо с внутренней нагрузкой (simple):
+	shoulder with internal loading
+Results for развязанное плечо (simple):
+	the untied shoulder
+Results for разностное плечо (simple):
+	differential shoulder
+Results for суммирующее плечо (simple):
+	the summarizing shoulder
+Results for Е-(Н-) плечо (simple):
+	E-(N-) a shoulder
+Results for азимутальная плоскость (simple):
+	azimuthal plane
+Results for базисная плоскость:
+	 epipolar plane (Техника)
+	 
+Results for (главная) фокальная плоскость (simple):
+	(main) focal plane
+Results for задняя [вторая] (передняя [первая]) фокальная плоскость (simple):
+	back [second] (lobby [first]) focal plane
+Results for кардинальная плоскость (simple):
+	cardinal plane
+Results for касательная плоскость:
+	 tangential plane (Техника)
+	 
+Results for комплексная плоскость:
+	 complex plane (Естественные науки)
+	 
+Results for координатная плоскость:
+	 coordinate plane (Естественные науки)
+	 
+Results for кристаллографическая плоскость:
+	 crystal plane (Естественные науки)
+	 
+	 crystallographic plane (Компьютеры)
+	 
+Results for наклонная плоскость:
+	 gradient plane (Техника)
+	 
+Results for плоскость вектора электрического поля (simple):
+	plane of a vector of electric field
+Results for плоскость волновых чисел (simple):
+	plane of wave numbers
+Results for плоскость двойникования (simple):
+	dvoynikovaniye plane
+Results for плоскость дефокусировки (simple):
+	defocusing plane
+Results for плоскость дифракции (simple):
+	diffraction plane
+Results for плоскость дифракционной картины (simple):
+	plane of a diffraction picture
+Results for плоскость записи голограммы (simple):
+	hologram recording plane
+Results for плоскость изображения:
+	 image plane (Компьютеры)
+	 
+Results for плоскость иммитансов (simple):
+	plane of immitances
+Results for плоскость колебаний:
+	 plane of vibration (Естественные науки)
+	 
+	 vibration plane (Компьютеры)
+	 
+Results for плоскость корней:
+	 root plane (Техника)
+	 
+Results for плоскость лёгкого (трудного) намагничивания (simple):
+	plane of easy (difficult) magnetization
+Results for плоскость объекта (simple):
+	object plane
+Results for плоскость отклонения луча (simple):
+	beam deviation plane
+Results for плоскость падения:
+	 plane of incidence (Естественные науки)
+	 
+Results for плоскость перехода:
+	 junction plane (Компьютеры)
+	 
+Results for плоскость полных сопротивлений (simple):
+	plane of full resistance
+Results for плоскость поляризации:
+	 polarization plane (Естественные науки)
+	 
+Results for плоскость пропускания (simple):
+	transmission plane
+Results for плоскость раскрыва антенны (simple):
+	plane of a raskryv of the antenna
+Results for плоскость расположения нагрузки (simple):
+	loading arrangement plane
+Results for плоскость сведения лучей (simple):
+	plane of the data of beams
+Results for плоскость симметрии:
+	 plane of symmetry (Естественные науки)
+	 
+Results for плоскость сканирования (simple):
+	scanning plane
+Results for плоскость скользящего отражения (simple):
+	the plane of the sliding reflection
+Results for плоскость скольжения:
+	 slip plane (Естественные науки)
+	 
+Results for плоскость соединений (simple):
+	plane of connections
+Results for плоскость спайности:
+	 cleavage plane (Естественные науки)
+	 
+Results for плоскость срастания:
+	 composition plane (Техника)
+	 
+Results for плоскость Е- (Н-) диаграммы направленности антенны (simple):
+	the E-plane (N-) directional patterns of the antenna
+Results for плотноупакованная плоскость (simple):
+	plotnoupakovanny plane
+Results for полоидальная плоскость (simple):
+	poloidalny plane
+Results for сопряжённая плоскость (simple):
+	the interfaced plane
+Results for спектральная плоскость (simple):
+	spectral plane
+Results for спрямляющая плоскость (simple):
+	the straightening plane
+Results for угломестная плоскость (simple):
+	uglomestny plane
+Results for фазовая плоскость:
+	 phase plane (Техника)
+	 
+Results for фокальная плоскость:
+	 focal plan (Техника)
+	 
+Results for (взаимная) спектральная плотность (simple):
+	(mutual) spectral density
+Results for диффузная оптическая плотность (simple):
+	diffusion optical density
+Results for линейная плотность заряда (simple):
+	linear density of a charge
+Results for критическая плотность:
+	 critical density (Естественные науки)
+	 
+Results for объёмная плотность (simple):
+	volume density
+Results for остаточная плотность (simple):
+	residual density
+Results for плотность блоховских линий (simple):
+	density of Bloch lines
+Results for плотность вероятности:
+	 probability density (Естественные науки)
+	 
+Results for плотность гауссова распределения вероятности (simple):
+	density of Gaussian distribution of probability
+Results for плотность дельта-потока (simple):
+	delta stream density
+Results for плотность дефектов:
+	 defect density (Компьютеры)
+	 
+Results for плотность джозефсоновского тока (simple):
+	density of Josephson current
+Results for плотность диффузионного (конвекционного) тока (simple):
+	density of diffusive (convection) current
+Results for плотность записи:
+	 packing density (Компьютеры)
+	 
+Results for плотность заряда:
+	 density of charge (Естественные науки)
+	 
+Results for плотность компоновки (simple):
+	configuration density
+Results for плотность микроотверстий (simple):
+	density of microopenings
+Results for плотность мод (simple):
+	density of fashion
+Results for плотность монтажа (simple):
+	installation density
+Results for плотность плазменного шнура:
+	 pinch density (Техника)
+	 
+Results for плотность плазмы (simple):
+	plasma density
+Results for плотность (потока) импульса (энергии) (simple):
+	density (stream) of an impulse (energy)
+Results for плотность потока частиц (simple):
+	density of a stream of particles
+Results for плотность пучка (simple):
+	bunch density
+Results for плотность размещения компонентов (simple):
+	density of placement of components
+Results for плотность распределения отказов (simple):
+	density of distribution of refusals
+Results for плотность сгустка (simple):
+	clot density
+Results for плотность состояний:
+	 density of states (Естественные науки)
+	 
+Results for плотность сочленений (simple):
+	density of joints
+Results for плотность тока в пятне (simple):
+	current density in a spot
+Results for плотность тока проводимости (смещения) (simple):
+	density of current of conductivity (shift)
+Results for плотность упаковки:
+	 package density (Естественные науки)
+	 
+	 packing density (Компьютеры)
+	 
+Results for плотность уровней (simple):
+	density of levels
+Results for плотность центров рекомбинации (simple):
+	density of the centers of a recombination
+Results for плотность шума:
+	 noise density (Компьютеры)
+	 
+Results for плотность ямок травления (simple):
+	density of poles of etching
+Results for поверхностная плотность:
+	 area density 
+	 surface density (Естественные науки)
+	 
+Results for функциональная плотность:
+	 function density (Компьютеры)
+	 
+Results for эффективная плотность (simple):
+	effective density
+Results for задняя (передняя) площадка гасящего импульса (simple):
+	the back (lobby) platform of the extinguishing impulse
+Results for контактная площадка:
+	 contact pad (Компьютеры)
+	 
+	 bonding contact pad (Техника)
+	 
+	 bonding pad (Техника)
+	 
+Results for элементарная площадка факсимильного изображения (simple):
+	elementary platform of the facsimile image
+Results for активная площадь кристалла (simple):
+	active area of a crystal
+Results for площадь апертуры:
+	 aperture area (Естественные науки)
+	 
+Results for площадь изображения (simple):
+	area of the image
+Results for площадь контактирования (simple):
+	area of engagement
+Results for площадь перехода (simple):
+	area of transition
+Results for площадь поверхности:
+	 surface area 
+Results for площадь поперечного сечения:
+	 cross-sectional area 
+	 sectional area (Естественные науки)
+	 
+	 cross-section area (Компьютеры)
+	 
+	 cross sectional area (Техника)
+	 
+Results for площадь приёмной антенны (simple):
+	area of the reception antenna
+Results for площадь раскрыва (simple):
+	area of a raskryv
+Results for площадь сечения:
+	 cross-sectional area 
+	 sectional area (Естественные науки)
+	 
+Results for эффективная площадь отражения (рассеяния) (simple):
+	effective area of reflection (dispersion)
+Results for бесконтактный плунжер (simple):
+	contactless plunger
+Results for волноводный плунжер (simple):
+	the waveguide plunger
+Results for дроссельный плунжер:
+	 choke plunger (Техника)
+	 
+Results for (коаксиальный) короткозамыкающий плунжер (simple):
+	(coaxial) korotkozamykayushchy plunger
+Results for настроечный плунжер (simple):
+	adjusting plunger
+Results for плунжер пружинящий (simple):
+	the plunger springing
+Results for плунжер разрезной (simple):
+	cutting plunger
+Results for плунжер с пружинящими контактами (пальцами) (simple):
+	plunger with the springing contacts (fingers)
+Results for поведение системы:
+	 system behavior (Компьютеры)
+	 
+Results for поверка средств измерений (simple):
+	checking of measuring instruments
+Results for алгебраическая поверхность (simple):
+	algebraic surface
+Results for аналитическая поверхность (simple):
+	analytical surface
+Results for бездефектная поверхность:
+	 flaw free surface (Техника)
+	 
+Results for блоховская поверхность (simple):
+	Bloch surface
+Results for боковая поверхность:
+	 lateral area (Естественные науки)
+	 
+	 lateral surface (Компьютеры)
+	 
+	 side face (Техника)
+	 
+Results for винтовая поверхность:
+	 helical surface (Техника)
+	 
+Results for вицинальная поверхность (simple):
+	vitsinalny surface
+Results for вогнутая поверхность:
+	 dished surface (Естественные науки)
+	 
+	 concave surface (Техника)
+	 
+Results for выпуклая поверхность:
+	 convex surface (Техника)
+	 
+Results for гладкая поверхность:
+	 smooth surface (Техника)
+	 
+Results for граничная поверхность:
+	 boundary surface (Техника)
+	 
+Results for дихроичная граничная поверхность (simple):
+	dikhroichny boundary surface
+Results for загрязнённая граничная поверхность (simple):
+	the polluted boundary surface
+Results for зеркальная граничная поверхность (simple):
+	smooth boundary surface
+Results for зернистая граничная поверхность (simple):
+	granular boundary surface
+Results for идеально отражающая (проводящая) граничная поверхность (simple):
+	ideally reflecting (carrying-out) boundary surface
+Results for изотермическая граничная поверхность (simple):
+	isothermal boundary surface
+Results for изоэнергетическая граничная поверхность (simple):
+	isoenergetic boundary surface
+Results for коническая граничная поверхность (simple):
+	conic boundary surface
+Results for координатная граничная поверхность (simple):
+	coordinate boundary surface
+Results for ламбертовская [равномерно рассеивающая] граничная поверхность (simple):
+	the Lambert [evenly disseminating] boundary surface
+Results for многодолинная граничная поверхность (simple):
+	multivalley boundary surface
+Results for (не)ориентированная граничная поверхность (simple):
+	not focused boundary surface
+Results for (не)ориентируемая граничная поверхность (simple):
+	not focused boundary surface
+Results for непрерывная граничная поверхность (simple):
+	continuous boundary surface
+Results for (не)сингулярная граничная поверхность (simple):
+	(not) singular boundary surface
+Results for открытая граничная поверхность (simple):
+	open boundary surface
+Results for пассивированная граничная поверхность (simple):
+	the passivated boundary surface
+Results for граничная поверхность визуализации (simple):
+	boundary surface of visualization
+Results for граничная поверхность вращения (simple):
+	boundary surface of rotation
+Results for граничная поверхность второго порядка (simple):
+	boundary surface of the second order
+Results for граничная поверхность Вульфа (simple):
+	boundary surface of Woolf
+Results for граничная поверхность излучения (simple):
+	boundary surface of radiation
+Results for граничная поверхность контакта (simple):
+	boundary surface of contact
+Results for граничная поверхность ликвидуса (simple):
+	boundary surface of a likvidus
+Results for граничная поверхность мишени (simple):
+	boundary surface of a target
+Results for граничная поверхность отклика (simple):
+	boundary surface of a response
+Results for граничная поверхность отображения (simple):
+	boundary surface of display
+Results for граничная поверхность охлаждения (simple):
+	boundary surface of cooling
+Results for граничная поверхность плёнки (simple):
+	boundary surface of a film
+Results for граничная поверхность подложки (simple):
+	boundary surface of a substrate
+Results for граничная поверхность полного внутреннего отражения (simple):
+	boundary surface of full internal reflection
+Results for граничная поверхность раздела (simple):
+	boundary interface
+Results for граничная поверхность расплава (simple):
+	boundary surface of fusion
+Results for граничная поверхность распределения силы света (simple):
+	boundary surface of distribution of luminous intensity
+Results for граничная поверхность роста (simple):
+	boundary surface of growth
+Results for граничная поверхность солидуса (simple):
+	boundary surface of a solidus
+Results for граничная поверхность с трещинами (simple):
+	boundary surface with cracks
+Results for граничная поверхность Ферми (simple):
+	boundary surface of Fermi
+Results for рабочая граничная поверхность носителя записи (simple):
+	working boundary surface of the carrier of record
+Results for равносигнальная граничная поверхность (simple):
+	equal-signal boundary surface
+Results for рассеивающая [диффузно отражающая] граничная поверхность (simple):
+	disseminating [diffuzno reflecting] a boundary surface
+Results for свежеполированная граничная поверхность (simple):
+	svezhepolirovanny boundary surface
+Results for свободная граничная поверхность (simple):
+	free boundary surface
+Results for сколотая граничная поверхность (simple):
+	the chopped-off boundary surface
+Results for текстурированная граничная поверхность (simple):
+	the textured boundary surface
+Results for травленая [травлёная] граничная поверхность (simple):
+	etched [etched] boundary surface
+Results for трущаяся граничная поверхность (simple):
+	the rubbing boundary surface
+Results for цилиндрическая граничная поверхность (simple):
+	cylindrical boundary surface
+Results for шаровая граничная поверхность (simple):
+	spherical boundary surface
+Results for эквипотенциальная граничная поверхность (simple):
+	equipotential boundary surface
+Results for эквифазная граничная поверхность (simple):
+	ekvifazny boundary surface
+Results for бесконечно малый поворот (simple):
+	infinitesimal turn
+Results for поворот вектора (simple):
+	turn of a vector
+Results for поворот осей координат (simple):
+	turn of axes of coordinates
+Results for поворот строки (simple):
+	turn of a line
+Results for декорированное повреждение (simple):
+	the decorated damage
+Results for долго(кратко)временное повреждение (simple):
+	temporary damage is (long short)
+Results for допороговое повреждение (simple):
+	prethreshold damage
+Results for древовидное повреждение (simple):
+	treelike damage
+Results for имплантационное повреждение (simple):
+	implantation damage
+Results for ионизационное повреждение:
+	 ionization damage (Естественные науки)
+	 
+Results for лазерное повреждение (simple):
+	laser damage
+Results for объёмное повреждение (simple):
+	volume damage
+Results for поверхностное повреждение (simple):
+	superficial damage
+Results for повреждение изоляции:
+	 insulation failure (Компьютеры)
+	 
+Results for повреждение кабеля:
+	 cable fault (Техника)
+	 
+Results for повреждение решётки (simple):
+	damage of a lattice
+Results for радиационное повреждение:
+	 radiation effect (Естественные науки)
+	 
+Results for стойкое повреждение (simple):
+	permanent damage
+Results for структурное повреждение (simple):
+	structural damage
+Results for электронно-лучевое повреждение (simple):
+	electron beam damage
+Results for анодный повторитель:
+	 anode follower (Техника)
+	 
+Results for импульсный повторитель (simple):
+	pulse repeater
+Results for истоковый повторитель (simple):
+	istokovy repeater
+Results for катодный повторитель:
+	 cathode follower (Естественные науки)
+	 
+Results for повторитель на операционном усилителе (simple):
+	the repeater on the operational amplifier
+Results for повторитель напряжения (simple):
+	tension repeater
+Results for повторитель с усилением (simple):
+	the repeater with strengthening
+Results for последовательный повторитель (simple):
+	consecutive repeater
+Results for регенеративный повторитель (simple):
+	regenerative repeater
+Results for телеграфный повторитель (simple):
+	cable repeater
+Results for эмиттерный повторитель:
+	 emitter follower (Естественные науки)
+	 
+Results for повышение качества:
+	 improvement of quality 
+	 upgrading (Естественные науки)
+	 
+	 improvement of the quality (Техника)
+	 
+Results for повышение напряжения:
+	 stepping-up of a voltage (Техника)
+	 
+Results for дипольный поглотитель (simple):
+	dipolar absorber
+Results for диэлектрический поглотитель (simple):
+	dielectric absorber
+Results for магнитный поглотитель (simple):
+	magnetic absorber
+Results for мембранный поглотитель (simple):
+	membrane absorber
+Results for многослойный поглотитель (simple):
+	multilayered absorber
+Results for неотражающий поглотитель (simple):
+	nonreflecting absorber
+Results for поглотитель из искусственного диэлектрика (simple):
+	the absorber from artificial dielectric
+Results for поглотитель нейтронов:
+	 neutron absorber (Естественные науки)
+	 
+	 neutron poison (Техника)
+	 
+Results for поглотитель радиоволн (simple):
+	absorber of radio waves
+Results for поглотитель с плавным изменением коэффициента поглощения (simple):
+	the absorber with smooth change of coefficient of absorption
+Results for резонансный поглотитель:
+	 resonance absorber (Компьютеры)
+	 
+Results for сверхвысокочастотный [СВЧ-] поглотитель (simple):
+	superhigh-frequency [the microwave oven-] the absorber
+Results for четвертьволновый поглотитель (simple):
+	quarter wave absorber
+Results for широкополосный поглотитель (simple):
+	broadband absorber
+Results for авроральное поглощение (simple):
+	avroralny absorption
+Results for (ан)изотропное поглощение (simple):
+	(An) isotropic absorption
+Results for атмосферное поглощение:
+	 atmospheric absorption (Естественные науки)
+	 
+	 atmospheric attenuation (Техника)
+	 
+Results for внутри(меж)зонное поглощение (simple):
+	in (boundaries) zonal absorption
+Results for внутрирезонаторное поглощение (simple):
+	vnutrirezonatorny absorption
+Results for двухмагнонное поглощение (simple):
+	two-magnon absorption
+Results for двух(много)фотонное поглощение (simple):
+	two (many) photon absorption
+Results for дипольное поглощение:
+	 dipole absorption (Компьютеры)
+	 
+Results for дихроичное поглощение (simple):
+	dikhroichny absorption
+Results for избирательное поглощение:
+	 selective absorption (Естественные науки)
+	 
+Results for индуцированное поглощение (simple):
+	the induced absorption
+Results for квадрупольное поглощение (simple):
+	kvadrupolny absorption
+Results for квантованное поглощение:
+	 quantized absorption (Естественные науки)
+	 
+Results for комптоновское поглощение (simple):
+	Compton absorption
+Results for магнон-фононное поглощение:
+	 magnon phonon absorption (Компьютеры)
+	 
+Results for мультипольное поглощение (simple):
+	multipolar absorption
+Results for относительное поглощение:
+	 fractional absorption (Компьютеры)
+	 
+Results for плазменное поглощение:
+	 plasma absorption (Компьютеры)
+	 
+Results for поглощение в диэлектрике:
+	 dielectric absorption (Компьютеры)
+	 
+Results for поглощение в дожде (облаках) (simple):
+	absorption in a rain (clouds)
+Results for поглощение в крыльях (simple):
+	absorption in wings
+Results for поглощение в области полярных шапок (simple):
+	absorption in the field of polar caps
+Results for поглощение в результате переноса заряда:
+	 charge transfer absorption (Компьютеры)
+	 
+Results for поглощение в результате столкновений:
+	 collision absorption (Компьютеры)
+	 
+Results for поглощение в СВЧ- диапазоне (simple):
+	absorption in the microwave oven - range
+Results for поглощение в спорадическом слое Е (simple):
+	absorption in a sporadic layer E
+Results for поглощение в тропосфере:
+	 tropo-spheric absorption (Компьютеры)
+	 
+Results for поглощение (гипер)звука (simple):
+	absorption (hyper) sound
+Results for поглощение земной поверхностью:
+	 ground absorption (Компьютеры)
+	 
+Results for поглощение, индуцированное полем (simple):
+	the absorption induced by the field
+Results for поглощение на свободных носителях (simple):
+	absorption on free carriers
+Results for поглощение (не)основными носителями (simple):
+	absorption (not) by the main carriers
+Results for поглощение остаточных лучей (simple):
+	absorption of residual beams
+Results for поглощение при парамагнитном (спиновом, ферромагнитном, ядерном) резонансе (simple):
+	absorption at paramagnetic (spin, ferromagnetic, nuclear) a resonance
+Results for поглощение света:
+	 light absorption (Естественные науки)
+	 
+	 luminous absorption (Техника)
+	 
+Results for поглощение с возбуждением одного уровня:
+	 single-level absorption (Компьютеры)
+	 
+Results for поглощение с рождением пар (simple):
+	absorption with the birth of couples
+Results for примесное поглощение:
+	 extrinsic absorption (Компьютеры)
+	 
+	 impurity attenuation (Техника)
+	 
+Results for резонансное поглощение:
+	 resonance absorption (Компьютеры)
+	 
+Results for решёточное поглощение (simple):
+	reshyotochny absorption
+Results for селективное [избирательное] поглощение (simple):
+	selective [selective] absorption
+Results for спектральное поглощение:
+	 spectral absorption (Естественные науки)
+	 
+Results for собственное [фундаментальное] поглощение (simple):
+	own [fundamental] absorption
+Results for спин-фононное поглощение (simple):
+	backs - phonon absorption
+Results for удельное поглощение:
+	 specific absorption (Компьютеры)
+	 
+Results for фоновое поглощение (simple):
+	background absorption
+Results for фотоэлектрическое поглощение:
+	 photoelectric absorption (Компьютеры)
+	 
+Results for характеристическое поглощение (simple):
+	characteristic absorption
+Results for циклотронное поглощение (simple):
+	cyclotron absorption
+Results for черенковское поглощение (simple):
+	cherenkovsky absorption
+Results for экситонное поглощение:
+	 exciton absorption (Компьютеры)
+	 
+Results for экспоненциальное поглощение:
+	 exponential absorption (Компьютеры)
+	 
+Results for абсолютная погрешность:
+	 absolute error (Естественные науки)
+	 
+Results for аппаратурная погрешность:
+	 instrument error 
+Results for вероятная погрешность (simple):
+	probable error

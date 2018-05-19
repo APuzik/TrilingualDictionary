@@ -2,7 +2,7 @@
 <TestSettings name="Local" id="f6d8a0fc-a97d-4710-8252-5f2260c4eb00" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
   <Description>These are default test settings for a local test run.</Description>
   <Deployment>
-    <DeploymentItem filename="ScansParserTest\TestData\" />
+	<DeploymentItem filename="MultiDictionaryCore.Test\TrilingualDictionary.sdf" />
   </Deployment>
   <Execution>
     <TestTypeSpecific>

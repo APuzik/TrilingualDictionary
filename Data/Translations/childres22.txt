@@ -1,0 +1,2420 @@
+Results for способ задания функций способ (simple):
+	way of a task of functions way
+Results for способ передачи (simple):
+	way of transfer
+Results for способ развёртки (simple):
+	way of development
+Results for способ упорядочения (simple):
+	way of streamlining
+Results for технологический способ (simple):
+	technological way
+Results for абсорбционная способность:
+	 absorbing capacity 
+	 absorptivity[ˌæbsɔ:pˈtɪvɪtɪ] (Естественные науки)
+	 
+Results for излучательная способность:
+	 radiant emittance (Естественные науки)
+	 
+	 emittance (Естественные науки)
+	 
+Results for ионизирующая способность:
+	 ionizing power (Естественные науки)
+	 
+Results for исправляющая способность:
+	 margin[ˈmɑ:dʒɪn] (Техника)
+	 
+Results for нагрузочная способность:
+	 power capacity (Компьютеры)
+	 
+	 load bearing capacity (Техника)
+	 
+Results for обнаружительная способность:
+	 detectivity (Компьютеры)
+	 
+Results for отражательная способность:
+	 reflectance (Естественные науки)
+	 
+	 reflection power (Естественные науки)
+	 
+	 reflecting power (Естественные науки)
+	 
+Results for поглощательная способность:
+	 absorptive power (Естественные науки)
+	 
+Results for преломляющая способность:
+	 refractivity (Естественные науки)
+	 
+	 refractive power (Компьютеры)
+	 
+Results for пропускная способность:
+	 capacity[kəˈpæsɪtɪ] 
+	 bandwidth 
+	 channel capacity (Естественные науки)
+	 
+	 handling capacity (Бизнес)
+	 
+	 flow capacity (Техника)
+	 
+Results for разрешающая способность:
+	 resolution[ˌrezəˈlu:ʃən] 
+	 resolving power (Естественные науки)
+	 
+	 resolution capability (Компьютеры)
+	 
+	 resolution capacity (Техника)
+	 
+Results for рассеивающая способность:
+	 diffusion property (Естественные науки)
+	 
+Results for токонесущая способность (simple):
+	current-carrying ability
+Results for фотоэмиссионная способность (simple):
+	photoemission ability
+Results for радиотехнический справочник (simple):
+	radio engineering reference book
+Results for справочник позывных для радиолюбителей (simple):
+	the reference book of call signs for radio fans
+Results for справочник по транзисторам и микросхемам (simple):
+	reference book on transistors and chips
+Results for (активный, пассивный, тактический) спутник связи (simple):
+	(active, passive, tactical) communication satellite
+Results for вещательный спутник:
+	 broadcasting-satellite (Техника)
+	 
+Results for (гео)стационарный спутник (simple):
+	(гео) stationary satellite
+Results for информационный спутник (simple):
+	information satellite
+Results for искусственный спутник Земли [ИСЗ] (simple):
+	artificial Earth satellite [AES]
+Results for национальный спутник связи (simple):
+	national communication satellite
+Results for низкоорбитальный спутник:
+	 low earth orbit satellite (Компьютеры)
+	 
+Results for спутник для зондирования (внешней) ионосферы (simple):
+	the satellite for sounding (external) ionosphere
+Results for спутник для телефонной связи (simple):
+	the satellite for telephone communication
+Results for спутник на квазистационарной орбите (simple):
+	the satellite in a quasistationary orbit
+Results for спутник, не излучающий радиосигналы (simple):
+	the satellite which isn't radiating radio signals
+Results for спутник непосредственного вещания (simple):
+	satellite of direct broadcasting
+Results for спутник перераспределения телевизионных программ (simple):
+	satellite of redistribution of television programs
+Results for спутник радиолюбительской связи (simple):
+	satellite of radio amateur communication
+Results for спутник-разведчик:
+	 reconnaissance satellite (Техника)
+	 
+Results for спутник раннего обнаружения (оповещения) (simple):
+	satellite of early detection (notification)
+Results for спутник ретранслятор (simple):
+	satellite repeater
+Results for спутник связи для авиации, флота и навигации (simple):
+	the communication satellite for aircraft, the fleet and navigation
+Results for спутник связи с многолучевой антенной (simple):
+	the communication satellite with the multibeam antenna
+Results for спутник с задержкой ретрансляции:
+	 delayed repeater satellite (Компьютеры)
+	 
+Results for спутник с РЛС дальнего обнаружения (simple):
+	the satellite with radar station of distant detection
+Results for срабатывание реле:
+	 relay actuation (Техника)
+	 
+Results for групповое сравнение (simple):
+	group comparison
+Results for комбинированное сравнение (simple):
+	the combined comparison
+Results for сравнение по модулю (simple):
+	comparison on the module
+Results for сравнение фаз:
+	 phase comparison (Компьютеры)
+	 
+Results for технико-экономическое сравнение (simple):
+	technical and economic comparison
+Results for эпизодическое сравнение (simple):
+	incidental comparison
+Results for сращивание кабелей:
+	 cable splicing (Техника)
+	 
+Results for сращивание оптических волокон (simple):
+	merging of optical fibers
+Results for активная среда:
+	 active mediuim (Естественные науки)
+	 
+Results for бесконечная среда:
+	 infinite medium (Естественные науки)
+	 
+Results for гиротропная среда:
+	 gyrotropic medium (Техника)
+	 
+Results for искусственная среда:
+	 artificial atmosphere (Естественные науки)
+	 
+	 artificial environment (Техника)
+	 
+Results for диспергирующая среда:
+	 dispersive medium (Естественные науки)
+	 
+Results for дисперсная среда:
+	 dispersion medium (Естественные науки)
+	 
+Results for диссипативная среда (simple):
+	dissipative environment
+Results for двулучепреломляющая среда (simple):
+	two-refractive environment
+Results for замедляющая среда:
+	 slowing medium (Естественные науки)
+	 
+Results for запоминающая среда (simple):
+	the memorable environment
+Results for лазерная среда (simple):
+	laser environment
+Results for линзоподобная среда (simple):
+	linzopodobny environment
+Results for магнитная среда (simple):
+	magnetic environment
+Results for металловоздушная среда (simple):
+	metalair environment
+Results for металлодиэлектрическая среда (simple):
+	metaldielectric environment
+Results for металлопластинчатая среда (simple):
+	metallamellar environment
+Results for (не)взаимная среда (simple):
+	(not) the mutual environment
+Results for (не)однородная среда (simple):
+	(not) homogeneous environment
+Results for нестационарная среда (simple):
+	non-stationary environment
+Results for передающая среда:
+	 trasmitting medium (Техника)
+	 
+Results for поглощающая среда:
+	 absorbing medium (Естественные науки)
+	 
+Results for преломляющая среда:
+	 refractive medium (Естественные науки)
+	 
+	 refracting medium (Компьютеры)
+	 
+Results for прозрачная среда:
+	 transparent medium (Естественные науки)
+	 
+Results for рассеивающая среда:
+	 scattering medium (Естественные науки)
+	 
+Results for сегнетоэлектрическая среда (simple):
+	segnetoelektrichesky environment
+Results for сплошная среда:
+	 continuous medium (Естественные науки)
+	 
+Results for среда без потерь:
+	 loss-free medium (Техника)
+	 
+Results for среда передачи данных:
+	 data transmission medium (Компьютеры)
+	 
+Results for среда, поглощающая радиолокационное излучение (simple):
+	the Wednesday absorbing radar radiation
+Results for среда распространения (simple):
+	distribution environment
+Results for среда с волноводным распространением радиоволн (simple):
+	Wednesday with the waveguide distribution of radio waves
+Results for среда с дисковыми (со сферическими) металлическими элементами (simple):
+	Wednesday with disk (with spherical) metal elements
+Results for среда с замираниями (simple):
+	Wednesday with dying down
+Results for среда с малой диэлектрической проницаемостью (simple):
+	Wednesday with small dielectric permeability
+Results for среда с потерями (simple):
+	Wednesday with losses
+Results for среда с пространственно-временной периодичностью (simple):
+	Wednesday with existential frequency
+Results for среда с пространственной (частотной) дисперсией (simple):
+	Wednesday with spatial (frequency) dispersion
+Results for среда с фотоиндуцированным двулучепреломлением (simple):
+	Wednesday with the photoinduced two-refraction
+Results for стационарная среда (simple):
+	stationary environment
+Results for термопластическая среда (simple):
+	thermoplastic environment
+Results for фотопроводящая среда (simple):
+	photoconductive environment
+Results for электрооптическая среда (simple):
+	electrooptical environment
+Results for энерго(не)зависимая среда (simple):
+	power dependent environment
+Results for вычислительные средства (simple):
+	computing means
+Results for противолодочные гидро- и звуколокационные средства (simple):
+	anti-submarine gidro-and sound locational means
+Results for радиолокационные навигационные средства (simple):
+	radar navigation aids
+Results for радионавигационные средства:
+	 radio navigation aid (Техника)
+	 
+Results for радиотехнические средства захода на посадку (simple):
+	radio engineering means of landing approach
+Results for средства административно-производственной телефонной связи (simple):
+	means of administrative and production telephone communication
+Results for средства автоматизированного (автоматического) проектирования (simple):
+	means of the automated (automatic) design
+Results for средства ближней (дальней) радионавигации (simple):
+	means of near (distant) radio navigation
+Results for средства взаимодействия с пользователем (simple):
+	handshaking with the user
+Results for средства воздушной радионавигации (simple):
+	means of air radio navigation
+Results for средства диагностики:
+	 diagnostic aids средство диагностики 
+	 Существительное средство диагностики / средства диагностики 
+	 diagnostic tools (Техника)
+	 
+Results for средства (жизне)обеспечения (simple):
+	means (life) of providing
+Results for средства измерения:
+	 gage[ɡeɪdʒ] 
+Results for средства кабельной связи (simple):
+	means of cable communication
+Results for средства обеспечения просмотра:
+	 browse facilities (Компьютеры)
+	 
+Results for средства обнаружения:
+	 sensor[ˈsensə] 
+Results for средства обоснования (simple):
+	means of justification
+Results for средства обслуживания:
+	 service facilities (Техника)
+	 
+Results for средства объяснения (simple):
+	means of an explanation
+Results for средства отладки:
+	 debugging facility 
+	 debugging tool (Компьютеры)
+	 
+Results for средства отображения информации на жидких кристаллах (газоразрядных лампах, ЭЛТ) (simple):
+	means of display of information on liquid crystals (gas-discharge lamps, the CRT)
+Results for средства отображения информации с использованием знаковых барабанов (люминесценции) (simple):
+	means of display of information with use of sign drums (luminescence)
+Results for средства отображения символьной информации (simple):
+	means of display of symbolical information
+Results for средства передачи информации (simple):
+	information transmission media
+Results for средства переноса:
+	 bridgeware (Естественные науки)
+	 
+Results for средства привода (simple):
+	means of the drive
+Results for средства противолокации (simple):
+	means of an antilocation
+Results for средства радиоопределения местонахождения (simple):
+	means of radiodetermination of location
+Results for средства (радио)связи (simple):
+	means (radio) of communication
+Results for средства самонаведения (simple):
+	means of homing
+Results for средства связи в системах телеобработки данных (simple):
+	means of communication in the systems of teleprocessing of data
+Results for средства технического обслуживания (simple):
+	means of maintenance
+Results for средства трассировки:
+	 tracer[ˈtreɪsə] 
+Results for технические средства:
+	 facilities (Естественные науки)
+	 техническое средство 
+	 Существительное техническое средство / технические средства 
+	 technical tool 
+	 technical mean технические средство 
+	 Существительное технические средство / технические средства 
+	 hardware components (Техника)
+	 
+Results for навигационное средство:
+	 navigation aid 
+	 navaid (Техника)
+	 
+Results for образцовое средство (simple):
+	model means
+Results for средство вторичного электропитания (simple):
+	means of secondary power supply
+Results for средство измерения:
+	 gage[ɡeɪdʒ] 
+Results for средство настройки:
+	 customizer (Компьютеры)
+	 
+Results for средство связи:
+	 means of communication 
+	 communicating device (Техника)
+	 
+Results for средство создания помех РЛС (simple):
+	tool for hindrances of radar station
+Results for косой срез:
+	 feathering[ˈfeðərɪŋ] (Естественные науки)
+	 
+	 diagonal cut (Техника)
+	 
+	 slant cut (Кулинария)
+	 
+Results for параллельный срез (simple):
+	parallel cut
+Results for поперечный срез:
+	 cross section (Естественные науки)
+	 
+Results for продольный срез:
+	 longitudinal shear (Техника)
+	 
+	 longitudinal section (Естественные науки)
+	 
+Results for срез импульса:
+	 trailing edge (Естественные науки)
+	 
+Results for срез кварцевой пластины зріз (simple):
+	cut of a quartz plate зріз
+Results for срез кристалла (simple):
+	crystal cut
+Results for срез огибающей сигнала (simple):
+	cut bending around a signal
+Results for номинальный (стандартный) срок (simple):
+	nominal (standard) term
+Results for срок испытания (simple):
+	test term
+Results for срок службы в период нормальной эксплуатации (simple):
+	service life during normal operation
+Results for срок службы до капитального ремонта (simple):
+	service life before capital repairs
+Results for срок службы электронного прибора (simple):
+	service life of the electronic device
+Results for срок сохранности:
+	 keeping limit (Кулинария)
+	 
+Results for срок хранения:
+	 period of storage 
+	 shelf-life (Естественные науки)
+	 
+	 storage duration (Бизнес)
+	 
+	 storage life (Компьютеры)
+	 
+	 shelf life (Техника)
+	 
+Results for (периодический) срыв колебаний (simple):
+	(periodic) failure of fluctuations
+Results for срыв автосопровождения (simple):
+	automaintenance failure
+Results for срыв генерации:
+	 supression of oscillation (Техника)
+	 
+Results for срыв слежения (simple):
+	tracking failure
+Results for ссылка на конкретный источник (simple):
+	reference to a concrete source
+Results for кварцевый стабилизатор:
+	 piezoelectric stabilizer (Техника)
+	 
+Results for ламповый стабилизатор (simple):
+	lamp stabilizer
+Results for стабилизатор напряжения (тока, частоты) (simple):
+	voltage stabilizer (current, frequency)
+Results for стабилизатор ракеты:
+	 rocket fin (Техника)
+	 
+Results for стабилизатор резиста (simple):
+	rezist stabilizer
+Results for стабилизатор с импульсным регулированием (simple):
+	the stabilizer with pulse regulation
+Results for стабилизатор системы питания (simple):
+	power supply system stabilizer
+Results for стабилизатор с ограничением добротности (simple):
+	the stabilizer with restriction of good quality
+Results for стабилизатор энергии (simple):
+	energy stabilizer
+Results for ступенчатый стабилизатор (simple):
+	step stabilizer
+Results for феррорезонансный стабилизатор (simple):
+	ferrorezonansny stabilizer
+Results for автоматическая стабилизация усиления:
+	 automatic gain stabilization (Компьютеры)
+	 
+Results for вихревая стабилизация (simple):
+	vortex stabilization
+Results for внутренняя стабилизация (simple):
+	internal stabilization
+Results for квадрупольная стабилизация (simple):
+	kvadrupolny stabilization
+Results for кварцевая стабилизация:
+	 quartz crystal control (Компьютеры)
+	 
+	 crystal control (Техника)
+	 
+Results for стабилизация антенны бортовой РЛС в горизонтальной плоскости (simple):
+	stabilization of the antenna of onboard radar station in the horizontal plane
+Results for стабилизация антенны РЛС (simple):
+	stabilization of the antenna of radar station
+Results for стабилизация без обратной связи (simple):
+	stabilization without feedback
+Results for стабилизация дрейфа (simple):
+	drift stabilization
+Results for стабилизация интенсивности излучения лазера (simple):
+	stabilization of intensity of radiation of the laser
+Results for стабилизация мощных генераторов (simple):
+	stabilization of powerful generators
+Results for стабилизация напряжения (тока, частоты) (simple):
+	stabilization of tension (current, frequency)
+Results for стабилизация плазмы газовым чехлом (simple):
+	plasma stabilization by a gas cover
+Results for стабилизация по азимуту:
+	 azimuth stabilization (Компьютеры)
+	 
+	 azimuthal stabilization (Техника)
+	 
+Results for стабилизация по постоянному току (simple):
+	stabilization on a direct current
+Results for стабилизация разряда (simple):
+	stabilization of the category
+Results for стабилизация скорости вращения (simple):
+	stabilization of speed of rotation
+Results for стабилизация с обратной связью (simple):
+	stabilization with feedback
+Results for стабилизация с помощью отрицательной обратной связи (simple):
+	stabilization by means of negative feedback
+Results for стабилизация частоты:
+	 frequence control (Естественные науки)
+	 
+	 frequency fixing (Компьютеры)
+	 
+Results for электронная стабилизация (simple):
+	electronic stabilization
+Results for энтальпийная стабилизация (simple):
+	entalpiyny stabilization
+Results for электронно-вакуумный стабилитрон (simple):
+	electronic and vacuum stabilitron
+Results for стадия излучения (simple):
+	radiation stage
+Results for стадия разработки (simple):
+	development stage
+Results for стадия рассмотрения (simple):
+	consideration stage
+Results for лабораторный стакан:
+	 glass jar (Естественные науки)
+	 
+Results for государственный стандарт:
+	 state standard 
+Results for стандарт развёртки (simple):
+	standard of development
+Results for стандарт совместимой системы цветного телевидения (simple):
+	standard of compatible system of color television
+Results for стандарт частоты (simple):
+	standard of frequency
+Results for стандарт шифрования данных:
+	 data encryption standard (Компьютеры)
+	 
+Results for телевизионный стандарт (simple):
+	television standard
+Results for абонентская телефонная станция (simple):
+	subscriber telephone exchange
+Results for автономная наземная шумопеленгаторная станция (simple):
+	autonomous earth-based shumopelengatorny station
+Results for базовая станция:
+	 base station 
+Results for береговая станция:
+	 shore station 
+	 coast station (Техника)
+	 
+Results for бортовая радиометрическая станция (simple):
+	onboard radiometric station
+Results for ведомая станция:
+	 slave station (Техника)
+	 
+Results for ведущая станция:
+	 master station (Компьютеры)
+	 
+	 key station (Техника)
+	 
+Results for вещательная станция (simple):
+	broadcasting station
+Results for гидроакустическая станция:
+	 hydroacoustic station (Техника)
+	 
+Results for гидролокационная станция:
+	 active sonar (Техника)
+	 
+Results for дифференциальная станция (simple):
+	differential station
+Results for ионосферная станция:
+	 ionospheric sounding station (Техника)
+	 
+Results for коммутационная станция:
+	 switching exchange (Компьютеры)
+	 
+Results for космическая станция:
+	 space station (Техника)
+	 
+Results for (междугородная) телефонная станция (simple):
+	(long-distance) telephone exchange
+Results for наземная станция:
+	 earth-based station 
+	 land station (Бизнес)
+	 
+	 terrestrial station (Компьютеры)
+	 
+	 ground station (Техника)
+	 
+Results for (не)обслуживаемая станция (simple):
+	not served station
+Results for оконечная станция:
+	 terminal station (Техника)
+	 
+	 end office (Компьютеры)
+	 
+	 final terminal (Техника)
+	 
+Results for опорная станция:
+	 master station (Компьютеры)
+	 
+Results for передвижная телевизионная станция (simple):
+	mobile television station
+Results for подвижная (сухопутная, фиксированная) воздушная станция (simple):
+	mobile (overland, fixed) the air station
+Results for приводная станция:
+	 head assembly (Кулинария)
+	 
+Results for приёмная станция (simple):
+	reception station
+Results for приёмо-передающая станция (simple):
+	send-receive station
+Results for промежуточная станция:
+	 intermediate office (Компьютеры)
+	 
+	 intermediate station (Техника)
+	 
+	 relay station (Бизнес)
+	 
+	 way station (Техника)
+	 
+Results for радиогидрометеорологическая станция (simple):
+	radio hydrometeorological station
+Results for радиолокационная станция:
+	 radar station 
+Results for радиолюбительская станция (simple):
+	radio amateur station
+Results for радионавигационная станция (simple):
+	radio navigational station
+Results for радиопеленгаторная станция:
+	 direction-finding station (Техника)
+	 
+Results for ретрансляционная станция:
+	 repeater station (Компьютеры)
+	 
+	 retransmitting station (Техника)
+	 
+Results for силовая станция (simple):
+	power station
+Results for станция аварийной сигнализации (simple):
+	station of the alarm system
+Results for станция автоматического сопровождения цели (simple):
+	station of automatic maintenance of the purpose
+Results for станция активного радиоэлектронного подавления (simple):
+	station of active radio-electronic suppression
+Results for станция активных ответных радиопомех (simple):
+	station of an active reciprocal radio noise
+Results for станция активных преднамеренных радиопомех (simple):
+	station of an active deliberate radio noise
+Results for станция дальнего обнаружения системы ПВО (simple):
+	station of distant detection of the air defense system
+Results for станция дистанционного управления (simple):
+	station of remote control
+Results for станция загрузки служебной информации (simple):
+	station of loading of office information
+Results for станция измерения истинной высоты полёта (simple):
+	station of measurement of true flight altitude
+Results for станция межсетевого сопряжения (simple):
+	station of gateway interface
+Results for станция перехвата:
+	 interception system (Техника)
+	 
+Results for станция радиозондирования (simple):
+	station of radio sounding
+Results for станция радионаблюдения (simple):
+	station of radio observation
+Results for станция радиоопределения:
+	 radiodetermination station (Техника)
+	 
+Results for станция реперфораторного переприёма (simple):
+	station of reperforatorny rereception
+Results for станция слежения за спутником (целью) (simple):
+	station of tracking the satellite (purpose)
+Results for станция службы стандартных частот (simple):
+	station of service of standard frequencies
+Results for станция с многостанционным доступом (simple):
+	the station with multistation access
+Results for станция сопровождения:
+	 tracking station (Техника)
+	 
+Results for станция спутниковой связи (simple):
+	station of satellite communication
+Results for станция телексной (факсимильной) связи (simple):
+	station of telex (facsimile) communication
+Results for станция тропосферного рассеяния (simple):
+	station of tropospheric dispersion
+Results for станция управления воздушным движением в районе аэропорта (на международных авиалиниях) (simple):
+	the station of air traffic control around the airport (on the international airlines)
+Results for телевизионная станция (simple):
+	television station
+Results for узловая станция:
+	 junction station 
+Results for электрическая станция:
+	 power plant 
+	 electrical station (Техника)
+	 
+Results for естественное старение:
+	 natural ageing (Естественные науки)
+	 
+Results for искусственное старение:
+	 artificial aging (Естественные науки)
+	 
+	 artificial ageing (Естественные науки)
+	 
+Results for старение изоляции (simple):
+	isolation aging
+Results for старение радиоэлемента (simple):
+	aging of a radioelement
+Results for структурное старение (simple):
+	structural aging
+Results for тепловое старение:
+	 heat ageing (Естественные науки)
+	 
+	 heat aging (Компьютеры)
+	 
+	 thermal ageing (Техника)
+	 
+Results for квантовая статистика:
+	 quiantum statistics (Техника)
+	 
+Results for классическая статистика (simple):
+	classical statistics
+Results for статистика Бозе-Эйнштейна (simple):
+	statistics to Bosa-Einstein
+Results for статистика замираний (simple):
+	statistics of dying down
+Results for статистика Максвелла-Больцмана (simple):
+	Maxwell-Boltsman's statistics
+Results for статистика Ферми-Дирака (simple):
+	Fermi-Dirac's statistics
+Results for ствол в радиорелейной связи (simple):
+	trunk in radio relay communication
+Results for кварцевое стекло:
+	 quartz glass (Естественные науки)
+	 
+Results for кластерное стекло (simple):
+	cluster glass
+Results for лазерное стекло (simple):
+	laser glass
+Results for матированное стекло:
+	 frosted glass (Техника)
+	 
+Results for металлическое стекло с модуляцией состава (simple):
+	metal glass with modulation of structure
+Results for покровное стекло (simple):
+	integumentary glass
+Results for проводящее стекло (simple):
+	the carrying-out glass
+Results for спиновое стекло (simple):
+	spin glass
+Results for увеличительное стекло:
+	 magnifying lens (Естественные науки)
+	 
+Results for фосфатное стекло:
+	 phosphate glass (Естественные науки)
+	 
+Results for фотохромное стекло:
+	 photochromic glass (Техника)
+	 
+Results for халькогенидное стекло:
+	 chalcogenide glass (Естественные науки)
+	 
+Results for испытательный стенд:
+	 test bench 
+	 test stand (Естественные науки)
+	 
+Results for боковая стенка:
+	 sidewall 
+	 apron[ˈeɪprən] (Естественные науки)
+	 
+Results for внешняя (внутренняя) стенка канавки записи (simple):
+	external (internal) wall of a flute of record
+Results for доменная стенка (simple):
+	domain wall
+Results for проводящая стенка (simple):
+	the carrying-out wall
+Results for стенка волно(свето)вода (simple):
+	wall wave (light) water
+Results for торцевая стенка (simple):
+	face wall
+Results for обобщённая степень (simple):
+	the generalized degree
+Results for отрицательная степень (simple):
+	negative degree
+Results for степень алгебраического уравнения (simple):
+	degree of the algebraic equation
+Results for степень диссоциации:
+	 degree of dissociation (Естественные науки)
+	 
+Results for степень заполнения:
+	 degree of fullness (Естественные науки)
+	 
+	 fill factor (Компьютеры)
+	 
+Results for степень затягивания (simple):
+	extent of tightening
+Results for степень изохронного (суммарного, стартстопного) искажения цифрового сигнала (simple):
+	degree isochronous (total, startstopny) distortions of a digital signal
+Results for степень интеграции:
+	 integration scale (Компьютеры)
+	 
+	 scale of integration (Техника)
+	 
+Results for степень использования:
+	 rate of use (Естественные науки)
+	 
+Results for степень компенсации (simple):
+	extent of compensation
+Results for степень корреляции (simple):
+	correlation degree
+Results for степень многочлена:
+	 degree of a polynomial (Естественные науки)
+	 
+Results for степень насыщения:
+	 degree of saturation (Естественные науки)
+	 
+	 saturation value (Кулинария)
+	 
+Results for степень неравномерности:
+	 degree of irregularity (Естественные науки)
+	 
+	 irregularity degree (Компьютеры)
+	 
+Results for степень ограничения (simple):
+	extent of restriction
+Results for степень подавления шумов (simple):
+	extent of suppression of noise
+Results for степень свободы:
+	 degree of freedom (Естественные науки)
+	 
+Results for степень связи:
+	 coupling degree (Техника)
+	 
+Results for степень сжатия:
+	 intensity of compression (Естественные науки)
+	 
+	 compression ratio (Техника)
+	 
+Results for степень уплотнения частотного спектра (simple):
+	extent of consolidation of a frequency range
+Results for степень устойчивости:
+	 degree of stability (Техника)
+	 
+Results for степень чистоты:
+	 degree of purity (Техника)
+	 
+Results for лазерная стереометрия (simple):
+	laser stereometry
+Results for стержень диэлектрический:
+	 dielectric rod (Техника)
+	 
+Results for (кварцевый) стержень Z-среза (simple):
+	(quartz) core of a Z-cut
+Results for рубиновый стержень (simple):
+	ruby core
+Results for стержень активного вещества лазера (simple):
+	core of active agent of the laser
+Results for стержень системы заземления (simple):
+	core of system of grounding
+Results for стержень с торцевой двугранной линзой (simple):
+	core with a face two-sided lens
+Results for ахроматический стимул (simple):
+	achromatic incentive
+Results for базисный стимул (simple):
+	basic incentive
+Results for инструментальный стимул (simple):
+	tool incentive
+Results for кардинальный стимул (simple):
+	cardinal incentive
+Results for метамерный цветовой стимул (simple):
+	metameasured color incentive
+Results for основной стимул (simple):
+	main incentive
+Results for равно(разно)цветный [изо(гетеро)хромный] стимул (simple):
+	equally (differently) tsvetny [from (hetero) hromny] an incentive
+Results for световой стимул (simple):
+	light incentive
+Results for селективное [избирательное] стирание (simple):
+	selective [selective] deleting
+Results for случайное стирание (simple):
+	casual deleting
+Results for стирание ВЧ-током (simple):
+	deleting by VCh-current
+Results for стирание единичных интервалов времени (simple):
+	deleting of single intervals of time
+Results for стирание записи лазером (simple):
+	record deleting by the laser
+Results for стирание информации (simple):
+	deleting of information
+Results for стирание магнитной записи (simple):
+	deleting of the magnetic record
+Results for стирание переменным (постоянным) током (simple):
+	deleting by alternating (constant) current
+Results for стирание со стороны основы (магнитной) ленты (simple):
+	deleting from the party of a basis (magnetic) tape
+Results for стирание цифрового сигнала данных (simple):
+	deleting of a digital signal of data
+Results for стирание (части) изображения (simple):
+	deleting (parts) of the image
+Results for аппаратурная стойка (simple):
+	hardware rack
+Results for индикаторная стойка (simple):
+	indicator rack
+Results for монтажная стойка:
+	 mounting rack (Компьютеры)
+	 
+Results for направляющая стойка (simple):
+	the guide is resistant
+Results for силовая стойка (simple):
+	power rack
+Results for стойка группового оборудования (simple):
+	rack of the group equipment
+Results for стойка для испытаний оборудования (simple):
+	rack for tests of the equipment
+Results for стойка для монтажа печатных схем (simple):
+	rack for installation of printed circuits
+Results for стойка для проведения приработки (simple):
+	rack for carrying out extra earnings
+Results for стойка для размещения аппаратуры (simple):
+	rack for placement of the equipment
+Results for стойка искателей (simple):
+	rack of seekers
+Results for стойка передающего (приёмного) устройства (simple):
+	rack of the transferring (reception) device
+Results for стойка питания:
+	 power frame (Компьютеры)
+	 
+Results for стойка с дисплеями (simple):
+	rack with displays
+Results for коррозионная стойкость:
+	 corrosion resistance 
+	 rust resistance (Естественные науки)
+	 
+Results for радиационная стойкость:
+	 radiation resistance (Естественные науки)
+	 
+Results for стойкость к температурным ударам (simple):
+	resistance to temperature blows
+Results for стойкость люминофора (simple):
+	firmness of a phosphor
+Results for температурная стойкость (simple):
+	temperature firmness
+Results for общий сток (simple):
+	general drain
+Results for сток орграфа (simple):
+	orgraf drain
+Results for сток тока (simple):
+	current drain
+Results for сток электронов (simple):
+	drain of electrons
+Results for координатный стол (с шаговым перемещением) (simple):
+	coordinate table (with step movement)
+Results for разметочный стол:
+	 layout table (Техника)
+	 
+Results for вольтов столб:
+	 voltaic pile (Техника)
+	 
+Results for выпрямительный (селеновый) столб (simple):
+	vypryamitelny (selenic) column
+Results for термоэлектрический столб (simple):
+	thermoelectric column
+Results for базисный столбец (simple):
+	basic column
+Results for столбец матрицы (simple):
+	matrix column
+Results for контактный столбик:
+	 tab connector (Техника)
+	 
+Results for столбик выпрямителя (simple):
+	rectifier column
+Results for ионизирующее столкновение:
+	 ionizing collision (Естественные науки)
+	 
+Results for комптоновское столкновение (simple):
+	Compton collision
+Results for кулоновское столкновение (simple):
+	Coulomb collision
+Results for (не)упругое столкновение (simple):
+	(not) elastic collision
+Results for разориентирующее столкновение (simple):
+	razoriyentiruyushchy collision
+Results for расфазирующее столкновение (simple):
+	rasfaziruyushchy collision
+Results for столкновение второго (первого) рода (simple):
+	collision of the second (first) sort
+Results for столкновение нейтральных частиц (simple):
+	collision of neutral particles
+Results for столкновение с рассеянием (simple):
+	collision with dispersion
+Results for столкновение фононов (simple):
+	collision of phonons
+Results for стоп-кадр:
+	 freeze frame 
+Results for стоп-фильтр (simple):
+	stop filter
+Results for внешняя сторона:
+	 outer side 
+	 exterior[eksˈtɪərɪə] (Техника)
+	 
+Results for внутренняя сторона:
+	 inside[ɪn'saɪd] 
+	 interior[ɪnˈtɪərɪə] (Естественные науки)
+	 
+	 inner side (Техника)
+	 
+Results for лицевая сторона:
+	 face[feɪs] 
+	 obverse[ˈɔbvə:s] (Естественные науки)
+	 
+Results for передающая сторона:
+	 transmitting end (Компьютеры)
+	 
+Results for приёмная сторона (simple):
+	reception party
+Results for прилежащая сторона (simple):
+	adjacent party
+Results for противолежащая сторона (simple):
+	opposite party
+Results for сторона монтажа печатной платы (simple):
+	party of installation of the printed circuit board
+Results for стохастизация фаз (simple):
+	stokhastization of phases
+Results for страница памяти (simple):
+	page of memory
+Results for страница портов:
+	 port page (Компьютеры)
+	 
+Results for оптимальная стратегия:
+	 optimal strategy (Техника)
+	 
+Results for смешанная стратегия (simple):
+	the mixed strategy
+Results for стратегия планирования исследований (научного поиска) (simple):
+	strategy of planning of researches (scientific search)
+Results for стратегия поведения системы (simple):
+	strategy of behavior of system
+Results for чистая стратегия (simple):
+	clean strategy
+Results for короткая (телескопическая) стрела (simple):
+	short (telescopic) arrow
+Results for стрела микрофонного журавля (simple):
+	arrow of a microphone crane
+Results for светящаяся стрелка (simple):
+	the shining arrow
+Results for стрелка измерительного прибора (simple):
+	arrow of the measuring device
+Results for стрелка на рисунке (чертеже) (simple):
+	arrow in the drawing (drawing)
+Results for стрелка Пирса:
+	 Peirce's arrow (Естественные науки)
+	 
+Results for стрелка часов:
+	 hand[hænd] 
+Results for стремление к бесконечности (нулю) (simple):
+	aspiration to infinity (zero)
+Results for стремление к пределу (simple):
+	aspiration to a limit
+Results for строб импульс (simple):
+	gate
+Results for стробирование аналогового сигнала (simple):
+	strobirovaniye of an analog signal
+Results for стробирование по дальности с качанием строба (simple):
+	strobirovaniye on range with swing of a strobe
+Results for стробирование по задержке (simple):
+	strobirovaniye on a delay
+Results for стробирование приёмника (simple):
+	receiver strobirovaniye
+Results for стробирование цифрового сигнала данных (simple):
+	strobirovaniye of a digital signal of data
+Results for стробоскоп на газонаполненном тетроде (simple):
+	stroboscope on a gas-filled tetrode
+Results for строботрон на эффекте дифракции света на ультразвуковых волнах (simple):
+	strobotron on effect of diffraction of light on ultrasonic waves
+Results for электрический строботрон (simple):
+	electric strobotron
+Results for математическая строгость (simple):
+	mathematical severity
+Results for базисная строка (simple):
+	basic line
+Results for бегущая строка:
+	 running line 
+	 news ticker 
+	 creeping line (Компьютеры)
+	 
+Results for следующая строка (simple):
+	next line
+Results for изображения строка (simple):
+	images line
+Results for строка матрицы:
+	 row of a matrix (Естественные науки)
+	 
+Results for строка на экране дисплея (simple):
+	line on the display screen
+Results for строка развёртки (simple):
+	line of development
+Results for алфавитно-мозаичная структура (simple):
+	alphabetic and mosaic structure
+Results for бипериодическая структура (simple):
+	biperiodichesky structure
+Results for биполярная структура (simple):
+	bipolar structure
+Results for веерная магнитная структура (simple):
+	fan magnetic structure
+Results for вихревая структура (simple):
+	vortex structure
+Results for встречно-штыревая структура (simple):
+	counter and pin structure
+Results for вычислительная структура (simple):
+	computing structure
+Results for гребенчатая структура:
+	 comb structure (Естественные науки)
+	 
+Results for двойниковая структура:
+	 twinned structure (Естественные науки)
+	 
+Results for двухбазовая структура (simple):
+	two-basic structure
+Results for двухпролётная структура (simple):
+	two-flying structure
+Results for звёздообразная структура (simple):
+	star-shaped structure
+Results for зонарная структура (simple):
+	zonarny structure
+Results for зонная структура:
+	 energy-band structure (Техника)
+	 
+Results for зонтичная структура (simple):
+	umbrella structure
+Results for ионно-имплантированная структура:
+	 ion-implanted structure (Естественные науки)
+	 
+Results for кристаллическая структура:
+	 crystalline structure (Естественные науки)
+	 
+	 crystal structure (Естественные науки)
+	 
+Results for линейная инжектирующая структура (simple):
+	the linear injecting structure
+Results for логопериодическая структура (simple):
+	the log-periodic structure
+Results for локально-периодическая структура (simple):
+	local and periodic structure
+Results for макроскопическая структура:
+	 macroscopic structure (Техника)
+	 
+Results for матричная структура:
+	 matrix structure (Бизнес)
+	 
+	 array structure (Компьютеры)
+	 
+Results for многобазовая структура (simple):
+	multibasic structure
+Results for (много)доменная структура (simple):
+	(many) domain structure
+Results for многомодовая структура (simple):
+	multimode structure
+Results for многопереходная структура (simple):
+	multitransitional structure
+Results for много(трёх)слойная [много(трёх)уровневая] структура (simple):
+	the structure is a lot of (three) layer [a lot of (three)-level]
+Results for многоэмиттерная структура (simple):
+	multiemitter structure
+Results for модулированная структура (simple):
+	the modulated structure
+Results for монолитная структура:
+	 monolithic structure (Компьютеры)
+	 
+Results for МДП-структура (simple):
+	TIR structure
+Results for МОП-структура:
+	 MOS (Техника)
+	 
+Results for (не)коллинеарная структура (simple):
+	(not) collinear structure
+Results for нематическая структура (simple):
+	nematic structure
+Results for (не)упорядоченная структура (simple):
+	(not) ordered structure
+Results for нитевидная структура:
+	 filamentary structure (Техника)
+	 
+Results for островковая структура (simple):
+	insular structure
+Results for петлевая структура (simple):
+	loopback structure
+Results for поверхностная структура:
+	 surface structure (Компьютеры)
+	 
+Results for (поли)кристаллическая структура (simple):
+	(weed) crystal structure
+Results for пространственная структура:
+	 spatial structure (Естественные науки)
+	 
+Results for распределённая структура (simple):
+	the distributed structure
+Results for резонансная структура (simple):
+	resonant structure
+Results for решётчатая структура с обратной (прямой) связью (simple):
+	trellised structure with the return (direct) communication
+Results for (сверх)тонкая структура (simple):
+	(over) thin structure
+Results for СИС-структура (simple):
+	SIS-structure
+Results for слоистая структура:
+	 bedded structure (Естественные науки)
+	 
+	 sandwich structure (Компьютеры)
+	 
+	 slaty structure (Техника)
+	 
+	 laminated structure (Кулинария)
+	 
+Results for смектическая структура:
+	 smectic structure (Естественные науки)
+	 
+Results for спекл-структура (simple):
+	spekl-structure
+Results for спиновая структура:
+	 spin lattice structure (Естественные науки)
+	 
+Results for спиральная [геликоидальная] структура (simple):
+	spiral [gelikoidalny] structure
+Results for структура дислокации (simple):
+	structure of dislocation
+Results for структура доменной границы (simple):
+	structure of domain border
+Results for структура доступа к файлу:
+	 file access structure (Компьютеры)
+	 
+Results for структура интерференционных полос (simple):
+	structure of interferential strips
+Results for структура ИС (simple):
+	structure of IS
+Results for структура магнитных вихрей (simple):
+	structure of magnetic whirlwinds
+Results for структура объекта (simple):
+	structure of an object
+Results for структура подзон (simple):
+	structure of subbands
+Results for структура поля в волноводе (линиях передачи) (simple):
+	structure of the field in a wave guide (transmission lines)
+Results for структура программы (simple):
+	structure of the program
+Results for структура радиолокационного ответчика (simple):
+	structure of the radar defendant
+Results for структура с балочными выводами (simple):
+	structure with frame conclusions
+Results for структура с воздушной изоляцией (simple):
+	structure with air isolation
+Results for структура с высоким разрешением (simple):
+	structure with high resolution
+Results for структура сети передачи данных (simple):
+	structure of a data transmission network
+Results for структура сигнала:
+	 signal structure (Компьютеры)
+	 
+Results for структура с изолирующими р-n-переходами (simple):
+	structure with isolating р - n - transitions
+Results for структура с копланарными электродами (simple):
+	structure with co-planar electrodes
+Results for структура со скрытым коллекторным слоем (simple):
+	structure with the hidden collector layer
+Results for структура с охранным кольцом (simple):
+	structure with a security ring
+Results for структура с перекрывающимися затворами (simple):
+	structure with the blocked locks
+Results for структура с плавно изменяющимся профилем распределения примеси (simple):
+	structure with smoothly changing impurity distribution profile
+Results for структура с плоскостной инжекцией (simple):
+	structure with plane injection
+Results for структура с проскальзыванием фазы (simple):
+	structure with slipping of a phase
+Results for структура типа колебаний в резонаторе (simple):
+	structure like fluctuations in the resonator
+Results for структура уровней энергии (simple):
+	structure of levels of energy
+Results for структура хранения базы данных (simple):
+	structure of storage of the database
+Results for тестовая структура (simple):
+	test structure
+Results for токоиндуцированная структура (simple):
+	tokoindutsirovanny structure
+Results for униполярная структура (simple):
+	unipolar structure
+Results for упорядоченная структура:
+	 ordered structure (Техника)
+	 
+Results for холестерическая структура (simple):
+	cholesteric structure
+Results for электронная структура (simple):
+	electronic structure
+Results for эпитаксиальная структура (simple):
+	epitaxial structure
+Results for ячеистая структура:
+	 cellular structure (Естественные науки)
+	 
+	 honeycomb texture (Кулинария)
+	 
+Results for дикторская студия (simple):
+	announcer's studio
+Results for телевизионная студия:
+	 television studio (Техника)
+	 
+Results for модуляторная ступень передатчика (simple):
+	modulator step of the transmitter
+Results for ступень восстановления постоянной составляющей (simple):
+	step of restoration of a constant component
+Results for ступень временного (группового) искания (simple):
+	step of temporary (group) search
+Results for ступень дислокации (simple):
+	dislocation step
+Results for ступень коммутации:
+	 switching stage (Компьютеры)
+	 
+Results for ступень переключения:
+	 tapping step (Техника)
+	 
+Results for ступень роста (simple):
+	growth step
+Results for ступенька в Е(Н)-плоскости (simple):
+	step in E(H) - the planes
+Results for ступенька оксида (simple):
+	oxide step
+Results for ступенька характеристики АЦП (simple):
+	step of the characteristic of ATsP
+Results for абонентский стык (simple):
+	subscriber joint
+Results for стык внахлёстку (simple):
+	joint vnakhlyostka
+Results for стык впритык (simple):
+	joint end-to-end
+Results for стык с абонентской линией (simple):
+	joint with a subscriber line
+Results for стык устройств передачи сигналов (simple):
+	joint of devices of signaling
+Results for стыковка космических летательных аппаратов (simple):
+	joining of space aircraft
+Results for стягивание токового шнура (simple):
+	tightening of a current cord
+Results for стяжка головных телефонов (simple):
+	coupler of headphones
+Results for (не)чётная субгармоника (simple):
+	(not) even subharmonica
+Results for субгармоника колебаний (simple):
+	subharmonica of fluctuations
+Results for n-ая субгармоника (simple):
+	n-aya subharmonica
+Results for субдискретизация по полям (simple):
+	subsampling on fields
+Results for прямая сублимация (simple):
+	direct sublimation
+Results for алгебраическая сумма:
+	 algebraic sum (Техника)
+	 
+Results for (бес)конечная сумма (simple):
+	(demon) final sum
+Results for векторная сумма:
+	 vector sum (Техника)
+	 
+Results for двойная сумма (simple):
+	double sum
+Results for контрольная сумма:
+	 checksum 
+	 control total (Техника)
+	 
+Results for логическая сумма:
+	 logical sum (Техника)
+	 
+Results for обобщённая сумма (simple):
+	the generalized sum
+Results for статистическая сумма (simple):
+	statistical sum
+Results for степенная сумма (simple):
+	sedate sum
+Results for сумма по модулю (simple):
+	the sum on the module
+Results for сумма прогрессии (simple):
+	progression sum
+Results for сумма чисел (simple):
+	sum of numbers
+Results for тригонометрическая сумма (simple):
+	trigonometrical sum
+Results for частичная сумма ряда (simple):
+	partial sum of a row
+Results for алгебраический сумматор:
+	 algebraic adder (Компьютеры)
+	 
+Results for аналоговый сумматор:
+	 analog adder (Компьютеры)
+	 
+Results for двоичный сумматор:
+	 binary accumulator (Компьютеры)
+	 
+	 binary adder (Техника)
+	 
+Results for инвертирующий сумматор:
+	 inverting adder (Компьютеры)
+	 
+Results for много(одно)разрядный сумматор (simple):
+	many (one) digit adder
+Results for накапливающий сумматор:
+	 adder accumulator (Компьютеры)
+	 
+	 counter-type adder (Техника)
+	 
+Results for оптоэлектронный сумматор (simple):
+	optoelectronic adder
+Results for параллельный сумматор:
+	 parallel adder (Компьютеры)
+	 
+Results for полный сумматор:
+	 full adder (Техника)
+	 
+Results for последовательный сумматор:
+	 serial adder (Компьютеры)
+	 
+Results for сумматор в дополнительном коде (simple):
+	the adder in an additional code
+Results for сумматор-вычитатель:
+	 adder-subtractor (Техника)
+	 
+Results for сумматор параллельного (последовательного) действия (simple):
+	adder of parallel (consecutive) action
+Results for сумматор с групповым (ускоренным) переносом (simple):
+	the adder with the group (accelerated) transfer
+Results for сумматор с запоминанием переноса:
+	 carry-save adder (Компьютеры)
+	 
+Results for сумматор со сквозным переносом:
+	 ripple carry adder (Компьютеры)
+	 
+Results for цепной сумматор:
+	 ladder adder (Компьютеры)
+	 
+Results for цифровой сумматор:
+	 digital adder (Компьютеры)
+	 
+Results for векторное суммирование (simple):
+	vector summation
+Results for логическое суммирование (simple):
+	logical summation
+Results for почленное суммирование (simple):
+	term by term summation
+Results for суммирование двоичных чисел (simple):
+	summation of binary numbers
+Results for суммирование с накоплением результата (simple):
+	summation with accumulation of result
+Results for суперпозиция голограмм (simple):
+	superposition of holograms
+Results for суперпозиция волн (simple):
+	superposition of waves
+Results for суперпозиция колебаний (simple):
+	superposition of fluctuations
+Results for суперпозиция токов (simple):
+	superposition of currents
+Results for суперпозиция функций (simple):
+	superposition of functions
+Results for суть метода (simple):
+	method essence
+Results for существование предела монотонной ограниченной последовательности (simple):
+	existence of a limit of the monotonous limited sequence
+Results for сущность предложения (simple):
+	essence of the offer
+Results for дебаевская сфера (simple):
+	Debye sphere
+Results for калибровочная сфера (simple):
+	calibration sphere
+Results for сфера излучения (simple):
+	sphere of radiation
+Results for сфера производства (simple):
+	sphere of production
+Results for сфера Пуанкаре (simple):
+	Poincare's sphere
+Results for сфера рассеяния:
+	 exosphere (Естественные науки)
+	 
+Results for автодинная схема (simple):
+	avtodinny scheme
+Results for аналоговая схема:
+	 analog circuit (Компьютеры)
+	 
+Results for биполярная схема фиксации уровня (simple):
+	bipolar scheme of fixing of level
+Results for блок-схема:
+	 flowchart 
+	 block diagram (Техника)
+	 
+Results for буферная схема:
+	 buffer circuit (Компьютеры)
+	 
+Results for волноводная схема:
+	 waveguide circuit (Компьютеры)
+	 
+Results for герметизированная схема:
+	 sealed circuit (Компьютеры)
+	 
+	 potted circuit (Техника)
+	 
+Results for гибридная схема:
+	 hybrid circuit (Естественные науки)
+	 
+Results for дву(одно)направленная схема (simple):
+	two-(one) the directed scheme
+Results for двух(одно)полупериодная схема (simple):
+	two (one) half-period schemes
+Results for диплексная схема (simple):
+	the diplex scheme
+Results for ёмкостная (индуктивная) схема (simple):
+	capacitor (inductive) scheme
+Results for заказная схема:
+	 custom circuit (Компьютеры)
+	 
+Results for замедляющая схема (simple):
+	the slowing-down scheme
+Results for запоминающая схема:
+	 memory circuit (Компьютеры)
+	 
+Results for излучающая схема (simple):
+	the radiating scheme
+Results for интегральная схема [ИС] (simple):
+	integrated circuit [IC]
+Results for интегрирующая схема:
+	 integrating circuit (Естественные науки)
+	 
+Results for ионно-имплантированная схема:
+	 ion-implanted circuit (Компьютеры)
+	 
+Results for (квази)бистабильная схема (simple):
+	(quasi) bistable scheme
+Results for (квази)моностабильная схема (simple):
+	(quasi) monostable scheme
+Results for ключевая схема (simple):
+	key scheme
+Results for комбинационная схема (simple):
+	combinational scheme
+Results for комплементарная [дополняющая] схема (simple):
+	the complementary [supplementing] scheme
+Results for криотронная схема:
+	 cryotron circuit (Компьютеры)
+	 
+Results for логическая схема:
+	 logical network (Естественные науки)
+	 
+	 logical circuit (Естественные науки)
+	 
+	 logic diagram (Компьютеры)
+	 
+Results for мажоритарная схема (simple):
+	majority scheme
+Results for матричная схема формирования сигнала цветности (simple):
+	matrix scheme of formation of a signal of chromaticity
+Results for микроваттная схема:
+	 microwatt circuit (Компьютеры)
+	 
+Results for микромощная схема (simple):
+	micropowerful scheme
+Results for многозвенная схема лестничного типа (simple):
+	multilink scheme of ladder type
+Results for многослойная схема:
+	 multi-layer circuit (Компьютеры)
+	 
+Results for многоуровневая схема:
+	 multi-level circuit (Компьютеры)
+	 
+Results for многофазная схема (simple):
+	multiphase scheme
+Results for монолитная схема:
+	 monolithic circuit (Компьютеры)
+	 
+Results for монтажная схема:
+	 assembly diagram 
+	 wiring diagram (Техника)
+	 
+	 mounting diagram (Техника)
+	 
+Results for мостовая схема:
+	 full-wave circuit (Естественные науки)
+	 
+	 bridge circuit (Компьютеры)
+	 
+Results for (не)линейная схема (simple):
+	(not) the linear scheme
+Results for (не)симметричная схема (simple):
+	(not) the symmetric scheme
+Results for (не)уравновешенная схема (simple):
+	(not) the balanced scheme
+Results for (не)устойчивая схема (simple):
+	(not) the steady scheme
+Results for одно(трёх)фазная схема (simple):
+	one (three) phase scheme
+Results for отказоустойчивая схема (simple):
+	failure-safe scheme
+Results for перестраиваемая схема:
+	 tuned circuit (Компьютеры)
+	 
+Results for печатная схема:
+	 printed circuit 
+Results for пиктографическая схема (simple):
+	pictographic scheme
+Results for П(Т)-образная схема (simple):
+	П (T)-shaped scheme
+Results for подстроечная схема (simple):
+	tuning scheme
+Results for полосковая схема (simple):
+	strip scheme
+Results for пороговая схема:
+	 threshold circuit (Компьютеры)
+	 
+Results for потенциометрическая схема (simple):
+	electrometric scheme
+Results for противоместная схема:
+	 anti-sidetone circuit (Компьютеры)
+	 
+	 antisidetone device (Техника)
+	 
+Results for радиопередающая схема (simple):
+	the radio-transmitting scheme
+Results for радиоприёмная схема (simple):
+	the radio-receiving scheme
+Results for разностная схема (simple):
+	differential scheme
+Results for регенеративная схема:
+	 regenerative circuit (Техника)
+	 
+Results for решающая схема:
+	 decision circuit (Компьютеры)
+	 
+Results for самовосстанавливающаяся схема:
+	 self-repairing circuit (Компьютеры)
+	 
+Results for СВЧ-схема (simple):
+	Microwave scheme
+Results for согласующая схема:
+	 matching network (Техника)
+	 
+Results for стартстопная схема (simple):
+	startstopny scheme
+Results for стробируемая схема (simple):
+	strobiruyemy scheme
+Results for структурная схема:
+	 block diagram 
+	 skeleton diagram (Компьютеры)
+	 
+Results for схема автоматического управления (simple):
+	scheme of automatic control
+Results for схема азимутальной развёртки (simple):
+	scheme of azimuthal development
+Results for схема антисовпадения (simple):
+	scheme of anti-coincidence
+Results for схема базы данных:
+	 database scheme (Компьютеры)
+	 
+Results for схема бесшумной настройки (simple):
+	scheme of silent control
+Results for схема бистабильного мультивибратора (simple):
+	scheme of the bistable multivibrator
+Results for схема блокировки:
+	 locking circuit (Техника)
+	 
+Results for схема быстрых (двойных) совпадений (simple):
+	scheme of fast (double) coincidence
+Results for схема ввода поправок (simple):
+	scheme of input of amendments
+Results for схема вертикального (горизонтального) отклонения (simple):
+	scheme of a vertical (horizontal) deviation
+Results for схема возбуждения (simple):
+	scheme of excitement
+Results for схема восстановления постоянной составляющей (simple):
+	scheme of restoration of a constant component
+Results for схема восстановления (установки) уровня чёрного (simple):
+	scheme of restoration (installation) of level black
+Results for схема восстановления (ослабления) цветовой поднесущей (simple):
+	scheme of restoration (easing) of color subbearing
+Results for схема выделения сигнала из шумов (simple):
+	the scheme of allocation of a signal from noise
+Results for схема выделения (формирования) сигнала цветности (simple):
+	scheme of allocation (formation) of a signal of chromaticity
+Results for схема выключения канала цветности (simple):
+	scheme of switching off of the channel of chromaticity
+Results for схема вычислений:
+	 computational scheme (Естественные науки)
+	 
+Results for схема гашения:
+	 quench circuit (Естественные науки)
+	 
+Results for схема голографирования с внеосевым опорным пучком (simple):
+	the scheme of holographing with an off-axis basic bunch
+Results for схема деления:
+	 dividing circuit (Компьютеры)
+	 
+Results for схема демпфирования:
+	 mute circuitry (Техника)
+	 
+Results for схема детектирования (simple):
+	scheme of detecting
+Results for схема задержки:
+	 delay circuit (Естественные науки)
+	 
+Results for схема заземления:
+	 grounding diagram (Компьютеры)
+	 
+Results for схема закрепления вызова (simple):
+	scheme of fixing of a call
+Results for схема замещения в g(h)-параметрах (simple):
+	the equivalent circuit in g(h) - parameters
+Results for схема запирания (simple):
+	scheme of locking
+Results for схема запрета:
+	 inhibit circuit (Естественные науки)
+	 
+Results for схема запуска:
+	 trigger circuit (Техника)
+	 
+Results for схема защиты от активных преднамеренных радиопомех (simple):
+	scheme of protection against an active deliberate radio noise
+Results for схема измерения напряжения (тока) (simple):
+	scheme of voltage measurement (current)
+Results for схема инерционной синхронизации (simple):
+	scheme of inertial synchronization
+Results for схема интегрирования со сбросом (simple):
+	the scheme of integration with dumping
+Results for схема кадровой (строчной) развёртки (simple):
+	scheme of vertical (lower case) sweep
+Results for схема калибровки (simple):
+	scheme of calibration
+Results for схема кодирования:
+	 encoding scheme 
+Results for схема коммутации:
+	 switching circuit (Компьютеры)
+	 
+Results for схема компандирования [компандер] (simple):
+	scheme of companding [compander]
+Results for схема компенсации (simple):
+	scheme of compensation
+Results for схема компрессии (simple):
+	scheme of a compression
+Results for схема коррекции:
+	 correction circuit (Техника)
+	 
+Results for схема манипуляции (simple):
+	scheme of manipulation
+Results for схема на дискретных элементах (simple):
+	the scheme on discrete elements
+Results for схема накачки:
+	 pump circuit (Техника)
+	 
+Results for схема нейтрализации обратной связи (simple):
+	scheme of neutralization of feedback
+Results for схема объединения по входу (simple):
+	the scheme of association on an entrance
+Results for схема ограничения шума:
+	 noise limiter (Компьютеры)
+	 
+Results for схема одностороннего ограничения (simple):
+	scheme of unilateral restriction
+Results for схема опознавания (simple):
+	scheme of identification
+Results for схема опрокидывания (simple):
+	scheme of capsizing
+Results for схема отсекания (simple):
+	scheme of trim
+Results for схема отслеживания доплеровской частоты (simple):
+	scheme of tracking of Doppler frequency
+Results for схема переноса:
+	 carry circuit (Естественные науки)
+	 
+Results for схема питания:
+	 power supply circuit 
+	 feed circuit (Естественные науки)
+	 
+Results for схема подавления гасящих импульсов (сигналов) (simple):
+	the scheme of suppression of the extinguishing impulses (signals)
+Results for схема последовательного действия (simple):
+	scheme of consecutive action
+Results for схема предварительной установки (simple):
+	scheme of preliminary installation
+Results for схема преобразования частоты [преобразователь] (simple):
+	scheme of transformation of the frequency [converter]
+Results for схема прерывания (simple):
+	scheme of interruption
+Results for схема привязки (simple):
+	scheme of a binding
+Results for схема принятия решения:
+	 decision gate (Естественные науки)
+	 
+Results for схема прогона:
+	 run chart (Техника)
+	 
+Results for схема продвижения ЦМД (simple):
+	scheme of advance of TsMD
+Results for схема развёртки (simple):
+	scheme of development
+Results for схема разветвления по выходу (simple):
+	the scheme of a branching on an exit
+Results for схема разделения импульсов (simple):
+	scheme of division of impulses
+Results for схема размагничивания (simple):
+	scheme of demagnetization
+Results for схема размещения [расположения] (simple):
+	scheme of placement [arrangement]
+Results for схема разуплотнения каналов (simple):
+	scheme of a razuplotneniye of channels
+Results for схема растягивания развёртки (simple):
+	scheme of extension of development
+Results for схема растягивания сигнала в области чёрного (simple):
+	the scheme of extension of a signal in the field of black
+Results for схема регулировки чистоты цвета (simple):
+	scheme of adjustment of purity of color
+Results for схема режекции:
+	 rejector circuit (Компьютеры)
+	 
+Results for схема сведения лучей (simple):
+	scheme of the data of beams
+Results for схема с внешним запуском (simple):
+	the scheme with external start
+Results for схема сглаживания на фронте импульса (simple):
+	scheme of smoothing at the front impulse
+Results for схема с двойной настройкой (simple):
+	the scheme with double control
+Results for схема с джозефсоновскими переходами (simple):
+	the scheme with Josephson transitions
+Results for схема с заземлённой сеткой (simple):
+	the scheme with the grounded grid
+Results for схема сигнализации об обрыве цепи (коротком замыкании на линии) (simple):
+	the scheme of the alarm system about break of a chain (short circuit on the line)
+Results for схема с изолированными компонентами (simple):
+	the scheme with the isolated components
+Results for схема с импульсным возбуждением (simple):
+	the scheme with pulse excitement
+Results for схема синхронизации:
+	 synchronizer circuit (Естественные науки)
+	 
+	 timing circuit (Компьютеры)
+	 
+	 synchronizing circuit (Техника)
+	 
+Results for схема системы автоматического управления (simple):
+	scheme of system of automatic control
+Results for схема слежения за скоростью изменения фазы (simple):
+	scheme of tracking the speed of change of a phase
+Results for схема слежения за фазой сигнала (simple):
+	scheme of tracking a signal phase
+Results for схема с малой постоянной времени (simple):
+	the scheme from a small constant of time
+Results for схема с малым потреблением энергии (simple):
+	the scheme with small consumption of energy
+Results for схема с непосредственной связью:
+	 direct-coupled circuit (Компьютеры)
+	 
+Results for схема с несколькими устойчивыми состояниями (simple):
+	the scheme with several steady states
+Results for схема с общей базой:
+	 common-base circuit (Компьютеры)
+	 
+Results for схема с общим затвором (истоком, стоком) (simple):
+	the scheme with the general lock (a source, a drain)
+Results for схема с общим коллектором (эмиттером) (simple):
+	the scheme with the general collector (emitter)
+Results for схема совпадения:
+	 AND circuit (Техника)
+	 
+Results for схема со встречно-параллельным включением (simple):
+	the scheme with counter and parallel inclusion
+Results for схема соединений:
+	 circuit diagram (Естественные науки)
+	 
+	 connection diagram (Компьютеры)
+	 
+	 diagram of connection (Техника)
+	 
+Results for схема соединения звездой (треугольником) (simple):
+	scheme of connection by a star (triangle)
+Results for схема сопряжения (simple):
+	scheme of interface
+Results for схема с отрицательной (положительной) связью (simple):
+	the scheme with negative (positive) communication
+Results for схема с повышенной радиационной стойкостью (simple):
+	the scheme with the increased radiation firmness
+Results for схема сравнения [компаратор] (simple):
+	scheme of comparison [comparator]
+Results for схема с распределёнными (сосредоточенными) параметрами (simple):
+	the scheme with the distributed (concentrated) parameters
+Results for схема с резервированием (simple):
+	the scheme with reservation
+Results for схема стабилизации (simple):
+	scheme of stabilization
+Results for схема статистического приёмочного контроля (simple):
+	scheme of statistical acceptance control
+Results for схема стирания (simple):
+	scheme of deleting
+Results for схема стробирования (simple):
+	scheme of a strobirovaniye
+Results for схема суммирования мощностей:
+	 power adder circuit (Компьютеры)
+	 
+Results for схема с фиксацией состояния (simple):
+	the scheme with fixing of a state
+Results for схема счёта времени (simple):
+	scheme of the account of time
+Results for схема технологического процесса:
+	 processing layout (Естественные науки)
+	 
+	 process chart (Кулинария)
+	 
+Results for схема удвоения напряжения:
+	 voltage doubling circuit (Естественные науки)
+	 
+Results for схема умножения:
+	 multiply circuit (Техника)
+	 
+Results for схема упорядочения (simple):
+	scheme of streamlining
+Results for схема управления:
+	 control circuit (Компьютеры)
+	 
+Results for схема уровней (энергии) (simple):
+	scheme of levels (energy)
+Results for схема усреднения (simple):
+	scheme of averaging
+Results for схема устранения выбросов на вершине импульса (simple):
+	the scheme of elimination of emissions at impulse top
+Results for схема фазирования цветов в индексном кинескопе (simple):
+	the scheme of phasing of flowers in an index kinescope
+Results for схема фиксации уровня (simple):
+	scheme of fixing of level
+Results for схема формирования (запирающих) импульсов (simple):
+	the scheme of formation (locking) impulses
+Results for схема цветового баланса (simple):
+	scheme of color balance
+Results for схема центрирования (simple):
+	scheme of centering
+Results for схема шумопонижения (simple):
+	scheme of noise reduction
+Results for схема экспандирования [экспандер] (simple):
+	scheme of expansion [expander]
+Results for схема электрической цепи:
+	 electric network (Техника)
+	 
+Results for счётная схема (simple):
+	calculating scheme
+Results for тактируемая схема (simple):
+	taktiruyemy scheme
+Results for тонкоплёночная схема (simple):
+	thin-film scheme
+Results for транзисторная схема:
+	 transistor circuit (Естественные науки)
+	 
+	 transistorized circuit (Компьютеры)
+	 
+Results for трёхмерная [объёмная] схема (simple):
+	three-dimensional [volume] scheme
+Results for трёхточечная схема генератора (simple):
+	three-point scheme of the generator
+Results for триггерная схема:
+	 trigger circuit (Компьютеры)
+	 
+Results for фазозадерживающая схема (simple):
+	fazozaderzhivayushchy scheme
+Results for функциональная схема:
+	 function chart 
+	 functional diagram (Техника)
+	 
+	 symbolic circuit (Естественные науки)
+	 
+Results for эквивалентная схема:
+	 equivalent circuit (Компьютеры)
+	 
+	 dual circuit (Естественные науки)
+	 
+	 equivalent network (Естественные науки)
+	 
+Results for электрическая схема:
+	 electric circuit 
+	 circuitry (Естественные науки)
+	 
+Results for электронная схема:
+	 electronic circuit (Естественные науки)
+	 
+Results for этажерочная схема (simple):
+	etazherochny scheme
+Results for абсолютная сходимость:
+	 absolute convergence (Естественные науки)
+	 
+Results for (без)условная сходимость (simple):
+	(without) conditional convergence
+Results for ограниченная сходимость (simple):
+	limited convergence
+Results for равномерная сходимость:
+	 uniform convergence (Естественные науки)
+	 
+Results for среднеквадратическая сходимость (simple):
+	mean square convergence
+Results for сходимость волнового фронта (simple):
+	convergence of the wave front
+Results for сходимость в среднем:
+	 mean convergence (Естественные науки)
+	 
+Results for сходимость несобственного интеграла (simple):
+	convergence of not own integral
+Results for сходимость по вариации (вероятности) (simple):
+	convergence on a variation (probability)
+Results for сходимость пучка (simple):
+	convergence of a bunch
+Results for сходимость ряда (simple):
+	convergence of a row
+Results for временная сцеплённость (simple):
+	temporary stseplyonnost
+Results for коммуникационная сцеплённость (simple):
+	communication stseplyonnost
+Results for конъюнктурная сцеплённость (simple):
+	tactical stseplyonnost
+Results for логическая сцеплённость (simple):
+	logical stseplyonnost
+Results for последовательная сцеплённость (simple):
+	consecutive stseplyonnost
+Results for пространственная сцеплённость (simple):
+	spatial stseplyonnost
+Results for процедурная сцеплённость (simple):
+	procedural stseplyonnost
+Results for сцеплённость модуля (simple):
+	module stseplyonnost
+Results for функциональная сцеплённость (simple):
+	functional stseplyonnost
+Results for потерянный счёт:
+	 lose count 
+Results for предъявляемый счёт (simple):
+	the shown account
+Results for счёт импульсов (simple):
+	account of impulses
+Results for счёт совпадений (simple):
+	account of coincidence
+Results for галогенный счётчик (simple):
+	halogen counter
+Results for двоичный счётчик (simple):
+	binary counter
+Results for десятичный счётчик (simple):
+	decimal counter
+Results for ионизационный счётчик (simple):
+	ionization counter
+Results for кольцевой счётчик (simple):
+	ring counter
+Results for кристаллический счётчик (simple):
+	crystal counter
+Results for однонаправленный счётчик (simple):
+	unidirectional counter
+Results for программируемый счётчик (simple):
+	programmable counter
+Results for (проточный) пропорциональный счётчик (simple):
+	(flowing) proportional counter
+Results for реверсивный счётчик (simple):
+	reversive counter
+Results for самогасящийся счётчик (simple):
+	the self-extinguished counter
+Results for сцинтилляционный счётчик (simple):
+	scintillation counter
+Results for счётчик адреса (simple):
+	address counter
+Results for счётчик адресов команд (simple):
+	counter of addresses of teams
+Results for счётчик активной электрической энергии (simple):
+	counter of active electric energy
+Results for счётчик альфа-частиц (simple):
+	counter of alpha particles
+Results for счётчик (анти)совпадений (simple):
+	counter (anti-) coincidence
+Results for счётчик быстрых нейтронов на протонах отдачи (simple):
+	the counter of fast neutrons on return protons
+Results for счётчик вызовов (simple):
+	counter of calls
+Results for счётчик гамма-квантов (simple):
+	counter of gamma quanta
+Results for счётчик Гейгера:
+	 Geiger counter 
+Results for счётчик Джонсона (simple):
+	Johnson's counter
+Results for счётчик для жидких образцов (simple):
+	the counter for liquid samples
+Results for счётчик заряженных частиц (simple):
+	counter of charged particles
+Results for счётчик излучения (simple):
+	radiation counter
+Results for счётчик импульсов (simple):
+	counter of impulses
+Results for счётчик интервалов задержки (simple):
+	counter of intervals of a delay
+Results for счётчик ионизирующих частиц (simple):
+	the counter of the ionizing particles
+Results for счётчик кадров (simple):
+	counter of shots
+Results for счётчик квантов электромагнитного излучения (simple):
+	counter of quanta of electromagnetic radiation
+Results for счётчик количества электричества (simple):
+	counter of amount of electricity
+Results for счётчик кольцевого типа (simple):
+	counter of ring type
+Results for счётчик команд (simple):
+	counter of teams
+Results for счётчик на каскадно включённых триггерах (simple):
+	the counter on kaskadno the switched-on triggers
+Results for счётчик оборотов вала (simple):
+	shaft tachometer
+Results for счётчик обратного (прямого) действия (simple):
+	counter of the return (direct) action
+Results for счётчик (обратных) временных интервалов (simple):
+	counter (return) time intervals
+Results for счётчик параллельного (последовательного) типа (simple):
+	counter of parallel (consecutive) type
+Results for счётчик по модулю N (simple):
+	the counter on the module N
+Results for счётчик расхода ленты (simple):
+	tape expense counter
+Results for счётчик с выводом данных на печать (simple):
+	the counter with a conclusion of data to the press
+Results for счётчик с генератором пилообразного напряжения (simple):
+	the counter with the generator of sawtooth tension
+Results for счётчик секторов (simple):
+	counter of sectors
+Results for счётчик с переменным модулем счёта (simple):
+	the counter with the variable module of the account
+Results for счётчик с предварительной установкой интервала (simple):
+	the counter with preliminary installation of an interval
+Results for счётчик с проточной жидкостью (simple):
+	the counter with flowing liquid
+Results for счётчик циклов (simple):
+	counter of cycles
+Results for счётчик числа переключений (simple):
+	counter of number of switchings
+Results for счётчик числа слов в кадре (simple):
+	the counter of number of words in a shot
+Results for троичный счётчик (simple):
+	ternary counter
+Results for фотоэлектрический счётчик (simple):
+	photo-electric counter
+Results for черенковский счётчик (simple):
+	cherenkovsky counter
+Results for шестнадцатиричный счётчик (simple):
+	hexadecimal counter
+Results for электромеханический счётчик (simple):
+	electromechanical counter
+Results for электронный счётчик (simple):
+	electronic counter
+Results for счисление пути:
+	 dead-reckoning (Техника)
+	 
+Results for счислитель курса (simple):
+	schislitel of a course
+Results for индуктивное считывание (simple):
+	inductive reading
+Results for магнитооптическое считывание (simple):
+	magnetooptical reading
+Results for магниторезистивное считывание (simple):
+	magneto-resistive reading
+Results for потенциальное считывание (simple):
+	potential reading
+Results for считывание блока:
+	 block retrieval (Компьютеры)
+	 
+Results for считывание данных без разрушения (с разрушением) (simple):
+	data read-out without destruction (with destruction)
+Results for считывание изображения:
+	 image sensing (Компьютеры)
+	 
+Results for считывание информации:
+	 information read-out (Техника)
+	 
+Results for считывание меток (simple):
+	reading of tags
+Results for считывание при обратном движении (simple):
+	reading at the return movement
+Results for считывание рельефа (simple):
+	reading of a relief
+Results for считывание символов (simple):
+	reading of symbols
+Results for считывание с ленты (перфокарт) (simple):
+	reading from a tape (punched cards)
+Results for считывание с медленной развёрткой (simple):
+	reading with slow development
+Results for считывание с регенерацией (simple):
+	reading with regeneration
+Results for токовое считывание (simple):
+	current reading
+Results for таблетка монокристалла (simple):
+	monocrystal tablet
+Results for интерполяционная таблица (simple):
+	interpolation table
+Results for испытательная таблица:
+	 test chart (Техника)
+	 
+Results for периодическая таблица элементов (simple):
+	periodic table of elements
+Results for проверочная таблица:
+	 checking table (Естественные науки)
+	 
+Results for таблица адресов:
+	 address map (Компьютеры)
+	 
+Results for таблица включений (simple):
+	table of inclusions
+Results for таблица вычислений (simple):
+	table of calculations
+Results for таблица длин волн (simple):
+	table of lengths of waves
+Results for таблица испытаний (simple):
+	table of tests
+Results for таблица истинности:
+	 truth table (Естественные науки)
+	 
+	 truth diagram (Компьютеры)
+	 
+Results for таблица логических переходов (simple):
+	table of logical transitions
+Results for таблица маршрутизации:
+	 routing table (Компьютеры)
+	 
+Results for таблица настройки (simple):
+	table of control
+Results for таблица (не)определённых интегралов (simple):
+	table (not) of certain integrals
+Results for таблица номиналов (simple):
+	table of face values
+Results for таблица перевода единиц:
+	 conversion scale (Техника)
+	 
+Results for таблица перекодировки (simple):
+	table of code conversion
+Results for таблица перестановок (simple):
+	table of shifts
+Results for таблица преобразования:
+	 translation table (Компьютеры)
+	 
+Results for таблица распределения частот:
+	 table of frequency allocations (Техника)
+	 
+Results for таблица решений:
+	 decision table (Естественные науки)
+	 
+Results for таблица соответствия:
+	 table of correspondences 
+Results for таблица состояний:
+	 truth table (Техника)
+	 
+Results for таблица стандартных частот (simple):
+	table of standard frequencies
+Results for таблица страниц (simple):
+	table of pages
+Results for таблица умножений (simple):
+	table of umnozheniye
+Results for таблица управления шагом задания (simple):
+	table of management of a task step
+Results for таблица управляющих последовательностей (simple):
+	the table of the operating sequences
+Results for таблица условных обозначений:
+	 chart of symbols (Естественные науки)
+	 
+Results for таблица функций (simple):
+	table of functions
+Results for электронная таблица:
+	 spreadsheet 
+	 electronic spreadsheet (Компьютеры)
+	 
+Results for информационное табло:
+	 information display 
+	 information board (Техника)
+	 
+Results for световое табло:
+	 indicating panel 
+	 illuminated indicator board (Техника)
+	 
+Results for табло сигнализации готовности (задержки) (simple):
+	board of the alarm system of readiness (delay)
+Results for табло состояния средств измерений (simple):
+	board of a condition of measuring instruments
+Results for перфораторный табулятор (simple):
+	perforating tabulator
+Results for программируемый таймер (simple):
+	programmable timer
+Results for таймер центрального процессора (simple):
+	timer of the central processing unit
+Results for междугородный таксофон (simple):
+	intercity payphone
+Results for такт сигналов синхронизации (simple):
+	step of signals of synchronization
+Results for многофазное тактирование (simple):
+	multiphase clocking
+Results for тактирование с помощью модема (simple):
+	clocking by means of the modem
+Results for тактирование триггера (simple):
+	clocking of the trigger
+Results for тактирование уровнем напряжения (simple):
+	clocking by tension level
+Results for тактирование фронтом импульса (simple):
+	clocking by the front of an impulse
+Results for гиперболический тангенс:
+	 hyperbolic tangent (Техника)
+	 
+Results for тангенс амплитуды (simple):
+	amplitude tangent
+Results for тангенс угла наклона (simple):
+	inclination tangent of angle
+Results for тангенс угла потерь:
+	 loss tangent (Естественные науки)
+	 
+Results for вибрационный тахометр (simple):
+	vibration tachometer
+Results for дистанционный тахометр:
+	 remote-reading tachometer (Техника)
+	 
+Results for индукционный тахометр:
+	 drag-cup tachometer (Техника)
+	 
+Results for резонансний тахометр (simple):
+	rezonansny tachometer
+Results for стробоскопический тахометр:
+	 stroboscope tachometer (Техника)
+	 
+Results for электроимпульсный тахометр (simple):
+	electropulse tachometer
+Results for твистор с двойной намоткой (simple):
+	the twistor with double winding
+Results for открытый текст:
+	 clear text 
+	 in clear 
+Results for шифрованный текст:
+	 ciphered text 
+Results for крупно(мелко)зернистая текстура (simple):
+	largely (small) granular texture
+Results for развитая текстура (simple):
+	the developed texture
+Results for рекристаллизационная текстура (simple):
+	rekristallizatsionny texture
+Results for текстура изображения (simple):
+	texture of the image
+Results for текстура роста кристалла (simple):
+	texture of growth of a crystal
+Results for чёткая текстура (simple):
+	accurate texture
+Results for абонентское телевидение (simple):
+	subscriber television
+Results for вещательное телевидение (simple):
+	broadcasting television
+Results for голографическое телевидение (simple):
+	holographic television
+Results for кабельное телевидение:
+	 cable television 
+Results for коммерческое телевидение (simple):
+	commercial television
+Results for космическое телевидение:
+	 space television (Техника)
+	 
+Results for многострочное телевидение (simple):
+	multilower case television
+Results for ночное телевидение:
+	 low-light television 
+Results for платное телевидение (simple):
+	paid television
+Results for проекционное телевидение:
+	 projection television (Техника)
+	 
+Results for промышленное телевидение (simple):
+	industrial television
+Results for стереоскопическое телевидение:
+	 stereoscopic television (Компьютеры)
+	 
+Results for телевидение в диапазоне (деци)метровых волн (simple):
+	television in the range (detsa) of meter waves
+Results for телевидение высокой (малой) чёткости (simple):
+	television of high (small) definition
+Results for твердотельное телевидение (simple):
+	solid-state television
+Results for учебное телевидение (simple):
+	educational television
+Results for цветное телевидение:
+	 color television (Компьютеры)
+	 
+Results for цифровое телевидение:
+	 digital television (Компьютеры)
+	 
+Results for чёрно-белое телевидение (simple):
+	black-and-white television
+Results for (над, под)тональное телеграфирование (simple):
+	(over, under) voice-frequency telegraphy
+Results for однополюсное телеграфирование:
+	 single-current signalling (Техника)
+	 
+Results for телеграфирование на переменном (постоянном) токе (simple):
+	telegraphy on alternating (constant) current
+Results for автоматическая телеграфия (simple):
+	automatic telegraphy
+Results for амплитудная телеграфия (simple):
+	amplitude telegraphy
+Results for ди(ду)плексная телеграфия (simple):
+	di (du) pleksny telegraphy
+Results for многоканальная телеграфия (simple):
+	multichannel telegraphy
+Results for (над, под)тональная телеграфия (simple):
+	(over, under) voice-frequency telegraphy
+Results for проводная телеграфия:
+	 wire telegraphy (Компьютеры)
+	 
+Results for ручная телеграфия:
+	 manual telegraphy (Техника)
+	 
+Results for телеграфия кодом Морзе (simple):
+	telegraphy Morse code
+Results for телеграфия на переменном (постоянном) токе (simple):
+	telegraphy on alternating (constant) current
+Results for фазовая телеграфия (simple):
+	phase telegraphy
+Results for (четырёх)частотная телеграфия (simple):
+	(four) frequency telegraphy
+Results for телекинодатчик на видиконе (simple):
+	the telefilm sensor on the vidicon
+Results for камерный телекинопроектор (simple):
+	chamber telecine projector
+Results for телекинопроектор с бегущим лучом (simple):
+	the telecine projector with the running beam
+Results for цифровой телекинопроектор (simple):
+	digital telecine projector
+Results for биомедицинская телеметрия (simple):
+	biomedical telemetry
+Results for высокоскоростная телеметрия (simple):
+	high-speed telemetry
+Results for проводная телеметрия (simple):
+	wire telemetry
+Results for спутниковая телеметрия (simple):
+	satellite telemetry
+Results for телеметрия (не)подвижных объектов (simple):
+	telemetry (not) of mobile objects
+Results for телеметрия с обработкой данных (simple):
+	telemetry with data processing
+Results for цифровая телеметрия (simple):
+	digital telemetry
+Results for цветная телепередача (simple):
+	color telecast
+Results for полноканальный телетекст (simple):
+	full-channel teletext
+Results for телетекст с использованием радиосвязи (simple):
+	teletext with use of a radio communication
+Results for телеуправление полётом космического аппарата (simple):
+	telecontrol by flight of the spacecraft
+Results for головной телефон:
+	 headphone[ˈhedfəun] 
+	 head set (Техника)
+	 

@@ -1,0 +1,2401 @@
+Results for амплитудная коррекция:
+	 amplitude equalization (Компьютеры)
+	 
+	 frequency correction (Техника)
+	 
+Results for апертурная коррекция:
+	 aperture correction (Техника)
+	 
+Results for двусторонняя коррекция (simple):
+	bilateral correction
+Results for высоко(низко)частотная коррекция (simple):
+	highly (low) frequency correction
+Results for гамма-коррекция (simple):
+	gamma correction
+Results for коррекция бочкообразных искажений (simple):
+	correction of barrel-shaped distortions
+Results for коррекция верхних (нижних, средних) звуковых частот (simple):
+	correction top (lower, average) sound frequencies
+Results for коррекция в реальном масштабе времени (simple):
+	correction in real time
+Results for коррекция времени пролёта (simple):
+	correction of time of flight
+Results for коррекция (временных) искажений (simple):
+	correction (temporary) distortions
+Results for коррекция группового времени задержки (simple):
+	correction of group time of a delay
+Results for коррекция движения:
+	 motion correction (Техника)
+	 
+Results for коррекция динамических свойств системы (simple):
+	correction of dynamic properties of system
+Results for коррекция дрейфа нуля:
+	 zero control (Компьютеры)
+	 
+Results for коррекция запаздывания (simple):
+	delay correction
+Results for коррекция канала (simple):
+	correction of the channel
+Results for коррекция на диаметр (simple):
+	correction on diameter
+Results for коррекция нулевой точки (simple):
+	correction of a zero point
+Results for коррекция опережения (simple):
+	advancing correction
+Results for коррекция предыскажений (simple):
+	correction of predyskazheniye
+Results for коррекция при воспроизведении (simple):
+	correction at reproduction
+Results for коррекция при записи (simple):
+	correction at record
+Results for коррекция развёртки (simple):
+	development correction
+Results for коррекция системы автоматического управления (simple):
+	correction of system of automatic control
+Results for коррекция (со стиранием) ошибок (simple):
+	correction (with deleting) mistakes
+Results for коррекция текста (simple):
+	correction of the text
+Results for предварительная коррекция:
+	 precorrection (Техника)
+	 
+Results for следящая коррекция (simple):
+	the watching correction
+Results for стандартная коррекция АЧХ (simple):
+	standard correction of AChH
+Results for фазовая коррекция:
+	 phase correction (Компьютеры)
+	 
+Results for частотная коррекция:
+	 frequency correction (Естественные науки)
+	 
+	 frequency equalization (Компьютеры)
+	 
+Results for широкополосная коррекция (simple):
+	broadband correction
+Results for коррелометр с аппроксимацией (simple):
+	коррелометр with approximation
+Results for коррелометр с перемножением (simple):
+	коррелометр with multiplication
+Results for акустический коррелятор (simple):
+	acoustic correlator
+Results for аналоговый коррелятор:
+	 analogue correlator (Естественные науки)
+	 
+Results for временной коррелятор (simple):
+	time correlator
+Results for гибридный коррелятор (simple):
+	hybrid correlator
+Results for голографический коррелятор (simple):
+	holographic correlator
+Results for знаковый коррелятор (simple):
+	sign correlator
+Results for квадратурный коррелятор (simple):
+	quadrature correlator
+Results for коррелятор видеосигналов (simple):
+	correlator of video signals
+Results for коррелятор на магнитостатических (спиновых) волнах (simple):
+	the correlator on magnetostatic (spin) waves
+Results for коррелятор на объёмных (поверхностных) волнах (simple):
+	the correlator on volume (superficial) waves
+Results for коррелятор на ПЗС (simple):
+	the correlator on the CCD
+Results for коррелятор ответных сигналов (simple):
+	correlator of reciprocal signals
+Results for коррелятор пакета импульсов (simple):
+	correlator of a package of impulses
+Results for коррелятор прямого действия (simple):
+	correlator of direct action
+Results for коррелятор с весовыми отводами (simple):
+	the correlator with weight branches
+Results for коррелятор с временным (пространственным) интегрированием (simple):
+	the correlator with temporary (spatial) integration
+Results for коррелятор с дискретизацией (simple):
+	the correlator with sampling
+Results for коррелятор с опорным информационным (произвольным) сигналом (simple):
+	the correlator with basic information (any) signal
+Results for коррелятор со сравнением полярности (уровней) (simple):
+	the correlator with comparison of polarity (levels)
+Results for коррелятор с перестраиваемым опорным сигналом (simple):
+	the correlator with the reconstructed basic signal
+Results for коррелятор с преобразованием частоты (simple):
+	the correlator with transformation of frequency
+Results for кросс-коррелятор (simple):
+	cross-correlator
+Results for (не)когерентный коррелятор (simple):
+	(not) the coherent correlator
+Results for оптический коррелятор (simple):
+	optical correlator
+Results for пороговый коррелятор (simple):
+	threshold correlator
+Results for цифровой коррелятор (simple):
+	digital correlator
+Results for взаимная корреляция:
+	 cross correlation (Техника)
+	 
+Results for временная корреляция:
+	 time correlation (Техника)
+	 
+Results for двухмерная корреляция (simple):
+	two-dimensional correlation
+Results for знаковая корреляция (simple):
+	sign correlation
+Results for корреляция между соседними отсчётами (simple):
+	correlation between the next counting
+Results for корреляция мод (simple):
+	correlation of fashion
+Results for корреляция по дальности (simple):
+	correlation on range
+Results for корреляция по доплеровской частоте (simple):
+	correlation on Doppler frequency
+Results for корреляция по огибающей сигнала (simple):
+	correlation on bending around a signal
+Results for корреляция с временным (пространственным) интегрированием (simple):
+	correlation with temporary (spatial) integration
+Results for корреляция спеклов (simple):
+	correlation of spekl
+Results for масштабно-инвариантная корреляция (simple):
+	large-scale and invariant correlation
+Results for межимпульсная корреляция (simple):
+	interpulse correlation
+Results for межэлементная корреляция (simple):
+	interelement correlation
+Results for многовыборочная корреляция (simple):
+	multiselective correlation
+Results for кросс-корреляция (simple):
+	cross-correlation
+Results for пространственная корреляция:
+	 space correlation (Естественные науки)
+	 
+Results for частичная корреляция (simple):
+	partial correlation
+Results for коррозия под осадком (simple):
+	corrosion under a deposit
+Results for химическая коррозия:
+	 chemical corrosion (Естественные науки)
+	 
+Results for электролитическая коррозия:
+	 electrolytic corrosion (Естественные науки)
+	 
+Results for весовой коэффициент:
+	 weight factor (Компьютеры)
+	 
+	 weighting coefficient (Техника)
+	 
+Results for внутренний коэффициент деления (simple):
+	internal coefficient of division
+Results for квадратичный коэффициент (simple):
+	square coefficient
+Results for квантово-механический коэффициент (simple):
+	quantum-mechanical coefficient
+Results for кинетический коэффициент (simple):
+	kinetic coefficient
+Results for коэффициент (авто)корреляции (simple):
+	coefficient (car) of correlation
+Results for коэффициент адгезии:
+	 adhesion coefficient (Естественные науки)
+	 
+Results for коэффициент активности:
+	 activity coefficient (Естественные науки)
+	 
+Results for коэффициент амбиполярной диффузии (simple):
+	coefficient of ambipolyarny diffusion
+Results for коэффициент амплитуды [пикфактор] (simple):
+	coefficient of amplitude [pikfaktor]
+Results for коэффициент бегущей волны [КБВ] (simple):
+	coefficient of the running wave [CRW]
+Results for коэффициент блокировки:
+	 blocing factor (Техника)
+	 
+Results for коэффициент вариации:
+	 variation factor (Естественные науки)
+	 
+Results for коэффициент ветвления:
+	 branching factor (Компьютеры)
+	 
+Results for коэффициент взаимности:
+	 reciprocity coefficient (Естественные науки)
+	 
+Results for коэффициент взаимодействия:
+	 coupling coefficient (Техника)
+	 
+Results for коэффициент взаимоиндукции:
+	 coefficient of mutual inductance (Техника)
+	 
+Results for коэффициент включения (simple):
+	inclusion coefficient
+Results for коэффициент влияния:
+	 influence coefficient (Техника)
+	 
+Results for коэффициент внутреннего поглощения (пропускания) (simple):
+	coefficient of internal absorption (transmission)
+Results for коэффициент возврата:
+	 reset ratio (Техника)
+	 
+Results for коэффициент восстановления:
+	 coefficient of restitution (Естественные науки)
+	 
+	 recovery factor (Компьютеры)
+	 
+Results for коэффициент восстанавливаемости (simple):
+	restorability coefficient
+Results for коэффициент вторичной эмиссии:
+	 secondary emission ratio (Техника)
+	 
+Results for коэффициент выпрямления:
+	 valve ratio (Естественные науки)
+	 
+	 rectification ratio (Компьютеры)
+	 
+Results for коэффициент выпуклости (simple):
+	camber coefficient
+Results for коэффициент высоко(низко)частотной детонации (simple):
+	coefficient of highly (low) frequency detonation
+Results for коэффициент гармоник:
+	 harmonic distortion factor (Техника)
+	 
+Results for коэффициент глубины модуляции (simple):
+	modulation depth coefficient
+Results for коэффициент группирования (simple):
+	grouping coefficient
+Results for коэффициент деления:
+	 division ratio (Техника)
+	 
+Results for коэффициент дисперсии:
+	 coefficient of dispersion (Техника)
+	 
+Results for коэффициент диффузии:
+	 diffusion coefficient (Естественные науки)
+	 
+	 diffusion factor (Естественные науки)
+	 
+	 diffusivity (Техника)
+	 
+Results for коэффициент диффузного отражения (пропускания) (simple):
+	coefficient of diffusion reflection (transmission)
+Results for коэффициент добротности:
+	 Q-factor (Естественные науки)
+	 
+	 figure of merit characteristic (Компьютеры)
+	 
+	 factor of merit (Техника)
+	 
+Results for коэффициент достоверности:
+	 confidence coefficient (Естественные науки)
+	 
+Results for коэффициент естественной освещённости (simple):
+	coefficient of natural illumination
+Results for коэффициент замедления:
+	 slowness factor (Компьютеры)
+	 
+Results for коэффициент занятости линии связи (simple):
+	coefficient of employment of the communication line
+Results for коэффициент запаса:
+	 degree of safety (Естественные науки)
+	 
+	 assurance factor (Техника)
+	 
+Results for коэффициент заполнения импульсов:
+	 pulse duty factor (Техника)
+	 
+Results for коэффициент затенения антенны (simple):
+	coefficient of shading of the antenna
+Results for коэффициент затухания радиоволн (simple):
+	coefficient of attenuation of radio waves
+Results for коэффициент затягивания частоты (simple):
+	coefficient of tightening of frequency
+Results for коэффициент захвата:
+	 capture coefficient (Естественные науки)
+	 
+Results for коэффициент звукоизоляции:
+	 acoustic insulation factor (Естественные науки)
+	 
+	 acoustical reduction factor (Техника)
+	 
+Results for коэффициент звукоотражения:
+	 acoustic reflection coefficient (Естественные науки)
+	 
+Results for коэффициент звукопоглощения:
+	 acoustic absorption coefficient (Естественные науки)
+	 
+Results for коэффициент звукопроницаемости:
+	 acoustic transmission coefficient (Естественные науки)
+	 
+Results for коэффициент зеркального отражения:
+	 specular reflectivity (Естественные науки)
+	 
+Results for коэффициент избирательности:
+	 selectivity factor (Естественные науки)
+	 
+Results for коэффициент избыточности (simple):
+	redundancy coefficient
+Results for коэффициент излучения:
+	 emissivity (Естественные науки)
+	 
+	 radiation value (Техника)
+	 
+Results for коэффициент инверсии:
+	 power of inversion (Естественные науки)
+	 
+	 inversion coefficient (Кулинария)
+	 
+Results for коэффициент инжекции (simple):
+	injection coefficient
+Results for коэффициент интегрального воздействия (simple):
+	coefficient of integrated influence
+Results for коэффициент ионизации:
+	 ionization coefficient (Естественные науки)
+	 
+Results for коэффициент искажения:
+	 deformation ratio (Естественные науки)
+	 
+	 distortion factor (Естественные науки)
+	 
+Results for коэффициент использования (активного вещества, диаметра экрана, площади раскрыва антенны) (simple):
+	efficiency (active agent, diameter of the screen, area of a raskryv of the antenna)
+Results for коэффициент использования светового потока (simple):
+	efficiency of a light stream
+Results for коэффициент использования ширины полосы частот (simple):
+	efficiency of width of a strip of frequencies
+Results for коэффициент исправного действия (simple):
+	coefficient of correct action
+Results for коэффициент коммутации (simple):
+	switching coefficient
+Results for коэффициент компенсации пассивной помехи (simple):
+	coefficient of compensation of a passive hindrance
+Results for коэффициент компрессии (simple):
+	compression coefficient
+Results for коэффициент конкордации (simple):
+	concordance coefficient
+Results for коэффициент контраста (simple):
+	contrast coefficient
+Results for коэффициент контрастности:
+	 contrast ratio (Компьютеры)
+	 
+	 gamma[ˈɡæmə] (Техника)
+	 
+Results for коэффициент коррекции ширины полосы (simple):
+	coefficient of correction of width of a strip
+Results for коэффициент корреляции:
+	 coefficient of correlation (Естественные науки)
+	 
+	 correlation coefficient (Компьютеры)
+	 
+	 correlation factor (Техника)
+	 
+Results for коэффициент критической связи (simple):
+	coefficient of critical communication
+Results for коэффициент линейного расширения:
+	 linear expansion coefficient (Естественные науки)
+	 
+Results for коэффициент магнитоупругой связи (simple):
+	coefficient of magnetoelastic communication
+Results for коэффициент масштабирования (simple):
+	scaling coefficient
+Results for коэффициент местных помех (simple):
+	coefficient of local hindrances
+Results for коэффициент модуляции:
+	 modulation index (Естественные науки)
+	 
+	 percentage modulation (Компьютеры)
+	 
+Results for коэффициент мощности:
+	 power factor 
+	 electrical power factor (Естественные науки)
+	 
+	 capacity factor (Техника)
+	 
+Results for коэффициент наблюдаемости (simple):
+	observability coefficient
+Results for коэффициент нагрузки:
+	 demand factor (Естественные науки)
+	 
+	 capacity factor (Компьютеры)
+	 
+Results for коэффициент надёжности (simple):
+	reliability coefficient
+Results for коэффициент наложения щумов (simple):
+	coefficient of imposing of noise
+Results for коэффициент направленного действия:
+	 directive gain (Компьютеры)
+	 
+	 directivity factor (Техника)
+	 
+Results for коэффициент направленности:
+	 directivity index (Техника)
+	 
+Results for коэффициент направленности нарастания (simple):
+	coefficient of orientation of increase
+Results for коэффициент направленности насыщения (simple):
+	coefficient of orientation of saturation
+Results for коэффициент направленности (не)готовности (simple):
+	coefficient of orientation (not) of readiness
+Results for коэффициент направленности нелинейности (simple):
+	coefficient of orientation of nonlinearity
+Results for коэффициент направленности нелинейных (перекрёстных) искажений (simple):
+	coefficient of orientation of nonlinear (cross) distortions
+Results for коэффициент направленности необнаруженных ошибок (simple):
+	coefficient of orientation of undetected mistakes
+Results for коэффициент направленности неравномерности (simple):
+	coefficient of orientation of unevenness
+Results for коэффициент направленности нестабильности (simple):
+	coefficient of orientation of instability
+Results for коэффициент направленности обратного рассеивания (отражения) (simple):
+	coefficient of orientation of the return dispersion (reflection)
+Results for коэффициент направленности обратной связи (simple):
+	coefficient of orientation of feedback
+Results for коэффициент направленности объединения по входу (simple):
+	coefficient of orientation of association on an entrance
+Results for коэффициент направленности одно(разно)временности (simple):
+	orientation coefficient one (differently) temporarinesses
+Results for коэффициент направленности Оже (simple):
+	coefficient of orientation of Auger
+Results for коэффициент направленности осевой концентрации (simple):
+	coefficient of orientation of axial concentration
+Results for коэффициент направленности ослабления (simple):
+	coefficient of orientation of easing
+Results for коэффициент направленности ответвления (simple):
+	coefficient of orientation of a branch
+Results for коэффициент направленности отклонения (simple):
+	coefficient of orientation of a deviation
+Results for коэффициент направленности отражения в линии передачи (simple):
+	coefficient of orientation of reflection in a transmission line
+Results for коэффициент направленности отражения от земной (морской) поверхности (simple):
+	coefficient of orientation of reflection from a land (sea) surface
+Results for коэффициент направленности Пельтье (simple):
+	coefficient of orientation of Peltier
+Results for коэффициент направленности перегрузки (simple):
+	coefficient of orientation of an overload
+Results for коэффициент направленности передачи энергии (simple):
+	coefficient of orientation of transmission of energy
+Results for коэффициент направленности переноса зарядов (simple):
+	coefficient of orientation of transfer of charges
+Results for коэффициент направленности пересчёта (simple):
+	coefficient of orientation of recalculation
+Results for коэффициент направленности повреждения (simple):
+	coefficient of orientation of damage
+Results for коэффициент направленности повторяемости (simple):
+	coefficient of orientation of repeatability
+Results for коэффициент направленности повышения (simple):
+	coefficient of orientation of increase
+Results for коэффициент направленности поглощения энергии (simple):
+	coefficient of orientation of absorption of energy
+Results for коэффициент направленности подавления (simple):
+	coefficient of orientation of suppression
+Results for коэффициент направленности подобия (simple):
+	coefficient of orientation of similarity
+Results for коэффициент направленности подпомеховой видимости (simple):
+	coefficient of orientation of subinterfering visibility
+Results for коэффициент направленности полезного действия [КПД] (simple):
+	coefficient of orientation of useful effect [efficiency]
+Results for коэффициент направленности полноты поиска (simple):
+	coefficient of orientation of completeness of search
+Results for коэффициент направленности поляризационной согласованности (simple):
+	coefficient of orientation of polarizing coherence
+Results for коэффициент направленности помехозащищённости (simple):
+	coefficient of orientation of noise immunity
+Results for коэффициент направленности понижения (simple):
+	coefficient of orientation of decrease
+Results for коэффициент направленности попадания (simple):
+	coefficient of orientation of hit
+Results for коэффициент направленности послеускорения (simple):
+	coefficient of orientation of afteracceleration
+Results for коэффициент направленности потерь (simple):
+	coefficient of orientation of losses
+Results for коэффициент направленности предыскажений (simple):
+	coefficient of orientation of predyskazheniye
+Results for коэффициент направленности преломления воздуха на радиочастотах (simple):
+	coefficient of orientation of refraction of air on radio frequencies
+Results for коэффициент направленности преобразования (simple):
+	coefficient of orientation of transformation
+Results for коэффициент направленности прозрачности (simple):
+	coefficient of orientation of transparency
+Results for коэффициент направленности проницаемости (simple):
+	coefficient of orientation of permeability
+Results for коэффициент направленности пропорциональности (simple):
+	coefficient of orientation of proportionality
+Results for коэффициент направленности пропускания [прохождения] барьера (simple):
+	coefficient of orientation of transmission [passing] of a barrier
+Results for коэффициент направленности простоя (simple):
+	coefficient of orientation of idle time
+Results for коэффициент направленности прямоугольности (simple):
+	coefficient of orientation of squareness
+Results for коэффициент направленности пульсаций (simple):
+	coefficient of orientation of pulsations
+Results for коэффициент направленности разветвления по входу (simple):
+	coefficient of orientation of a branching on an entrance
+Results for коэффициент направленности развязки (simple):
+	coefficient of orientation of an outcome
+Results for коэффициент направленности различимости (simple):
+	coefficient of orientation of discernability
+Results for коэффициент направленности размагничивания (simple):
+	coefficient of orientation of demagnetization
+Results for коэффициент направленности распределения (simple):
+	coefficient of orientation of distribution
+Results for коэффициент направленности распространения (simple):
+	coefficient of orientation of distribution
+Results for коэффициент направленности рассасывания (simple):
+	coefficient of orientation of a rassasyvaniye
+Results for коэффициент направленности рассеивания (simple):
+	coefficient of orientation of dispersion
+Results for коэффициент направленности рассогласования (simple):
+	coefficient of orientation of a mismatch
+Results for коэффициент направленности растяжения (simple):
+	coefficient of orientation of stretching
+Results for коэффициент направленности расхождения (simple):
+	coefficient of orientation of a divergence
+Results for коэффициент направленности расширения (simple):
+	coefficient of orientation of expansion
+Results for коэффициент направленности режекции (simple):
+	coefficient of orientation of a rezhektion
+Results for коэффициент направленности резкости (simple):
+	coefficient of orientation of sharpness
+Results for коэффициент направленности рекомбинации (simple):
+	coefficient of orientation of a recombination
+Results for коэффициент направленности ремонтопригодности (simple):
+	coefficient of orientation of maintainability
+Results for коэффициент направленности Риги-Ледюка (simple):
+	coefficient of orientation of Righi-Ledjuc
+Results for коэффициент направленности самоиндукции (simple):
+	coefficient of orientation of a self-induction
+Results for коэффициент направленности связи (simple):
+	coefficient of orientation of communication
+Results for коэффициент направленности сглаживания пульсаций (simple):
+	coefficient of orientation of smoothing of pulsations
+Results for коэффициент направленности сжатия импульса (пучка) (simple):
+	coefficient of orientation of compression of an impulse (bunch)
+Results for коэффициент направленности сжатия широкополосного сигнала (simple):
+	coefficient of orientation of compression of a broadband signal
+Results for коэффициент направленности синхронизации (simple):
+	coefficient of orientation of synchronization
+Results for коэффициент направленности снижения рабочих значений мощности (напряжения, тока) (simple):
+	coefficient of orientation of decrease in working values of power (tension, current)
+Results for коэффициент направленности совпадений (simple):
+	coefficient of orientation of coincidence
+Results for коэффициент направленности спин-фононной связи (simple):
+	coefficient of orientation of backs - phonon communication
+Results for коэффициент направленности спроса (simple):
+	coefficient of orientation of demand
+Results for коэффициент направленности стабилизации напряжения (simple):
+	coefficient of orientation of stabilization of tension
+Results for коэффициент направленности стандартизации (simple):
+	coefficient of orientation of standardization
+Results for коэффициент направленности стоячей волны [КСВ] по напряжению (simple):
+	coefficient of orientation of a standing wave [KSV] on tension
+Results for коэффициент направленности Таундсена (simple):
+	coefficient of orientation of Taundsen
+Results for коэффициент направленности температурного расширения (simple):
+	coefficient of orientation of temperature expansion
+Results for коэффициент направленности температурной стабильности (simple):
+	coefficient of orientation of temperature stability
+Results for коэффициент направленности температуро(тепло)проводности (simple):
+	orientation coefficient temperature (heat) of pro-water content
+Results for коэффициент направленности теплового излучения (simple):
+	coefficient of orientation of thermal radiation
+Results for коэффициент направленности термоЭДС (simple):
+	coefficient of orientation of thermoeMF
+Results for коэффициент направленности технического использования (simple):
+	coefficient of orientation of technical use
+Results for коэффициент направленности Томсона (simple):
+	coefficient of orientation of Thomson
+Results for коэффициент направленности точности поиска (simple):
+	coefficient of orientation of accuracy of search
+Results for коэффициент направленности трансформации (simple):
+	coefficient of orientation of transformation
+Results for коэффициент направленности ударной ионизации при лавинном пробое (simple):
+	coefficient of orientation of shock ionization at avalanche breakdown
+Results for коэффициент направленности улучшения отношения сигнал-шум (simple):
+	coefficient of orientation of improvement of the relation signal noise
+Results for коэффициент направленности улучшения подавителя (simple):
+	coefficient of orientation of improvement of the suppressor
+Results for коэффициент направленности умножения (simple):
+	coefficient of orientation of multiplication
+Results for коэффициент направленности унификации (simple):
+	coefficient of orientation of unification
+Results for коэффициент направленности управления (simple):
+	coefficient of orientation of management
+Results for коэффициент направленности упругости (simple):
+	coefficient of orientation of elasticity
+Results for коэффициент направленности усиления по мощности (напряжению, току) (simple):
+	coefficient of orientation of strengthening on the power (tension, current)
+Results for коэффициент направленности ускорения (simple):
+	coefficient of orientation of acceleration
+Results for коэффициент направленности устойчивости (simple):
+	coefficient of orientation of stability
+Results for коэффициент направленности фазы (simple):
+	coefficient of orientation of a phase
+Results for коэффициент направленности фильтрации (simple):
+	coefficient of orientation of filtration
+Results for коэффициент направленности формы [формфактор] (simple):
+	coefficient of orientation of a form [form factor]
+Results for коэффициент направленности Френеля (Фурье, Холла) (simple):
+	coefficient of orientation of Fresnel (Fourier, Hall)
+Results for коэффициент направленности черноты (simple):
+	coefficient of orientation of blackness
+Results for коэффициент направленности чёткости (simple):
+	coefficient of orientation of clearness
+Results for коэффициент направленности шероховатости (simple):
+	coefficient of orientation of roughness
+Results for коэффициент направленности шума (simple):
+	coefficient of orientation of noise
+Results for коэффициент направленности экранирования (simple):
+	coefficient of orientation of shielding
+Results for коэффициент направленности электромеханической связи (simple):
+	coefficient of orientation of electromechanical communication
+Results for коэффициент направленности электропроводности (simple):
+	coefficient of orientation of conductivity
+Results for коэффициент направленности эллиптичности (simple):
+	coefficient of orientation of ellipticity
+Results for коэффициент направленности эффективности апертуры (simple):
+	coefficient of orientation of efficiency of an aperture
+Results for коэффициент направленности эффективности поиска (simple):
+	coefficient of orientation of efficiency of search
+Results for коэффициент направленности яркости (simple):
+	coefficient of orientation of brightness
+Results for линейный коэффициент направленности (simple):
+	linear coefficient of orientation
+Results for логический коэффициент направленности качества (simple):
+	logical coefficient of orientation of quality
+Results for магнитооптический коэффициент направленности (simple):
+	magnetooptical coefficient of orientation
+Results for магниторезистивный коэффициент направленности (simple):
+	magneto-resistive coefficient of orientation
+Results for магнитоэлектрический коэффициент направленности (simple):
+	magnetoelectric coefficient of orientation
+Results for масштабный коэффициент направленности (simple):
+	large-scale coefficient of orientation
+Results for обмоточный коэффициент направленности (simple):
+	obmotochny coefficient of orientation
+Results for пиромагнитный коэффициент направленности (simple):
+	pyromagnetic coefficient of orientation
+Results for пироэлектрический коэффициент направленности (simple):
+	pyroelectric coefficient of orientation
+Results for поправочный коэффициент направленности (simple):
+	correction coefficient of orientation
+Results for приведеный коэффициент направленности (simple):
+	the provided orientation coefficient
+Results for пьезомагнитный коэффициент направленности (simple):
+	pyezomagnitny coefficient of orientation
+Results for пьезорезистивный коэффициент направленности (simple):
+	pyezorezistivny coefficient of orientation
+Results for пьезоэлектрический коэффициент направленности (simple):
+	piezoelectric coefficient of orientation
+Results for расчётный коэффициент направленности (simple):
+	settlement coefficient of orientation
+Results for сетевой коэффициент направленности помехозащищённости (simple):
+	network coefficient of orientation of noise immunity
+Results for статический коэффициент направленности (simple):
+	static coefficient of orientation
+Results for температурный коэффициент направленности задержки (частоты) (simple):
+	temperature coefficient of orientation of a delay (frequency)
+Results for температурный коэффициент направленности ёмкости (сопротивления) (simple):
+	temperature coefficient of orientation of the capacity (resistance)
+Results for температурный коэффициент направленности расширения [ТКР] (simple):
+	temperature coefficient of orientation of expansion [TKR]
+Results for термоупругий коэффициент направленности (simple):
+	thermoelastic coefficient of orientation
+Results for удельный коэффициент направленности (simple):
+	specific coefficient of orientation
+Results for фоновый коэффициент направленности (simple):
+	background coefficient of orientation
+Results for электрокалорический коэффициент направленности (simple):
+	electrocaloric coefficient of orientation
+Results for электрооптический коэффициент направленности (simple):
+	electrooptical coefficient of orientation
+Results for энергетический коэффициент направленности (simple):
+	power coefficient of orientation
+Results for эффективный коэффициент направленности (simple):
+	effective coefficient of orientation
+Results for коэффициенты Клебша-Гордона (simple):
+	Klebsha-Gordon's coefficients
+Results for коэффициенты Ламе:
+	 scale factor (Естественные науки)
+	 
+Results for коэффициенты Нернста-Эттинсгаузена (simple):
+	Nernsta-Ettinsgauzen's coefficients
+Results for коэффициенты Уолша (simple):
+	Walsh's coefficients
+Results for коэффициенты Эйнштейна (simple):
+	Einstein's coefficients
+Results for коэффициенты электростатической индукции (simple):
+	coefficients of electrostatic induction
+Results for КПД (коэффициент полезного действия) анодной (коллекторной) цепи (simple):
+	Efficiency (efficiency) of an anode (collector) chain
+Results for КПД (коэффициент полезного действия) антенны (simple):
+	Efficiency (efficiency) of the antenna
+Results for КПД (коэффициент полезного действия) выпрямителя (simple):
+	Efficiency (efficiency) of the rectifier
+Results for КПД (коэффициент полезного действия) генератора (simple):
+	Efficiency (efficiency) of the generator
+Results for КПД (коэффициент полезного действия) громкоговорителя (simple):
+	Efficiency (efficiency) of the loudspeaker
+Results for КПД (коэффициент полезного действия) детектора (simple):
+	Efficiency (efficiency) of the detector
+Results for КПД (коэффициент полезного действия) источника излучения (simple):
+	Efficiency (efficiency) of a source of radiation
+Results for КПД (коэффициент полезного действия) каскада (simple):
+	Efficiency (efficiency) of the cascade
+Results for КПД (коэффициент полезного действия) лазера (simple):
+	Efficiency (efficiency) of the laser
+Results for КПД (коэффициент полезного действия) на краю полосы частот (simple):
+	Efficiency (efficiency) on the edge of a strip of frequencies
+Results for КПД (коэффициент полезного действия) передатчика (simple):
+	Efficiency (efficiency) of the transmitter
+Results for КПД (коэффициент полезного действия) солнечной батареи (simple):
+	Efficiency (efficiency) of the solar battery
+Results for КПД (коэффициент полезного действия) электронной лампы (simple):
+	Efficiency (efficiency) of the electron tube
+Results for световой КПД (коэффициент полезного действия) (simple):
+	light efficiency (efficiency)
+Results for электронный КПД (коэффициент полезного действия) (simple):
+	electronic efficiency (efficiency)
+Results for кратковременность действия (simple):
+	short duration of action
+Results for кратковременность нагрева (simple):
+	short duration of heating
+Results for краткость изложения (simple):
+	brevity of statement
+Results for кратность вырождения:
+	 degeneracy multiplicity (Естественные науки)
+	 
+Results for кратность ионизации:
+	 degree of ionization (Естественные науки)
+	 
+Results for кратность развёртки (simple):
+	frequency rate of development
+Results for кратность разнесения:
+	 diversity order (Компьютеры)
+	 
+Results for кратность резервирования:
+	 redundary rate (Компьютеры)
+	 
+	 redundancy multipleness (Техника)
+	 
+Results for кратность скорости нарастания (simple):
+	frequency rate of speed of increase
+Results for адиабатическая кривая:
+	 adiabatic curve (Техника)
+	 
+Results for безгистерезисная кривая (simple):
+	bezgisterezisny curve
+Results for блоховская кривая (simple):
+	Bloch curve
+Results for градуировочная кривая:
+	 calibration plot (Техника)
+	 
+Results for дисперсионная кривая (simple):
+	dispersive curve
+Results for записанная кривая (simple):
+	the written-down curve
+Results for изотермическая кривая (simple):
+	isothermal curve
+Results for калибровочная кривая:
+	 calibration curve (Естественные науки)
+	 
+Results for коммутационная кривая (simple):
+	switching curve
+Results for кривая вероятности обнаружения (simple):
+	curve of probability of detection
+Results for кривая видности:
+	 visibility curve (Естественные науки)
+	 
+Results for кривая возбуждения (simple):
+	excitement curve
+Results for кривая возврата (simple):
+	return curve
+Results for кривая входящего тока (simple):
+	curve of the entering current
+Results for кривая высвечивания (simple):
+	highlighting curve
+Results for кривая зависимости:
+	 graph[ɡræf] (Естественные науки)
+	 
+Results for кривая затухания:
+	 attenuation curve (Компьютеры)
+	 
+Results for кривая интенсивности отказа (simple):
+	curve of intensity of refusal
+Results for кривая на(раз)магничивания (simple):
+	curve on (time) of a magnichivaniye
+Results for кривая нарастания:
+	 cumulative curve (Естественные науки)
+	 
+	 build-up curve (Естественные науки)
+	 
+Results for кривая насыщения:
+	 saturation curve (Естественные науки)
+	 
+Results for кривая нормального распределения [крива Гаусса] (simple):
+	the curve of normal distribution [is curve Gauss]
+Results for кривая освоения производства (simple):
+	production development curve
+Results for кривая отклика (simple):
+	response curve
+Results for кривая поглощения:
+	 absorption curve (Естественные науки)
+	 
+Results for кривая поляризации (simple):
+	polarization curve
+Results for кривая прохождения (simple):
+	passing curve
+Results for кривая радиоактивного распада:
+	 decay curve (Естественные науки)
+	 
+Results for кривая распределения:
+	 distribution curve (Естественные науки)
+	 
+Results for кривая резкости (simple):
+	sharpness curve
+Results for кривая роста надёжности (simple):
+	curve of growth of reliability
+Results for кривая тока (simple):
+	current curve
+Results for лоренцева кривая (simple):
+	curve lorentseva
+Results for начальная кривая (simple):
+	initial curve
+Results for плавная кривая:
+	 slight curve (Техника)
+	 
+	 smooth curve (Естественные науки)
+	 
+Results for резонансная кривая:
+	 resonance curve (Естественные науки)
+	 
+	 resonance characteristic (Техника)
+	 
+Results for характеристическая кривая:
+	 characteristic curve (Естественные науки)
+	 
+Results for экспоненциальная кривая (simple):
+	exponential curve
+Results for экстремальная кривая (simple):
+	extreme curve
+Results for электрокапиллярная кривая (simple):
+	electrocapillary curve
+Results for кривые равной громкости:
+	 equal loudness contour (Компьютеры)
+	 
+	 equal-loudness contour (Техника)
+	 
+Results for германиевый криосар (simple):
+	germanic cryosar
+Results for криосар с (не)компенсированным полупроводником (simple):
+	cryosar with not compensated semiconductor
+Results for азотный криостат (simple):
+	nitric cryostat
+Results for гелиевый криостат (simple):
+	helium cryostat
+Results for выходной криотрон:
+	 readout cryotron (Техника)
+	 
+Results for гибридный криотрон (simple):
+	hybrid cryotron
+Results for криотрон с джозефсоновским туннелированием (simple):
+	the cryotron with Josephson tunneling
+Results for планарный криотрон (simple):
+	planar cryotron
+Results for (тонко)плёночный криотрон (simple):
+	(thinly) film cryotron
+Results for управляющий криотрон (simple):
+	the operating cryotron
+Results for крип потока (simple):
+	крип stream
+Results for термически активированный крип (simple):
+	thermally activated крип
+Results for активный кристалл (simple):
+	active crystal
+Results for ангармонический кристалл (simple):
+	anharmonic crystal
+Results for анизотропный кристалл:
+	 anisotropic crystal (Техника)
+	 
+Results for (без)двойниковый кристалл (simple):
+	(without) twinning crystal
+Results for бездислокационный кристалл (simple):
+	bezdislokatsionny crystal
+Results for бесцветный кристалл (simple):
+	colourless crystal
+Results for выращенный кристалл:
+	 grown crystal (Техника)
+	 
+Results for гиротропный кристалл (simple):
+	girotropny crystal
+Results for дву[двояко]преломляющий кристалл (simple):
+	the two-[doubly] refracting crystal
+Results for двух(одно)осный кристалл (simple):
+	two (one) axis crystals
+Results for дендритный кристалл:
+	 dendritic crystal (Естественные науки)
+	 
+	 arborescent crystal (Техника)
+	 
+Results for диа(пара)магнитный кристалл (simple):
+	di (steam) magnetic crystal
+Results for дипольный кристалл (simple):
+	dipolar crystal
+Results for жидкий кристалл:
+	 mesomorphous body (Естественные науки)
+	 
+	 liquid crystal (Компьютеры)
+	 
+Results for зажатый кристалл (simple):
+	the clamped crystal
+Results for затравочный кристалл:
+	 seed crystal (Естественные науки)
+	 
+	 seed[si:d] (Техника)
+	 
+Results for игольчатый кристалл:
+	 needle[ˈni:dl] (Естественные науки)
+	 
+	 acicular crystal (Компьютеры)
+	 
+	 rodlike crystal (Техника)
+	 
+Results for идеальный кристалл:
+	 perfect crystal (Техника)
+	 
+	 ideal crystal (Естественные науки)
+	 
+Results for имплантированный кристалл (simple):
+	the implanted crystal
+Results for ионный кристалл:
+	 ionic crystal (Техника)
+	 
+Results for киральный [хиральный] кристалл (simple):
+	kiralny [hiralny] crystal
+Results for ковалентный кристалл (simple):
+	covalent crystal
+Results for кристалл кварцевого резонатора (simple):
+	crystal of the quartz resonator
+Results for кристалл микропроцессора (simple):
+	microprocessor crystal
+Results for кристалл памяти (simple):
+	memory crystal
+Results for кристалл систолической матрицы:
+	 systolic chip (Техника)
+	 
+Results for кристалл-хозяин:
+	 host[həust] (Естественные науки)
+	 
+Results for лазерный кристалл (simple):
+	laser crystal
+Results for легированный кристалл:
+	 doped crystal (Техника)
+	 
+Results for магнитоупорядоченный кристалл (simple):
+	magnetoordered crystal
+Results for мозаичный кристалл (simple):
+	mosaic crystal
+Results for монодоменный кристалл (simple):
+	monodomain crystal
+Results for (не)совершенный кристалл (simple):
+	(not) perfect crystal
+Results for нитевидный кристалл:
+	 filamentary crystal (Естественные науки)
+	 
+	 whisker[ˈwɪskə] (Техника)
+	 
+Results for объёмный кристалл (simple):
+	volume crystal
+Results for огранённый кристалл (simple):
+	the facetted crystal
+Results for поляризованный кристалл (simple):
+	the polarized crystal
+Results for полярный кристалл (simple):
+	polar crystal
+Results for природный кристалл (simple):
+	natural crystal
+Results for разбавленный кристалл (simple):
+	the diluted crystal
+Results for синтетический кристалл (simple):
+	synthetic crystal
+Results for слоистый кристалл (simple):
+	layered crystal
+Results for (рентгено)структурная кристаллография (simple):
+	(X-ray) structural crystallography
+Results for критерий абсолютной (конвективной) неустойчивости (simple):
+	criterion of absolute (convective) instability
+Results for критерий верности кластеризации (simple):
+	criterion of fidelity of a clustering
+Results for критерий взвешенных наименьших квадратов (simple):
+	criterion of the weighed smallest squares
+Results for критерий выбора:
+	 selection term (Компьютеры)
+	 
+Results for критерий значимости:
+	 significance test (Естественные науки)
+	 
+Results for критерий качества работы системы (simple):
+	criterion of quality of work of system
+Results for критерий минимума среднего риска (simple):
+	criterion of a minimum of average risk
+Results for критерий минимума суммы условных вероятностей ошибки (simple):
+	criterion of a minimum of the sum of conditional probabilities of a mistake
+Results for критерий Найквиста:
+	 Nyquist criterion (Естественные науки)
+	 
+Results for критерий нормальности распределения (simple):
+	criterion of normality of distribution
+Results for критерий ожидаемой стоимости (simple):
+	criterion of the expected cost
+Results for критерий ошибок (simple):
+	criterion of mistakes
+Results for критерий подобия:
+	 similitude parameter (Естественные науки)
+	 
+Results for критерий Рауса-Гурвица:
+	 Routh-Hurwitz criterion (Техника)
+	 
+Results for критерий согласия:
+	 goodness-of-fit test (Естественные науки)
+	 
+	 test of fit (Естественные науки)
+	 
+Results for критерий сходимости:
+	 convergence criterion (Техника)
+	 
+Results for критерий точности (simple):
+	criterion of accuracy
+Results for критерий управляемости:
+	 controllability criterion (Компьютеры)
+	 
+Results for критерий устойчивости:
+	 stability criterion (Естественные науки)
+	 
+Results for кросс--ассемблер (simple):
+	cross-country - the assembler
+Results for кросс--компилятор (simple):
+	cross compiler
+Results for кросс--коррелятор (simple):
+	cross-country - the correlator
+Results for кросс--корреляция (simple):
+	cross-country - correlation
+Results for кросс--модуляция (simple):
+	cross-country - modulation
+Results for кросс--плата (simple):
+	cross-country - a payment
+Results for кросс--поляризация (simple):
+	cross-polarization
+Results for кросс--релаксация (simple):
+	cross-country - a relaxation
+Results for двух(трёх)канальный кроссовер (simple):
+	two (three) channel crossover
+Results for электронный кроссовер (simple):
+	electronic crossover
+Results for крутизна детектирования (simple):
+	steepness of detecting
+Results for крутизна преобразования:
+	 conversion transconductance (Естественные науки)
+	 
+	 conversion trans-conductance (Компьютеры)
+	 
+Results for крутизна смещения (simple):
+	steepness of shift
+Results for крутизна фронта импульса:
+	 pulse steepness (Техника)
+	 
+Results for крутизна характеристики:
+	 mutual conductance (Техника)
+	 
+Results for отрицательная крутизна (simple):
+	negative steepness
+Results for переменная крутизна (simple):
+	variable steepness
+Results for истинный курс:
+	 true heading (Техника)
+	 
+Results for ложный курс:
+	 deceptive course (Техника)
+	 
+Results for магнитный курс:
+	 magnetic heading 
+	 magnetic course (Техника)
+	 
+Results for многозначный курс (simple):
+	multiple-valued course
+Results for курсор в виде мерцающего прямоугольника (simple):
+	the cursor in the form of a flickering rectangle
+Results for акустический лабиринт (simple):
+	acoustic labyrinth
+Results for лаборатория испытаний (simple):
+	laboratory of tests
+Results for метрологическая лаборатория (simple):
+	metrological laboratory
+Results for научно-исследовательская лаборатория:
+	 research laboratory (Техника)
+	 
+Results for поверочная лаборатория (simple):
+	testing laboratory
+Results for вторичная лавина (simple):
+	secondary avalanche
+Results for ионная лавина:
+	 ion avalanche (Естественные науки)
+	 
+Results for лавина заряженных частиц:
+	 avalanche of charged particles (Естественные науки)
+	 
+Results for лавина, инициированная фотоэлектронами (simple):
+	the avalanche initiated by photoelectrons
+Results for лавина Таундсенда (simple):
+	Taundsend's avalanche
+Results for оптическая лавина (simple):
+	optical avalanche
+Results for развивающаяся лавина (simple):
+	the developing avalanche
+Results for ударная лавина (simple):
+	shock avalanche
+Results for азотный лазер (simple):
+	nitric laser
+Results for амплитудно-стабилизированный лазер:
+	 amplitude stabilized lase (Техника)
+	 
+Results for аргоновый лазер:
+	 argon laser (Естественные науки)
+	 
+Results for атомарный лазер (simple):
+	atomic laser
+Results for беззеркальный лазер (simple):
+	mirrorless laser
+Results for бистабильный лазер (simple):
+	bistable laser
+Results for брэгговский лазер (simple):
+	breggovsky laser
+Results for водородный лазер (simple):
+	hydrogen laser
+Results for волноводный лазер:
+	 waveguide laser (Компьютеры)
+	 
+Results for волоконный лазер:
+	 fiber laser (Естественные науки)
+	 
+Results for газовый лазер:
+	 gaseous optical maser (Техника)
+	 
+Results for газодинамический лазер (simple):
+	gasdynamic laser
+Results for газоразрядный лазер:
+	 gas discharge laser (Техника)
+	 
+Results for гелий-йодный (-криптоновый, -ксеноновый, -неоновый) лазер (simple):
+	helium - iodine (-krypton, - xenon, - neon) the laser
+Results for гибридный лазер (simple):
+	hybrid laser
+Results for двунаправленный лазер (simple):
+	bidirectional laser
+Results for двухлучевой лазер (simple):
+	dual-beam laser
+Results for двух(много, одно)модовый лазер (simple):
+	two (it is a lot of, one) the modovy laser
+Results for двух(много, одно)частотный лазер (simple):
+	two (it is a lot of, one) the frequency laser
+Results for двух(много)фотонный лазер (simple):
+	two (many) photon laser
+Results for дисковый лазер (simple):
+	disk laser
+Results for диффузионный лазер (simple):
+	diffusive laser
+Results for дуговой электроразрядный лазер (simple):
+	arc electrodigit laser
+Results for жидкостный лазер:
+	 liquid laser (Естественные науки)
+	 
+Results for задающий лазер:
+	 master laser (Компьютеры)
+	 
+	 initiating laser (Техника)
+	 
+Results for записывающий лазер:
+	 recording laser (Компьютеры)
+	 
+Results for зеемановский лазер:
+	 Zeeman laser (Естественные науки)
+	 
+Results for импульсный лазер:
+	 pulsing laser (Компьютеры)
+	 
+	 pulse laser (Техника)
+	 
+Results for инфракрасный лазер:
+	 iraser (Естественные науки)
+	 
+	 infrared laser (Компьютеры)
+	 
+Results for ионный лазер (simple):
+	ionic laser
+Results for йодный лазер (simple):
+	iodic laser
+Results for каскадный лазер (simple):
+	cascade laser
+Results for катафорезный лазер (simple):
+	kataforezny laser
+Results for квазинепрерывный лазер (simple):
+	quasicontinuous laser
+Results for кварцевый лазер (simple):
+	quartz laser
+Results for коаксиальный лазер:
+	 coaxial laser (Компьютеры)
+	 
+Results for кольцевой лазер:
+	 ring laser (Естественные науки)
+	 
+Results for комптоновский лазер (simple):
+	Compton laser
+Results for криогенный лазер:
+	 cryogenic laser (Техника)
+	 
+Results for ксеноновый лазер (simple):
+	xenon laser
+Results for лавинно-инжекционный лазер (simple):
+	avalanche and injection laser
+Results for лазер активного обнаружения целей (simple):
+	the laser of active detection is more whole
+Results for лазер бегущей волны (simple):
+	the laser of the running wave
+Results for лазер в режиме свободной генерации (simple):
+	the laser in the mode of free generation
+Results for лазер гамма-излучения (simple):
+	gamma radiation laser
+Results for лазер на активной волноводной структуре (simple):
+	the laser on active waveguide structure
+Results for лазер на алюминиево-иттриевом гранате (simple):
+	the laser on aluminum-yttrium pomegranate
+Results for лазер на аморфной (анизотропной) среде (simple):
+	the laser on the amorphous (anisotropic) environment
+Results for лазер на арсениде галлия:
+	 gallium arsenide laser (Техника)
+	 
+Results for лазер на газообразном (твёрдом) диэлектрике (simple):
+	the laser on gaseous (solid) dielectric
+Results for лазер на благородном газе (simple):
+	the laser on noble gas
+Results for лазер на вращательных (колебательно-вращательных, колебательных, электронно-колебательных) переходах (simple):
+	the laser on rotary (oscillatory and rotary, oscillatory, electronic-vibration) transitions
+Results for лазер на галогеноводородах (simple):
+	the laser on galogenovodoroda
+Results for лазер на гетеропереходах (simple):
+	the laser on heterojunctions
+Results for лазер на димерах (simple):
+	the laser on dimeasures
+Results for лазер на карбазине (кумарине) (simple):
+	the laser on carboazine (benzopyrone)
+Results for лазер на кислороде (углекислом газе, хлоре) (simple):
+	the laser on oxygen (carbon dioxide, chlorine)
+Results for лазер на конденсированной среде (simple):
+	the laser on the condensed environment
+Results for лазер на красителе (simple):
+	the laser on dye
+Results for лазер на кристалле розового рубина (simple):
+	the laser on a crystal of a pink ruby
+Results for лазер на (моно)оксиде углерода (simple):
+	the laser on (mono) carbon oxide
+Results for лазер на парах брома (золота, кальция, кадмия, марганца, меди, олова, ртути, свинца, серы, таллия, углерода, фосфора, цинка) (simple):
+	the laser on bromine vapors (gold, calcium, cadmium, manganese, copper, tin, mercury, lead, sulfur, thallium, carbon, phosphorus, zinc)
+Results for лазер на парах металла (неорганических соединений) (simple):
+	the laser on vapors of metal (inorganic compounds)
+Results for лазер на свободных электронах (simple):
+	the laser on free electrons
+Results for лазер на селениде (сульфиде) кадмия (simple):
+	the laser on selenit (sulfide) of cadmium
+Results for лазер на селениде (сульфиде, теллуриде) свинца (simple):
+	the laser on selenit (sulfide, telluride) of lead
+Results for лазер на стекле (simple):
+	the laser on glass
+Results for лазер на фториде дейтерия (simple):
+	the laser on deuterium fluoride
+Results for лазер на хелатах редкоземельных элементов (simple):
+	the laser on chelates of rare-earth elements
+Results for лазер на центрах окраски (simple):
+	the laser on the centers of coloring
+Results for лазер на цепной реакции (simple):
+	the laser on chain reaction
+Results for лазер, работающий в (бес)пичковом режиме (simple):
+	the laser working in (demon) the pichkovy mode
+Results for лазер с аксиальной (поперечной, продольной, торцевой) накачкой (simple):
+	the laser with axial (cross, longitudinal, face) a rating
+Results for лазер с активной модуляцией добротности (simple):
+	the laser with active modulation of good quality
+Results for лазер с активной синхронизацией мод (simple):
+	the laser with active synchronization of fashion
+Results for лазер с внешней синхронизацией (simple):
+	the laser with external synchronization
+Results for лазер с внешним возбуждением (simple):
+	the laser with external excitement
+Results for лазер с внутренней модуляцией:
+	 directly modulated laser (Компьютеры)
+	 
+	 internally modulated laser (Техника)
+	 
+Results for лазер с возбуждением постоянным током (simple):
+	the laser with excitement by a direct current
+Results for лазер с газообразным (жидким, твердотельным) активным элементом (simple):
+	the laser with gaseous (liquid, solid-state) an active element
+Results for лазер с гигантскими импульсами (simple):
+	the laser with huge impulses
+Results for лазер с дозвуковой (медленной, поперечной, сверхзвуковой) прокачкой (simple):
+	the laser with subsonic (slow, cross, supersonic) pumping
+Results for лазер с замкнутым циклом (simple):
+	the laser with the closed cycle
+Results for лазер системы захвата цели на автоматическое сопровождение (simple):
+	the laser of system of capture of the purpose on automatic maintenance
+Results for лазер системы противолодочной обороны (simple):
+	laser of system of anti-submarine defense
+Results for лазер с конвективным охлаждением (simple):
+	the laser with convective cooling
+Results for лазер с конфокальными зеркалами (simple):
+	the laser with confocal mirrors
+Results for лазер с модуляцией добротности (коэффициента усиления) (simple):
+	the laser with modulation of good quality (strengthening coefficient)
+Results for лазер с накачкой альфа-частицами (светодиодами) (simple):
+	the laser with a rating alpha particles (light-emitting diodes)
+Results for лазер с накоплением энергии (simple):
+	the laser with energy accumulation
+Results for лазер с непрерывной (периодической) накачкой (simple):
+	the laser with a continuous (periodic) rating
+Results for лазер с объёмной ионизацией (simple):
+	the laser with volume ionization
+Results for лазер с ограниченной активной областью (simple):
+	the laser with limited active area
+Results for лазер с окнами Брюстера (simple):
+	the laser with Brewster's windows
+Results for лазер с оптической (СВЧ, солнечной) накачкой (simple):
+	the laser with optical (the microwave oven, solar) a rating
+Results for лазер с распределённой обратной связью (simple):
+	the laser with the distributed feedback
+Results for лазер с распределёнными параметрами (simple):
+	the laser with the distributed parameters
+Results for лазер с селекцией (синхронизацией) мод (simple):
+	the laser with selection (synchronization) of fashion
+Results for лазер с тепловой (химической) накачкой (simple):
+	the laser with a thermal (chemical) rating
+Results for лазер субмиллиметрового диапазона:
+	 low wavelength laser (Компьютеры)
+	 
+Results for лазер с удвоением частоты (simple):
+	the laser with doubling of frequency
+Results for лазер с фазовой синхронизацией (simple):
+	the laser with phase synchronization
+Results for лазер с электрическим (электронным) возбуждением (simple):
+	the laser with electric (electronic) excitement
+Results for лазер с электронным инициированием (управлением) (simple):
+	the laser with electronic initiation (management)
+Results for магнитогидродинамический лазер (simple):
+	magnetohydrodynamic laser
+Results for магнитооптический лазер (simple):
+	magnetooptical laser
+Results for маломощный лазер (simple):
+	low-power laser
+Results for многопризменный лазер (simple):
+	multiprismatic laser
+Results for молекулярный лазер:
+	 molecular laser (Естественные науки)
+	 
+Results for неоновый лазер (simple):
+	neon laser
+Results for освещающий лазер:
+	 illuminating laser (Компьютеры)
+	 
+Results for отпаянный лазер (simple):
+	the unsoldered laser
+Results for перестраиваемый лазер:
+	 tunable laser (Техника)
+	 
+Results for плазменный лазер (simple):
+	plasma laser
+Results for планарный полосковый лазер:
+	 planar stripe laser (Компьютеры)
+	 
+Results for полупроводниковый лазер:
+	 junction laser (Естественные науки)
+	 
+Results for прокачной лазер (simple):
+	flowing laser
+Results for рамановский [комбинационный] лазер (simple):
+	the Raman [combinational] laser
+Results for резонаторный лазер:
+	 resonant laser (Компьютеры)
+	 
+Results for рекомбинационный лазер (simple):
+	recombinational laser
+Results for рентгеновский лазер:
+	 X-ray laser (Техника)
+	 
+Results for сверхлюминесцентный лазер (simple):
+	superluminescent laser
+Results for (сверх)мощный лазер (simple):
+	(over) the powerful laser
+Results for сканирующий лазер:
+	 scan laser (Компьютеры)
+	 
+	 scanned laser (Техника)
+	 
+Results for стирающий лазер (simple):
+	the erasing laser
+Results for считывающий лазер:
+	 readout laser (Естественные науки)
+	 
+Results for твердотельный лазер:
+	 solid-state laser (Естественные науки)
+	 
+	 solid state laser (Техника)
+	 
+Results for трёх(четырёх)уровневый лазер (simple):
+	three (four)-level laser
+Results for фотодиссоциационный лазер (simple):
+	fotodissotsiatsionny laser
+Results for (фото)инициируемый лазер (simple):
+	(photo) the initiated laser
+Results for (фото)химический лазер (simple):
+	(photo) chemical laser
+Results for частотно-модулированный лазер:
+	 frequency-modulated laser (Техника)
+	 
+Results for щёлочно-галоидный лазер (simple):
+	alkaline and haloid laser
+Results for эксимерный лазер:
+	 excimer laser (Естественные науки)
+	 
+Results for экситонный лазер (simple):
+	exciton laser
+Results for электроионизационный лазер (simple):
+	electroionization laser
+Results for электроразрядный лазер (simple):
+	electrodigit laser
+Results for ядерный лазер (simple):
+	nuclear laser
+Results for изоляционный лак:
+	 insulating varnish (Техника)
+	 
+	 insulating enamel (Техника)
+	 
+Results for клеющий лак (simple):
+	kleyushchy varnish
+Results for полупроводящий лак (simple):
+	semiconducting varnish
+Results for пропиточный лак:
+	 impregnating varnish (Техника)
+	 
+	 impregnating enamel (Техника)
+	 
+Results for спиртовый лак (simple):
+	spirtovy varnish
+Results for эмалевый лак:
+	 enamel lacquer (Техника)
+	 
+Results for электроизоляционная лакоткань:
+	 varnished cloth (Техника)
+	 
+Results for вакуумная лампа:
+	 vacuum lamp (Техника)
+	 
+Results for газоразрядная лампа:
+	 gas discharge tube (Компьютеры)
+	 
+	 gas discharge lamp (Техника)
+	 
+Results for генераторная лампа:
+	 oscillator tube (Компьютеры)
+	 
+	 generating tube (Техника)
+	 
+Results for гетеродинная лампа (simple):
+	heterodyne lamp
+Results for демпферная лампа (simple):
+	damping lamp
+Results for детекторная лампа:
+	 detector tube (Техника)
+	 
+Results for двойная лампа (simple):
+	double lamp
+Results for двухсеточная лампа:
+	 double-grid tube (Техника)
+	 
+	 spase-charge tetrode (Техника)
+	 
+Results for двух(много, трёх)электродная лампа (simple):
+	two (it is a lot of, three) an electrode lamp
+Results for импульсная лампа:
+	 flashlight valve (Естественные науки)
+	 
+	 flash lamp (Естественные науки)
+	 
+	 pulse lamp (Техника)
+	 
+Results for индикаторная лампа:
+	 indicator tube (Компьютеры)
+	 
+	 indicator light (Техника)
+	 
+Results for лампа бегущей волны [ЛБВ] (simple):
+	lamp of the running wave [LRW]
+Results for лампа в металлическом (стеклянном) баллоне (simple):
+	lamp in a metal (glass) cylinder
+Results for лампа-вспышка:
+	 flash bulb (Техника)
+	 
+	 flash gun (Естественные науки)
+	 
+	 flash lamp (Компьютеры)
+	 
+	 flashing lamp (Техника)
+	 
+Results for лампа для контроля уровня громкости (simple):
+	lamp for control of level of loudness
+Results for лампа дневного света:
+	 fluorescent lamp 
+	 daylight lamp (Техника)
+	 
+Results for лампа дугового (коронного, тлеющего) разряда (simple):
+	lamp arc (crown, smoldering) the category
+Results for лампа накаливания:
+	 glow lamp 
+	 filament lamp (Естественные науки)
+	 
+Results for лампа накачки (simple):
+	rating lamp
+Results for лампа низкого давления:
+	 low-pressure lamp (Техника)
+	 
+Results for лампа обратной волны [ЛОВ] (simple):
+	lamp of the return wave [LRW]
+Results for лампа переменной (постоянной) крутизны (simple):
+	lamp of the variable (constant) steepness
+Results for лампа подсветки шкалы:
+	 scale lamp (Техника)
+	 
+Results for лампа с водяным (воздушным) охлаждением (simple):
+	lamp with water (air) cooling
+Results for лампа с вторичной эмиссией:
+	 secondary-emission valve (Техника)
+	 
+Results for лампа с высоким коэффициентом усиления (simple):
+	lamp with high coefficient of strengthening
+Results for лампа с гарячим (ионно-подогревным, холодным) катодом (simple):
+	lamp with hot (ion-подогревным, cold) the cathode
+Results for лампа с катодной сеткой (simple):
+	lamp with a cathodic grid
+Results for лампа с катодом косвенного (прямого) накала (simple):
+	lamp with the cathode of indirect (direct) heat
+Results for лампа со скрещёнными полями (simple):
+	lamp with skreshchyonny fields
+Results for лампа с положительной сеткой (simple):
+	lamp with a positive grid
+Results for лампа с полым катодом (simple):
+	lamp with the hollow cathode
+Results for лампа сравнения (simple):
+	comparison lamp
+Results for лампа с распределённым взаимодействием (simple):
+	lamp with the distributed interaction
+Results for лампа с термокатодом:
+	 thermionic tube (Естественные науки)
+	 
+Results for лампа типа «жёлудь» (simple):
+	lamp like "acorn"
+Results for лампа с фокусирующим цоколем (simple):
+	lamp with the focusing socle
+Results for лампа-усилитель напряжения (simple):
+	tension lamp amplifier
+Results for лампа холодного белого свечения (simple):
+	lamp of a cold white luminescence
+Results for кварцевая лампа:
+	 quartz lamp (Естественные науки)
+	 
+Results for комбинированная лампа:
+	 multi-unit tube (Техника)
+	 
+Results for манипуляторная лампа:
+	 key tube (Техника)
+	 
+Results for маячковая лампа (simple):
+	mayachkovy lamp
+Results for металлокерамическая лампа (simple):
+	ceramic-metal lamp
+Results for многоанодная лампа:
+	 multianode tube (Техника)
+	 
+Results for неоновая лампа:
+	 neon lamp (Компьютеры)
+	 
+Results for пальчиковая лампа:
+	 bantam tube (Техника)
+	 
+Results for парортутная лампа (simple):
+	parortutny lamp
+Results for перегруженная лампа (simple):
+	the overloaded lamp
+Results for разборная лампа (simple):
+	folding lamp
+Results for реактивная лампа:
+	 reactance valve (Техника)
+	 
+Results for регулирующая лампа (simple):
+	the regulating lamp
+Results for (сверх)миниатюрная лампа (simple):
+	(over) a tiny lamp
+Results for сверхвысокочастотная [СВЧ] лампа (simple):
+	superhigh-frequency [microwave oven] lamp
+Results for серийная лампа (simple):
+	serial lamp
+Results for сигнальная лампа:
+	 tally lamp (Компьютеры)
+	 
+	 warning lamp (Техника)
+	 
+	 pilot lamp (Техника)
+	 
+Results for смесительная лампа:
+	 mixer tube (Техника)
+	 
+Results for усилительная лампа:
+	 amplifying tube (Техника)
+	 
+Results for частотнопреобразовательная лампа (simple):
+	chastotnopreobrazovatelny lamp
+Results for экранированная лампа (simple):
+	screened lamp
+Results for электровакуумная лампа:
+	 electro vacuum lamp (Техника)
+	 
+Results for электрометрическая лампа:
+	 electrometer tube (Техника)
+	 
+Results for электронная лампа:
+	 electron tube 
+Results for ЛБВ (лампа бегущей волны) со связанными резонаторами (simple):
+	LRW (lamp of the running wave) with the connected resonators
+Results for ЛБВ (лампа бегущей волны) со спиралью (simple):
+	LRW (lamp of the running wave) with a spiral
+Results for ЛБВ (лампа бегущей волны) с плазменным катодом (simple):
+	LRW (lamp of the running wave) with the plasma cathode
+Results for ЛБВ (лампа бегущей волны) с поперечным СВЧ электрическим полем (simple):
+	LRW (lamp of the running wave) with cross microwave ovens electric field
+Results for ЛБВ (лампа бегущей волны) с поперечным электронным потоком (simple):
+	LRW (lamp of the running wave) with a cross electronic stream
+Results for многоколлекторная ЛБВ (лампа бегущей волны) (simple):
+	multicollector LRW (lamp of the running wave)
+Results for высокочастотная левитация (simple):
+	high-frequency levitation
+Results for криогенная левитация (simple):
+	cryogenic levitation
+Results for левитация с отталкиванием (притяжением) (simple):
+	levitation with pushing away (attraction)
+Results for (электро)магнитная левитация (simple):
+	(electro) magnetic levitation
+Results for амфотерное легирование (simple):
+	amphoteric alloying
+Results for избирательное легирование:
+	 selective doping (Техника)
+	 
+Results for ионное легирование:
+	 ion implantation (Естественные науки)
+	 
+Results for косвенное легирование (simple):
+	indirect alloying
+Results for легирование акцепторной (донорной) примесью (simple):
+	alloying with acceptor (donorny) impurity
+Results for легирование золотом (simple):
+	alloying with gold
+Results for легирование из газовой фазы:
+	 gas-phase doping (Техника)
+	 
+Results for легирование методом зонного выравнивания (simple):
+	alloying by method of zonal alignment
+Results for легирование подложки (simple):
+	alloying of a substrate
+Results for легирование после оксидирования:
+	 post-oxidation doping (Техника)
+	 
+Results for межэлектродное легирование (simple):
+	interelectrode alloying
+Results for непосредственное легирование (simple):
+	direct alloying
+Results for обратное легирование (simple):
+	return alloying
+Results for однородное легирование (simple):
+	uniform alloying
+Results for сильное (слабое) легирование (simple):
+	strong (weak) alloying
+Results for субкритическое легирование (simple):
+	subcritical alloying
+Results for управляемое легирование (simple):
+	the operated alloying
+Results for фоновое легирование:
+	 background doping (Техника)
+	 
+Results for химическое легирование (simple):
+	chemical alloying
+Results for главная программная лента (simple):
+	main program tape
+Results for измерительная лента (simple):
+	measuring tape
+Results for изоляционная лента:
+	 adhesive tape (Естественные науки)
+	 
+	 insulating tape (Техника)
+	 
+Results for киперная лента:
+	 surgical tape (Техника)
+	 
+Results for лента графопостроителя (simple):
+	tape of the graph plotter
+Results for лента для видеозаписи (simple):
+	tape for a video
+Results for лента для сращивания магнитной ленты (simple):
+	tape for merging of a magnetic tape
+Results for лента однократного пользования (simple):
+	tape of single use
+Results for лента с программой:
+	 program tape (Техника)
+	 
+Results for липкая лента:
+	 adhesive tape 
+	 tape[teɪp] (Естественные науки)
+	 
+Results for металлическая лента:
+	 metal band (Техника)
+	 
+Results for многослойная лента:
+	 multiply tape (Естественные науки)
+	 
+	 multi ply tape (Техника)
+	 
+Results for перфорированная лента:
+	 punched tape (Естественные науки)
+	 
+	 chad tape (Компьютеры)
+	 
+	 perforated slip (Техника)
+	 
+Results for управляющая лента (simple):
+	the operating tape
+Results for (ферро)магнитная лента (simple):
+	(ферро) magnetic tape
+Results for ближний (дальний) боковой лепесток (simple):
+	near (distant) side petal
+Results for главный лепесток:
+	 principal lobe (Техника)
+	 
+Results for задний лепесток:
+	 back lobe (Компьютеры)
+	 
+Results for контактный лепесток (simple):
+	contact petal
+Results for лепесток диаграммы направленности антенны (simple):
+	petal of the directional pattern of the antenna
+Results for лепесток для заземления (simple):
+	petal for grounding
+Results for лепесток интерференции:
+	 interference lobe (Техника)
+	 
+Results for лепесток с выступом (упором) (simple):
+	petal with a ledge (emphasis)
+Results for осевой лепесток (simple):
+	axial petal
+Results for побочный лепесток (simple):
+	collateral petal
+Results for бистатический лидар (simple):
+	bistatic лидар
+Results for лидар, нечувствительный к солнечному освещению (simple):
+	лидар, tolerant to solar lighting
+Results for лидар с автоматическим сопровождением цели (simple):
+	лидар with automatic maintenance of the purpose
+Results for моноимпульсный лидар (simple):
+	monopulse лидар
+Results for перестраиваемый лидар (simple):
+	reconstructed лидар
+Results for рамановский лидар (simple):
+	the Raman лидар
+Results for лимб антенны (simple):
+	antenna limb
+Results for лимб прибора (simple):
+	device limb
+Results for линеаризатор фазовой характеристики (simple):
+	linearizator of the phase characteristic
+Results for линеаризатор характеристики группового тракта (simple):
+	linearizator of the characteristic of a group path
+Results for широкополосный линеаризатор (simple):
+	broadband linearizator
+Results for линеаризация с предыскажением (simple):
+	linearization with a predyskazheniye
+Results for широкополосная линеаризация (simple):
+	broadband linearization
+Results for линейка антенного усилителя (simple):
+	ruler of the antenna amplifier
+Results for линейка усилителей (simple):
+	ruler of amplifiers
+Results for линейность развёртки (simple):
+	linearity of development
+Results for линейность характеристики (simple):
+	linearity of the characteristic
+Results for акустическая линза:
+	 acoustic lens (Техника)
+	 
+Results for (двояко, плоско)вогнутая линза (simple):
+	(doubly, plainly) concave lens
+Results for (двояко, плоско)выпуклая линза (simple):
+	(doubly, plainly) convex lens
+Results for вогнуто-выпуклая линза:
+	 concave-convex lens (Техника)
+	 
+Results for волноводная линза (simple):
+	the waveguide lens
+Results for волоконная линза:
+	 fiber lens (Естественные науки)
+	 
+Results for выпукло-вогнутая линза (simple):
+	convexo-concave lens
+Results for газовая линза (simple):
+	gas lens
+Results for геодезическая линза (simple):
+	geodetic lens
+Results for голографическая линза (simple):
+	holographic lens
+Results for диэлектрическая линза (simple):
+	dielectric lens
+Results for замедляющая линза (simple):
+	the slowing-down lens
+Results for зонированная линза (simple):
+	the zoned lens
+Results for иммерсионная линза:
+	 immersion lens (Техника)
+	 
+Results for квадрупольная линза:
+	 quadrupole lens (Естественные науки)
+	 
+Results for коллективная линза:
+	 collecting lens (Техника)
+	 
+Results for коллимирующая линза (simple):
+	the collimating lens
+Results for конденсорная линза:
+	 condensing lens (Естественные науки)
+	 
+Results for корректирующая линза (simple):
+	the correcting lens
+Results for линза для восстановления волнового фронта (simple):
+	lens for restoration of the wave front
+Results for линза из искусственного диэлектрика (simple):
+	lens from artificial dielectric
+Results for линза Люнеберга (Райнхарта, Френеля) (simple):
+	Lyuneberg's lens (Raynkhart, Fresnel)
+Results for линза расширителя пучка (simple):
+	bunch dilator lens
+Results for линза с просветляющим покрытием (simple):
+	lens with the clarifying covering
+Results for линза типа «рыбий глаз» [линза Максвелла] (simple):
+	lens like "fish eye" [Maxwell's lens]
+Results for магнитная линза (simple):
+	magnetic lens
+Results for металловоздушная линза (simple):
+	metalair lens
+Results for металлопластинчатая линза (simple):
+	metallamellar lens
+Results for модифицированная линза (simple):
+	the modified lens
+Results for осесимметричная линза (simple):
+	axisymmetric lens
+Results for промежуточная линза (simple):
+	intermediate lens
+Results for рассеивающая линза:
+	 dispersing lens (Естественные науки)
+	 
+	 diverging lens (Техника)
+	 
+Results for решётчатая линза (simple):
+	trellised lens
+Results for собирающая линза:
+	 collecting lens (Техника)
+	 
+Results for согласующая линза (simple):
+	the coordinating lens
+Results for составная линза:
+	 compound lens (Техника)
+	 
+Results for сферическая линза (simple):
+	spherical lens
+Results for тепловая линза (simple):
+	thermal lens
+Results for тонкая линза (simple):
+	thin lens
+Results for фасеточная линза:
+	 multiple-image lens (Естественные науки)
+	 
+Results for ферритовая линза (simple):
+	ferrite lens
+Results for цилиндрическая линза:
+	 cylinder lens (Естественные науки)
+	 
+Results for широкоапертурная линза (simple):
+	wide-aperture lens
+Results for шлирен-линза (simple):
+	shliren-lens
+Results for электромагнитная линза:
+	 electromagnetic lens (Техника)
+	 
+Results for электронная линза:
+	 electron lens (Техника)
+	 
+Results for электростатическая линза (simple):
+	electrostatic lens
+Results for линии магнитной (электрической) индукции (simple):
+	lines of magnetic (electric) induction
+Results for магнитные (электрические) силовые линии (simple):
+	magnetic (electric) power lines
+Results for (связанные) линии передачи (simple):
+	(connected) transmission lines
+Results for сгруппированные блоховские линии (simple):
+	the grouped Bloch lines
+Results for фраунгоферовы линии:
+	 Fraunhoferlines (Техника)
+	 фраунгоферовы линия 
+	 Существительное фраунгоферовы линия / фраунгоферовы линии 
+	 Fraunhofer lines (Естественные науки)
+	 фраунгоферова линия 
+	 Существительное фраунгоферова линия / фраунгоферовы линии 
+	 Fraunhofer line (Компьютеры)
+	 
+Results for абонентская линия:
+	 subscriber line 
+	 line[laɪn] (Техника)
+	 
+Results for акустическая линия задержки СВЧ-диапазона (simple):
+	acoustic line of a delay of microwave range
+Results for акустическая линия передачи:
+	 acoustic transmission line (Компьютеры)
+	 
+Results for акустоэлектронная линия задержки с усилением (simple):
+	akustoelektronny line of a delay with strengthening
+Results for аналоговая линия задержки (simple):
+	analog line of a delay
+Results for антенная линия передачи (simple):
+	antenna transmission line
+Results for (анти)стоксова линия (simple):
+	(anti-) Stokes line
+Results for арендованная линия связи (simple):
+	leased communication line
+Results for асимптотическая линия (simple):
+	asymptotic line
+Results for базовая линия:
+	 base line (Техника)
+	 
+Results for (без)дисперсионная линия задержки (simple):
+	(without) dispersive line of a delay
+Results for блоховская линия (simple):
+	Bloch line
+Results for винтовая линия:
+	 circular helix (Естественные науки)
+	 
+	 helix[ˈhi:lɪks] (Естественные науки)
+	 
+Results for вогнутая линия (simple):
+	concave line
+Results for воздушная линия на опорах (simple):
+	air-line on support
+Results for воздушная линия передачи (simple):
+	transfer air-line
+Results for волноводная линия задержки (simple):
+	the waveguide line of a delay
+Results for волоконно-оптическая линия задержки (simple):
+	fiber-optical line of a delay
+Results for вспомогательная линия задержки (simple):
+	auxiliary line of a delay
+Results for встречно-штыревая [встречно-гребенчатая] линия (simple):
+	counter and pin [counter and edge] line
+Results for входящая линия:
+	 incoming line (Компьютеры)
+	 
+Results for вызываемая линия:
+	 called line (Техника)
+	 
+Results for вызывающая линия:
+	 calling line (Техника)
+	 
+Results for выпуклая линия (simple):
+	convex line
+Results for гребенчатая линия:
+	 comb line (Техника)
+	 
+Results for глобальная линия передачи данных (simple):
+	global data line
+Results for дву(одно)плечая линия задержки (simple):
+	two-(one) plechy line of a delay
+Results for двух(много)проводная линия (передачи) (simple):
+	two (many) wire line (transfers)
+Results for дисковая линия задержки (simple):
+	disk line of a delay
+Results for дисперсионная линия передачи (simple):
+	dispersive transmission line
+Results for дифракционная линия задержки (simple):
+	diffraction line of a delay
+Results for длинная линия (передачи) (simple):
+	long line (transfers)
+Results for дуплексная искусственная линия (simple):
+	duplex artificial line
+Results for желобковая линия передачи (simple):
+	zhelobkovy transmission line
+Results for жидкостная линия задержки (simple):
+	liquid line of a delay
+Results for закреплённая линия связи (simple):
+	the fixed communication line
+Results for занятая линия:
+	 busy line (Компьютеры)
+	 
+	 engaged line (Техника)
+	 
+Results for запрещённая линия (simple):
+	the forbidden line
+Results for измерительная линия (simple):
+	measuring line
+Results for изохронная конвейерная линия (simple):
+	isochronous conveyor line
+Results for интерференционная линия (simple):
+	interferential line
+Results for искусственная линия задержки:
+	 artificial delay line (Компьютеры)
+	 
+Results for исходящая линия:
+	 outgoing line (Компьютеры)
+	 
+Results for квазицифровая линия задержки (simple):
+	quasidigital line of a delay
+Results for кварцевая линия задержки (simple):
+	quartz line of a delay
+Results for коаксиальная линия передачи:
+	 coaxial transmission line (Компьютеры)
+	 
+Results for координатная линия (simple):
+	coordinate line
+Results for копланарная линия передачи (simple):
+	co-planar transmission line
+Results for криогенная линия задержки (simple):
+	cryogenic line of a delay
+Results for кусочно-гладкая линия (simple):
+	piecewise and smooth line
+Results for линия визирования:
+	 line-of-sight (Техника)
+	 
+Results for линия возврата (simple):
+	line of return
+Results for линия второго порядка (simple):
+	line of the second order
+Results for линия генерации (simple):
+	line of generation
+Results for линия дальней связи:
+	 long distance circuit (Компьютеры)
+	 
+	 long-distance line (Техника)
+	 
+Results for линия доступа:
+	 access line (Компьютеры)
+	 
+Results for линия дуплексной связи (simple):
+	line of duplex communication
+Results for линия задержки:
+	 lag line (Естественные науки)
+	 
+	 delay circuit (Компьютеры)
+	 
+Results for линия задержки на магнитоакустических (спиновых) волнах (simple):
+	the line of a delay on magnetoacoustic (spin) waves
+Results for линия задержки на обратных (прямых) магнитостатических волнах (simple):
+	the line of a delay on the return (direct) magnetostatic waves
+Results for линия задержки на отрезке линии передачи (simple):
+	the line of a delay on a transmission line piece
+Results for линия задержки на поверхностных волнах (simple):
+	the line of a delay on superficial waves
+Results for линия задержки с магнитными сердечниками (simple):
+	line of a delay with magnetic cores
+Results for линия задержки с многократными отражениями (simple):
+	line of a delay with repeated reflections
+Results for линия задержки со взвешенными отводами (simple):
+	the line of a delay with the weighed branches
+Results for линия задержки с электронной перестройкой (simple):
+	line of a delay with electronic reorganization
+Results for линия излучения:
+	 emission line (Техника)
+	 
+Results for линия индукции (simple):
+	line of induction
+Results for линия испускания (simple):
+	line of emission
+Results for линия комбинационного [рамановского] рассеяния (simple):
+	line of combinational [Raman] dispersion
+Results for линия космической (спутниковой) связи (simple):
+	line of space (satellite) communication
+Results for линия кривизны:
+	 camber line (Техника)
+	 
+Results for линия лестничного типа (simple):
+	line of ladder type
+Results for линия люминесценции (simple):
+	line of a luminescence
+Results for линия напряжённости (simple):
+	line of tension
+Results for линия, не отвечающая техническим требованиям (simple):
+	the line which isn't complying technical requirements
+Results for линия обратного хода (simple):
+	line of reverse motion
+Results for линия общего пользования:
+	 common use line (Компьютеры)
+	 
+Results for линия отсчёта (simple):
+	line of counting
+Results for линия пеленга:
+	 line of bearing (Техника)
+	 
+Results for линия передачи:
+	 transmission line 
+Results for линия без потерь:
+	 zero loss circuit (Компьютеры)
+	 
+	 loss-free line (Техника)
+	 
+Results for линия с большими (малыми) потерями (simple):
+	the line with big (small) losses
+Results for линия поверхностной волны (simple):
+	line of a superficial wave
+Results for линия поглощения (simple):
+	line of absorption
+Results for линия положения:
+	 line of position (Техника)
+	 
+Results for линия проверки качества передачи (simple):
+	line of quality check of transfer
+Results for линия профиля (simple):
+	line of a profile
+Results for линия прямого вызова [«горячая» линия] (simple):
+	line of a direct call [the "hot" line]
+Results for линия прямой видимости:
+	 line of sight (Техника)
+	 
+Results for линия прямой (селекторной) связи (simple):
+	line of direct (selector) link
+Results for линия радиосвязи:
+	 communication link (Техника)
+	 
+Results for линия радиоуправления (simple):
+	line of radio control
+Results for линия развёртки (simple):
+	line of development
+Results for линия раздела:
+	 boundary[ˈbaundərɪ] (Естественные науки)
+	 
+	 boundary line (Естественные науки)
+	 
+Results for линия регрессии:
+	 regression line (Компьютеры)
+	 
+Results for линия (сверх)тонкой структуры (simple):
+	the line (over) thin structure
+Results for линия связи с уплотнением (simple):
+	the communication line with consolidation
+Results for линия синхронизации (simple):
+	line of synchronization
+Results for линия скольжения:
+	 slip line (Естественные науки)
+	 
+Results for линия скрайбирования (simple):
+	line of a skraybirovaniye
+Results for линия спектра:
+	 spectral line (Естественные науки)
+	 
+Results for линия спектральных цветностей (simple):
+	line of spectral tsvetnost
+Results for линия спонтанного излучения (simple):
+	line of spontaneous radiation
+Results for линия с распределёнными (сосредоточенными) параметрами (simple):
+	the line with the distributed (concentrated) parameters
+Results for линия с четвертьволновыми коаксиальными опорами (simple):
+	the line with quarter wave coaxial support
+Results for линия телеуправления (simple):
+	line of telecontrol
+Results for линия тока:
+	 streamline[ˈstri:mlaɪn] (Естественные науки)
+	 
+Results for линия управления:
+	 drive line (Компьютеры)
+	 
+	 control line (Техника)
+	 
+Results for линия факсимильной передачи данных (simple):
+	line of facsimile data transmission
+Results for линия цветностей чёрного тела (simple):
+	line of tsvetnost of a black body
+Results for линия электропередачи:
+	 power line 
+	 transmission line (Техника)
+	 
+Results for магистральная (местная, междугородная, многопунктовая) линия связи (simple):
+	main (local, long-distance, mnogopunktovy) communication line
+Results for магнитострикционная линия задержки (simple):
+	magnetostriction line of a delay
+Results for меандровая линия (simple):
+	meandrovy line
+Results for межкоммутаторная соединительная [многоканальная] линия ВЧ-связи (simple):
+	interswitch connecting [multichannel] line of VCh-communication
+Results for (микро)полосковая линия передачи (simple):
+	(micro) strip transmission line
+Results for многослойная линия задержки (simple):
+	multilayered line of a delay
+Results for многоугольная линия задержки (simple):
+	polygonal line of a delay
+Results for многофазная линия (simple):
+	multiphase line
+Results for монолитная линия задержки (simple):
+	monolithic line of a delay
+Results for нагруженная линия:
+	 terminated line (Компьютеры)
+	 
+Results for нагрузочная линия:
+	 operating line (Техника)
+	 
+Results for наземная линия связи:
+	 land communication line 
+	 land link (Компьютеры)
+	 
+Results for неелевская линия (simple):
+	neelevsky line
+Results for нейристорная линия на транзисторах (simple):
+	the neyristorny line on transistors
+Results for (не)однородно уширенная линия (simple):
+	(not) uniformly widened line
+Results for (не)симметричная линия (simple):
+	(not) the symmetric line
+Results for однородная линия передачи (simple):
+	uniform transmission line
+Results for опорная линия (simple):
+	basic line
+Results for оптическая линия задержки (simple):
+	optical line of a delay
+Results for полосковая линия задержки (simple):
+	strip line of a delay
+Results for прямая линия [«прямой провод»] (simple):
+	straight line ["direct line"]
+Results for пупинизированная линия:
+	 loaded line (Техника)
+	 
+Results for радиорелейная линия СВЧ-диапазона (simple):
+	radio relay line of microwave range
+Results for рамзеевская линия (simple):
+	ramzeevsky line
+Results for регулируемая линия задержки (simple):
+	adjustable line of a delay
+Results for рециркулярная линия задержки (simple):
+	retsirkulyarny line of a delay
+Results for ртутная линия задержки (simple):
+	mercury line of a delay
+Results for резонансная линия:
+	 resonance line (Естественные науки)
+	 
+Results for ретрансляционная линия (simple):
+	relaying line
+Results for рэлеевская линия (simple):
+	Rayleigh line
+Results for свёрнутая линия задержки (simple):
+	the curtailed line of a delay
+Results for сверхпроводящая линия задержки (simple):
+	superconducting line of a delay
+Results for селекторная линия (simple):
+	selector line
+Results for свободная линия:
+	 idle line (Компьютеры)
+	 
+	 disengaged line (Техника)
+	 
+Results for силовая линия:
+	 line of force (Техника)
+	 
+Results for сильная линия (simple):
+	strong line
+Results for служебная линия:
+	 service line (Компьютеры)
+	 
+	 order-wire circuit (Техника)
+	 
+Results for согласованная линия передачи (simple):
+	the coordinated transmission line
+Results for соединительная линия:
+	 connecting line (Компьютеры)
+	 
+	 joint link (Техника)
+	 
+Results for спектральная линия:
+	 spectrum line (Естественные науки)
+	 
+	 spectral line (Техника)
+	 
+Results for спиральная (передачи) линия (simple):
+	spiral (transfer) line
+Results for спиральная линия задержки (simple):
+	spiral line of a delay
+Results for спутниковая линия:
+	 satellite link (Компьютеры)
+	 
+Results for твердотельная линия передачи (simple):
+	solid-state transmission line
+Results for телеграфная линия (simple):
+	cable line
+Results for ультразвуковая линия задержки (simple):
+	ultrasonic line of a delay
+Results for уникурсальная линия (simple):
+	unikursalny line
+Results for феррит-диэлектрическая линия передачи (simple):
+	ferrite - a dielectric transmission line
+Results for фоновая линия спектра (simple):
+	background line of a range
+Results for цепная линия:
+	 catenary line (Естественные науки)
+	 
+Results for цилиндрическая линия задержки (simple):
+	cylindrical line of a delay
+Results for цифровая линия задержки:
+	 digital delay line (Компьютеры)
+	 
+Results for частная линия связи (simple):
+	private communication line
+Results for эквивалентная бесконечная линия передачи (simple):
+	equivalent infinite transmission line
+Results for эквипотенциальная линия:
+	 equipotential line (Естественные науки)
+	 
+Results for экспоненциальная линия передачи (simple):
+	exponential transmission line
+Results for электрическая линия:
+	 electric line (Техника)
+	 
+Results for электрическая линия задержки (simple):
+	electric line of a delay
+Results for электроакустическая линия задержки (simple):
+	electro-acoustic line of a delay
+Results for лист бумаги:
+	 sheet of paper 
+Results for лист памяти (simple):
+	leaf of memory
+Results for листок технических данных (simple):
+	leaf of specifications
+Results for листок тока (simple):
+	current leaf
+Results for ионная [ионно-лучевая] литография (simple):
+	ionic [ion-beam] lithograph
+Results for контактная литография:
+	 contact lithography (Компьютеры)
+	 
+Results for литография для формирования элементов субмикронных размеров (simple):
+	lithograph for formation of elements of the submicronic sizes
+Results for литография с мягким (плотным) контактом (simple):
+	lithograph with soft (dense) contact
+Results for литография с последовательным шаговым экспонированием (simple):
+	lithograph with consecutive step exhibiting
+Results for обратная (взрывная) литография (simple):
+	return (explosive) lithograph
+Results for офсетная литография (simple):
+	offset lithograph
+Results for прецизионная литография:
+	 precision lithography (Компьютеры)
+	 
+	 fine-line lithography (Техника)
+	 
+Results for проекционная литография:
+	 projection printing (Компьютеры)
+	 

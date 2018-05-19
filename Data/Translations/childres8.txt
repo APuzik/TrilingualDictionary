@@ -1,0 +1,2397 @@
+Results for трансортогональный код (simple):
+	transorthogonal code
+Results for трёхэлементный код (simple):
+	three-element code
+Results for универсальный товарный код:
+	 universal product code (Бизнес)
+	 
+Results for управляющий код:
+	 control code (Компьютеры)
+	 
+	 escape code (Техника)
+	 
+Results for цветовой код выводов (simple):
+	color code of conclusions
+Results for четверичный код (simple):
+	quaternary code
+Results for штриховой код:
+	 bar code (Бизнес)
+	 
+Results for экстремальный код (simple):
+	extreme code
+Results for кодек вещательного (речевого) канала (simple):
+	codec of the broadcasting (speech) channel
+Results for кодек источника (simple):
+	source codec
+Results for свёрточный кодек (simple):
+	svyortochny codec
+Results for амплитудный кодер (simple):
+	amplitude coder
+Results for дифференциальный кодер (simple):
+	differential coder
+Results for канальный кодер (simple):
+	channel coder
+Results for квантующий кодер (simple):
+	the quantizing coder
+Results for кодер-декодер:
+	 codec 
+Results for кодер для импульсно-кодовой (широтно-импульсной) модуляции (simple):
+	the coder for pulse code (pulse-width) modulation
+Results for кодер изображения (simple):
+	image coder
+Results for кодер импульсной последовательности (simple):
+	coder of the pulse sequence
+Results for кодер источника (simple):
+	source coder
+Results for кодер приоритетного прерывания (simple):
+	coder of priority interruption
+Results for кодер с исправлением ошибок (simple):
+	the coder with correction of mistakes
+Results for кодер системы цветного телевидения (simple):
+	coder of system of color television
+Results for кодер с линейным предсказанием (simple):
+	the coder with linear prediction
+Results for кодер с перемежаемостью (simple):
+	the coder with a peremezhayemost
+Results for кодер с частичным откликом (simple):
+	the coder with a partial response
+Results for кодер троичных сигналов (simple):
+	coder of ternary signals
+Results for межкадровый кодер (simple):
+	interpersonnel coder
+Results for низкоскоростной кодер (simple):
+	low-speed coder
+Results for оптический кодер (simple):
+	optical coder
+Results for речевой кодер (simple):
+	speech coder
+Results for свёрточный кодер (simple):
+	svyortochny coder
+Results for синус-косинусный кодер (simple):
+	sine - the cosine coder
+Results for тактируемый кодер (simple):
+	taktiruyemy coder
+Results for телеметрический кодер (simple):
+	telemetric coder
+Results for цифровой кодер (simple):
+	digital coder
+Results for адаптивное кодирование (simple):
+	adaptive coding
+Results for алфавитно-геометрическое (-фотографическое) кодирование (simple):
+	alphabetic and geometrical (-photographic) coding
+Results for алфавитное кодирование:
+	 alphabetic coding (Компьютеры)
+	 
+Results for бесшумовое кодирование (simple):
+	besshumovy coding
+Results for битроичное кодирование (simple):
+	bitroichny coding
+Results for блочное кодирование:
+	 block coding (Техника)
+	 
+Results for внутрикадровое кодирование (simple):
+	intra personnel coding
+Results for дуобинарное кодирование (simple):
+	duobinarny coding
+Results for исходное кодирование (simple):
+	initial coding
+Results for канальное кодирование:
+	 channel coding (Компьютеры)
+	 
+Results for кодирование видеосигнала (simple):
+	coding of video signal
+Results for кодирование в системе цветного телевидения (simple):
+	coding in the system of color television
+Results for кодирование изображений преобразованием Адамара (simple):
+	coding of images Hadamard's transformation
+Results for кодирование источника (simple):
+	coding of a source
+Results for кодирование контуров (simple):
+	coding of contours
+Results for кодирование методом широтно-импульсной модуляции (simple):
+	coding by method of pulse-width modulation
+Results for кодирование (отображаемой) информации (simple):
+	coding (displayed) information
+Results for кодирование по глубине расположения (simple):
+	coding on arrangement depth
+Results for кодирование по переходу между цветными полосами (simple):
+	coding on transition between color strips
+Results for кодирование по размеру (simple):
+	coding by the size
+Results for кодирование последовательности кадров (simple):
+	coding of the sequence of shots
+Results for кодирование по участкам (simple):
+	coding on sites
+Results for кодирование по форме (simple):
+	coding in a form
+Results for кодирование преобразованием (simple):
+	coding by transformation
+Results for кодирование речи:
+	 speech coding (Компьютеры)
+	 
+Results for кодирование с задержкой (simple):
+	coding with a delay
+Results for кодирование символов цифрового сигнала (simple):
+	coding of symbols of a digital signal
+Results for кодирование с использованием решётчатых структур (simple):
+	coding with use of trellised structures
+Results for кодирование с (линейным) предсказанием (simple):
+	coding with (linear) prediction
+Results for кодирование с минимизацией времени доступа (simple):
+	coding with minimization of time of access
+Results for кодирование сообщений:
+	 message coding (Компьютеры)
+	 
+Results for кодирование с перемежением (simple):
+	coding with interleaving
+Results for кодирование с помощью шкал (simple):
+	coding by means of scales
+Results for кодирование с прямой и обратной связью (simple):
+	coding with a straight line and feedback
+Results for кодирование с условным замещением (simple):
+	coding with conditional replacement
+Results for кодирование с устранением избыточности (simple):
+	coding with elimination of redundancy
+Results for кодирование с частичным откликом (simple):
+	coding with a partial response
+Results for кодирование формы сигнала:
+	 waveform coding (Техника)
+	 
+Results for кодирование частотой вспышек (simple):
+	coding by the frequency of flashes
+Results for межкадровое кодирование:
+	 inter-frame coding (Компьютеры)
+	 
+Results for межполевое кодирование (simple):
+	interfield coding
+Results for многопозиционное кодирование (simple):
+	multiposition coding
+Results for неравномерное кодирование (simple):
+	uneven coding
+Results for ответное кодирование (simple):
+	reciprocal coding
+Results for параметрическое кодирование:
+	 parametric coding (Компьютеры)
+	 
+Results for поблочное кодирование (simple):
+	block coding
+Results for полярное кодирование (simple):
+	polar coding
+Results for помехоустойчивое кодирование (simple):
+	noiseproof coding
+Results for последовательное кодирование:
+	 sequential coding (Компьютеры)
+	 
+Results for поэлементное кодирование (simple):
+	step-by-step coding
+Results for пробельное кодирование (simple):
+	probelny coding
+Results for резистивно-ёмкостное кодирование (simple):
+	the resistance-capacitance coding
+Results for робастное кодирование источника (simple):
+	robastny coding of a source
+Results for свёрточное кодирование (simple):
+	svyortochny coding
+Results for статистическое кодирование:
+	 economical matching (Техника)
+	 
+Results for структурное кодирование (simple):
+	structural coding
+Results for угловое кодирование (simple):
+	angular coding
+Results for фазовое кодирование (simple):
+	phase coding
+Results for цифровое кодирование изображения (образов, речи) (simple):
+	digital coding of the image (images, speech)
+Results for яркостное кодирование (simple):
+	the brightness coding
+Results for вакуумный кожух (simple):
+	vacuum casing
+Results for кожух защиты (simple):
+	protection casing
+Results for экранированный кожух (simple):
+	screened casing
+Results for зеркальная колба (simple):
+	mirror flask
+Results for колба кварцевого генератора (simple):
+	flask of the quartz generator
+Results for колба кинескопа (simple):
+	kinescope flask
+Results for колба с внутренним покрытием (simple):
+	flask with an internal covering
+Results for колба электрической лампы (simple):
+	flask of an electric lamp
+Results for прозрачная колба (simple):
+	transparent flask
+Results for автономные колебания (simple):
+	autonomous fluctuations
+Results for акустические колебания:
+	 acoustic vibration акустические колебание 
+	 Существительное акустические колебание / акустические колебания 
+	 acoustic vibrations (Техника)
+	 
+Results for апериодические колебания (simple):
+	aperiodic fluctuations
+Results for вторичные колебания (simple):
+	secondary fluctuations
+Results for вынужденные колебания:
+	 forced oscillation (Компьютеры)
+	 вынужденные колебание 
+	 Существительное вынужденные колебание / вынужденные колебания 
+	 forced oscillations (Естественные науки)
+	 
+	 forced vibration (Техника)
+	 вынужденное колебание 
+	 Существительное вынужденное колебание / вынужденные колебания 
+	 forced oscillation (Естественные науки)
+	 
+Results for ганновские колебания:
+	 Gann instability (Техника)
+	 
+Results for гармонические колебания:
+	 harmonic oscillation (Компьютеры)
+	 гармоническое колебание 
+	 Существительное гармоническое колебание / гармонические колебания 
+	 harmonic oscillation 
+	 simple harmonic motion (Естественные науки)
+	 
+Results for джозефсоновские колебания (simple):
+	Josephson fluctuations
+Results for динатронные колебания (simple):
+	dynatron fluctuations
+Results for дрейфовые колебания (simple):
+	drift fluctuations
+Results for изохронные колебания:
+	 isochronal vibrations (Техника)
+	 
+Results for ионно(электронно)-звуковые колебания (simple):
+	it is ionic (electronically) - sound vibrations
+Results for ионные колебания (simple):
+	ionic fluctuations
+Results for (квази)стационарные колебания (simple):
+	(quasi) stationary fluctuations
+Results for когерентные колебания (simple):
+	coherent fluctuations
+Results for колебания акустической (оптической) ветви спектра (simple):
+	fluctuations of an acoustic (optical) branch of a range
+Results for колебания в лазере в режиме свободной генерации (simple):
+	fluctuations in the laser in the mode of free generation
+Results for колебания в пинче (simple):
+	fluctuations in a pincha
+Results for колебания изгиба (simple):
+	fluctuations of a bend
+Results for колебания кристаллической решётки (simple):
+	fluctuations of a crystal lattice
+Results for колебания курсового сигнала (simple):
+	fluctuations of a course signal
+Results for колебания на двух (нескольких) частотах (simple):
+	fluctuations at two (several) frequencies
+Results for колебания на комбинационных частотах (simple):
+	fluctuations at combinational frequencies
+Results for колебания по толщине (ширине) (simple):
+	fluctuations on thickness (width)
+Results for колебания пучка (simple):
+	fluctuations of a bunch
+Results for колебания сдвига:
+	 shear modes (Техника)
+	 
+Results for колебания с изменяющейся частотой (simple):
+	fluctuations with the changing frequency
+Results for колебания скалярной величины (simple):
+	fluctuations of scalar size
+Results for колебания π-типа (simple):
+	fluctuations of π-type
+Results for коллективные колебания:
+	 collective oscillations (Техника)
+	 
+Results for ленгмюровские колебания (simple):
+	Langmuir fluctuations
+Results for магнитостатические колебания (simple):
+	magnetostatic fluctuations
+Results for магнитоупругие колебания (simple):
+	magnetoelastic fluctuations
+Results for межмодовые колебания (simple):
+	intermode fluctuations
+Results for модулированные колебания:
+	 modulated oscillation (Техника)
+	 
+Results for накладывающиеся колебания (simple):
+	the imposed fluctuations
+Results for (не)затухающие колебания (simple):
+	(not) damped oscillations
+Results for непрерывные колебания (simple):
+	continuous fluctuations
+Results for (не)линейные колебания (simple):
+	(not) linear fluctuations
+Results for (не)стационарные колебания (simple):
+	(not) stationary fluctuations
+Results for (не)установившиеся колебания (simple):
+	not established fluctuations
+Results for (не)устойчивые колебания (simple):
+	(not) steady fluctuations
+Results for нормальные колебания:
+	 normal modes (Техника)
+	 
+Results for нулевые колебания:
+	 zero-point oscillations (Техника)
+	 
+Results for одномерные колебания (simple):
+	one-dimensional fluctuations
+Results for одномодовые колебания (simple):
+	single-mode fluctuations
+Results for паразитные колебания:
+	 spurious oscillation (Компьютеры)
+	 паразитные колебание 
+	 Существительное паразитные колебание / паразитные колебания 
+	 parasitic oscillations (Техника)
+	 
+Results for параметрические колебания:
+	 parametric vibrations (Техника)
+	 
+Results for периодические колебания:
+	 periodic vibration (Естественные науки)
+	 
+Results for пилообразные колебания:
+	 saw-tooth wave (Естественные науки)
+	 
+Results for плазменные колебания:
+	 plasma oscillation (Естественные науки)
+	 
+Results for поляризованные колебания (simple):
+	the polarized fluctuations
+Results for поперечные колебания:
+	 lateral vibrations (Техника)
+	 поперечное колебание 
+	 Существительное поперечное колебание / поперечные колебания 
+	 transverse vibration (Естественные науки)
+	 
+Results for продольные колебания:
+	 longitudinal oscillations (Техника)
+	 
+	 axial vibrations (Техника)
+	 продольное колебание 
+	 Существительное продольное колебание / продольные колебания 
+	 longitudinal vibration (Естественные науки)
+	 
+Results for простые колебания (simple):
+	simple fluctuations
+Results for радиочастотные [РЧ-] колебания (simple):
+	radio-frequency [RCh-] fluctuations
+Results for резонансные колебания:
+	 resonance oscillation (Компьютеры)
+	 
+Results for релаксационные колебания (simple):
+	relaxation fluctuations
+Results for самовозбуждающиеся колебания [автоколебания] (simple):
+	self-excited fluctuations [self-oscillations]
+Results for свободные колебания:
+	 free oscillation (Техника)
+	 
+Results for СВЧ-колебания (simple):
+	Microwave fluctuations
+Results for связанные колебания:
+	 coupled vibrations (Естественные науки)
+	 
+Results for синусоидальные колебания:
+	 sine wave oscillation (Компьютеры)
+	 синусоидальные колебание 
+	 Существительное синусоидальные колебание / синусоидальные колебания 
+	 sine wave oscillations (Техника)
+	 
+Results for синхронные колебания:
+	 synchronic vibration (Техника)
+	 
+Results for сложные колебания (simple):
+	difficult fluctuations
+Results for собственные колебания:
+	 natural oscillation (Компьютеры)
+	 собственное колебание 
+	 Существительное собственное колебание / собственные колебания 
+	 eigentone (Естественные науки)
+	 
+Results for (суб)гармонические колебания (simple):
+	(sub) harmonic oscillations
+Results for уокеровские колебания (simple):
+	uokerovsky fluctuations
+Results for фоновые колебания (simple):
+	background fluctuations
+Results for циклотронно-звуковые колебания (simple):
+	cyclotron sound vibrations
+Results for циклотронные колебания (simple):
+	cyclotron fluctuations
+Results for электрические колебания (simple):
+	electric fluctuations
+Results for электромагнитные колебания:
+	 electromagnetic oscillation электромагнитные колебание 
+	 Существительное электромагнитные колебание / электромагнитные колебания 
+	 electromagnetic modes (Техника)
+	 
+Results for количество движения:
+	 momentum[məuˈmentəm] (Естественные науки)
+	 
+Results for количество освещения:
+	 quantity of illumination (Техника)
+	 
+Results for количество (переданной, совместной, условной) информации (simple):
+	quantity (transferred, joint, conditional) information
+Results for количество электричества:
+	 electric quantity (Техника)
+	 
+Results for количество энергии (simple):
+	amount of energy
+Results for аксиальный коллапс (simple):
+	axial collapse
+Results for коллапс транспортного тока (simple):
+	collapse of transport current
+Results for спонтанный коллапс (simple):
+	spontaneous collapse
+Results for коллектор дырок (simple):
+	collector of holes
+Results for коллектор на гетеропереходе (simple):
+	the collector on a heterojunction
+Results for коллектор с ловушкой (simple):
+	the collector with a trap
+Results for коллектор с магнитной линзой (simple):
+	the collector with a magnetic lens
+Results for коллектор с наклонным магнитным полем (simple):
+	the collector with inclined magnetic field
+Results for коллектор с рекуперацией (simple):
+	the collector with recovery
+Results for коллектор транзистора (simple):
+	collector of the transistor
+Results for коллектор электронов (simple):
+	collector of electrons
+Results for многоступенчатый коллектор (simple):
+	multistage collector
+Results for общий коллектор:
+	 common collector (Компьютеры)
+	 
+Results for плавающий коллектор (simple):
+	floating collector
+Results for скрытый коллектор:
+	 buried collector (Компьютеры)
+	 
+Results for коллиматор пучка (simple):
+	bunch collimator
+Results for магнитный коллоид (simple):
+	magnetic colloid
+Results for колода перфокарт (simple):
+	pack of punched cards
+Results for изоляционная колодка (simple):
+	insulating block
+Results for контактная колодка:
+	 terminal block (Техника)
+	 
+Results for переходная колодка (simple):
+	transitional block
+Results for штепсельная колодка:
+	 receptacle[rɪˈseptəkl] (Техника)
+	 
+Results for воздушная колонка (simple):
+	air column
+Results for звуковая колонка:
+	 stereo speaker 
+Results for колонка громкоговорителя (simple):
+	loudspeaker column
+Results for колонка перфокарты (simple):
+	punched card column
+Results for колонка (стерео)усилителя (simple):
+	column (stereo) of the amplifier
+Results for визуальный колориметр:
+	 visual colorimeter (Техника)
+	 
+Results for колориметр-яркомер (simple):
+	colorimeter-yarkomer
+Results for физический колориметр (simple):
+	physical colorimeter
+Results for фотоэлектрический трёхцветный колориметр (simple):
+	photo-electric three-colored colorimeter
+Results for защитный колпачок (simple):
+	protective cap
+Results for колпачок анода лампы (simple):
+	lamp anode cap
+Results for кольцевидный колпачок (simple):
+	ring-shaped cap
+Results for экранирующий колпачок (simple):
+	the shielding cap
+Results for вихревое кольцо:
+	 vortex ring (Техника)
+	 
+Results for гибридное кольцо (simple):
+	hybrid ring
+Results for дифракционное кольцо:
+	 diffraction ring (Техника)
+	 
+Results for диффузионное кольцо:
+	 diffusion ring (Техника)
+	 
+Results for кольцо автозахвата (simple):
+	autocapture ring
+Results for кольцо возбуждения (simple):
+	excitement ring
+Results for кольцо защиты файла (simple):
+	ring of protection of the file
+Results for кольцо коллектора (simple):
+	collector ring
+Results for кольцо передачи (simple):
+	transfer ring
+Results for кольцо приёма (simple):
+	reception ring
+Results for кольцо размагничивания кинескопа (simple):
+	ring of demagnetization of a kinescope
+Results for кольцо разрешения записи (simple):
+	ring of permission of record
+Results for контактное кольцо:
+	 slip ring (Техника)
+	 
+	 slip-ring (Техника)
+	 
+Results for охранное кольцо:
+	 guard ring (Техника)
+	 
+Results for плазменное кольцо (simple):
+	plasma ring
+Results for резистивное кольцо (simple):
+	resistive ring
+Results for сверхпроводящее кольцо (simple):
+	superconducting ring
+Results for уплотняющее кольцо:
+	 packing ring (Естественные науки)
+	 
+	 packing disc (Техника)
+	 
+Results for экранирующее кольцо:
+	 shielded ring (Техника)
+	 
+Results for анизотропная кома (simple):
+	anisotropic coma
+Results for кома третьего порядка (simple):
+	coma of the third order
+Results for меридиальная кома (simple):
+	meridialny coma
+Results for сагиттальная кома (simple):
+	sagittalny coma
+Results for (без, много, одно)адресная команда (simple):
+	(without, much, one) an address instruction
+Results for групповая команда:
+	 generic command (Компьютеры)
+	 
+Results for команда ((без)условного) перехода (simple):
+	team ((without) conditional) transition
+Results for команда блокировки:
+	 ignore instruction (Техника)
+	 
+Results for команда ветвления:
+	 branch instruction (Техника)
+	 
+Results for команда визуализации (simple):
+	team of visualization
+Results for команда возврата:
+	 return instruction (Техника)
+	 
+Results for команда выборки (simple):
+	team of selection
+Results for команда вызова:
+	 calling instruction (Техника)
+	 
+Results for команда выполнения операции (simple):
+	team of performance of operation
+Results for команда для дисплея (simple):
+	team for the display
+Results for команда загрузки (simple):
+	team of loading
+Results for команда запроса:
+	 interrogation command (Компьютеры)
+	 
+Results for команда исполнения:
+	 operate command (Техника)
+	 
+Results for команда косвенной адресации (simple):
+	team of indirect addressing
+Results for команда наведения (simple):
+	team of targeting
+Results for команда на выходном (машинном) языке (simple):
+	team in target (machine) language
+Results for команда обработки сообщений (simple):
+	team of processing of messages
+Results for команда оператора (simple):
+	team of the operator
+Results for команда операции над двоичными словами (числами с плавающей запятой) (simple):
+	team of operation over binary words (numbers from a floating comma)
+Results for команда операционной системы (simple):
+	team of an operating system
+Results for команда организации цикла (simple):
+	team of the organization of a cycle
+Results for команда отображения:
+	 display command (Компьютеры)
+	 
+Results for команда передачи управления:
+	 transfer instruction (Техника)
+	 
+Results for команда переключения (simple):
+	team of switching
+Results for команда пересылки содержимого регистров (simple):
+	team of transfer of contents of registers
+Results for команда повторного исполнения (simple):
+	team of repeated execution
+Results for команда подключения счётчика (simple):
+	team of connection of the counter
+Results for команда подсистемы (simple):
+	team of a subsystem
+Results for команда поиска (simple):
+	team of search
+Results for команда пользователя (simple):
+	team of the user
+Results for команда пошагового регулирования (simple):
+	team of step-by-step regulation
+Results for команда прерывания (simple):
+	team of interruption
+Results for команда привлечения внимания оператора (simple):
+	team of drawing attention of the operator
+Results for команда привязки (simple):
+	team of a binding
+Results for команда (произвольного) останова (simple):
+	team (any) stop
+Results for команда (произвольной) паузы (simple):
+	team (any) pause
+Results for команда пропуска:
+	 skip instruction (Техника)
+	 
+Results for команда просмотра (simple):
+	team of viewing
+Results for команда работы со стеком (simple):
+	team of work with a stack
+Results for команда редактирования данных (текста) (simple):
+	team of editing data (text)
+Results for команда рестарта (simple):
+	team of restart
+Results for команда с адресом нулевого уровня (simple):
+	team with the address of zero level
+Results for команда с косвенной (прямой) адресацией (simple):
+	team with indirect (direct) addressing
+Results for команда с одним оператором (simple):
+	team with one operator
+Results for команда с повторением (simple):
+	team with repetition
+Results for команда сравнения:
+	 compare instruction (Техника)
+	 
+Results for команда стирания (simple):
+	team of deleting
+Results for команда управления задачами (программами, наборами данных) (simple):
+	team of management of tasks (programs, data sets)
+Results for команда условного останова (перехода) (simple):
+	team of a conditional stop (transition)
+Results for команда устройства (simple):
+	command of the device
+Results for команда форматирования (simple):
+	team of formatting
+Results for команда целеуказания (simple):
+	team of targeting
+Results for команда (циклического) сдвига (simple):
+	team (cyclic) shift
+Results for ложная команда:
+	 spurious command (Компьютеры)
+	 
+	 false command (Техника)
+	 
+Results for немодифицированная исходная команда (simple):
+	unmodified initial team
+Results for пустая команда:
+	 noop instruction (Компьютеры)
+	 
+	 blank instruction (Техника)
+	 
+Results for речевая команда:
+	 spoken command (Компьютеры)
+	 
+Results for символическая команда (simple):
+	symbolical team
+Results for служебная команда (simple):
+	office team
+Results for управляющая команда (simple):
+	the operating team
+Results for элементарная команда (simple):
+	elementary team
+Results for эмулирующая команда (simple):
+	the emulating team
+Results for запрещённая комбинация (simple):
+	the forbidden combination
+Results for комбинация кодовых последовательностей (simple):
+	combination of the code sequences
+Results for комбинация разрядов:
+	 bit pattern (Техника)
+	 
+Results for паузная комбинация (simple):
+	pauzny combination
+Results for коммутатор абонентского телеграфа (simple):
+	switchboard of subscriber telegraph
+Results for коммутатор на транзисторах (simple):
+	the switchboard on transistors
+Results for коммутатор переменного знака (simple):
+	switchboard of the variable sign
+Results for коммутатор питания схемы (simple):
+	scheme food switchboard
+Results for коммутатор (приёмных) антенн (simple):
+	switchboard (reception) antennas
+Results for коммутатор с дистанционным управлением (simple):
+	the switchboard with remote control
+Results for коммутатор с памятью (simple):
+	the switchboard with memory
+Results for коммутатор спецэффектов (simple):
+	switchboard of special effects
+Results for коммутатор с улучшенными динамическими свойствами (simple):
+	the switchboard with the improved dynamic properties
+Results for коммутатор фазовых импульсов (simple):
+	switchboard of phase impulses
+Results for коммутатор челночного типа (simple):
+	switchboard of shuttle type
+Results for ртутно-струйный коммутатор (simple):
+	mercury and jet switchboard
+Results for штепсельный коммутатор:
+	 plug commutator (Естественные науки)
+	 
+Results for электромеханический коммутатор:
+	 electromechanical commutator (Техника)
+	 
+Results for электронно-лучевой коммутатор (simple):
+	electron beam switchboard
+Results for электронный коммутатор:
+	 electronic commutator (Техника)
+	 
+Results for автоматическая коммутация:
+	 machine switching (Техника)
+	 
+Results for виртуальная коммутация:
+	 virtual switching (Компьютеры)
+	 
+Results for децентрализованная коммутация (simple):
+	the decentralized switching
+Results for коммутация банков (simple):
+	switching of banks
+Results for коммутация в схеме (simple):
+	switching in the scheme
+Results for коммутация в электрической машине (simple):
+	switching in the electrical machine
+Results for коммутация информации (simple):
+	switching of information
+Results for коммутация каналов:
+	 circuit switching 
+	 channel switching (Компьютеры)
+	 
+Results for коммутация междугородных линий (simple):
+	switching of long-distance lines
+Results for коммутация на линии (simple):
+	switching on the line
+Results for коммутация пакетов сообщений (simple):
+	switching of packages of messages
+Results for коммутация развёрток (simple):
+	switching of development
+Results for коммутация с временным (кодовым, пространственным, частотным) разделением (simple):
+	switching with temporary (code, spatial, frequency) division
+Results for коммутация сообщений:
+	 message switching (Компьютеры)
+	 
+Results for коммутация с предоставлением каналов по требованию (simple):
+	switching with granting channels on demand
+Results for коммутация с программным управлением (simple):
+	switching with program control
+Results for коммутация с промежуточным накоплением (simple):
+	switching with intermediate accumulation
+Results for коммутация фазы (simple):
+	switching of a phase
+Results for коммутация цепей передачи данных (simple):
+	switching of chains of data transmission
+Results for обратная коммутация (simple):
+	return switching
+Results for поверхностная коммутация (simple):
+	superficial switching
+Results for последовательная коммутация:
+	 campo switching (Компьютеры)
+	 
+Results for пространственная коммутация:
+	 space switching (Компьютеры)
+	 
+Results for ступенчатая коммутация (simple):
+	step switching
+Results for транзитная коммутация (simple):
+	transit switching
+Results for шаговая коммутация (simple):
+	step switching
+Results for электромеханическая коммутация (simple):
+	electromechanical switching
+Results for безэховая комната:
+	 anechoic chamber (Техника)
+	 
+Results for чистая комната:
+	 clean room 
+Results for инерционный [слоговый] компандер (simple):
+	inertial [slogovy] compander
+Results for компандер с линейно-кусочной характеристикой (simple):
+	compander with linearly - the piecewise characteristic
+Results for инерционное [слоговое] компандирование (simple):
+	inertial [syllabic] companding
+Results for компандирование высокого порядка (simple):
+	companding of a high order
+Results for компандирование по гиперболическому (параболическому, логарифмическому) закону (simple):
+	companding on hyperbolic (parabolic, logarithmic) to the law
+Results for компандирование речевых знаков (simple):
+	companding of speech signs
+Results for (логарифмически-)линейное компандирование (simple):
+	(logarithmic) linear companding
+Results for мгновенное компандирование (simple):
+	instant companding
+Results for аналоговый компаратор (simple):
+	analog comparator
+Results for быстродействующий компаратор (simple):
+	high-speed comparator
+Results for дифференциальный компаратор (simple):
+	differential comparator
+Results for интерференционный компаратор:
+	 interference comparator (Естественные науки)
+	 
+Results for компаратор величин (simple):
+	comparator of sizes
+Results for компаратор гистерезисного типа (simple):
+	comparator of hysteresis type
+Results for компаратор мощностей (simple):
+	comparator of capacities
+Results for компаратор на двух операционных усилителях (simple):
+	the comparator on two operational amplifiers
+Results for компаратор напряжений:
+	 voltage comparator (Техника)
+	 
+Results for компаратор с одним порогом срабатывания (simple):
+	the comparator with one threshold of operation
+Results for компаратор сопротивлений (simple):
+	comparator of resistance
+Results for компаратор с эталонными уровнями напряжений (simple):
+	the comparator with reference levels of tension
+Results for компаратор цвета (simple):
+	comparator of color
+Results for оптический компаратор:
+	 optical comparator (Естественные науки)
+	 
+Results for панорамный компаратор (simple):
+	panoramic comparator
+Results for фазовый компаратор (simple):
+	phase comparator
+Results for фазоимпульсный компаратор (simple):
+	pulse-phase comparator
+Results for фотоэлектрический компаратор (simple):
+	photo-electric comparator
+Results for цифровой компаратор (simple):
+	digital comparator
+Results for частотный компаратор (simple):
+	frequency comparator
+Results for электрический компаратор (simple):
+	electric comparator
+Results for магнитный компас:
+	 magnetic compass (Техника)
+	 
+Results for солнечный компас:
+	 solar compass (Техника)
+	 
+Results for (а)синхронный компенсатор (simple):
+	(a) synchronous compensator
+Results for кварцевый компенсатор (simple):
+	quartz compensator
+Results for компенсатор Бабине:
+	 Babinet compensator (Естественные науки)
+	 
+Results for компенсатор выпадений сигнала (simple):
+	compensator of losses of a signal
+Results for компенсатор дрожаний (simple):
+	compensator of tremblings
+Results for компенсатор из оптически активного кристалла (simple):
+	the compensator from optically active crystal
+Results for компенсатор радиопеленгатора (simple):
+	radio direction finder compensator
+Results for компенсатор реактивного сопротивления (simple):
+	compensator of jet resistance
+Results for компенсатор сдвига фаз:
+	 phase compensator (Техника)
+	 
+Results for компенсатор Сенармона (simple):
+	Senarmona compensator
+Results for компенсатор скатывающей силы (simple):
+	compensator of skatyvayushchy force
+Results for компенсатор с клином (simple):
+	the compensator with a wedge
+Results for компенсатор Солейля (simple):
+	Soleylya compensator
+Results for компенсатор сопротивления выводов (simple):
+	compensator of resistance of conclusions
+Results for компенсатор Эрингауза (simple):
+	Eringauza compensator
+Results for синхронный компенсатор:
+	 synchronous condenser (Техника)
+	 
+Results for автоматическая компенсация изменения уровня входного сигнала (simple):
+	automatic compensation of change of level of an entrance signal
+Results for адаптивная компенсация с подстройкой по опорному сигналу (simple):
+	adaptive compensation with fine tuning on a basic signal
+Results for компенсация боковых лепестков (simple):
+	compensation of side petals
+Results for компенсация выпадений сигнала (simple):
+	compensation of losses of a signal
+Results for компенсация динамических ошибок (simple):
+	compensation of dynamic mistakes
+Results for компенсация доплеровского сдвига частоты [доплеровская компенсация] (simple):
+	compensation of Doppler shift of frequency [Doppler compensation]
+Results for компенсация дрейфа:
+	 drift compensation (Техника)
+	 
+Results for компенсация затухания (simple):
+	attenuation compensation
+Results for компенсация легирующей примесью (simple):
+	compensation by the alloying impurity
+Results for компенсация межсимвольной интерференции (simple):
+	compensation of an intersymbolical interference
+Results for компенсация огибающей (simple):
+	compensation of bending around
+Results for компенсация ошибок позиционирования (simple):
+	compensation of errors of positioning
+Results for компенсация паразитного сигнала (simple):
+	compensation of a parasitic signal
+Results for компенсация помех по боковым лепесткам ДН (simple):
+	compensation of hindrances on side petals of DN
+Results for компенсация предыскажений (simple):
+	compensation of predyskazheniye
+Results for компенсация синфазных сигналов (simple):
+	compensation of inphase signals
+Results for компенсация скатывающей силы (simple):
+	compensation of skatyvayushchy force
+Results for компенсация собственной скорости носителя РЛС (simple):
+	compensation of own speed of the carrier of radar station
+Results for компенсация токов утечки в стабилизированном источнике тока (simple):
+	compensation of currents of leak in the stabilized current source
+Results for компенсация унаследованных ошибок (simple):
+	compensation of the inherited mistakes
+Results for компенсация фона (simple):
+	compensation of a background
+Results for компенсация фоновых лепестков (simple):
+	compensation of background petals
+Results for компенсация чёрного пятна (simple):
+	compensation of a black spot
+Results for предварительная компенсация:
+	 pre-compensation (Техника)
+	 
+Results for следящая компенсация (simple):
+	the watching compensation
+Results for температурная компенсация:
+	 temperature compensation (Естественные науки)
+	 
+Results for фазовая компенсация:
+	 phase cancellation (Компьютеры)
+	 
+	 phase compensation (Техника)
+	 
+Results for двух(много, одно)проходный компилятор (simple):
+	two (it is a lot of, one) the prokhodny compiler
+Results for кросс-компилятор (simple):
+	cross compiler
+Results for поведенческий компилятор (simple):
+	behavioural compiler
+Results for резидентный компилятор (simple):
+	resident compiler
+Results for функциональный компилятор (simple):
+	functional compiler
+Results for инкрементная компиляция:
+	 incremental compilation (Компьютеры)
+	 
+Results for акцепторный комплекс (simple):
+	acceptor complex
+Results for аппаратно-студийный комплекс (simple):
+	hardware and studio complex
+Results for бортовой телеметрический комплекс (simple):
+	onboard telemetric complex
+Results for донорно-акцепторный комплекс с переносом заряда (simple):
+	donorno-acceptor complex with transfer of a charge
+Results for донорный комплекс (simple):
+	donorny complex
+Results for комплекс информационных сетей (simple):
+	complex of information networks
+Results for комплекс расширения функциональных возможностей (simple):
+	complex of expansion of functionality
+Results for электромагнитный комплекс (simple):
+	electromagnetic complex
+Results for комплект аппаратуры:
+	 apparatus set (Техника)
+	 
+Results for комплект для микро-ЭВМ (simple):
+	set for the micro COMPUTER
+Results for комплект кристаллов (simple):
+	set of crystals
+Results for комплект микросхем (simple):
+	set of chips
+Results for комплект оборудования:
+	 equipment package (Техника)
+	 
+Results for комплект оригиналов (simple):
+	set of originals
+Results for комплект плат (simple):
+	set of payments
+Results for комплект с большим количеством выводов (simple):
+	set with a large number of conclusions
+Results for комплект технических средств (simple):
+	set of technical means
+Results for комплект фотошаблонов (simple):
+	set of photo masks
+Results for микропроцессорный комплект (simple):
+	microprocessor set
+Results for модельный комплект (simple):
+	model set
+Results for модульный комплект (simple):
+	modular set
+Results for активный компонент:
+	 active component (Компьютеры)
+	 
+Results for бескорпусный компонент:
+	 uncased component (Компьютеры)
+	 
+	 chip component (Техника)
+	 
+Results for волноводный компонент (simple):
+	the waveguide component
+Results for герметизированный компонент (simple):
+	the pressurized component
+Results for дискретный компонент:
+	 discrete part (Компьютеры)
+	 
+Results for диффузионный компонент (simple):
+	diffusive component
+Results for компонент в таблеточном исполнении (simple):
+	component in tablet execution
+Results for компонент измерительного прибора (simple):
+	component of the measuring device
+Results for компонент кристалла (simple):
+	crystal component
+Results for компонент, работающий в предельном режиме (simple):
+	the component working in the limit mode
+Results for компонент с аксиальными (балочными, радиальными, столбиковыми) выводами (simple):
+	component with axial (frame, radial, stylar) conclusions
+Results for компонент схемы (simple):
+	scheme component
+Results for многофункциональный компонент (simple):
+	multipurpose component
+Results for модульный компонент (simple):
+	modular component
+Results for навесной компонент:
+	 external component (Техника)
+	 
+Results for нескоммутированный компонент (simple):
+	not commutated component
+Results for пассивный компонент:
+	 passive component (Компьютеры)
+	 
+Results for печатный компонент:
+	 printed component (Компьютеры)
+	 
+Results for сменный компонент (simple):
+	replaceable component
+Results for стандартный компонент:
+	 conventional component (Компьютеры)
+	 
+	 standard component (Техника)
+	 
+Results for структурный компонент (simple):
+	structural component
+Results for твёрдотельный компонент (simple):
+	solid-state component
+Results for (толсто, тонко)плёночный компонент (simple):
+	(thickly, thinly) film component
+Results for унифицированный компонент (simple):
+	the unified component
+Results for (анти)стоксова компонента (simple):
+	(anti-) Stokes component
+Results for компонента графа (simple):
+	count's component
+Results for (не)обыкновенная компонента волны (simple):
+	(not) ordinary wave component
+Results for модульная компоновка (simple):
+	modular configuration
+Results for объёмная компоновка (simple):
+	volume configuration
+Results for инерционная компрессия (simple):
+	inertial compression
+Results for компрессия аналоговых сигналов (simple):
+	compression of analog signals
+Results for компрессия динамического диапазона (simple):
+	compression of dynamic range
+Results for компрессия речи (simple):
+	speech compression
+Results for компрессия синхроимпульсов (simple):
+	compression of clock pulses
+Results for компрессия с предыскажениями (simple):
+	compression with predyskazheniye
+Results for компьютер для персонального пользования (simple):
+	the computer for personal use
+Results for компьютер следующего поколения (simple):
+	computer of the next generation
+Results for безызлучательная конверсия (simple):
+	bezyzluchatelny conversion
+Results for внутренняя конверсия (simple):
+	internal conversion
+Results for излучательная конверсия (simple):
+	radiating conversion
+Results for косвенная конверсия (simple):
+	indirect conversion
+Results for прямая конверсия (simple):
+	direct conversion
+Results for конвертор языка (simple):
+	language converter
+Results for многоканальный конвертор (simple):
+	multichannel converter
+Results for акустооптический конвольвер (simple):
+	optical-acoustic convolver
+Results for акустоэлектрический конвольвер (simple):
+	acoustoelectric convolver
+Results for конвольвер для сжатия диаграммы направленности антенны (simple):
+	convolver for compression of the directional pattern of the antenna
+Results for конвольвер на линии задержки с отводами (simple):
+	convolver on the line of a delay with branches
+Results for конвольвер на спиновых волнах (simple):
+	convolver on spin waves
+Results for конвольвер с полосковой связью (simple):
+	convolver with strip communication
+Results for планарный конвольвер (simple):
+	planar convolver
+Results for полупроводниковый конвольвер (simple):
+	semiconductor convolver
+Results for тонкоплёночный конвольвер (simple):
+	thin-film convolver
+Results for алюминиевый оксидный конденсатор (simple):
+	aluminum oxidic condenser
+Results for безындуктивный конденсатор (simple):
+	bezynduktivny condenser
+Results for бескорпусный конденсатор:
+	 chip capacitor (Техника)
+	 
+Results for бумажный конденсатор:
+	 paper capacitor (Компьютеры)
+	 
+Results for буферный конденсатор:
+	 buffer capacitor (Естественные науки)
+	 
+Results for вакуумный конденсатор:
+	 vacuum capacitor (Естественные науки)
+	 
+Results for вибрационный конденсатор (simple):
+	vibration condenser
+Results for воздушный конденсатор:
+	 air capacitor (Естественные науки)
+	 
+Results for вольтодобавочный конденсатор (simple):
+	voltodobavochny condenser
+Results for встречно-гребенчатый [встречно-штыревой] конденсатор (simple):
+	counter and edge [counter and pin] condenser
+Results for выравнивающий конденсатор:
+	 equalizing capacitor (Компьютеры)
+	 
+	 equalizing condenser (Техника)
+	 
+Results for высоко(низко)вольтный конденсатор (simple):
+	highly (low) voltny condenser
+Results for газонаполненный конденсатор (simple):
+	gas-filled condenser
+Results for герметичный конденсатор (simple):
+	tight condenser
+Results for двухслойный конденсатор (simple):
+	two-layer condenser
+Results for дифференциальный конденсатор:
+	 differential capacitor (Естественные науки)
+	 
+Results for диффузионный конденсатор:
+	 diffused capacitor (Компьютеры)
+	 
+Results for жидкостный конденсатор (simple):
+	liquid condenser
+Results for зарядный конденсатор:
+	 charging capacitor (Компьютеры)
+	 
+Results for интегрирующий конденсатор:
+	 integrating capacitor (Естественные науки)
+	 
+Results for искрогасящий конденсатор (simple):
+	spark extinguishing condenser
+Results for керамический конденсатор:
+	 ceramic capacitor (Естественные науки)
+	 
+Results for конденсатор большой (малой) мощности (simple):
+	condenser of big (small) power
+Results for конденсатор для нейтрализации обратной связи (simple):
+	the condenser for neutralization of feedback
+Results for конденсатор Керра (simple):
+	Kerr's condenser
+Results for конденсатор микросхемы (simple):
+	chip condenser
+Results for конденсатор на обратносмещённом р-n-переходе (simple):
+	the condenser on an obratnosmeshchyonny r - n - transition
+Results for конденсатор настройки антенны:
+	 antenna tuning condenser (Компьютеры)
+	 
+Results for конденсатор переменной (постоянной) ёмкости (simple):
+	condenser of variable (constant) capacity
+Results for конденсатор с аксиальными выводами (simple):
+	the condenser with axial conclusions
+Results for конденсатор с воздушным (жидким) диэлектриком (simple):
+	the condenser with air (liquid) dielectric
+Results for конденсатор связи с антенной (simple):
+	condenser of contact with the antenna
+Results for конденсатор сглаживающего фильтра (simple):
+	the condenser of the smoothing filter
+Results for конденсатор с металлизированными обкладками (simple):
+	the condenser with the metallized facings
+Results for конденсатор с нелинейной ёмкостью (simple):
+	the condenser with a nonlinear capacity
+Results for конденсатор с n-слойным диэлектриком (simple):
+	the condenser with n-layer dielectric
+Results for конденсатор с утечкой (simple):
+	the condenser with leak
+Results for (лавсановый) плёночный конденсатор (simple):
+	(mylar) film condenser
+Results for лакоплёночный конденсатор (simple):
+	lakoplyonochny condenser
+Results for масляный конденсатор:
+	 oil-filled capacitor (Естественные науки)
+	 
+	 oil capacitor (Компьютеры)
+	 
+Results for МДП-конденсатор (simple):
+	TIR condenser
+Results for межкаскадный конденсатор (simple):
+	intercascade condenser
+Results for миниатюрный дисковый конденсатор (simple):
+	tiny disk condenser
+Results for многосекционный конденсатор (simple):
+	multisection condenser
+Results for монолитный конденсатор:
+	 monolithic capacitor (Компьютеры)
+	 
+Results for МОП-конденсатор:
+	 MOS capacitor (Техника)
+	 
+Results for настроечный конденсатор (simple):
+	adjusting condenser
+Results for (не)полярный конденсатор (simple):
+	(not) the polar condenser
+Results for оксидный конденсатор (simple):
+	oxidic condenser
+Results for опресованный конденсатор (simple):
+	the pressured-up condenser
+Results for переключаемый конденсатор:
+	 switched capacitor (Компьютеры)
+	 
+Results for печатный конденсатор:
+	 printed capacitor (Компьютеры)
+	 
+Results for плазменный конденсатор (simple):
+	plasma condenser
+Results for плоский конденсатор:
+	 parallel-plate capacitor (Естественные науки)
+	 
+	 plane capacitor (Компьютеры)
+	 
+Results for поворотный конденсатор:
+	 rotary capacitor (Естественные науки)
+	 
+Results for подстроечный конденсатор:
+	 aligning capacitor (Естественные науки)
+	 
+	 tuning capacitor (Компьютеры)
+	 
+Results for полевой конденсатор:
+	 field effect capacitor (Компьютеры)
+	 
+Results for (полу)сферический конденсатор (simple):
+	(floor) spherical condenser
+Results for помехоподавляющий конденсатор:
+	 interference suppression capacitor (Техника)
+	 
+Results for проволочный конденсатор (simple):
+	wire condenser
+Results for противофоновый конденсатор (simple):
+	antibackground condenser
+Results for проходной конденсатор:
+	 duct capacitor (Естественные науки)
+	 
+	 feedthrough capacitor (Компьютеры)
+	 
+Results for развязывающий конденсатор:
+	 decoupling capacitor (Естественные науки)
+	 
+Results for разделительный конденсатор:
+	 blocking capacitor (Техника)
+	 
+Results for самовосстанавливающийся конденсатор (simple):
+	the self-repairing condenser
+Results for сдвоенный конденсатор (simple):
+	dual condenser
+Results for сегнетоэлектрический конденсатор:
+	 ferroelectric capacitor (Техника)
+	 
+Results for сеточный конденсатор:
+	 grid capacitor (Естественные науки)
+	 
+Results for слюдяной конденсатор:
+	 mica capacitor (Естественные науки)
+	 
+Results for сопрягающий конденсатор:
+	 tacking capacitor (Техника)
+	 
+Results for стеклянный конденсатор:
+	 glass capacitor (Компьютеры)
+	 
+Results for толсто(тонко)плёночный конденсатор (simple):
+	thickly (thinly) film condenser
+Results for трубчатый конденсатор:
+	 tube condenser (Естественные науки)
+	 
+	 tubular condenser (Кулинария)
+	 
+Results for укорачивающий конденсатор антенны (simple):
+	the shortening antenna condenser
+Results for фольговый конденсатор (simple):
+	foil condenser
+Results for цилиндрический конденсатор:
+	 coaxial-cylinder capacitor (Естественные науки)
+	 
+Results for четвертьволновый конденсатор (simple):
+	quarter wave condenser
+Results for шунтирующий конденсатор:
+	 bridging capacitor (Естественные науки)
+	 
+	 shunting condenser (Компьютеры)
+	 
+Results for электролитический конденсатор:
+	 electrolytic capacitor (Естественные науки)
+	 
+Results for элементарный конденсатор (simple):
+	elementary condenser
+Results for эталонный конденсатор:
+	 calibration capacitor (Естественные науки)
+	 
+	 reference capacitor (Компьютеры)
+	 
+Results for конденсор аббе (simple):
+	condenser to ABBA
+Results for конденсор светлого (тёмного) поля (simple):
+	condenser of the light (dark) field
+Results for конец задачи (simple):
+	end of a task
+Results for конец импульса (simple):
+	end of an impulse
+Results for конец ленты (simple):
+	end of a tape
+Results for конец линии (simple):
+	end of the line
+Results for конец обмена (simple):
+	end of exchange
+Results for конец операции выдачи сигнала управления (simple):
+	end of operation of delivery of a signal of management
+Results for конец сеанса передачи (simple):
+	end of a session of transfer
+Results for конец сообщения (simple):
+	end of the message
+Results for конец термопары (simple):
+	end of the thermocouple
+Results for конец файла (simple):
+	end of the file
+Results for открытый конец (simple):
+	open end
+Results for приёмный конец (simple):
+	reception end
+Results for конкуренция встречных волн (simple):
+	competition of counter waves
+Results for конкуренция каналов передачи (simple):
+	competition of channels of transfer
+Results for конкуренция мод (simple):
+	competition of fashion
+Results for консервация изображений (simple):
+	preservation of images
+Results for адресная константа (simple):
+	address constant
+Results for константа анизотропии первого порядка (simple):
+	constant of anisotropy of the first order
+Results for константа времени выполнения:
+	 deferred constant (Компьютеры)
+	 
+Results for константа зеемановского расщепления (simple):
+	constant of zeemanovsky splitting
+Results for константа квадрупольного (обменного, электрон-фононного) взаимодействия (simple):
+	constant kvadrupolny (exchange, an electron - phonon) interactions
+Results for константа магнитострикции (simple):
+	magnetostriction constant
+Results for константа операционной системы (simple):
+	constant of an operating system
+Results for константа сферической аберрации (simple):
+	constant of a spherical aberration
+Results for константа электрострикции (simple):
+	electrostriction constant
+Results for мировая константа (simple):
+	world constant
+Results for равновесная константа распределения (simple):
+	equilibrium constant of distribution
+Results for конструктор радиоаппаратуры (simple):
+	designer of the radio equipment
+Results for конструктор-эксперт (simple):
+	designer expert
+Results for жёсткая конструкция (simple):
+	rigid design
+Results for конструкция данных (simple):
+	design of data
+Results for конструкция, защищённая от неправильного обращения (simple):
+	the design protected from maloperation
+Results for конструкция ИС с перевёрнутыми кристаллами (simple):
+	IS design with the turned crystals
+Results for конструкция кабеля с группированием жил (simple):
+	cable design with grouping of veins
+Results for конструкция перехода (simple):
+	transition design
+Results for конструкция схемы (simple):
+	scheme design
+Results for копланарная конструкция (simple):
+	co-planar design
+Results for модульная конструкция:
+	 modular construction (Компьютеры)
+	 
+Results for отказоустойчивая конструкция:
+	 fault-tolerant design (Техника)
+	 
+Results for унифицированная конструкция (simple):
+	the unified design
+Results for антизапирающий контакт (simple):
+	the anti-locking contact
+Results for базовый контакт (simple):
+	basic contact
+Results for безынерционный контакт (simple):
+	inertialess contact
+Results for бусинковый контакт (simple):
+	businkovy contact
+Results for врубной контакт (simple):
+	vrubny contact
+Results for встречный контакт (simple):
+	counter contact
+Results for выпрямляющий контакт:
+	 rectifying contact (Техника)
+	 
+Results for высоко(низко)омный контакт (simple):
+	highly (low) omny contact
+Results for герметизированный контакт (simple):
+	the pressurized contact
+Results for гибридный контакт (simple):
+	hybrid contact
+Results for джозефсоновский контакт (simple):
+	Josephson contact
+Results for диффузный контакт (simple):
+	diffusion contact
+Results for донорный контакт (simple):
+	donorny contact
+Results for дугогасительный контакт:
+	 arcing contact (Техника)
+	 
+Results for зажимной контакт (simple):
+	tightening contact
+Results for запирающий контакт (simple):
+	the locking contact
+Results for зондовый контакт (simple):
+	probe contact
+Results for изогнутый контакт (simple):
+	curved contact
+Results for катящийся контакт:
+	 rolling contact (Компьютеры)
+	 
+Results for клиновый контакт (simple):
+	wedge contact
+Results for кнопочный контакт:
+	 button contact (Техника)
+	 
+Results for коллекторный контакт (simple):
+	collector contact
+Results for контакт из тугоплавкого металла (simple):
+	contact from refractory metal
+Results for контакт, инжектирующий дырки (электроны) (simple):
+	the contact injecting holes (electrons)
+Results for контакт мгновенного действия (simple):
+	contact of instant action
+Results for контакт металл-полупроводник (simple):
+	contact metal semiconductor
+Results for контакт покоя (simple):
+	rest contact
+Results for контакт реле:
+	 relay contact (Техника)
+	 
+Results for контакт с барьером Шоттки (simple):
+	contact with Schottky's barrier
+Results for контакт со схемой подавления дребезжания (simple):
+	contact with the scheme of suppression of jingle
+Results for ленточный контакт (simple):
+	tape contact
+Results for луженый контакт (simple):
+	tinned contact
+Results for мостиковый контакт:
+	 bridge contact (Компьютеры)
+	 
+Results for мягкий контакт:
+	 soft contact (Компьютеры)
+	 
+Results for напылённый контакт (simple):
+	the raised dust contact
+Results for неинжектирующий контакт (simple):
+	not injecting contact
+Results for нейтральный контакт (simple):
+	neutral contact
+Results for (не)омический контакт (simple):
+	(not) ohmic contact
+Results for (не)перекрывающий контакт (simple):
+	not blocking contact
+Results for (не)подвижный контакт (simple):
+	(not) mobile contact
+Results for (не)фиксируемый контакт (simple):
+	not fixed contact
+Results for ножевой контакт:
+	 knife contact (Техника)
+	 
+Results for обжимной контакт:
+	 crimp contact (Техника)
+	 
+Results for оптический контакт:
+	 optical contact (Техника)
+	 
+Results for паяный контакт:
+	 soldered contact (Компьютеры)
+	 
+Results for переключающий контакт:
+	 change-over contact (Техника)
+	 
+Results for печатный контакт:
+	 printed contact (Техника)
+	 
+Results for плавающий контакт:
+	 floating contact (Компьютеры)
+	 
+Results for планарный контакт (simple):
+	planar contact
+Results for плотный контакт:
+	 hard contact (Компьютеры)
+	 
+Results for полный контакт (simple):
+	full contact
+Results for прижимной контакт:
+	 pressure contact (Компьютеры)
+	 
+Results for проходной контакт (simple):
+	contact through passage
+Results for рабочий контакт:
+	 sending anvil (Техника)
+	 
+Results for размыкающий контакт:
+	 break contact (Техника)
+	 размыкать контакт 
+	 Глагол размыкать контакт / размыкаю контакт  / размыкаешь контакт  / размыкают контакт 
+	 break contact (Естественные науки)
+	 
+Results for ртутный контакт:
+	 mercurial connection (Техника)
+	 
+Results for сварной контакт:
+	 welded contact (Компьютеры)
+	 
+Results for сверхпроводящий контакт (simple):
+	superconducting contact
+Results for скользящий контакт:
+	 sliding contact (Техника)
+	 
+Results for скрытый контакт:
+	 buried contact (Компьютеры)
+	 
+Results for слаботочный контакт (simple):
+	low-current contact
+Results for смачиваемый контакт (simple):
+	the moistened contact
+Results for стыковой контакт (simple):
+	butt contact
+Results for сухой магнитоуправляемый контакт (simple):
+	the dry magnetooperated contact
+Results for считывающий контакт (simple):
+	the reading-out contact
+Results for токовый контакт (simple):
+	current contact
+Results for точечный контакт:
+	 point contact (Компьютеры)
+	 
+Results for удерживающий контакт (simple):
+	the holding contact
+Results for формованный контакт (simple):
+	the formed contact
+Results for цилиндрический контакт (simple):
+	cylindrical contact
+Results for шаровой контакт (simple):
+	spherical contact
+Results for щёточный контакт (simple):
+	brush contact
+Results for электрический контакт:
+	 electrical link (Естественные науки)
+	 
+	 electric contact (Техника)
+	 
+Results for электроосаждённый контакт (simple):
+	the electrobesieged contact
+Results for эмиттерный контакт (simple):
+	emitter contact
+Results for эпитаксиальный контакт (simple):
+	epitaxial contact
+Results for контактор с (не)перекрывающимися контактами (simple):
+	the contactor with not blocked contacts
+Results for (электро)магнитный контактор (simple):
+	(electro) magnetic contactor
+Results for контейнер для разбрасывания дипольных отражателей (simple):
+	container for scattering of dipolar reflectors
+Results for контейнер спускаемого аппарата (simple):
+	lander container
+Results for арифметический континуум (simple):
+	arithmetic continuum
+Results for пространственно-временной континуум (simple):
+	existential continuum
+Results for контраст в мелких деталях (simple):
+	contrast in fine details
+Results for контраст для прямоугольного испытательного растра (simple):
+	contrast for a rectangular test raster
+Results for контраст изображения:
+	 image contrast (Техника)
+	 
+Results for контраст при прямом наблюдении (simple):
+	contrast at direct observation
+Results for пороговый контраст (simple):
+	threshold contrast
+Results for фазовый контраст:
+	 phase contrast (Техника)
+	 
+Results for цветовой контраст:
+	 color contrast (Естественные науки)
+	 
+	 colour contrast (Техника)
+	 
+Results for электростатический контраст (simple):
+	electrostatic contrast
+Results for яркостный контраст:
+	 luminance contrast (Техника)
+	 
+Results for контрастность изображения:
+	 picture contrast 
+	 image contrast (Естественные науки)
+	 
+Results for контрастность интерференционной картины (simple):
+	contrast of an interferential picture
+Results for контрастность спеклов (simple):
+	contrast of spekl
+Results for автономный контроллер (simple):
+	independent controller
+Results for адаптивный контроллер:
+	 adaptive controller (Техника)
+	 
+Results for активный контроллер (simple):
+	active controller
+Results for групповой контроллер:
+	 cluster controller (Техника)
+	 
+Results for двухпозиционный контроллер (simple):
+	on-off controller
+Results for контроллер базы данных (simple):
+	database controller
+Results for контроллер ввода-вывода:
+	 peripheral control unit (Компьютеры)
+	 
+	 I/O controller (Техника)
+	 
+Results for контроллер винчестерского (гибкого) диска (simple):
+	controller of the Winchester (flexible) disk
+Results for контроллер внешнего устройства (simple):
+	controller of the external device
+Results for контроллер дисплея (simple):
+	display controller
+Results for контроллер очерёдности сообщений (simple):
+	controller of sequence of messages
+Results for контроллер прерываний (simple):
+	controller of interruptions
+Results for контроллер прямого доступа к памяти:
+	 direct memory access controller (Компьютеры)
+	 
+Results for контроллер с барабанным переключателем (simple):
+	the controller with the drum switch
+Results for контроллер с двойным входом в канал (simple):
+	the controller with a double entrance to the channel
+Results for контроллер сети (simple):
+	controller of network
+Results for контроллер шин (simple):
+	controller of tires
+Results for микропрограммный контроллер (simple):
+	microprogram controller
+Results for микропроцессорный контроллер:
+	 microprocessor controller (Компьютеры)
+	 
+Results for многоканальный контроллер (simple):
+	multichannel controller
+Results for пассивный контроллер (simple):
+	passive controller
+Results for ручной контроллер:
+	 manual controller (Техника)
+	 
+Results for связной контроллер (simple):
+	coherent controller
+Results for цифровой контроллер (simple):
+	digital controller
+Results for электромагнитный контроллер (simple):
+	electromagnetic controller
+Results for автоматизированный контроль:
+	 automatic test (Техника)
+	 
+Results for автоматический контроль:
+	 automatic control (Естественные науки)
+	 
+	 automatic monitoring (Техника)
+	 
+Results for аппаратный контроль:
+	 hardware check (Техника)
+	 
+Results for внутрисхемный контроль (simple):
+	intra circuit control
+Results for встроенный контроль:
+	 built-in check (Техника)
+	 
+Results for выборочный контроль:
+	 random inspection (Естественные науки)
+	 
+	 selective control (Бизнес)
+	 
+	 sampling inspection (Компьютеры)
+	 
+	 acceptance sampling (Естественные науки)
+	 
+Results for двух(много, одно)ступенчатый контроль (simple):
+	two (it is a lot of, one) step control
+Results for диагностический контроль:
+	 diagnostic check 
+Results for динамический контроль:
+	 runtime check (Техника)
+	 
+Results for контроль без разбраковывания (simple):
+	control without razbrakovyvaniye
+Results for контроль блоков (simple):
+	control of blocks
+Results for контроль буферного накопителя (simple):
+	control of the buffer store
+Results for контроль в реальном масштабе времени (simple):
+	control in real time
+Results for контроль выходных напряжений (simple):
+	control of output tension
+Results for контроль запуска (simple):
+	start control
+Results for контроль за счёт избыточности (simple):
+	control due to redundancy
+Results for контроль излучаемого сигнала (simple):
+	control of the radiated signal
+Results for контроль каналов (simple):
+	control of channels
+Results for контроль качества продукции (simple):
+	quality control of production
+Results for контроль критичности (simple):
+	control of criticality
+Results for контроль линии связи (simple):
+	control of the communication line
+Results for контроль методом двойного счёта (simple):
+	control by method of the double account
+Results for контроль методом дублирования вычислений (simple):
+	control by method of duplication of calculations
+Results for контроль методом обратной передачи (simple):
+	control by method of the return transfer
+Results for контроль метрологической исправности (simple):
+	control of metrological serviceability
+Results for контроль набора задачи (simple):
+	control of set of a task
+Results for контроль на наличие запрещённых комбинаций (simple):
+	control on existence of the forbidden combinations
+Results for контроль на нулевую разность (simple):
+	control on a zero difference
+Results for контроль непрерывного облучения (simple):
+	control of continuous radiation
+Results for контроль носителя (simple):
+	control of the carrier
+Results for контроль ошибок:
+	 error control (Компьютеры)
+	 
+Results for контроль по альтернативному (качественному, количественному) признаку (simple):
+	control on alternative (qualitative, quantitative) to sign
+Results for контроль по блокам (simple):
+	control on blocks
+Results for контроль по избыточности:
+	 redundancy check (Техника)
+	 
+Results for контроль по контрольному образцу (simple):
+	control on a control sample
+Results for контроль по модулю (simple):
+	control on the module
+Results for контроль последовательности (simple):
+	control of the sequence
+Results for контроль по флаговым разрядам (simple):
+	control according to flag categories
+Results for контроль по чётности (simple):
+	control on parity
+Results for контроль программы (simple):
+	control of the program
+Results for контроль промежуточного блока (simple):
+	control of the intermediate block
+Results for контроль проникающим красителем (simple):
+	control by the getting dye
+Results for контроль пуска (simple):
+	start-up control
+Results for контроль регистра (simple):
+	control of the register
+Results for контроль с использованием сигнатур (simple):
+	control with use of signatures
+Results for контроль системы (simple):
+	control of system
+Results for контроль с корректируемым планом:
+	 reduced inspection (Техника)
+	 
+Results for контроль сравнением итогов (simple):
+	control by comparison of results
+Results for контроль с разбраковыванием (simple):
+	control with a razbrakovyvaniye
+Results for контроль суммированием (simple):
+	control by summation
+Results for контроль технических характеристик (simple):
+	control of technical characteristics
+Results for контроль технического состояния (simple):
+	control of technical condition
+Results for контроль технологического процесса:
+	 flow control (Техника)
+	 
+Results for контроль типов данных (simple):
+	control of types of data
+Results for контроль уровня:
+	 level control (Техника)
+	 
+Results for контроль функционального узла (simple):
+	control of functional knot
+Results for контроль циклическим избыточным кодом:
+	 cyclic redundancy check (Компьютеры)
+	 
+Results for контроль чётности (simple):
+	control of parity
+Results for контроль чистоты (simple):
+	purity control
+Results for контроль шума (simple):
+	noise control
+Results for контроль электромагнитной совместимости (simple):
+	control of electromagnetic compatibility
+Results for логический контроль (simple):
+	logical control
+Results for математический контроль (simple):
+	mathematical control
+Results for много(одно)ступенчатый контроль (simple):
+	many (one) step control
+Results for (не)разрушающий контроль (simple):
+	not destroying control
+Results for периодический контроль:
+	 periodic inspection (Техника)
+	 
+Results for последовательный контроль:
+	 sequential control (Бизнес)
+	 
+Results for приёмочный контроль (simple):
+	acceptance control
+Results for программно-логический контроль:
+	 programed-logic check (Техника)
+	 
+Results for программный контроль:
+	 program check (Техника)
+	 
+Results for статистический контроль:
+	 statistical check (Компьютеры)
+	 
+Results for текущий контроль:
+	 monitoring (Естественные науки)
+	 
+	 routine inspection (Техника)
+	 
+Results for тестовый контроль (simple):
+	test control
+Results for функциональный контроль (simple):
+	functional control
+Results for контроттяжка антенны (simple):
+	antenna counterdelay
+Results for анодный контур:
+	 anode circuit (Техника)
+	 
+Results for антенный контур:
+	 aerial circuit (Техника)
+	 
+	 antenna circuit (Компьютеры)
+	 
+Results for апериодический контур:
+	 aperiodic circuit (Естественные науки)
+	 
+Results for вспомогательный (основной) контур системы автоматического регулирования (simple):
+	auxiliary (main) contour of system of automatic control
+Results for вторичный контур:
+	 secondary tuned circuit (Техника)
+	 
+	 secondary circuit (Естественные науки)
+	 
+Results for ёмкостный контур (simple):
+	capacitor contour
+Results for замкнутый контур:
+	 closed path (Естественные науки)
+	 
+	 closed loop (Техника)
+	 
+Results for избирательный контур:
+	 selective circuit (Техника)
+	 
+Results for излучательный контур (simple):
+	radiating contour
+Results for катодный контур (simple):
+	cathodic contour
+Results for коаксиальный контур (simple):
+	coaxial contour
+Results for колебательный контур:
+	 tank circuit (Естественные науки)
+	 
+	 oscillating circuit (Компьютеры)
+	 
+	 spark circuit (Естественные науки)
+	 
+Results for контур знака (simple):
+	sign contour
+Results for контур зоны помех (simple):
+	contour of a zone of hindrances
+Results for контур калибратора (simple):
+	calibrator contour
+Results for контур контроля параметров сигнала (simple):
+	contour of control of parameters of a signal
+Results for контур обратной связи:
+	 feed-back loop (Техника)
+	 
+Results for контур ПЧ (simple):
+	PCh contour
+Results for контур регулирования:
+	 control loop (Техника)
+	 
+Results for контур с автотрансформаторной (внутренней) связью (simple):
+	contour with autotransformer (internal) communication
+Results for контур с до(сверх)критическим затуханием (simple):
+	contour with to (over) critical attenuation
+Results for контур с одним элементом настройки (simple):
+	contour with one element of control
+Results for контур схемы режекции (simple):
+	contour of the scheme of a rezhektion
+Results for контур ударного возбуждения (simple):
+	contour of shock excitement
+Results for контур управления:
+	 guidance loop (Компьютеры)
+	 
+	 control loop (Техника)
+	 
+Results for многовитковый контур (simple):
+	mnogovitkovy contour
+Results for паразитный контур с замыканием на землю (simple):
+	parasitic contour with short circuit on the earth
+Results for параллельный (последовательный) резонансный контур (simple):
+	parallel (consecutive) resonant contour
+Results for первичный контур:
+	 primary circuit (Естественные науки)
+	 
+Results for поглощающий контур:
+	 tank circuit (Техника)
+	 
+Results for промежуточный контур:
+	 tank circuit (Техника)
+	 
+	 intermediate circuit (Компьютеры)
+	 
+Results for разомкнутый контур:
+	 open loop (Техника)
+	 
+Results for расстроенный контур:
+	 dismatched circuit (Компьютеры)
+	 
+	 detuned circuit (Естественные науки)
+	 
+Results for сверхпроводящий контур (simple):
+	superconducting contour
+Results for сеточный контур:
+	 grid tank (Техника)
+	 
+Results for холостой контур (simple):
+	single contour
+Results for конус антенны (simple):
+	antenna cone
+Results for конус вращения:
+	 cone of revolution (Техника)
+	 
+Results for конус излучения (simple):
+	radiation cone
+Results for конус молчания:
+	 cone of silence (Техника)
+	 
+Results for конус прецессии (simple):
+	precession cone
+Results for конус тени (simple):
+	shadow cone
+Results for конус Черенкова (simple):
+	Cherenkov's cone
+Results for предельный конус (simple):
+	limit cone
+Results for прямой круговой конус:
+	 right circular cone (Естественные науки)
+	 
+Results for равносторонний конус (simple):
+	equilateral cone
+Results for усечённый конус (simple):
+	the truncated cone
+Results for коммутируемая конференц-связь (simple):
+	the switched conference communication
+Results for конференц-связь с использованием телевизионных каналов (simple):
+	conference communication with use of television channels
+Results for конференц-связь с передачей неподвижных изображений (simple):
+	conference communication with transfer of motionless images
+Results for конфигурация вычислительной системы (simple):
+	configuration of the computing system
+Results for конфигурация программных (технических) средств (simple):
+	configuration of program (technical) means
+Results for плоская конфигурация:
+	 planar configuration (Техника)
+	 
+Results for пространственная конфигурация:
+	 spatial configuration (Естественные науки)
+	 
+Results for конфликт при совмещении операций (simple):
+	the conflict at combination of operations
+Results for акустический концентратор:
+	 acoustic concentrator (Естественные науки)
+	 
+Results for концентратор вызовов (simple):
+	concentrator of calls
+Results for концентратор микрофона (simple):
+	microphone concentrator
+Results for концентратор (радио)каналов (simple):
+	concentrator (radio) of channels
+Results for концентратор сообщений:
+	 message concentrator (Компьютеры)
+	 
+Results for процессорный концентратор (simple):
+	processor concentrator
+Results for концентрация акцепторов (simple):
+	concentration of acceptors
+Results for концентрация вакансий:
+	 vacancy concentration (Естественные науки)
+	 
+Results for концентрация дефектов:
+	 defect concentration (Компьютеры)
+	 
+Results for концентрация дислокаций (simple):
+	concentration of dislocations
+Results for концентрация доноров (simple):
+	concentration of donors
+Results for концентрация дырок:
+	 hole concentration (Естественные науки)
+	 
+	 holes density (Компьютеры)
+	 
+Results for концентрация заряженных [заряжённых] (нейтральных) частиц (simple):
+	concentration of the loaded [zaryazhyonny] (neutral) particles
+Results for концентрация (избыточных, фотовозбуждённых) носителей (simple):
+	concentration (superfluous, photoexcited) carriers
+Results for концентрация ионов:
+	 ion concentration (Естественные науки)
+	 
+Results for концентрация легирующей (диффундируемой) примеси (simple):
+	concentration of the alloying (diffundiruyemy) impurity
+Results for концентрация напряжений:
+	 stress concentration (Естественные науки)
+	 
+Results for концентрация (не)собственных носителей (simple):
+	concentration (not) of own carriers
+Results for концентрация пар (simple):
+	concentration of couples
+Results for концентрация спинов (simple):
+	concentration of spin
+Results for концентрация центров захвата (simple):
+	concentration of the centers of capture
+Results for концентрация электронов:
+	 electron concentration (Естественные науки)
+	 
+Results for объёмная концентрация (simple):
+	volume concentration
+Results for подповерхностная концентрация (simple):
+	subsurface concentration
+Results for равновесная концентрация:
+	 equilibrium concentration (Естественные науки)
+	 
+Results for собственная концентрация (simple):
+	own concentration
+Results for эквивалентная концентрация:
+	 equivalent concentration (Техника)
+	 
+Results for предложенная концепция (simple):
+	the offered concept
+Results for разработанная концепция (simple):
+	the developed concept
+Results for временная координата (simple):
+	temporary coordinate
+Results for навигационная координата:
+	 navigational coordinate (Техника)
+	 
+Results for нормальная координата:
+	 normal coordinate (Естественные науки)
+	 
+Results for спиновая координата:
+	 spin coordinate (Естественные науки)
+	 
+Results for циклическая координата:
+	 cyclical coordinate (Компьютеры)
+	 
+Results for декартовы координаты:
+	 Cartesian axials (Естественные науки)
+	 декартова координата 
+	 Существительное декартова координата / декартовы координаты 
+	 Cartesian coordinate (Естественные науки)
+	 
+Results for координаты пользователя (simple):
+	user's coordinates
+Results for координаты точки (simple):
+	point coordinates
+Results for координаты устройства (simple):
+	device coordinates
+Results for координаты цветности:
+	 chromaticity co-ordinates (Техника)
+	 
+Results for координаты цели (simple):
+	purpose coordinates
+Results for косоугольные координаты:
+	 oblique coordinates (Естественные науки)
+	 косоугольная координата 
+	 Существительное косоугольная координата / косоугольные координаты 
+	 oblique coordinate (Естественные науки)
+	 
+Results for обобщённые координаты (simple):
+	the generalized coordinates
+Results for ортогональные координаты:
+	 orthogonal coordinates (Техника)
+	 
+Results for полулогарифмические координаты (simple):
+	half-logarithmic coordinates
+Results for полярные координаты:
+	 polar coordinates (Естественные науки)
+	 полярная координата 
+	 Существительное полярная координата / полярные координаты 
+	 polar coordinate (Естественные науки)
+	 
+Results for пространственные координаты:
+	 space coordinates (Естественные науки)
+	 
+	 spatial coordinates (Естественные науки)
+	 пространственная координата 
+	 Существительное пространственная координата / пространственные координаты 
+	 spatial coordinate (Естественные науки)
+	 
+	 space coordinate (Техника)
+	 
+Results for прямоугольные координаты:
+	 rectangular coordinates (Естественные науки)
+	 прямоугольная координата 
+	 Существительное прямоугольная координата / прямоугольные координаты 
+	 orthogonal coordinate (Естественные науки)
+	 
+Results for сферические координаты:
+	 spatial polar coordinates (Естественные науки)
+	 сферическая координата 
+	 Существительное сферическая координата / сферические координаты 
+	 spherical coordinate (Естественные науки)
+	 
+Results for текущие координаты цели (simple):
+	current coordinates of the purpose
+Results for угловые координаты:
+	 angular data (Естественные науки)
+	 угловая координата 
+	 Существительное угловая координата / угловые координаты 
+	 angular coordinate (Техника)
+	 
+Results for удельные координаты цвета (simple):
+	specific coordinates of color
+Results for упреждённые координаты (simple):
+	the anticipated coordinates
+Results for цветовые координаты (simple):
+	color coordinates
+Results for цилиндрические координаты:
+	 cylindrical coordinates (Естественные науки)
+	 цилиндрическая координата 
+	 Существительное цилиндрическая координата / цилиндрические координаты 
+	 cylindrical coordinate (Естественные науки)
+	 
+Results for копия документа (simple):
+	copy of the document
+Results for копия сообщения (simple):
+	copy of the message
+Results for копия эталонного фотошаблона (simple):
+	copy of a reference photo mask
+Results for (не)документальная копия (simple):
+	(not) the documentary copy
+Results for резервная копия:
+	 backup copy 
+Results for факсимильная копия (simple):
+	facsimile copy
+Results for вещественный корень (simple):
+	material root
+Results for квадратный корень:
+	 square root (Естественные науки)
+	 
+Results for корень уравнения:
+	 solution of an equation (Естественные науки)
+	 
+Results for кратный корень (simple):
+	multiple root
+Results for кубический корень:
+	 cube root (Естественные науки)
+	 
+	 cubic root (Техника)
+	 
+Results for характеристический корень (simple):
+	characteristic root
+Results for коробление диска (simple):
+	buckling of a disk
+Results for коробление магнитной ленты (simple):
+	buckling of a magnetic tape
+Results for поперечное коробление:
+	 transverse warping (Техника)
+	 
+	 cupping[ˈkʌpɪŋ] (Естественные науки)
+	 
+Results for продольное коробление:
+	 bowing['bəuɪŋ] (Естественные науки)
+	 
+Results for бесфланцевый корпус (simple):
+	flangeless case
+Results for водонепроницаемый корпус (simple):
+	waterproof case
+Results for герметизированный корпус:
+	 sealed housing (Техника)
+	 
+	 pressurized body (Техника)
+	 
+Results for коаксиальный корпус (simple):
+	coaxial case
+Results for корпус без выводов (simple):
+	the case without conclusions
+Results for корпус ИС с балочными выводами (simple):
+	the IS case with frame conclusions
+Results for корпус кристалла ИС (simple):
+	IS crystal case
+Results for корпус модуля:
+	 modular package (Техника)
+	 
+Results for корпус патронного (таблеточного) типа (simple):
+	case of cartridge (tablet) type
+Results for корпус с герметизирующим фланцем (simple):
+	the case with the pressurizing flange
+Results for корпус с двумя рядами выводов (simple):
+	the case with two rows of conclusions
+Results for корпус с копланарными (полосковыми) выводами (simple):
+	the case with co-planar (strip) conclusions
+Results for корпус с однорядным расположением выводов:
+	 single-in-line package (Компьютеры)
+	 
+Results for корпус транзисторного типа (simple):
+	case of transistor type
+Results for металлокерамический корпус (simple):
+	ceramic-metal case
+Results for плоский корпус:
+	 flat package (Компьютеры)
+	 
+	 flat-pack (Техника)
+	 
+Results for сдвигающийся корпус (simple):
+	the moving case
+Results for стандартный корпус (simple):
+	standard case
+Results for стеклокерамический корпус (simple):
+	glass-ceramic case
+Results for адаптивный корректор:
+	 adaptive equalizer (Компьютеры)
+	 
+Results for амплитудный корректор:
+	 amplitude equalizer (Компьютеры)
+	 
+	 attenuation equalizer (Техника)
+	 
+Results for апертурный корректор (simple):
+	aperture proofreader
+Results for гамма-корректор:
+	 gamma corrector 
+Results for групповой корректор (simple):
+	group proofreader
+Results for контурный корректор (simple):
+	planimetric proofreader
+Results for корректор амплитудно-частотной характеристики (simple):
+	proofreader of the amplitude-frequency characteristic
+Results for корректор видеоголовок (simple):
+	proofreader of video heads
+Results for корректор времени пролёта (simple):
+	proofreader of time of flight
+Results for корректор временных искажений (simple):
+	proofreader of temporary distortions
+Results for корректор группового (фазового) времени задержки (simple):
+	proofreader of group (phase) time of a delay
+Results for корректор доплеровского сдвига частоты (simple):
+	proofreader of Doppler shift of frequency
+Results for корректор затухания (simple):
+	proofreader of attenuation
+Results for корректор измерительного устройства (simple):
+	proofreader of the measuring device
+Results for корректор канала передачи данных (simple):
+	proofreader of a data transmission channel
+Results for корректор линии передач (simple):
+	proofreader of the line of transfers
+Results for корректор направления прихода звука к слушателю (simple):
+	the proofreader of the direction of arrival of a sound to the listener
+Results for корректор нуля:
+	 zero adjuster (Компьютеры)
+	 
+Results for корректор ошибок по скорости (simple):
+	the proofreader of mistakes on speed
+Results for корректор подушкообразных искажений (simple):
+	proofreader of subauriculate distortions
+Results for корректор по производной (simple):
+	the proofreader on a derivative
+Results for корректор пьедестала (simple):
+	proofreader of a pedestal
+Results for корректор развёртки (simple):
+	proofreader of development
+Results for корректор системы передачи речевых сигналов (simple):
+	proofreader of system of transfer of speech signals
+Results for корректор с решающей обратной связью (simple):
+	the proofreader with decisive feedback
+Results for корректор формы сигнала:
+	 waveform corrector (Компьютеры)
+	 
+Results for косинусный корректор:
+	 cosine equalizer (Компьютеры)
+	 
+Results for общий корректор (simple):
+	general proofreader
+Results for трансверсальный корректор (simple):
+	transversal proofreader
+Results for фазовый корректор:
+	 phase equalizer (Компьютеры)
+	 
+	 phase compensator (Техника)
+	 
+Results for частотный корректор:
+	 frequency corrector (Компьютеры)
+	 
+	 frequency compensator (Техника)
+	 
+Results for автоматическая коррекция (simple):
+	automatic correction

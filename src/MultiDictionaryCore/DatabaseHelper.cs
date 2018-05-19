@@ -57,7 +57,7 @@ namespace MultiDictionaryCore
 
             cmd.Parameters["@EntityId"].Value = translation.EntityId;
             cmd.Parameters["@LangId"].Value = translation.Language.Id;
-            cmd.Parameters["@Translation"].Value = translation.Translation;
+            cmd.Parameters["@Translation"].Value = translation.Value;
 
             cmd.ExecuteNonQuery();
 
@@ -84,7 +84,7 @@ namespace MultiDictionaryCore
             cmd.Parameters.Add("@Translation", SqlDbType.NVarChar, 100);
 
             cmd.Parameters["@LangForId"].Value = translation.Language.Id;
-            cmd.Parameters["@Translation"].Value = translation.Translation;
+            cmd.Parameters["@Translation"].Value = translation.Value;
 
             SqlCeDataReader reader = cmd.ExecuteReader();
             if (reader.Read())
@@ -112,7 +112,7 @@ namespace MultiDictionaryCore
                 cmd.Parameters.Add("@Translation", SqlDbType.NVarChar, 100);
 
                 cmd.Parameters["@Id"].Value = translation.Id;
-                cmd.Parameters["@Translation"].Value = translation.Translation;
+                cmd.Parameters["@Translation"].Value = translation.Value;
 
                 cmd.ExecuteNonQuery();
             }

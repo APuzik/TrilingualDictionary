@@ -13,57 +13,61 @@ namespace MultiDictionaryCore
     /// <summary>
     /// Abstart class for every entity
     /// </summary>
-    abstract class Entity : IEntity
+    public abstract class Entity : IEntity
     {
-        public int Id
-        {
-            get { return id; }
-            set { id = value; }
-        }
-
-        int id;
+        public int Id { get; set; }
     }
 
     /// <summary>
     /// Class which describes semantic of a term
     /// </summary>
-    class Semantic : Entity
+    public class SemanticDescription : Entity
     {
     }
 
     /// <summary>
     /// Class which describes knowledge area of a term
     /// </summary>
-    class Topic : Entity
+    public class TopicDescription : Entity
     {
     }
 
     /// <summary>
     /// Class which describes language abstraction
     /// </summary>
-    class Language : Entity
+    public class Language : Entity
     {
     }
 
     /// <summary>
     /// Class which describes part of speech abstraction of a word
     /// </summary>
-    class PartOfSpeech : Entity
+    public class PartOfSpeech : Entity
     {
     }
 
     /// <summary>
     /// Class which describes changeable part abstraction of a word
     /// </summary>
-    class ChangPart : Entity
+    public class ChangPart : Entity
     {
-        ChangPartType type;
+        public ChangPartType Type { get; set; }
+        
+        /// <summary>
+        /// Value of morfema
+        /// </summary>
+        public string Value { get; set; }
+
+        /// <summary>
+        /// Language where morfema is used
+        /// </summary>
+        public Language Language { get; set; }
     }
 
     /// <summary>
     /// Class which describes type of changeable part abstraction. For example "suffix", "ending", "prefix"
     /// </summary>
-    class ChangPartType : Entity
+    public class ChangPartType : Entity
     {
 
     }
@@ -71,10 +75,35 @@ namespace MultiDictionaryCore
     /// <summary>
     /// Class which describes term abstraction
     /// </summary>
-    class Term : Entity
+    public class Term1 : Entity
     {
-        public Topic Topic { get; set; }
-        public Semantic Semantic { get; set; }        
-        public Term Parent { get; set; }
+        public TopicDescription Topic { get; set; }
+        public SemanticDescription Semantic { get; set; }        
+        public Term1 Parent { get; set; }
+
+        //internal void AddTranslation(TermTranslation item)
+        //{
+        //    List<TermTranslation> trans;
+        //    if (!translations.TryGetValue(item.LanguageId, out trans))
+        //    {
+        //        trans = new List<TermTranslation>();
+        //        translations.Add(item.Translation.Language.Id, trans);
+        //    }
+
+        //    trans.Add(item);
+        //    trans.Sort((word1, word2) => word1.Translation.Value.CompareTo(word2.Translation.Value));            
+        //}
+
+        //internal List<TermTranslation> GetTranslation(int languageId)
+        //{
+        //    List<TermTranslation> trans = null;
+        //    if (!translations.TryGetValue(languageId, out trans))
+        //    {
+        //        return null;
+        //    }
+        //    return trans;
+        //}
+
+        //private Dictionary<int, List<TermTranslation>> translations = new Dictionary<int, List<TermTranslation>>();
     }
 }

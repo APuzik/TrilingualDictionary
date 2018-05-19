@@ -1,169 +1,212 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿//using System;
+//using System.Collections.Generic;
+//using System.Linq;
+//using System.Text;
+//using System.Threading.Tasks;
 
-namespace MultiDictionaryCore
-{
-    class MultiLingDictionary
-    {
-        Dictionary<int, Term> terms = new Dictionary<int, Term>();        
-        Dictionary<int, EntityTranslation> termTranslations = new Dictionary<int, EntityTranslation>();
+//namespace MultiDictionaryCore
+//{
+//    public class MultiLingDictionary
+//    {
+//        Dictionary<int, Term> terms = new Dictionary<int, Term>();
+//        Dictionary<string, List<Term>> termByTranslation = new Dictionary<string, List<Term>>();
 
-        Dictionary<int, Language> languages = new Dictionary<int, Language>();        
-        Dictionary<int, EntityTranslation> langTranslations = new Dictionary<int, EntityTranslation>();
+//        Dictionary<int, EntityTranslation> termTranslations = new Dictionary<int, EntityTranslation>();
 
-        Dictionary<int, Semantic> semantics = new Dictionary<int, Semantic>();        
-        Dictionary<int, EntityTranslation> semanticTranslations = new Dictionary<int, EntityTranslation>();
+//        Dictionary<int, Language> languages = new Dictionary<int, Language>();        
+//        Dictionary<int, EntityTranslation> langTranslations = new Dictionary<int, EntityTranslation>();
 
-        Dictionary<int, Topic> topics = new Dictionary<int, Topic>(); 
-        Dictionary<int, EntityTranslation> topicTranslations = new Dictionary<int, EntityTranslation>();
+//        Dictionary<int, SemanticDescription> semantics = new Dictionary<int, SemanticDescription>();        
+//        Dictionary<int, EntityTranslation> semanticTranslations = new Dictionary<int, EntityTranslation>();
 
-        Dictionary<int, PartOfSpeech> partsOfSpeech = new Dictionary<int, PartOfSpeech>(); 
-        Dictionary<int, EntityTranslation> partOfSpeechTranslations = new Dictionary<int, EntityTranslation>();
+//        Dictionary<int, TopicDescription> topics = new Dictionary<int, TopicDescription>(); 
+//        Dictionary<int, EntityTranslation> topicTranslations = new Dictionary<int, EntityTranslation>();
 
-        Dictionary<int, ChangPartType> changTypes = new Dictionary<int, ChangPartType>(); 
-        Dictionary<int, EntityTranslation> changTypeTranslations = new Dictionary<int, EntityTranslation>();
+//        Dictionary<int, PartOfSpeech> partsOfSpeech = new Dictionary<int, PartOfSpeech>(); 
+//        Dictionary<int, EntityTranslation> partOfSpeechTranslations = new Dictionary<int, EntityTranslation>();
 
-        Dictionary<int, ChangPart> changeables = new Dictionary<int, ChangPart>(); 
-        Dictionary<int, EntityTranslation> changeableTranslations = new Dictionary<int, EntityTranslation>();
+//        Dictionary<int, ChangPartType> changTypes = new Dictionary<int, ChangPartType>(); 
+//        Dictionary<int, EntityTranslation> changTypeTranslations = new Dictionary<int, EntityTranslation>();
 
-        bool AddTerm(Semantic sem, Topic topic, Term parent)
-        {
-            try
-            {
-                Term newTerm = new Term
-                {
-                    Topic = topic,
-                    Semantic = sem,
-                    Parent = parent
-                };
-                int id = SaveToDB(newTerm);
-                newTerm.Id = id;
+//        Dictionary<int, ChangPart> changeables = new Dictionary<int, ChangPart>(); 
+//        //Dictionary<int, EntityTranslation> changeableTranslations = new Dictionary<int, EntityTranslation>();
 
-                terms.Add(id, newTerm);
-                return true;
-            }
-            catch(Exception ex)
-            {
+//        public IDataSource Database { get; set; }
+//        public ITermFactory TermFactory { get; set; }
 
-            }
-            return false;
-        }
+//        public bool AddTranslation(Term term, TermTranslation item)
+//        {
+//            term.AddTranslation(item);
+//            return true;
+//        }
 
-        bool AddTermTranslation(Language lang, Term term, string translation)
-        {
-            try
-            {
-                EntityTranslation newTermTranslation = new EntityTranslation
-                {
-                    Entity = term,
-                    Translation= translation
-                };
-                int id = SaveTermTranslationToDB(lang, newTermTranslation);
-                newTermTranslation.Id = id;
+//        public Term AddTerm(Term parent, TermTranslation item)
+//        {
+//            Term term = TermFactory.CreateTerm();
 
-                termTranslations.Add(id, newTermTranslation);
-                return true;
-            }
-            catch (Exception ex)
-            {
+//            AddTranslation(term, item);
+//            terms.Add(term.Id, term);
 
-            }
-            return false;
-        }
+//            return term;
+//        }
 
-        bool AddLanguage()
-        {
-            try
-            {
-                Language newLang = new Language();
-                int id = SaveLanguageToDB(newLang);
-                newLang.Id = id;
+//        public Term GetTerm(int languageId, string translation)
+//        {
+            
+//        }
 
-                languages.Add(id, newLang);
-                return true;
-            }
-            catch (Exception ex)
-            {
+//        bool AddTerm(SemanticDescription sem, TopicDescription topic, Term parent)
+//        {
+//            try
+//            {
+//                Term newTerm = new Term
+//                {
+//                    Topic = topic,
+//                    Semantic = sem,
+//                    Parent = parent
+//                };
+//                int id = SaveToDB(newTerm);
+//                newTerm.Id = id;
 
-            }
-            return false;
-        }
+//                terms.Add(id, newTerm);
+//                return true;
+//            }
+//            catch(Exception ex)
+//            {
 
-        bool AddSemantic()
-        {
-            try
-            {
-                Semantic newSemantic = new Semantic();
-                int id = SaveSemanticToDB(newSemantic);
-                newSemantic.Id = id;
+//            }
+//            return false;
+//        }
 
-                semantics.Add(id, newSemantic);
-                return true;
-            }
-            catch (Exception ex)
-            {
+//        bool AddTermTranslation(Language lang, Term term, string translation)
+//        {
+//            try
+//            {
+//                EntityTranslation newTermTranslation = new EntityTranslation
+//                {
+//                    Entity = term,
+//                    Value= translation
+//                };
+//                int id = SaveTermTranslationToDB(lang, newTermTranslation);
+//                newTermTranslation.Id = id;
 
-            }
-            return false;
-        }
+//                termTranslations.Add(id, newTermTranslation);
+//                return true;
+//            }
+//            catch (Exception ex)
+//            {
 
-        bool AddLanguage()
-        {
-            try
-            {
-                Language newLang = new Language();
-                int id = SaveLanguageToDB(newLang);
-                newLang.Id = id;
+//            }
+//            return false;
+//        }
 
-                languages.Add(id, newLang);
-                return true;
-            }
-            catch (Exception ex)
-            {
+//        bool AddLanguage()
+//        {
+//            try
+//            {
+//                Language newLang = new Language();
+//                int id = SaveLanguageToDB(newLang);
+//                newLang.Id = id;
 
-            }
-            return false;
-        }
+//                languages.Add(id, newLang);
+//                return true;
+//            }
+//            catch (Exception ex)
+//            {
 
-        bool AddLanguage()
-        {
-            try
-            {
-                Language newLang = new Language();
-                int id = SaveLanguageToDB(newLang);
-                newLang.Id = id;
+//            }
+//            return false;
+//        }
 
-                languages.Add(id, newLang);
-                return true;
-            }
-            catch (Exception ex)
-            {
+//        bool AddSemantic()
+//        {
+//            try
+//            {
+//                SemanticDescription newSemantic = new SemanticDescription();
+//                int id = SaveSemanticToDB(newSemantic);
+//                newSemantic.Id = id;
 
-            }
-            return false;
-        }
+//                semantics.Add(id, newSemantic);
+//                return true;
+//            }
+//            catch (Exception ex)
+//            {
 
-        private int SaveLanguageToDB(Language newLang)
-        {
-            throw new NotImplementedException();
-        }
+//            }
+//            return false;
+//        }
 
-        private int SaveTermTranslationToDB(Language lang, EntityTranslation translationForLang)
-        {
-            throw new NotImplementedException();
-        }
+//        //bool AddLanguage()
+//        //{
+//        //    try
+//        //    {
+//        //        Language newLang = new Language();
+//        //        int id = SaveLanguageToDB(newLang);
+//        //        newLang.Id = id;
 
-        private int SaveToDB(Term newTerm)
-        {
-            throw new NotImplementedException();
-        }
+//        //        languages.Add(id, newLang);
+//        //        return true;
+//        //    }
+//        //    catch (Exception ex)
+//        //    {
 
-        private int SaveSemanticTranslationToDB(EntityTranslation semantic)
-        {
-            //semantic.DBOperations.InsertEntityQuery
-        }
-    }
-}
+//        //    }
+//        //    return false;
+//        //}
+
+//        //bool AddLanguage()
+//        //{
+//        //    try
+//        //    {
+//        //        Language newLang = new Language();
+//        //        int id = SaveLanguageToDB(newLang);
+//        //        newLang.Id = id;
+
+//        //        languages.Add(id, newLang);
+//        //        return true;
+//        //    }
+//        //    catch (Exception ex)
+//        //    {
+
+//        //    }
+//        //    return false;
+//        //}
+
+//        private int SaveLanguageToDB(Language newLang)
+//        {
+//            throw new NotImplementedException();
+//        }
+
+//        private int SaveTermTranslationToDB(Language lang, EntityTranslation translationForLang)
+//        {
+//            throw new NotImplementedException();
+//        }
+
+//        private int SaveToDB(Term newTerm)
+//        {
+//            throw new NotImplementedException();
+//        }
+
+//        private int SaveSemanticTranslationToDB(EntityTranslation semantic)
+//        {
+//            //semantic.DBOperations.InsertEntityQuery
+//        }
+//    }
+
+//    public interface ITermFactory
+//    {
+//        IDataSource DataSource { get; set; }
+//        Term CreateTerm();
+//    }
+
+//    internal class TermFactory : ITermFactory
+//    {
+//        public Term CreateTerm()
+//        {
+//            return new Term();
+//        }
+//    }
+
+
+
+//}

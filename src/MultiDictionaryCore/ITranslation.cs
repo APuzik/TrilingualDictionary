@@ -12,7 +12,7 @@ namespace MultiDictionaryCore
         //Id of entity to translate
         int EntityId { get; set; }
         Language Language { get; set; }
-        string Translation { get; set; }
+        string Value { get; set; }
     }
 
     public interface ITranslationDBOperations

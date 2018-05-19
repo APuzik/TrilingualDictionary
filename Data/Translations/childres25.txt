@@ -1,0 +1,2411 @@
+Results for акустооптический фильтр:
+	 acousto-optic filter (Компьютеры)
+	 
+Results for амплитудный фильтр:
+	 amplitude filter (Естественные науки)
+	 
+Results for аподизованый фильтр (simple):
+	apodizovany filter
+Results for безынерционный фильтр:
+	 inertialess filter (Техника)
+	 
+Results for (бес)полюсный фильтр (simple):
+	(demon) polar filter
+Results for бесселевский фильтр (simple):
+	besselevsky filter
+Results for биквадратный фильтр (simple):
+	biquadratic filter
+Results for биномиальный фильтр (simple):
+	binomial filter
+Results for волноводный фильтр:
+	 waveguide filter (Компьютеры)
+	 
+Results for волоконно-оптический фильтр (simple):
+	fiber-optical filter
+Results for восстанавливающий фильтр (simple):
+	the restoring filter
+Results for входной полосовой фильтр (simple):
+	entrance strip filter
+Results for высоко(низко)частотный [ВЧ-, НЧ-] фильтр (simple):
+	highly (low) frequency [VCh-, LF-] the filter
+Results for голографический фильтр (simple):
+	holographic filter
+Results for гребёнчатый фильтр (simple):
+	edge filter
+Results for двоичный фильтр (simple):
+	binary filter
+Results for двумерный фильтр (simple):
+	two-dimensional filter
+Results for двухконтурный фильтр (simple):
+	double-circuit filter
+Results for дву(четырёх)плечий фильтр (simple):
+	two-(four) plechiya filter
+Results for дискретный фильтр (simple):
+	discrete filter
+Results for диэлектрический фильтр (simple):
+	dielectric filter
+Results for дроссельный фильтр:
+	 stopper circuit (Естественные науки)
+	 
+Results for заградительный фильтр:
+	 band-stop filter (Техника)
+	 
+Results for избирательный фильтр:
+	 selective filter (Естественные науки)
+	 
+Results for интегрирующий фильтр (simple):
+	the integrating filter
+Results for интерполяционный фильтр (simple):
+	interpolation filter
+Results for интерференционно-поляризационный фильтр (simple):
+	interferential and polarizing filter
+Results for канонический рекурсивный фильтр (simple):
+	initial recursive filter
+Results for квадратурный фильтр (simple):
+	quadrature filter
+Results for квазиоптический фильтр:
+	 quasi-optical filter (Техника)
+	 
+Results for кварцевый фильтр:
+	 crystal filter (Техника)
+	 
+Results for керамический фильтр (simple):
+	ceramic filter
+Results for коаксиальный фильтр (simple):
+	coaxial filter
+Results for комплексный пространственный фильтр (simple):
+	complex spatial filter
+Results for корректирующий фильтр:
+	 compensating filter (Техника)
+	 
+Results for магнитооптический фильтр (simple):
+	magnetooptical filter
+Results for магнитострикционный фильтр (simple):
+	magnetostriction filter
+Results for межкаскадный фильтр (simple):
+	intercascade filter
+Results for механический фильтр:
+	 mechanical filter (Естественные науки)
+	 
+Results for минимально-фазовый фильтр (simple):
+	minimum-phase filter
+Results for многозвенный фильтр:
+	 ladder-type filter (Техника)
+	 
+Results for (много)канальный фильтр (simple):
+	(many) channel filter
+Results for многокаскадный фильтр (simple):
+	multicascade filter
+Results for многополосный фильтр:
+	 multiple bandpass filter (Компьютеры)
+	 
+Results for (много)резонаторный фильтр (simple):
+	(many) rezonatorny filter
+Results for модуляционный фильтр (simple):
+	modulation filter
+Results for мостовой фильтр (simple):
+	bridge filter
+Results for направленный фильтр:
+	 directional filter (Техника)
+	 
+Results for (не)линейный фильтр (simple):
+	(not) linear filter
+Results for неперестраиваемый фильтр:
+	 constant filter (Компьютеры)
+	 
+Results for (не)рекурсивный фильтр (simple):
+	(not) the recursive filter
+Results for (не)согласованный фильтр (simple):
+	not coordinated filter
+Results for (не)стационарный фильтр (simple):
+	(not) the stationary filter
+Results for обратный фильтр:
+	 inverted filter (Естественные науки)
+	 
+	 reciprocal filter (Техника)
+	 
+Results for оптический фильтр:
+	 optical filter (Естественные науки)
+	 
+Results for отбеливающий фильтр (simple):
+	the bleaching filter
+Results for отражательный фильтр (simple):
+	reflective filter
+Results for параметрический фильтр:
+	 parametric filter (Техника)
+	 
+Results for (плавно) перестраиваемый фильтр (simple):
+	(smoothly) reconstructed filter
+Results for поглощающий фильтр:
+	 absorbent filter (Компьютеры)
+	 
+Results for полосковый фильтр (simple):
+	strip filter
+Results for полосовой фильтр:
+	 bandpass filter (Естественные науки)
+	 
+Results for (последовательно-, параллельно-)производный фильтр типа  (simple):
+	(consecutive, parallel) derivative filter of type
+Results for предсказывающий фильтр (simple):
+	the predicting filter
+Results for пространственный фильтр (simple):
+	spatial filter
+Results for проходной фильтр:
+	 inline filter (Техника)
+	 
+Results for псофометрический фильтр (simple):
+	psofometrichesky filter
+Results for пьезокерамический фильтр:
+	 piezoelectic ceramic filter (Техника)
+	 
+Results for пьезокристаллический фильтр (simple):
+	pyezokristallichesky filter
+Results for пьезоэлектрический фильтр (simple):
+	piezoelectric filter
+Results for радиолокационный фильтр селекции движущихся целей с череспериодной компенсацией (simple):
+	the radar filter of selection of moving targets with cheresperiodny compensation
+Results for развязывающий фильтр:
+	 decoupling filter (Компьютеры)
+	 
+Results for разделительный фильтр:
+	 branching filter (Компьютеры)
+	 
+	 diplexer (Техника)
+	 
+	 separating filter (Кулинария)
+	 
+	 separation filter (Естественные науки)
+	 
+Results for режекторный фильтр:
+	 notch filter (Музыка)
+	 
+	 rejection filter (Компьютеры)
+	 
+	 notch network (Техника)
+	 
+Results for резистивно-ёмкостный фильтр (simple):
+	the resistance-capacitance filter
+Results for резонансный фильтр:
+	 tuned filter (Техника)
+	 
+Results for свёрточный фильтр (simple):
+	svyortochny filter
+Results for сверхпроводящий фильтр (simple):
+	superconducting filter
+Results for СВЧ-фильтр (simple):
+	Microwave filter
+Results for сглаживающий фильтр:
+	 rectifier filter (Компьютеры)
+	 
+Results for следящий фильтр (simple):
+	the watching filter
+Results for симметричный фильтр (simple):
+	symmetric filter
+Results for систолический фильтр (simple):
+	systolic filter
+Results for согласующий фильтр (simple):
+	the coordinating filter
+Results for составной (кварцевый) фильтр (simple):
+	compound (quartz) filter
+Results for стеклянный фильтр:
+	 glass filter (Естественные науки)
+	 
+Results for твёрдотельный фильтр (simple):
+	solid-state filter
+Results for тонкоплёночный фильтр (simple):
+	thin-film filter
+Results for транзитный фильтр:
+	 through-filter (Компьютеры)
+	 
+Results for трансверсальный фильтр с ёмкостными (индуктивными) отводами (simple):
+	the transversal filter with capacitor (inductive) branches
+Results for узко(широко)полосный фильтр (simple):
+	narrowly (widely) band filter
+Results for фазовый фильтр:
+	 all-pass filter (Естественные науки)
+	 
+Results for фильтр акустических волн (simple):
+	filter of acoustic waves
+Results for фильтр Баттерворта (simple):
+	Butterworth's filter
+Results for фильтр верхних (нижних) частот [ФВЧ (ФНЧ)] (simple):
+	filter of the top (lower) frequencies [FVCh (FNCh)]
+Results for фильтр Винера (simple):
+	Winer's filter
+Results for фильтр выборочных значений (simple):
+	filter of selective values
+Results for фильтр для уменьшения внешней засветки экрана (simple):
+	the filter for reduction of an external flare of the screen
+Results for фильтр для обработки сигналов антенной решётки (simple):
+	the filter for processing of signals of an antenna lattice
+Results for фильтр для формирования сигнала с внутриимпульсной ЛЧМ (simple):
+	the filter for formation of a signal from intra pulse LChM
+Results for фильтр доплеровских частот (simple):
+	filter of Doppler frequencies
+Results for фильтр защиты от наложения спектров (simple):
+	filter of protection against imposing of ranges
+Results for фильтр источника тока (simple):
+	current source filter
+Results for фильтр Калмана:
+	 Kalman filter (Естественные науки)
+	 
+Results for фильтр канала дальности (simple):
+	filter of the channel of range
+Results for фильтр Кауэра (simple):
+	Kauera filter
+Results for фильтр-компенсатор (simple):
+	filter compensator
+Results for фильтр коррекции предыскажений (simple):
+	filter of correction of predyskazheniye
+Results for фильтр-ловушка (simple):
+	filter trap
+Results for фильтр на гираторах (simple):
+	the filter on gyrators
+Results for фильтр на волноводе с продольной металлической вставкой (simple):
+	the filter on a wave guide with a longitudinal metal insert
+Results for фильтр на линии задержки (передачи) (simple):
+	the filter on the line of a delay (transfer)
+Results for фильтр на основе преобразования Фурье (simple):
+	the filter on the basis of Fourier's transformation
+Results for фильтр на элементах с сосредоточенными параметрами (simple):
+	the filter on elements with the concentrated parameters
+Results for фильтр невокализированных звуков (simple):
+	the filter of not vocalized sounds
+Results for фильтр одной боковой полосы (частоты) (simple):
+	filter of one side strip (frequency)
+Results for фильтр ошибки предсказания (simple):
+	prediction error filter
+Results for фильтр передачи (несущей) (simple):
+	the filter of the transfer (bearing)
+Results for фильтр (подавления) гармоник (ВЧ-помех, радиопомех) (simple):
+	filter (suppression) of harmonicas (VCh-hindrances, radio noise)
+Results for фильтр (подавления) поверхностного шума (реверберации, рокота) (simple):
+	filter (suppression) of superficial noise (reverberations, roar)
+Results for фильтр-пробка:
+	 wave trap (Техника)
+	 
+Results for фильтр промежуточной частоты [ПЧ] (simple):
+	filter of the intermediate frequency [IF]
+Results for фильтр пространственных частот (simple):
+	filter of spatial frequencies
+Results for фильтр разделения каналов:
+	 channel separating filter (Компьютеры)
+	 
+Results for фильтр растяжения (сжатия) импульсов (simple):
+	filter of stretching (compression) of impulses
+Results for фильтр сигнала цветности (simple):
+	filter of a signal of chromaticity
+Results for фильтр сигнального графа (simple):
+	filter of the alarm count
+Results for фильтр с конечной импульсной характеристикой (simple):
+	the filter with the final pulse characteristic
+Results for фильтр с крутым срезом:
+	 sharp cutoff filter (Компьютеры)
+	 
+Results for фильтр с магнитной (электронной) перестройкой (simple):
+	the filter with magnetic (electronic) reorganization
+Results for фильтр со взвешиванием (simple):
+	the filter with weighing
+Results for фильтр сосредоточенной селекции (simple):
+	the filter of the concentrated selection
+Results for фильтр со стробированием по задержке (simple):
+	the filter with a strobirovaniye on a delay
+Results for фильтр со ступенчатой перестройкой (simple):
+	the filter with step reorganization
+Results for фильтр спектральных полос (simple):
+	filter of spectral strips
+Results for фильтр с плавно нарастающей (спадающей) характеристикой вносимых потерь (simple):
+	the filter with smoothly accruing (falling-down) characteristic of the brought losses
+Results for фильтр с П(Т)-образными звеньями (simple):
+	the filter with P(T)-shaped links
+Results for фильтр с предсказанием (simple):
+	the filter with prediction
+Results for фильтр с резонаторной связью (simple):
+	the filter with rezonatorny communication
+Results for фильтр типов волн (simple):
+	filter of types of waves
+Results for фильтр частичного подавления боковой полосы (simple):
+	filter of partial suppression of a side strip
+Results for фильтр Чебышева [чебышевский фильтр] (simple):
+	Chebyshev's filter [the chebyshevsky filter]
+Results for фильтр Шеннона (simple):
+	Shannon's filter
+Results for формантный фильтр (simple):
+	formantny filter
+Results for формирующий фильтр:
+	 shaping filter (Компьютеры)
+	 
+Results for цифровой фильтр:
+	 digital filter (Техника)
+	 
+Results for частотный фильтр:
+	 frequency filter (Компьютеры)
+	 
+Results for щелевой фильтр:
+	 split strainer (Техника)
+	 
+Results for электрический фильтр:
+	 electrical wave filter (Естественные науки)
+	 
+Results for эллиптический фильтр (simple):
+	elliptic filter
+Results for n-звенный фильтр (simple):
+	n-звенный фильтр
+Results for адаптивная фильтрация (simple):
+	adaptive filtration
+Results for голографическая фильтрация (simple):
+	holographic filtration
+Results for гомоморфная фильтрация (simple):
+	homomorphic filtration
+Results for дву(одно)мерная фильтрация (simple):
+	two-(one) measured filtration
+Results for до(после)детекторная фильтрация (simple):
+	to (later) detector filtration
+Results for калмановская фильтрация (simple):
+	kalmanovsky filtration
+Results for линейная фильтрация (с дискретом времени) (simple):
+	linear filtration (with diskrety time)
+Results for многомерная фильтрация (simple):
+	multidimensional filtration
+Results for направленная фильтрация (simple):
+	the directed filtration
+Results for обратная фильтрация (simple):
+	return filtration
+Results for оптимальная фильтрация (simple):
+	optimum filtration
+Results for оптическая фильтрация (simple):
+	optical filtration
+Results for полосовая фильтрация (simple):
+	strip filtration
+Results for поэлементная фильтрация (simple):
+	step-by-step filtration
+Results for пространственная фильтрация (simple):
+	spatial filtration
+Results for пространственно-частотная фильтрация:
+	 spatial frequency filtering (Компьютеры)
+	 
+Results for робастная фильтрация (simple):
+	robastny filtration
+Results for согласованная фильтрация (simple):
+	the coordinated filtration
+Results for фильтрация в виде формирования свёртки (simple):
+	filtration in the form of convolution formation
+Results for фильтрация верхних (нижних) частот (simple):
+	filtration of the top (lower) frequencies
+Results for фильтрация в частотной плоскости (simple):
+	filtration in the frequency plane
+Results for фильтрация гребенчатым фильтром (simple):
+	filtration by the edge filter
+Results for фильтрация доплеровских частот (simple):
+	filtration of Doppler frequencies
+Results for фильтрация изображений (simple):
+	filtration of images
+Results for фильтрация мод:
+	 mode filtering (Компьютеры)
+	 
+Results for фильтрация по высокой (промежуточной) частоте (simple):
+	filtration on high (intermediate) frequency
+Results for фильтрация посредством преобразования Фурье (simple):
+	filtration by means of Fourier's transformation
+Results for фильтрация радиолокационных данных (simple):
+	filtration of radar data
+Results for фильтрация сигналов (simple):
+	filtration of signals
+Results for фильтрация с использованием дельта-функции (simple):
+	filtration with delta function use
+Results for фильтрация шума (simple):
+	noise filtration
+Results for цифровая фильтрация (simple):
+	digital filtration
+Results for частотная фильтрация:
+	 frequency filtering (Компьютеры)
+	 
+Results for фильтрование резиста (simple):
+	filtering of the rezist
+Results for флаг готовности (simple):
+	readiness flag
+Results for флаг занятости (simple):
+	employment flag
+Results for флаг переноса:
+	 carry flag (Компьютеры)
+	 
+Results for волноводный фланец (simple):
+	the waveguide flange
+Results for дроссельный фланец:
+	 choke flange (Техника)
+	 
+Results for несущий фланец (simple):
+	the bearing flange
+Results for фланец соединителя (simple):
+	connector flange
+Results for цокольный фланец (simple):
+	socle flange
+Results for долго(кратко)временные флу[ю]ктуации (simple):
+	long (briefly) temporary to a fl [yu] of a ktuation
+Results for квантованные флу[ю]ктуации (simple):
+	quantized to a fl [yu] of a ktuation
+Results for спиновые флу[ю]ктуации (simple):
+	spin to a fl [yu] of a ktuation
+Results for тепловые флу[ю]ктуации (simple):
+	thermal to a fl [yu] of a ktuation
+Results for угловые флу[ю]ктуации (simple):
+	angular to a fl [yu] of a ktuation
+Results for флу[ю]ктуации интенсивности сигнала (simple):
+	to fl [yu] of a ktuation of signal strength
+Results for флу[ю]ктуации концентрации примесей (электронов) (simple):
+	to fl [yu] of a ktuation of concentration of impurity (electrons)
+Results for флу[ю]ктуации состава (simple):
+	to fl [yu] of a ktuation of structure
+Results for флу[ю]ктуации угла прихода (simple):
+	to fl [yu] of a ktuation of an angle of arrival
+Results for статистическая флу[ю]ктуация (simple):
+	statistical to a fl [yu] ktuation
+Results for флу[ю]ктуация времени прохождения сигнала (simple):
+	to fl [yu] ktuation of time of passing of a signal
+Results for флу[ю]ктуация нагрузки (simple):
+	to fl [yu] loading ktuation
+Results for флу[ю]ктуация напряжения (тока) (simple):
+	to fl [yu] ktuation of tension (current)
+Results for флу[ю]ктуация помехи (simple):
+	to fl [yu] hindrance ktuation
+Results for флу[ю]ктуация шума (simple):
+	to fl [yu] noise ktuation
+Results for лазерная флу[ю]оресценция (simple):
+	laser to a fl [yu] orestsention
+Results for резонансная флу[ю]оресценция (simple):
+	resonant to a fl [yu] orestsention
+Results for сверхизлучательная флу[ю]оресценция (simple):
+	superradiating to a fl [yu] orestsention
+Results for ударная флу[ю]оресценция (simple):
+	shock to a fl [yu] orestsention
+Results for захваченный флюксоид [квантованный вихрь] (simple):
+	taken флюксоид [a quantized whirlwind]
+Results for флюс для пайки:
+	 soldering flux (Техника)
+	 
+Results for флюс люминофора (simple):
+	phosphor gumboil
+Results for главный фокус:
+	 principal focus (Естественные науки)
+	 
+Results for задний [второй] фокус (simple):
+	back [second] focus
+Results for мнимый фокус:
+	 virtual focus (Техника)
+	 
+Results for передний [первый] фокус (simple):
+	forward [first] focus
+Results for плазменный фокус:
+	 plasma focus (Естественные науки)
+	 
+Results for сопряжённый фокус (simple):
+	the interfaced focus
+Results for фокус дифференциального уравнения (simple):
+	focus of the differential equation
+Results for фокус зеркала (simple):
+	mirror focus
+Results for фокус кривой (simple):
+	curve focus
+Results for фокус оптической системы (simple):
+	focus of optical system
+Results for автоматическая фокусировка (simple):
+	automatic focusing
+Results for динамическая фокусировка (simple):
+	dynamic focusing
+Results for жёсткая фокусировка (simple):
+	rigid focusing
+Results for ионная [газовая] фокусировка (simple):
+	ionic [gas] focusing
+Results for магнитная фокусировка:
+	 magnetic focusing (Техника)
+	 
+Results for фазовая фокусировка (simple):
+	phase focusing
+Results for фокусировка изображения (simple):
+	focusing of the image
+Results for фокусировка электронного луча (simple):
+	focusing of an electronic beam
+Results for электрическая фокусировка (simple):
+	electric focusing
+Results for электростатическая фокусировка (simple):
+	electrostatic focusing
+Results for аддитивный фон (simple):
+	additive background
+Results for гамма-фон (simple):
+	gamma background
+Results for задний фон:
+	 background[ˈbækɡraund] 
+Results for (не)контрастный фон (simple):
+	(not) contrast background
+Results for опорный фон (simple):
+	basic background
+Results for тепловой фон (simple):
+	thermal background
+Results for фон ионизирующего излучения (simple):
+	background of ionizing radiation
+Results for фон неба:
+	 sky background (Техника)
+	 
+Results for фон (от сети) переменного тока (simple):
+	background (from network) alternating current
+Results for фон полей сравнения (simple):
+	background of fields of comparison
+Results for фон программы (simple):
+	program background
+Results for фон радиации (simple):
+	radiation background
+Results for шумовой фон:
+	 noise background (Компьютеры)
+	 
+	 background noise (Техника)
+	 
+Results for акустический фонон:
+	 acoustic phonon (Техника)
+	 
+Results for виртуальный фонон (simple):
+	virtual phonon
+Results for гиперзвуковой фонон (simple):
+	hypersonic phonon
+Results for горячий фонон (simple):
+	hot phonon
+Results for длинно(коротко)волновый фонон (simple):
+	long (shortly) volnovy phonon
+Results for междолинный фонон (simple):
+	intervalley phonon
+Results for мягкий фонон (simple):
+	soft phonon
+Results for оптический фонон:
+	 optical phonon (Техника)
+	 
+Results for полярный фонон (simple):
+	polar phonon
+Results for поперечный фонон (simple):
+	cross phonon
+Results for продольный фонон (simple):
+	longitudinal phonon
+Results for рамановский фонон (simple):
+	the Raman phonon
+Results for решёточный фонон (simple):
+	reshyotochny phonon
+Results for тепловой фонон (simple):
+	thermal phonon
+Results for фонон высокой энергии (simple):
+	phonon of high energy
+Results for аналоговая форма:
+	 analog form (Техника)
+	 
+Results for гауссова (лоренцева) форма линии (simple):
+	the line form is Gaussian (lorentseva)
+Results for операторная форма (simple):
+	operator form
+Results for равновесная форма:
+	 equilibrium shape (Техника)
+	 
+Results for форма взаимодействия (simple):
+	interaction form
+Results for форма волны:
+	 waveform (Естественные науки)
+	 
+	 wave form (Компьютеры)
+	 
+Results for форма записи сигнала (simple):
+	form of record of a signal
+Results for форма импульса:
+	 pulse shape (Естественные науки)
+	 
+Results for форма колебаний:
+	 vibration mode (Техника)
+	 
+Results for форма печати (simple):
+	press form
+Results for форма представления (simple):
+	representation form
+Results for форма сигнала:
+	 waveform (Компьютеры)
+	 
+Results for форма цели (simple):
+	purpose form
+Results for цифровая форма:
+	 digital form (Техника)
+	 
+Results for формат адреса (simple):
+	address format
+Results for формат ввода (simple):
+	input format
+Results for формат видео(сигнало)граммы (simple):
+	format of video (signal) grams
+Results for формат видеофонограммы (simple):
+	video soundtrack format
+Results for формат голограммы (simple):
+	hologram format
+Results for формат данных:
+	 data format (Компьютеры)
+	 
+Results for формат записи на магнитный диск (simple):
+	format on a magnetic disk
+Results for формат изображения на экране телевизионного приёмника (simple):
+	image format on the screen of the television receiver
+Results for формат команды (simple):
+	team format
+Results for формат представления информации (simple):
+	format of submission of information
+Results for формат слова:
+	 word format (Компьютеры)
+	 
+Results for формат сообщения:
+	 message format (Техника)
+	 
+Results for формат файла:
+	 file format (Компьютеры)
+	 
+Results for форматирование данных:
+	 data formatting (Компьютеры)
+	 
+Results for форматирование дискеты:
+	 floppy disk formatting (Компьютеры)
+	 
+Results for форматирование изображения (simple):
+	formatting of the image
+Results for формирование адреса (simple):
+	formation of the address
+Results for формирование амплитудно-частотной характеристики (simple):
+	formation of the amplitude-frequency characteristic
+Results for формирование (главного лепестка) диаграммы направленности (simple):
+	formation (main petal) of the directional pattern
+Results for формирование вертикальных боковых лепестков (simple):
+	formation of vertical side petals
+Results for формирование задания (simple):
+	formation of a task
+Results for формирование изображения:
+	 image generation (Компьютеры)
+	 
+Results for формирование кадра (simple):
+	formation of a shot
+Results for формирование луча (пучка) (simple):
+	formation of a beam (bunch)
+Results for формирование (прямоугольных) импульсов (simple):
+	formation (rectangular) impulses
+Results for формирование рисунка (simple):
+	formation of the drawing
+Results for формирование файла (simple):
+	formation of the file
+Results for формирование цепочки (simple):
+	formation of a chain
+Results for двух(трёх)фазный формирователь (simple):
+	two (three) phase shaper
+Results for формирователь биполярных (прямоугольных) импульсов (simple):
+	shaper of bipolar (rectangular) impulses
+Results for формирователь диаграммы направленности антенны (simple):
+	shaper of the directional pattern of the antenna
+Results for формирователь кадра (simple):
+	shot shaper
+Results for формирователь контрольного сигнала (simple):
+	shaper of a control signal
+Results for формирователь коротких (укороченных) импульсов (simple):
+	the shaper of the short (shortened) impulses
+Results for формирователь луча (пучка) (simple):
+	shaper of a beam (bunch)
+Results for формирователь сигналов времени (изображения, считывания) (simple):
+	shaper of signals of time (images, reading)
+Results for формирователь синхронизирующих (тактовых) импульсов (simple):
+	the shaper of the synchronizing (clock) impulses
+Results for формирователь управляющих сигналов (simple):
+	the shaper of the operating signals
+Results for формирователь тока (simple):
+	current shaper
+Results for асимптотическая формула:
+	 asymptotic formula (Техника)
+	 
+Results for интерполяционная формула:
+	 interpolation formula (Естественные науки)
+	 
+Results for исходная формула:
+	 assumption formula (Естественные науки)
+	 
+Results for (не)корректная формула (simple):
+	(not) correct formula
+Results for основная формула:
+	 basic formula 
+Results for (полу)эмпирическая формула (simple):
+	(floor) empirical formula
+Results for приближённая формула (simple):
+	approximate formula
+Results for рекуррентная формула:
+	 recurrence formula (Естественные науки)
+	 
+	 recursion formula (Естественные науки)
+	 
+Results for расчётная формула (simple):
+	settlement formula
+Results for структурная формула:
+	 constitutional formula (Естественные науки)
+	 
+	 structural formula (Техника)
+	 
+Results for формула Бейеса (simple):
+	Bayes's formula
+Results for формула вероятности (simple):
+	probability formula
+Results for формула дальности (simple):
+	range formula
+Results for формула конечных приращений (simple):
+	formula of final increments
+Results for формула Коши (simple):
+	Cauchy's formula
+Results for формула Найквиста (simple):
+	Nyquist's formula
+Results for формула обращения:
+	 inversion formula (Естественные науки)
+	 
+Results for формула Сэбина (simple):
+	Sebin's formula
+Results for формула Шеннона (simple):
+	Shannon's formula
+Results for формула Шокли-Рида (simple):
+	Shokli-Read's formula
+Results for формула эрланга (simple):
+	erlang formula
+Results for диффузионный фотодиод (simple):
+	diffusive photo diode
+Results for дрейфовый фотодиод (simple):
+	drift photo diode
+Results for лавинный фотодиод:
+	 avalanche photodiode (Компьютеры)
+	 
+Results for планарный фотодиод:
+	 planar photodiode (Техника)
+	 
+Results for плоскостной фотодиод (simple):
+	plane photo diode
+Results for точечный фотодиод:
+	 point-contact photodiode (Техника)
+	 
+Results for формованный фотодиод (simple):
+	the formed photo diode
+Results for фотодиод с барьером Шоттки (simple):
+	the photo diode with Schottky's barrier
+Results for фотодиод с выращенным переходом (simple):
+	the photo diode with the grown-up transition
+Results for фотодиод с гетеропереходом:
+	 heterojunction photodiode (Техника)
+	 
+Results for фотодиод с обеднённым слоем (simple):
+	the photo diode with the impoverished layer
+Results for фотодиод с поперечным фотоэффектом (simple):
+	the photo diode with cross photoeffect
+Results for фотодиод с распределённой эмиссией (simple):
+	the photo diode with the distributed issue
+Results for висмуто-цезиевый фотокатод (simple):
+	vismuto-caesium photocathode
+Results for мозаичный фотокатод (simple):
+	mosaic photocathode
+Results for не(полу)прозрачный фотокатод (simple):
+	not to (floor) transparent photocathode
+Results for оксидно-бариевый (-магниевый) фотокатод (simple):
+	oxide-barium (-magnesian) the photocathode
+Results for серебряно-кислородно-цезиевый фотокатод (simple):
+	silver-oxygen-caesium photocathode
+Results for солнечно-слепой фотокатод (simple):
+	solar-blind photocathode
+Results for сплошной фотокатод (simple):
+	continuous photocathode
+Results for сурьмяно-калиевый (-литиевый, -натриевый, -рубидиевый, -щелочной) фотокатод (simple):
+	antimony-potassium (-lithium, - sodium, - rubidium, - alkaline) the photocathode
+Results for фотокатод из теллурида цезия (simple):
+	the photocathode from caesium telluride
+Results for фотокатод с автоэлектронной эмиссией (simple):
+	the photocathode with autoelectronic issue
+Results for фотокатод с внешним смещением (simple):
+	the photocathode with external shift
+Results for фотокатод с высоким квантовым выходом (simple):
+	the photocathode with a high quantum exit
+Results for фотолампа бегущей волны (simple):
+	photographic bulb of the running wave
+Results for импульсный фотолиз і (simple):
+	pulse фотолиз і
+Results for проекционная фотолитография:
+	 projection photolithography (Компьютеры)
+	 
+Results for фотолитография высокого разрешения (simple):
+	photolithography of high resolution
+Results for фотолитография с негативным (позитивным) резистом (simple):
+	photolithography with a negative (positive) rezist
+Results for апертурный фотометр (simple):
+	aperture photometer
+Results for визуальный фотометр:
+	 visual photometer (Техника)
+	 
+Results for двухлучевой фотометр (simple):
+	dual-beam photometer
+Results for интегрирующий фотометр (simple):
+	the integrating photometer
+Results for мигающий фотометр (simple):
+	the blinking photometer
+Results for пламенный фотометр:
+	 flame photometer (Техника)
+	 
+	 flamephotometer (Естественные науки)
+	 
+Results for поляризационный фотометр:
+	 polarization photometer (Техника)
+	 
+Results for распределительный фотометр (simple):
+	distributive photometer
+Results for сканирующий фотометр:
+	 scanning photometer (Техника)
+	 
+Results for теневой фотометр:
+	 shadow photometer (Техника)
+	 
+Results for физический фотометр:
+	 physical photometer (Техника)
+	 
+Results for фотометр (не)когерентного излучения (simple):
+	photometer (not) of coherent radiation
+Results for фотометр с равноконтрастными (равносветловыми) полями (simple):
+	photometer with ravnokontrastny (ravnosvetlovy) fields
+Results for фотоэлектрический фотометр:
+	 photo-electric photometer (Техника)
+	 
+Results for цифровой фотометр (simple):
+	digital photometer
+Results for визуальная фотометрия:
+	 visual photometry (Техника)
+	 
+Results for физическая фотометрия:
+	 physical photometry (Техника)
+	 
+Results for пламенная фотометрия:
+	 flame photometry (Техника)
+	 
+Results for фотографическая фотометрия:
+	 photographic photometry (Естественные науки)
+	 
+Results for фотометрия отображаемой информации (simple):
+	photometry of the displayed information
+Results for виртуальный фотон:
+	 virtual quantum (Техника)
+	 
+Results for возбуждающий фотон (simple):
+	exciting photon
+Results for возбуждённый фотон (simple):
+	the excited photon
+Results for индуцированный фотон (simple):
+	the induced photon
+Results for индуцирующий фотон (simple):
+	the inducing photon
+Results for падающий фотон:
+	 incident photon (Техника)
+	 
+Results for СВЧ-фотон (simple):
+	Microwave photon
+Results for фотон высокой (малой) энергии (simple):
+	photon of high (small) energy
+Results for арсенид-галлиевый фотоприёмник (simple):
+	arsenide - the gallium photodetector
+Results for многоэлементный фотоприёмник (simple):
+	multielement photodetector
+Results for фотоприёмник в режиме ограничения радиационным фоном (simple):
+	the photodetector in the mode of restriction with a radiation background
+Results for примесная фотопроводимость (simple):
+	impurity photoconductivity
+Results for собственная фотопроводимость (simple):
+	own photoconductivity
+Results for фотопроводимость, обусловленная (не)прямыми переходами (simple):
+	the photoconductivity caused by direct transitions
+Results for двухслойный фоторезист (simple):
+	two-layer photoresist
+Results for жидкий фоторезист:
+	 liquid photoresist (Компьютеры)
+	 
+Results for кислото(щёлоче)стойкий фоторезист (simple):
+	acid (alkalis) resistant photoresist
+Results for недо(пере)экспонированный фоторезист (simple):
+	недо (feather) the exhibited photoresist
+Results for негативный фоторезист:
+	 negative photoresist (Компьютеры)
+	 
+Results for отверждённый фоторезист (simple):
+	otverzhdyonny photoresist
+Results for позитивный фоторезист:
+	 positive photoresist (Компьютеры)
+	 
+Results for сухой плёночный фоторезист (simple):
+	dry film photoresist
+Results for тонкоплёночный фоторезист (simple):
+	thin-film photoresist
+Results for фоторезист на водной основе (simple):
+	water-based photoresist
+Results for фоторезист на основе латексов (твёрдой плёнки) (simple):
+	photoresist on the basis of latex (a firm film)
+Results for германиевый фоторезистор:
+	 germanium photoresistor (Компьютеры)
+	 
+Results for моно(поли)кристаллический фоторезистор (simple):
+	mono (weed) the crystal photoresistor
+Results for полупроводниковый фоторезистор:
+	 semiconductor photoresistor (Компьютеры)
+	 
+Results for селеновый фоторезистор:
+	 selenium photoresistor (Компьютеры)
+	 
+Results for фоторезистор из сульфида свинца:
+	 leadsulphide photoresistor (Компьютеры)
+	 
+Results for фоторезистор на слюдяной (стеклянной) подложке (simple):
+	the photoresistor on a mica (glass) substrate
+Results for биполярный фототранзистор (simple):
+	bipolar phototransistor
+Results for планарный фототранзистор (simple):
+	planar phototransistor
+Results for плоскостной фототранзистор (simple):
+	plane phototransistor
+Results for полевой фототранзистор:
+	 photo field effect transistor (Компьютеры)
+	 
+	 photoconductive field-effect transistor (Техника)
+	 
+Results for фототранзистор на гетеро(гомео)переходах (simple):
+	the phototransistor on a hetero (gomeo) transitions
+Results for фототранзистор с высоким квантовым выходом (simple):
+	the phototransistor with a high quantum exit
+Results for фототранзистор с плавающей базой (плавающим эмиттером) (simple):
+	the phototransistor with floating base (the floating emitter)
+Results for безоконный фотоумножитель (simple):
+	windowless photo multiplier
+Results for динамический (статический) фотоумножитель (simple):
+	dynamic (static) photo multiplier
+Results for канальный фотоумножитель (simple):
+	channel photo multiplier
+Results for фотоумножитель с магнитной (электростатической) фокусировкой (simple):
+	the photo multiplier with magnetic (electrostatic) focusing
+Results for фотоумножитель со скрещёнными полями (simple):
+	the photo multiplier with skreshchyonny fields
+Results for фотоумножитель со сплошными диодами (simple):
+	the photo multiplier with continuous diodes
+Results for фотоумножитель с прозрачным катодом (simple):
+	the photo multiplier with the transparent cathode
+Results for фотоумножитель с торцевым входом (simple):
+	the photo multiplier with a face entrance
+Results for электронный фотоумножитель (simple):
+	electronic photo multiplier
+Results for контактный фотошаблон (simple):
+	contact photo mask
+Results for плёночный фотошаблон (simple):
+	film photo mask
+Results for стеклянный фотошаблон (simple):
+	glass photo mask
+Results for фотошаблон с одной структурой (simple):
+	photo mask with one structure
+Results for хромированный фотошаблон (simple):
+	the chromeplated photo mask
+Results for эластичный фотошаблон (simple):
+	elastic photo mask
+Results for эмульсионный фотошаблон (simple):
+	emulsion photo mask
+Results for эталонный фотошаблон (simple):
+	reference photo mask
+Results for вакуумный фотоэлемент (simple):
+	vacuum photo cell
+Results for ионный газонаполненный фотоэлемент (simple):
+	ionic gas-filled photo cell
+Results for электровакуумный фотоэлемент (simple):
+	electrovacuum photo cell
+Results for вентильный фотоэффект:
+	 barrier-layer effect (Естественные науки)
+	 
+Results for внешний (внутренний) фотоэффект (simple):
+	external (internal) photoeffect
+Results for поверхностный фотоэффект (simple):
+	superficial photoeffect
+Results for примесный фотоэффект (simple):
+	impurity photoeffect
+Results for продольный (поперечный) фотоэффект (simple):
+	longitudinal (cross) photoeffect
+Results for собственный фотоэффект (simple):
+	own photoeffect
+Results for фрагмент программы (simple):
+	program fragment
+Results for фрейм задачи (simple):
+	task frame
+Results for фрейм знаний (simple):
+	frame of knowledge
+Results for фрейм решения (simple):
+	decision frame
+Results for (обращённый) волновой фронт (simple):
+	(turned) wave front
+Results for фазовый фронт (simple):
+	phase front
+Results for фронт возбуждения (simple):
+	front of excitement
+Results for фронт волны деполяризации (simple):
+	front of a wave of depolarization
+Results for фронт импульса:
+	 pulse edge (Компьютеры)
+	 
+	 leading edge (Техника)
+	 
+Results for фронт импульсного перенапряжения (simple):
+	front of a pulse overstrain
+Results for фронт распыления (simple):
+	front of dispersion
+Results for функционал плотности вероятности (simple):
+	functionality of density of probability
+Results for (авто)корреляционная функция (simple):
+	(car) correlation function
+Results for адмиттансная функция (simple):
+	admittansny function
+Results for аналитическая функция:
+	 analytic function (Естественные науки)
+	 
+Results for аподизирующая функция (simple):
+	apodiziruyushchy function
+Results for аппаратная функция оптического прибора (simple):
+	hardware function of the optical device
+Results for базисная функция (simple):
+	basic function
+Results for бесконечнозначная функция (simple):
+	beskonechnoznachny function
+Results for блокирующая функция (simple):
+	the blocking function
+Results for булева функция:
+	 Boolean function (Естественные науки)
+	 
+	 boolean function (Компьютеры)
+	 
+Results for быстрорастущая функция (simple):
+	fast-growing function
+Results for быстроубывающая функция (simple):
+	rapidly decreasing function
+Results for весовая функция:
+	 weight function (Естественные науки)
+	 
+Results for векторная функция:
+	 vector function (Техника)
+	 
+Results for взаимная функция (simple):
+	mutual function
+Results for взвешивающая функция (simple):
+	the weighing function
+Results for волновая функция:
+	 wave function (Естественные науки)
+	 
+Results for гармоническая функция:
+	 potential function (Естественные науки)
+	 
+	 harmonic function (Компьютеры)
+	 
+Results for глобальная неявная (обратная) функция (simple):
+	global implicit (return) function
+Results for гребенчатая функция (simple):
+	edge function
+Results for дельта-функция:
+	 Dirac delta function (Естественные науки)
+	 
+Results for дополнительная функция (ошибок) (simple):
+	additional function (mistakes)
+Results for единичная ступенчатая функция [функция Хевисайда] (simple):
+	single step function [Hevisayda function]
+Results for импедансная функция (simple):
+	impedance function
+Results for интерференционная функция (simple):
+	interferential function
+Results for квазипериодическая функция (simple):
+	quasiperiodic function
+Results for корреляционная функция:
+	 correlation function (Техника)
+	 
+Results for логическая функция:
+	 logic function (Естественные науки)
+	 
+Results for масштабная функция (simple):
+	large-scale function
+Results for мероморфная функция:
+	 meromorphic function (Естественные науки)
+	 
+Results for модифицированная функция Бесселя:
+	 modified Bessel function (Естественные науки)
+	 
+Results for модуляционная функция (simple):
+	modulation function
+Results for непрерывная функция:
+	 continuous function (Естественные науки)
+	 
+Results for описывающая функция (simple):
+	the describing function
+Results for передаточная функция цепи обратной (прямой) связи (simple):
+	transfer function of a chain of the return (direct) communication
+Results for переключательная функция (simple):
+	switching function
+Results for периодическая функция с нулевым средним значением (simple):
+	periodic function with zero average value
+Results for периодическая функция с отличным от нуля средним значением (simple):
+	periodic function with average value, other than zero
+Results for пилообразная функция:
+	 saw-tooth function (Техника)
+	 
+	 sawtooth function (Естественные науки)
+	 
+Results for пробная функция:
+	 trial function (Естественные науки)
+	 
+Results for реактансная функция (simple):
+	reaktansny function
+Results for решающая функция:
+	 decision function 
+Results for силовая функция:
+	 force function (Естественные науки)
+	 
+Results for скалярная функция:
+	 scalar function (Компьютеры)
+	 
+Results for собственная функция:
+	 eigenfunction (Естественные науки)
+	 
+Results for фазочастотная функция (simple):
+	phase-frequency function
+Results for функция автонеопределённости (simple):
+	autouncertainty function
+Results for функция адресации (simple):
+	addressing function
+Results for функция Баттерворта (Бесселя, Бриллюэна, Гаусса, Грина, Дирака, Уолша, Ферми, Ханкеля, Хевисайда, Шеффера) (simple):
+	Butterworth's function (Bessel, Brillouin, Gauss, Green, Dirac, Walsh, Fermi, Hankel, Hevisayd, Schäffer)
+Results for функция вероятности (simple):
+	function of probability
+Results for функция виртуальной связи (simple):
+	function of virtual communication
+Results for функция влияния:
+	 influence function (Естественные науки)
+	 
+Results for функция возбуждения:
+	 excitation function (Естественные науки)
+	 
+	 exitation function (Техника)
+	 
+Results for функция выигрыша:
+	 payoff function (Естественные науки)
+	 
+Results for функция высотного усиления (simple):
+	function of high-rise strengthening
+Results for функция выходов (simple):
+	function of exits
+Results for функция граничного потенциала (simple):
+	function of boundary potential
+Results for функция датограммы (simple):
+	function of the datagram
+Results for функция действительного переменного (simple):
+	function of the valid variable
+Results for функция заполнения (simple):
+	filling function
+Results for функция затухания (simple):
+	attenuation function
+Results for функция изображения (simple):
+	function of the image
+Results for функция когерентности (simple):
+	function of coherence
+Results for функция комплексной переменной (simple):
+	function of a complex variable
+Results for функция многих переменных (simple):
+	function of many variables
+Results for функция неопределённости (сигнала) (simple):
+	function of uncertainty (signal)
+Results for функция отрицания (simple):
+	denial function
+Results for функция передачи модуляции:
+	 modulation transfer function (Естественные науки)
+	 
+Results for функция периодической коммутации (simple):
+	function of periodic switching
+Results for функция потока:
+	 stream function (Компьютеры)
+	 
+Results for функция правдоподобия:
+	 likelyhood function (Естественные науки)
+	 
+	 likelihood function (Техника)
+	 
+Results for функция прямого вызова (simple):
+	function of a direct call
+Results for функция разделения (simple):
+	division function
+Results for функция разрешения шины (simple):
+	function of resolution of the tire
+Results for функция распределения амплитуды (вероятностей, фазы по апертуре) (simple):
+	function of distribution of amplitude (probabilities, a phase on an aperture)
+Results for функция распределения Бозе-Эйнштейна (Ферми-Дирака) (simple):
+	distribution function to Bosa-Einstein (Fermi-Dirac)
+Results for функция рассеяния:
+	 scattering function (Техника)
+	 
+Results for функция расстановки:
+	 hashing function (Естественные науки)
+	 
+Results for функция риска:
+	 risk function (Естественные науки)
+	 
+Results for функция свёртки (simple):
+	convolution function
+Results for функция сложения цветов (simple):
+	function of addition of flowers
+Results for функция случайного процесса (simple):
+	function of casual process
+Results for функция с ограниченным [финитным] спектром (simple):
+	function with a limited [finite] range
+Results for функция состояния:
+	 function of state (Естественные науки)
+	 
+Results for функция спектральной плотности (simple):
+	function of spectral density
+Results for функция стоимости:
+	 costs function (Естественные науки)
+	 
+Results for функция управления:
+	 management function (Бизнес)
+	 
+	 control function (Техника)
+	 
+Results for функция формы:
+	 shape function (Компьютеры)
+	 
+Results for функция хеширования (simple):
+	hashing function
+Results for функция цепи (simple):
+	function of a chain
+Results for функция чувствительности (simple):
+	function of sensitivity
+Results for функция штрафа (simple):
+	function of a penalty
+Results for целая функция:
+	 entire function (Естественные науки)
+	 
+Results for частотная функция (simple):
+	frequency function
+Results for частотно-контрастная функция (simple):
+	frequency and contrast function
+Results for штрафная функция (simple):
+	penal function
+Results for экспоненциальная функция (simple):
+	exponential function
+Results for эргодическая функция (simple):
+	ergodic function
+Results for фурье- голограмма (simple):
+	furye-hologram
+Results for фурье- интеграл (simple):
+	furye-integral
+Results for фурье- компонента (simple):
+	furye-component
+Results for фурье- образ (simple):
+	furye-image
+Results for фурье- преобразование (simple):
+	furye-transformation
+Results for фурье- преобразователь (simple):
+	furye-converter
+Results for фурье- спектрометр (simple):
+	furye-spectrometer
+Results for фурье- спектрометрия (simple):
+	furye-spectrometry
+Results for защитный футляр (simple):
+	protective case
+Results for футляр приёмника (simple):
+	receiver case
+Results for характер группы (simple):
+	character of group
+Results for характер зависимости (simple):
+	nature of dependence
+Results for характер нагрузки (simple):
+	character of loading
+Results for характер процесса (simple):
+	nature of process
+Results for амплитудно-фазовая характеристика:
+	 amplitude-phase characteristic (Компьютеры)
+	 
+	 gain-phase characteristic (Техника)
+	 
+Results for амплитудно-частотная характеристика:
+	 amplitude-frequency characteristic (Техника)
+	 
+Results for анодная характеристика:
+	 anode characteristic (Естественные науки)
+	 
+Results for (анодно-)сеточная характеристика (simple):
+	(anode) net characteristic
+Results for базовая характеристика:
+	 base characteristic (Компьютеры)
+	 
+Results for вольт-амперная характеристика:
+	 volt-ampere characteristic (Естественные науки)
+	 
+	 volt ampere characteristic (Компьютеры)
+	 
+Results for вольт-фарадная характеристика (simple):
+	volt-faradnaya characteristic
+Results for время-токовая характеристика:
+	 time-current characteristic (Техника)
+	 
+Results for детекторная характеристика (simple):
+	detector characteristic
+Results for динамическая характеристика:
+	 dynamic characteristics 
+	 response characteristic (Компьютеры)
+	 
+	 dynamic response (Техника)
+	 
+Results for импульсная характеристика і (simple):
+	pulse characteristic і
+Results for колебательная характеристика (simple):
+	oscillatory characteristic
+Results for коллекторная характеристика:
+	 collector characteristic (Техника)
+	 
+Results for комплексная характеристика цели (simple):
+	complex characteristic of the purpose
+Results for люкс-омическая характеристика:
+	 luminous characteristic (Естественные науки)
+	 
+Results for малосигнальная характеристика (simple):
+	small-signal characteristic
+Results for модуляционная характеристика:
+	 drive characteristic (Естественные науки)
+	 
+	 modulation characteristic (Компьютеры)
+	 
+Results for нагрузочная характеристика:
+	 full-load characteristic (Естественные науки)
+	 
+	 load characteristic (Компьютеры)
+	 
+Results for падающая характеристика:
+	 dropping characteristic (Естественные науки)
+	 
+	 falling characteristic (Компьютеры)
+	 
+Results for перегрузочная характеристика:
+	 overload characteristic (Техника)
+	 
+Results for передаточная характеристика (simple):
+	transfer characteristic
+Results for переходная характеристика:
+	 surge characteristic (Естественные науки)
+	 
+	 transient response (Техника)
+	 
+Results for полутоновая характеристика:
+	 half-tone characteristic (Техника)
+	 
+Results for пусковая характеристика:
+	 control characteristic (Естественные науки)
+	 
+Results for рабочая характеристика:
+	 performance data 
+	 performance characteristic (Естественные науки)
+	 
+	 work characteristic (Бизнес)
+	 
+	 operating characteristic (Компьютеры)
+	 
+	 working characteristic (Естественные науки)
+	 
+Results for резонансная характеристика:
+	 resonance characteristic (Компьютеры)
+	 
+Results for световая характеристика:
+	 light characteristic (Техника)
+	 
+Results for скоростная характеристика:
+	 speed regulation characteristic (Компьютеры)
+	 
+	 velocity characteristic (Естественные науки)
+	 
+Results for собственная характеристика:
+	 inherent characteristic (Техника)
+	 
+Results for спектральная характеристика:
+	 spectral characteristic 
+	 spectral reflectances (Техника)
+	 
+Results for статическая характеристика:
+	 direct current characteristic (Компьютеры)
+	 
+Results for стоковая характеристика:
+	 drain characteristic (Компьютеры)
+	 
+Results for счётная характеристика (simple):
+	calculating characteristic
+Results for токоограничивающая характеристика (simple):
+	current-limiting characteristic
+Results for угловая характеристика (simple):
+	angular characteristic
+Results for фазочастотная характеристика:
+	 phase frequency characteristic (Компьютеры)
+	 
+Results for характеристика верности изображения (simple):
+	characteristic of fidelity of the image
+Results for характеристика видимости (simple):
+	characteristic of visibility
+Results for характеристика временного дискриминатора (simple):
+	characteristic of the temporary discriminator
+Results for характеристика всей индикаторной системы (simple):
+	characteristic of all indicator system
+Results for характеристика в установившемся режиме (simple):
+	the characteristic in the set mode
+Results for характеристика группового времени запаздывания (simple):
+	characteristic of group time of delay
+Results for характеристика затухания:
+	 attenuation characteristic (Компьютеры)
+	 
+Results for характеристика квантования (simple):
+	characteristic of quantization
+Results for характеристика квантовой эффективности (simple):
+	characteristic of quantum efficiency
+Results for характеристика компандирования (simple):
+	characteristic of companding
+Results for характеристика короткого замыкания:
+	 short-circuit characteristic (Компьютеры)
+	 
+Results for характеристика нагрузки (simple):
+	characteristic of loading
+Results for характеристика намагничивания (simple):
+	characteristic of magnetization
+Results for характеристика направленного действия антенны (simple):
+	the characteristic of the directed operation of the antenna
+Results for характеристика направленности:
+	 directional characteristic (Естественные науки)
+	 
+Results for характеристика нелинейного сопротивления (simple):
+	characteristic of nonlinear resistance
+Results for характеристика обнаружения (simple):
+	characteristic of detection
+Results for характеристика послесвечения:
+	 decay characteristic (Естественные науки)
+	 
+Results for характеристика при прямом смещении (simple):
+	the characteristic at direct shift
+Results for характеристика пробоя:
+	 breakdown characteristic (Компьютеры)
+	 
+Results for характеристика проводимости варистора (simple):
+	characteristic of conductivity of the varistor
+Results for характеристика пространственных частот (simple):
+	characteristic of spatial frequencies
+Results for характеристика радиотехнического устройства (simple):
+	characteristic of the radio engineering device
+Results for характеристика радиофизического комплекса (simple):
+	characteristic of a radio physical complex
+Results for характеристика спектральной чувствительности:
+	 current-wavelength characteristic (Естественные науки)
+	 
+Results for характеристика средства измерения (simple):
+	characteristic of a gage
+Results for характеристика стабилизированного напряжения (simple):
+	the characteristic of the stabilized tension
+Results for характеристика старения:
+	 aging characteristic (Компьютеры)
+	 
+Results for характеристика управления устройством (simple):
+	characteristic of control of the device
+Results for характеристика фазового дискриминатора (simple):
+	characteristic of the phase discriminator
+Results for характеристика холостого хода:
+	 no-load characteristics (Естественные науки)
+	 
+	 no-load characteristic (Компьютеры)
+	 
+	 internal characteristic (Техника)
+	 
+Results for частотная характеристика:
+	 frequency characteristic (Естественные науки)
+	 
+	 frequency response (Компьютеры)
+	 
+Results for чебышевская характеристика (simple):
+	chebyshevsky characteristic
+Results for электродная характеристика (simple):
+	electrode characteristic
+Results for электрооптическая характеристика (simple):
+	electrooptical characteristic
+Results for эмиссионная характеристика:
+	 emission characteristic (Естественные науки)
+	 
+Results for эмиттерная характеристика:
+	 emitter characteristic (Компьютеры)
+	 
+Results for энергетическая характеристика (simple):
+	power characteristic
+Results for ласточкин хвост:
+	 larkspur[ˈlɑ:kspə:] 
+	 dovetail[ˈdʌvteɪl] (Естественные науки)
+	 
+Results for хвост волны (simple):
+	wave tail
+Results for хвост импульса (simple):
+	impulse tail
+Results for хвост импульсного перенапряжения (simple):
+	tail of a pulse overstrain
+Results for хвост списка (simple):
+	list tail
+Results for звуковой хлопок:
+	 sonic bang (Техника)
+	 
+Results for хлопок в микрофоне (simple):
+	cotton in the microphone
+Results for бесшумный ход:
+	 noiseless run (Техника)
+	 
+Results for мёртвый ход (simple):
+	dead course
+Results for обратный ход по кадру (строке) (simple):
+	reverse motion on a shot (line)
+Results for полный ход:
+	 full speed 
+Results for прямой ход:
+	 forward stroke 
+	 push stroke (Техника)
+	 
+Results for рабочий ход:
+	 working stroke (Естественные науки)
+	 
+	 power stroke (Техника)
+	 
+Results for свободный ход:
+	 free wheeling 
+	 free running (Компьютеры)
+	 
+Results for температурный ход (simple):
+	temperature course
+Results for ход каретки принтера (simple):
+	printer carriage course
+Results for ход кривой:
+	 trend of a curve (Техника)
+	 
+Results for ход луча:
+	 ray trace (Естественные науки)
+	 
+Results for ход процесса (simple):
+	process course
+Results for ход расчёта (simple):
+	calculation course
+Results for холостой ход:
+	 idling[ˈaɪdlɪŋ] 
+	 no-load operation (Естественные науки)
+	 
+	 idle running (Естественные науки)
+	 
+Results for общая хорда (simple):
+	general chord
+Results for хорда графа:
+	 graph link (Естественные науки)
+	 
+Results for хранение в файле:
+	 filing[ˈfaɪlɪŋ] (Техника)
+	 
+Results for хранение заряда (simple):
+	storage of a charge
+Results for хранение информации:
+	 storing of information (Естественные науки)
+	 
+	 information storage (Компьютеры)
+	 
+	 storage of information (Техника)
+	 
+Results for хранилище данных:
+	 data storage (Компьютеры)
+	 
+Results for (главный) хранитель времени и частоты (simple):
+	(chief) keeper of time and frequency
+Results for хроматрон с малым экраном (simple):
+	хроматрон with the small screen
+Results for поляризующаяся хромофора (simple):
+	polarized chromophore
+Results for хромофора красителя (simple):
+	dye chromophore
+Results for хронограф для контроля радиовзрывателя (simple):
+	chronograph for control of the radio detonator
+Results for царапина на подложке (simple):
+	scratch on a substrate
+Results for царапина на экране (simple):
+	scratch on the screen
+Results for аддитивный цвет (simple):
+	additive color
+Results for (а)хроматический цвет (simple):
+	(a) chromatic color
+Results for белый [опорный] цвет (simple):
+	white [basic] color
+Results for дополнительный цвет:
+	 complementary colour 
+	 complementary color (Техника)
+	 
+Results for единичный цвет (simple):
+	single color
+Results for инвариантный цвет (simple):
+	invariant color
+Results for метамерный цвет (simple):
+	metameasured color
+Results for (не)изолированный цвет (simple):
+	not isolated color
+Results for нелокализованный цвет (simple):
+	non-local color
+Results for (не)насыщенный цвет (simple):
+	(not) saturated color
+Results for (не)реальный цвет (simple):
+	(not) real color
+Results for неспектральный цвет (simple):
+	not spectral color
+Results for основной цвет:
+	 primary colour 
+	 fundamental color (Естественные науки)
+	 
+	 primary color (Компьютеры)
+	 
+	 basic color (Техника)
+	 
+Results for смешанный цвет:
+	 secondary color (Естественные науки)
+	 
+	 compound colour (Естественные науки)
+	 
+	 mixed color (Техника)
+	 
+Results for субтрактивный цвет:
+	 subtractive color (Компьютеры)
+	 
+Results for цвет в отверстии (simple):
+	color in an opening
+Results for цвет, регулируемый напряжением (simple):
+	the color regulated by tension
+Results for цвет свечения люминофора (simple):
+	color of a luminescence of a phosphor
+Results for цвет символа (simple):
+	color of a symbol
+Results for дополнительная цветность (simple):
+	additional chromaticity
+Results for цветность, соответствующая нулевому значению поднесущей (simple):
+	the chromaticity corresponding to zero value of subbearing
+Results for лазерный целеуказатель (simple):
+	laser tseleukazatel
+Results for неразрешаемые цели (simple):
+	not resolved purposes
+Results for групповая цель:
+	 multiple target (Техника)
+	 
+Results for (искусственная) радиолокационная цель (simple):
+	(artificial) radar target
+Results for ложная цель:
+	 false target 
+	 ghost target (Техника)
+	 
+Results for мало(не)подвижная цель (simple):
+	little (not) the mobile purpose
+Results for одиночная цель (simple):
+	single purpose
+Results for поляризующая цель (simple):
+	the polarizing purpose
+Results for протяжённая цель (simple):
+	extended purpose
+Results for распределённая цель (simple):
+	the distributed purpose
+Results for сложная цель (simple):
+	difficult purpose
+Results for точечная цель:
+	 pin-point target (Техника)
+	 
+Results for цель конечных размеров (simple):
+	purpose of the final sizes
+Results for цель со специфическими признаками (simple):
+	the purpose with specific signs
+Results for цель со средствами радиоэлектронного подавления (simple):
+	the purpose with means of radio-electronic suppression
+Results for цель с ответчиком (simple):
+	the purpose with the defendant
+Results for эталонная цель (simple):
+	reference purpose
+Results for цена деления шкалы:
+	 scale value (Естественные науки)
+	 
+	 scale graduation value (Техника)
+	 
+Results for активный центр:
+	 active site (Естественные науки)
+	 
+Results for акцепторный центр:
+	 acceptor centre (Техника)
+	 
+Results for вычислительный центр:
+	 computer center 
+	 computation centre (Техника)
+	 
+Results for генерационно-рекомбинационный центр (simple):
+	generation-recombination center
+Results for донорный центр:
+	 donor centre (Техника)
+	 
+Results for заряженный центр:
+	 charge centre (Компьютеры)
+	 
+Results for информационно-вычислительный центр:
+	 data processing center 
+	 data-processing centre (Техника)
+	 
+Results for информационный центр:
+	 information centre 
+Results for ионообменный центр (simple):
+	ion-exchange center
+Results for (много(одно)уровневый) примесный центр (simple):
+	(many (one)-level) impurity center
+Results for оптический центр:
+	 optical centre (Техника)
+	 
+Results for поверхностный центр захвата (simple):
+	superficial center of capture
+Results for радиовещательный центр (simple):
+	broadcasting center
+Results for рассеивающий центр [центр рассеяния] (simple):
+	the disseminating center [the center of dispersion]
+Results for самоактивируемый центр (simple):
+	self-activated center
+Results for телевизионный центр [телецентр] (simple):
+	television center [television center]
+Results for фазовый центр антенной решётки (simple):
+	phase center of an antenna lattice
+Results for центр безызлучательной (излучательной) рекомбинации (simple):
+	center of a bezyzluchatelny (radiating) recombination
+Results for центр дислокации (simple):
+	center of dislocation
+Results for центр зародышеобразования (simple):
+	center of a zarodysheobrazovaniye
+Results for центр захвата дырки (носителей, электрона) (simple):
+	center of capture of a hole (carriers, electron)
+Results for центр зоны колебаний (simple):
+	center of a zone of fluctuations
+Results for центр колебания (simple):
+	center of fluctuation
+Results for центр коммутации сообщений:
+	 message switching center (Компьютеры)
+	 
+	 message switching centre (Техника)
+	 
+Results for центр кривизны:
+	 centre of curvature (Техника)
+	 
+Results for центр обработки радиолокационной информации (simple):
+	center of processing of radar information
+Results for центр окраски:
+	 colour centre (Техника)
+	 
+Results for центр отклонения (simple):
+	center of a deviation
+Results for центр отсчёта (simple):
+	center of counting
+Results for центр пиннинга:
+	 pinning centre (Естественные науки)
+	 
+Results for центр поляризации (simple):
+	center of polarization
+Results for центр прилипания (simple):
+	center of sticking
+Results for центр программного обслуживания (simple):
+	center of program service
+Results for центр распределения ключей:
+	 key distribution center (Компьютеры)
+	 
+Results for центр рекристаллизации (simple):
+	center of recrystallization
+Results for центр роста кристалла (simple):
+	center of growth of a crystal
+Results for центр симметрии (simple):
+	center of symmetry
+Results for центр тяжести устройства (simple):
+	device center of gravity
+Results for центр энергетической зоны (simple):
+	center of a power zone
+Results for центровка кадров (simple):
+	centering of shots
+Results for центровка луча (simple):
+	centering of a beam
+Results for центровка осей (simple):
+	centering of axes
+Results for центровка с помощью постоянного магнита (simple):
+	centering by means of a permanent magnet
+Results for антиферромагнитная цепочка (simple):
+	anti-ferromagnetic chain
+Results for гейзенберговская цепочка (simple):
+	Heisenberg chain
+Results for дифференцирующая цепочка:
+	 differentiating network (Техника)
+	 
+Results for ёмкостная цепочка (simple):
+	capacitor chain
+Results for интегрирующая цепочка:
+	 integrating network (Техника)
+	 
+Results for линейная цепочка (simple):
+	linear chain
+Results for цепочка векторов (simple):
+	chain of vectors
+Results for цепочка вызовов:
+	 call chain (Компьютеры)
+	 
+Results for цепочка двоичных (логических) элементов (simple):
+	chain of binary (logical) elements
+Results for цепочка изоляторов (simple):
+	chain of insulators
+Results for цепочка подчинения:
+	 owner member chain (Компьютеры)
+	 
+Results for цепочка рассуждений (simple):
+	chain of reasonings
+Results for цепочка резонаторов (simple):
+	chain of resonators
+Results for цепочка символов (simple):
+	chain of symbols
+Results for цепочка хеширования:
+	 hash chain (Естественные науки)
+	 
+Results for анодная цепь:
+	 anode circuit (Компьютеры)
+	 
+Results for апериодическая цепь:
+	 aperiodic circuit (Техника)
+	 
+Results for внешняя магнитная цепь (simple):
+	external magnetic chain
+Results for выравнивающая цепь (simple):
+	the leveling chain
+Results for главная цепь:
+	 backbone[ˈbækbəun] (Естественные науки)
+	 
+	 main circuit (Компьютеры)
+	 
+Results for демпфирующая цепь:
+	 damping circuit (Естественные науки)
+	 
+Results for дуальная цепь:
+	 dual network (Техника)
+	 
+Results for катодная цепь (simple):
+	cathodic chain
+Results for колебательная цепь (simple):
+	oscillatory chain
+Results for контрольная цепь:
+	 monitoring circuit (Естественные науки)
+	 
+Results for кусочно-линейная цепь (simple):
+	piecewise and linear chain
+Results for марковская цепь:
+	 Markov chain (Компьютеры)
+	 
+Results for минимально-фазовая цепь (simple):
+	minimum-phase chain
+Results for многомерная цепь (simple):
+	multidimensional chain
+Results for невзаимная цепь (simple):
+	not mutual chain
+Results for (не)замкнутая цепь (simple):
+	not closed chain
+Results for (не)линейная цепь (simple):
+	(not) linear chain
+Results for (не)планарная цепь (simple):
+	(not) planar chain
+Results for обратная цепь:
+	 return circuit (Техника)
+	 
+Results for опросная цепь (simple):
+	polling chain
+Results for паразитная цепь (simple):
+	parasitic chain
+Results for параллельная [шунтирующая] цепь (simple):
+	the parallel [shunting] chain
+Results for пассивная цепь (simple):
+	passive chain
+Results for первичная цепь:
+	 primary circuit (Естественные науки)
+	 
+	 primary chain (Естественные науки)
+	 
+Results for передаточная цепь (simple):
+	transfer chain
+Results for поглощающая цепь (simple):
+	the absorbing chain
+Results for пусковая цепь:
+	 starting circuit (Компьютеры)
+	 
+	 drive circuit (Техника)
+	 
+Results for разветвлённая цепь (simple):
+	branched chain
+Results for развязывающая цепь:
+	 isolation network (Техника)
+	 
+Results for разомкнутая цепь:
+	 open circuit (Естественные науки)
+	 
+	 broken circuit (Естественные науки)
+	 
+Results for разрядная цепь:
+	 discharge circuit (Естественные науки)
+	 
+Results for реактивная цепь (simple):
+	jet chain
+Results for резервная цепь:
+	 standby circuit (Компьютеры)
+	 
+	 stand-by circuit (Техника)
+	 
+Results for сеточная цепь:
+	 grid-circuit (Техника)
+	 
+Results for согласующая цепь:
+	 matching circuit (Компьютеры)
+	 
+Results for фазовыравнивающая цепь (simple):
+	phase-equalizing chain
+Results for фазозадерживающая цепь (simple):
+	fazozaderzhivayushchy chain
+Results for фазоинвертирующая цепь:
+	 phase-shifting circuit (Техника)
+	 
+Results for фазоопережающая цепь (simple):
+	fazooperezhayushchy chain
+Results for фазорасщепляющая цепь (simple):
+	fazorasshcheplyayushchy chain
+Results for фазосдвигающая цепь (simple):
+	fazosdvigayushchy chain
+Results for цепь автоматического запуска записи (simple):
+	chain of automatic start of record
+Results for цепь без потерь (simple):
+	chain without loss
+Results for цепь блокировки (simple):
+	blocking chain
+Results for цепь (видео)сигнала (simple):
+	chain (video) of a signal
+Results for цепь вихревых токов (simple):
+	chain of vortex currents
+Results for цепь возбуждения:
+	 exciting circuit (Естественные науки)
+	 
+Results for цепь возврата (simple):
+	return chain
+Results for цепь воздействия (simple):
+	influence chain
+Results for цепь делителя частоты импульсов (simple):
+	chain of a divider of frequency of impulses
+Results for цепь зажигания:
+	 ignition circuit (Техника)
+	 
+Results for цепь заземления:
+	 earth circuit (Естественные науки)
+	 
+Results for цепь затвора (simple):
+	lock chain
+Results for цепь защиты (simple):
+	protection chain
+Results for цепь коллектора:
+	 collector circuit (Естественные науки)
+	 
+Results for цепь компенсации (simple):
+	compensation chain
+Results for цепь контрольного сигнала [пилот-сигнала] (simple):
+	chain of a control signal [pilot signal]
+Results for цепь конференц-связи (simple):
+	conference communication chain
+Results for цепь короткого замыкания:
+	 short circuit (Техника)
+	 
+Results for цепь коррекции (simple):
+	correction chain
+Results for цепь межкаскадной связи:
+	 inter-stage network (Компьютеры)
+	 
+Results for цепь (нагрузки источника) питания (simple):
+	chain (source loading) of food
+Results for цепь накала лампы (simple):
+	chain of heat of a lamp
+Results for цепь накачки (simple):
+	rating chain
+Results for цепь нейтрализации (simple):
+	neutralization chain
+Results for цепь образования тире (точек) (simple):
+	chain of formation of a dash (points)
+Results for цепь обратной связи:
+	 Armstrong circuit (Естественные науки)
+	 
+	 reactive circuit (Компьютеры)
+	 
+Results for цепь ограничения тока (simple):
+	chain of restriction of current
+Results for цепь освещения (simple):
+	lighting chain
+Results for цепь ответвления:
+	 tap circuit (Естественные науки)
+	 
+Results for цепь отвода [ответвления] (simple):
+	chain of branch [branch]
+Results for цепь отключения (simple):
+	shutdown chain
+Results for цепь передачи данных (simple):
+	data transmission chain
+Results for цепь переменного (постоянного) тока (simple):
+	chain of alternating (constant) current
+Results for цепь подогревателя:
+	 heater circuit (Естественные науки)
+	 
+Results for цепь прерывания (simple):
+	interruption chain
+Results for цепь прямого вызова (simple):
+	chain of a direct call
+Results for цепь прямой передачи (simple):
+	chain of direct transfer
+Results for цепь самоблокировки (simple):
+	automatic interlock chain
+Results for цепь связи:
+	 coupling circuit (Естественные науки)
+	 
+	 coupling network (Компьютеры)
+	 
+Results for цепь с замыканием через землю (корпус) (simple):
+	chain with short circuit through the earth (case)
+Results for цепь сигнальной пластины (simple):
+	chain of an alarm plate
+Results for цепь смещения:
+	 bias circuit (Естественные науки)
+	 
+Results for цепь с отводами [ответвлениями] (simple):
+	chain with branches [branches]
+Results for цепь с параллельной (последовательной) передачей (simple):
+	chain with parallel (consecutive) transfer
+Results for цепь с распределёнными (сосредоточенными) параметрами (simple):
+	chain with the distributed (concentrated) parameters
+Results for цепь стока (simple):
+	drain chain
+Results for цепь трансляционного реле (simple):
+	chain of the transmitting relay
+Results for цепь управления:
+	 control circuit (Естественные науки)
+	 
+Results for цепь утечки:
+	 leak circuit (Техника)
+	 
+Results for цепь (фазовой) синхронизации (simple):
+	chain (phase) synchronization
+Results for цепь формирования импульсов (simple):
+	chain of formation of impulses
+Results for цепь центральной батареи (simple):
+	chain of the central battery
+Results for цепь эмиттера:
+	 emitter circuit (Естественные науки)
+	 
+Results for эквивалентная цепь:
+	 equivalent circuit (Естественные науки)
+	 
+	 equivalent chain (Естественные науки)
+	 
+Results for электрическая цепь:
+	 electric circuit (Естественные науки)
+	 
+Results for автоколебательный цикл (simple):
+	self-oscillatory cycle
+Results for жизненный цикл изделия:
+	 product lifecycle (Бизнес)
+	 
+Results for замкнутый цикл:
+	 closed circuit (Естественные науки)
+	 
+	 closed loop (Компьютеры)
+	 
+Results for коммутационный цикл (simple):
+	switching cycle
+Results for машинный цикл:
+	 machine cycle 
+Results for (не)обратимый цикл (simple):
+	(not) reversible cycle
+Results for открытый цикл:
+	 open circuit (Естественные науки)
+	 
+Results for предельный цикл:
+	 limit cycle (Естественные науки)
+	 
+Results for простой цикл:
+	 simple loop (Компьютеры)
+	 
+Results for рабочий цикл:
+	 running cycle 
+	 duty cycle (Естественные науки)
+	 
+	 job cycle (Бизнес)
+	 
+	 working cycle (Компьютеры)
+	 
+	 operating cycle (Техника)
+	 
+Results for рэлеевский цикл (simple):
+	Rayleigh cycle
+Results for тренировочный цикл (simple):
+	training cycle
+Results for цикл восстановления:
+	 replanting cycle (Естественные науки)
+	 
+Results for цикл выборки (simple):
+	selection cycle
+Results for цикл заданной длительности (simple):
+	cycle of the set duration
+Results for цикл записи:
+	 write cycle (Компьютеры)
+	 
+	 trace cycle (Техника)
+	 
+Results for цикл запоминающего устройства (simple):
+	cycle of the memory device
+Results for цикл за(раз)гонки примеси (simple):
+	cycle for (time) of a race of impurity
+Results for цикл измерений (simple):
+	cycle of measurements
+Results for цикл намагничивания:
+	 cycle of magnetization (Техника)
+	 
+Results for цикл обращения к памяти:
+	 mtmory cycle (Техника)
+	 
+Results for цикл ожидания освобождения (simple):
+	release expectation cycle
+Results for цикл операции (simple):
+	operation cycle
+Results for цикл (основной) программы (simple):
+	cycle (main) program
+Results for цикл переключений (simple):
+	cycle of switchings
+Results for цикл печати (simple):
+	press cycle
+Results for цикл поиска (simple):
+	search cycle
+Results for цикл программы:
+	 program cycle (Компьютеры)
+	 
+	 loop of instructions (Техника)
+	 
+Results for цикл разработки:
+	 development cycle (Компьютеры)
+	 
+Results for цикл с продолжением (simple):
+	cycle with continuation
+Results for цикл срабатывания (simple):
+	operation cycle
+Results for цикл с удлинением времени (формата) (simple):
+	cycle with lengthening of time (format)
+Results for цикл с условием завершения:
+	 "repeat until" loop (Компьютеры)
+	 
+Results for цикл считывание-запись (simple):
+	cycle reading record
+Results for цикл центрального процессора (simple):
+	cycle of the central processing unit
+Results for обращённый циклотрон (simple):
+	the turned cyclotron
+Results for плазменный цилиндр (simple):
+	plasma cylinder
+Results for цилиндр Венельта (simple):
+	Venelta cylinder
+Results for активный циркулятор (simple):
+	active circulator
+Results for волноводный циркулятор (simple):
+	the waveguide circulator
+Results for интегральный циркулятор (simple):
+	integrated circulator
+Results for коаксиальный циркулятор (simple):
+	coaxial circulator
+Results for (микро)полосковый циркулятор (simple):
+	(micro) strip circulator
+Results for многосекционный циркулятор (simple):
+	multisection circulator
+Results for оптический циркулятор (simple):
+	optical circulator
+Results for плёночный циркулятор (simple):
+	film circulator
+Results for поляризационный циркулятор (simple):
+	polarizing circulator
+Results for резонансный циркулятор (simple):
+	resonant circulator
+Results for СВЧ-циркулятор (simple):
+	Microwave circulator
+Results for симметричный циркулятор (simple):
+	symmetric circulator
+Results for тонкоплёночный циркулятор (simple):
+	thin-film circulator
+Results for турникетный циркулятор (simple):
+	turnstile circulator
+Results for узко(широко)полосный циркулятор (simple):
+	narrowly (widely) band circulator
+Results for фазовый циркулятор (simple):
+	phase circulator
+Results for ферритовый циркулятор (simple):
+	ferrite circulator
+Results for циркулятор на эффекте смещения поля (simple):
+	circulator on effect of shift of the field
+Results for циркулятор на эффекте Фарадея (simple):
+	circulator on Faraday's effect
+Results for циркулятор отражательного типа (simple):
+	circulator of reflective type
+Results for циркулятор с потерями (simple):
+	circulator with losses
+Results for циркулятор с распределёнными (сосредоточенными) параметрами (simple):
+	circulator with the distributed (concentrated) parameters
+Results for циркулятор Е(Н)-типа (simple):
+	circulator of E(H) - type
+Results for четырёхплечий циркулятор (simple):
+	chetyryokhplechy circulator
+Results for Т(Х, Y)-циркулятор (simple):
+	Т(Х, Y)-циркулятор
+Results for циркуляция вектора:
+	 circulation integral of a vector (Техника)
+	 
+Results for циркуляция скорости:
+	 velocity circulation (Естественные науки)
+	 
+Results for арабская цифра (simple):
+	Arab figure
+Results for значащая цифра:
+	 significant figure 
+	 significant digit (Естественные науки)
+	 
+	 nonzero digit (Техника)
+	 
+Results for (не)чётная цифра (simple):
+	(not) even figure
+Results for римская цифра:
+	 Roman figure (Техника)
+	 
+Results for цифра системы исчисления (simple):
+	figure of system of calculation
+Results for цоколёвка лампы (simple):
+	lamp pin-connection diagram
+Results for цоколёвка микросхемы (simple):
+	chip pin-connection diagram
+Results for восьми(одиннадцати, четырнадцати)штырьковый цоколь (simple):
+	to eight (eleven, fourteen) shtyrkovy socle
+Results for локтальный цоколь (simple):
+	loktalny socle
+Results for пальчиковый девятиштырьковый цоколь (simple):
+	finger-type devyatishtyrkovy socle
+Results for резьбовой цоколь (simple):
+	carving socle
+Results for фокусирующий цоколь (simple):
+	the focusing socle
+Results for волновой цуг (simple):
+	wave Zug
+Results for захваченная частица (simple):
+	the taken particle
+Results for ионизирующая частица:
+	 ionizing particle (Естественные науки)
+	 
+Results for магнитная частица (simple):
+	magnetic particle
+Results for медленная частица:
+	 slow-particle (Естественные науки)
+	 
+Results for меченая частица (simple):
+	marked particle
+Results for много(моно)доменная частица (simple):
+	much (mono) domain particle
+Results for (не)заряженная частица (simple):
+	(not) charged particle
+Results for (не)релятивистская частица (simple):
+	(not) relativistic particle
+Results for неустойчивая частица:
+	 decaying particle (Техника)
+	 
+Results for поглощённая частица (simple):
+	the absorbed particle
+Results for субатомная частица:
+	 subatomic particle (Естественные науки)
+	 
+Results for суперпарамагнитная частица (simple):
+	superparamagnetic particle
+Results for частица вещества (simple):
+	substance particle
+Results for частица высокой энергии (simple):
+	particle of high energy
+Results for частица отдачи (simple):
+	return particle
+Results for частица плазмы (simple):
+	plasma particle
+Results for элементарная частица:
+	 elementary particle 
+	 fundamental particle (Естественные науки)
+	 
+Results for боковая частота:
+	 side frequency (Компьютеры)
+	 
+Results for брэгговская частота (simple):
+	breggovsky frequency
+Results for вещественная частота (simple):
+	material frequency
+Results for выделенная частота:
+	 assigned frequency (Техника)
+	 
+Results for вызывная частота (simple):
+	calling frequency
+Results for высокая частота:
+	 high frequency (Компьютеры)
+	 
+Results for ганновская частота (simple):
+	gannovsky frequency
+Results for граничная [критическая, предельная] частота (simple):
+	boundary [critical, limit] frequency
+Results for групповая частота:
+	 group frequency (Естественные науки)
+	 
+Results for джозефсоновская частота (simple):
+	Josephson frequency
+Results for дискретная частота:
+	 spot frequency (Техника)
+	 
+	 discrete frequency (Техника)
+	 
+Results for диффузионная частота:
+	 diffusion frequency (Техника)
+	 
+Results for доплеровская частота:
+	 Doppler frequency (Техника)
+	 
+Results for дрейфовая частота (simple):
+	drift frequency
+Results for задающая частота:
+	 master frequency (Компьютеры)
+	 
+Results for звуковая частота:
+	 audio frequency (Естественные науки)
+	 
+	 acoustical frequency (Естественные науки)
+	 
+Results for зеркальная частота (simple):
+	mirror frequency
+Results for ионная плазменная (циклотронная) частота (simple):
+	ionic plasma (cyclotron) frequency
+Results for (квази)оптическая частота (simple):
+	(quasi) optical frequency
+Results for комбинационная частота:
+	 combination frequency (Естественные науки)
+	 
+Results for комплексная частота (simple):
+	complex frequency
+Results for кратная частота (simple):
+	multiple frequency
+Results for круговая частота:
+	 cyclic frequency (Компьютеры)
+	 
+	 circular frequency (Техника)
+	 
+Results for лавинная частота:
+	 avalanche frequency (Компьютеры)
+	 
+Results for ларморова частота (simple):
+	the Larmor frequency
+Results for магнитогидродинамическая частота (simple):
+	magnetohydrodynamic frequency
+Results for магнитоплазменная частота (simple):
+	magnetoplasma frequency
+Results for максимальная (наименьшая) применимая частота (simple):
+	maximum (smallest) applicable frequency
+Results for мгновенная частота:
+	 instantaneous frequency (Техника)
+	 
+Results for мнимая частота (simple):
+	imaginary frequency

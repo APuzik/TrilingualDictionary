@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace MultiDictionaryCore
 {
-    class EntityTranslation : Entity, ITranslation
+    /// <summary>
+    /// This class describes certain entity
+    /// </summary>
+    public class EntityTranslation : Entity, ITranslation
     {
         public Entity Entity { get; set; }
-        public string Translation { get; set; }
+        public string Value { get; set; }
         public Language Language { get; set; }
 
         public ITranslationDBOperations DBOperations { get; set; }

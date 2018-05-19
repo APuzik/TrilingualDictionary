@@ -1,0 +1,2621 @@
+Results for магнитодвижущий (simple):
+	magnetodriving
+Results for магнитодинамика:
+	 magnetodynamics (Естественные науки)
+	 
+Results for магнитодиод (simple):
+	magnetodiode
+Results for магнитодиэлектрик (simple):
+	magnetodielectric
+Results for магнитоиндуктивный (simple):
+	magnetoinductive
+Results for магнитоиндукционный:
+	 magnetic-induction 
+Results for магнитола:
+	 radio tape recorder 
+Results for магнитология (simple):
+	magnitologiya
+Results for магнитометр:
+	 magnetometer[ˌmæɡnɪˈtɔmɪtə] 
+Results for магнитометрический (simple):
+	magnetometric
+Results for магнитометрия:
+	 magnetometry 
+Results for магнитомеханический:
+	 magnetomechanical (Естественные науки)
+	 
+Results for магнитооптика:
+	 magneto-optics 
+Results for магнитооптический:
+	 magnetooptical 
+Results for магнитопауза:
+	 magnetopause 
+Results for магнитоплазма:
+	 magnetoplasma (Естественные науки)
+	 
+Results for магнитоплазменный (simple):
+	magnetoplasma
+Results for магнитоплюмбит (simple):
+	magnitoplyumbit
+Results for магнитопровод:
+	 magnetic conductor 
+	 magnetic circuit (Естественные науки)
+	 
+Results for магнитопроводный (simple):
+	magnetopro-water
+Results for магниторадиола (simple):
+	magnetoradio-gramophone
+Results for магниторазведка:
+	 magnetic exploration 
+Results for магниторазведывательный (simple):
+	magnetoprospecting
+Results for магниторезистивный:
+	 magneto-resistive 
+	 magnetoresistance (Естественные науки)
+	 
+Results for магниторезистор:
+	 magnetoresistor 
+Results for магнитосопротивление:
+	 magnetoresistance 
+Results for магнитостатика:
+	 magnetistatics 
+Results for магнитострикционный:
+	 magnetostrictive (Естественные науки)
+	 
+Results for магнитострикция:
+	 magnetostriction 
+Results for магнитоупругий:
+	 magnetoelastic (Естественные науки)
+	 
+Results for магнитоупругость:
+	 magnetoelasticity (Естественные науки)
+	 
+Results for магнитофон:
+	 tape recorder 
+Results for магнитофонный:
+	 recorder[rɪˈkɔ:də] 
+Results for магнитофотоиндуцированный (simple):
+	magnetophotoinduced
+Results for магнитоэлектрический:
+	 magnetoelectric 
+Results for магнитоэлектрофон (simple):
+	magnetoelectrophone
+Results for мажоранта:
+	 majorant 
+Results for мажорирование:
+	 majorization (Естественные науки)
+	 
+Results for мажорированный (simple):
+	mazhorirovanny
+Results for мажорируемый:
+	 majorize 
+Results for мажорирующий:
+	 majorize 
+Results for мажорирующий:
+	 majorize 
+Results for мажоритарный:
+	 majority[məˈdʒɔrɪtɪ] 
+Results for мазер:
+	 maser (Естественные науки)
+	 Мазер 
+	 Существительное Мазер /  
+	 Mather (Естественные науки)
+	 
+Results for мазерный:
+	 maser (Техника)
+	 
+Results for макет:
+	 model[ˈmɔdl] 
+	 layout[ˈleɪaut] 
+Results for макетирование:
+	 prototyping 
+Results for макетированный (simple):
+	maketirovanny
+Results for макетный:
+	 model[ˈmɔdl] 
+Results for макроассемблер:
+	 macroassembler 
+Results for макровызов (simple):
+	macrocall
+Results for макрогенератор:
+	 macrogenerating program 
+	 macro generator (Компьютеры)
+	 
+Results for макроимя (simple):
+	macroname
+Results for макрокод (simple):
+	macrocode
+Results for макрокоманда:
+	 macro[ˈmækrəu] 
+	 macro instruction (Компьютеры)
+	 
+Results for макрокристалл:
+	 macrocrystal 
+Results for макромир:
+	 macrocosm[ˈmækrəkɔzm] 
+Results for макромодель (simple):
+	macromodel
+Results for макрооперации (simple):
+	macrooperations
+Results for макроопределение:
+	 macro definition 
+Results for макроподход (simple):
+	macroapproach
+Results for макропрограммирование:
+	 macroprogramming 
+Results for макропроцессор (simple):
+	macroprocessor
+Results for макрорасширение:
+	 macro expansion 
+Results for макроскопический:
+	 macroscopic[ˌmækrəuˈskɔpɪk] 
+Results for макроструктура:
+	 macrostructure 
+Results for макроэлемент:
+	 macrocell 
+Results for макроязык:
+	 macro language 
+Results for максвелл:
+	 maxwell[ˈmækswəl] (Естественные науки)
+	 Максвелл 
+	 Существительное Максвелл / Максвеллы 
+	 Maxwell (Естественные науки)
+	 
+Results for максвелловский (simple):
+	maksvellovskiya
+Results for максимальность:
+	 maximality 
+Results for максимальный:
+	 maximum[ˈmæksɪməm] 
+	 maximal (Естественные науки)
+	 
+Results for максимум:
+	 maximum[ˈmæksɪməm] максимум 
+	 Наречие максимум 
+	 at most 
+Results for маловаттный (simple):
+	low-watt
+Results for маловероятный:
+	 improbable[ɪmˈprɔbəbl] 
+Results for маловероятный:
+	 improbable[ɪmˈprɔbəbl] 
+Results for маловместительный (simple):
+	low-capacious
+Results for малогабаритный:
+	 small-sized 
+	 small-size (Естественные науки)
+	 
+Results for малокадровый:
+	 low-frame-rate (Техника)
+	 
+Results for малоконтрастный (simple):
+	low-contrast
+Results for маломощный:
+	 low-power 
+	 low-current (Естественные науки)
+	 
+Results for малообъёмный:
+	 small-volume 
+Results for малосигнальный:
+	 small-signal 
+Results for малость:
+	 trifle[ˈtraɪfl] 
+	 smallness (Естественные науки)
+	 малость 
+	 Наречие малость 
+	 a little 
+Results for малость:
+	 trifle[ˈtraɪfl] 
+	 smallness (Естественные науки)
+	 малость 
+	 Наречие малость 
+	 a little 
+Results for малочувствительный:
+	 insensitive[ɪnˈsensɪtɪv] 
+Results for малошумящий:
+	 low-noise 
+Results for малый:
+	 small[smɔ:l] 
+Results for мандатный:
+	 mandatory[ˈmændətərɪ] 
+Results for манипулирование:
+	 manipulation[məˌnɪpjuˈleɪʃən] 
+Results for манипулированный:
+	 manipulate[məˈnɪpjuleɪt] 
+Results for манипулируемый:
+	 manipulate[məˈnɪpjuleɪt] 
+Results for манипулирующий:
+	 manipulate[məˈnɪpjuleɪt] 
+Results for манипулирующий:
+	 manipulate[məˈnɪpjuleɪt] 
+Results for манипулирующийся:
+	 manipulate[məˈnɪpjuleɪt] 
+Results for манипулятор:
+	 manipulator[məˈnɪpjuleɪtə] 
+Results for манипуляционный:
+	 handling[ˈhændlɪŋ] 
+Results for манипуляция:
+	 manipulation[məˌnɪpjuˈleɪʃən] 
+Results for мантисса:
+	 mantissa 
+Results for маркер:
+	 marker[ˈmɑ:kə] 
+Results for маркерный:
+	 marker[ˈmɑ:kə] 
+Results for маркировальный (simple):
+	markirovalny
+Results for маркирование:
+	 marking[ˈmɑ:kɪŋ] 
+Results for маркированный:
+	 mark[mɑ:k] 
+Results for маркировка:
+	 marking[ˈmɑ:kɪŋ] 
+Results for маркировочный:
+	 marking[ˈmɑ:kɪŋ] 
+Results for маркировочный:
+	 marking[ˈmɑ:kɪŋ] 
+Results for маркируемый:
+	 mark[mɑ:k] 
+Results for маркируемый:
+	 mark[mɑ:k] 
+Results for маркирующий:
+	 mark[mɑ:k] 
+Results for маркирующий:
+	 mark[mɑ:k] 
+Results for маркирующий:
+	 mark[mɑ:k] 
+Results for маркирующий:
+	 mark[mɑ:k] 
+Results for маркирующийся:
+	 mark[mɑ:k] 
+Results for марковский:
+	 Markov 
+Results for маршрут:
+	 route[ru:t] 
+	 route- 
+Results for маршрутизация:
+	 routing 
+Results for маска:
+	 mask[mɑ:sk] 
+Results for маскирование:
+	 masking 
+Results for маскированный:
+	 mask[mɑ:sk] 
+Results for маскировка:
+	 masking 
+Results for маскировочный:
+	 camouflage[ˈkæmuflɑ:ʒ] 
+Results for маскируемый:
+	 mask[mɑ:sk] 
+Results for маскирующий:
+	 mask[mɑ:sk] 
+Results for маскирующий:
+	 mask[mɑ:sk] 
+Results for маскирующийся:
+	 mask[mɑ:sk] 
+Results for масочный:
+	 mask[mɑ:sk] 
+Results for масса:
+	 weight[weɪt] 
+	 mass[mæs] 
+	 lot 
+	 masses 
+Results for массив:
+	 massif[ˈmæsi:f] 
+	 array[əˈreɪ] 
+Results for массивность:
+	 massiveness 
+Results for массивный:
+	 massive[ˈmæsɪv] 
+	 large[lɑ:dʒ] (Естественные науки)
+	 
+Results for массовый:
+	 mass[mæs] 
+Results for масс-спектрограф:
+	 mass spectrograph (Естественные науки)
+	 
+Results for масс-спектрометр:
+	 mass spectrometer (Естественные науки)
+	 
+	 mass-spectrometer (Техника)
+	 
+	 mass analyzer (Кулинария)
+	 
+Results for масс-спектрометрический:
+	 mass-spectrometer (Техника)
+	 
+Results for масштаб:
+	 scale[skeɪl] 
+Results for масштабирование:
+	 scaling 
+Results for масштабированный:
+	 scale[skeɪl] 
+Results for масштабность:
+	 scale[skeɪl] 
+Results for масштабный:
+	 large-scale 
+	 scale[skeɪl] 
+	 extensive[ɪksˈtensɪv] 
+Results for математизация:
+	 mathematization (Естественные науки)
+	 
+Results for математический:
+	 mathematical[ˌmæθɪˈmætɪkəl] 
+Results for материал:
+	 material[məˈtɪərɪəl] 
+	 stuff[stʌf] 
+	 fabric[ˈfæbrɪk] 
+	 materials 
+Results for материаловедение:
+	 materials science 
+Results for материалоёмкость:
+	 material capacity 
+Results for материальный:
+	 material[məˈtɪərɪəl] 
+	 pecuniary[pɪˈkju:njərɪ] 
+Results for матерчатый:
+	 made of cloth 
+Results for матерчатый:
+	 made of cloth 
+Results for матирование:
+	 matting[ˈmætɪŋ] 
+	 delustering (Естественные науки)
+	 
+Results for матированный:
+	 matt 
+	 deluster (Естественные науки)
+	 
+	 delustre (Техника)
+	 
+Results for матовость:
+	 dullness 
+Results for матовый:
+	 opaque[əuˈpeɪk] 
+	 frosted 
+Results for матрица:
+	 matrix[ˈmeɪtrɪks] 
+Results for матрицирование:
+	 matrixing (Техника)
+	 
+Results for матрицированный:
+	 matrix[ˈmeɪtrɪks] 
+Results for матричный:
+	 matrix[ˈmeɪtrɪks] 
+Results for маховичок:
+	 handwheel (Естественные науки)
+	 
+Results for мачта:
+	 mast[mɑ:st] 
+Results for мачтовий (simple):
+	machtoviya
+Results for мачтоподъёмный (simple):
+	machtopodjyomny
+Results for машина:
+	 car[kɑ:] 
+	 machine[məˈʃi:n] 
+	 engine[ˈendʒɪn] 
+Results for машинный:
+	 machine[məˈʃi:n] 
+Results for маяк:
+	 beacon[ˈbi:kən] 
+Results for маятник:
+	 pendulum[ˈpendjuləm] 
+Results for маятниковый:
+	 pendular 
+	 oscillating (Естественные науки)
+	 
+Results for маятникообразный:
+	 pendulum[ˈpendjuləm] 
+Results for маячковый:
+	 disk-seal (Техника)
+	 
+Results for МВ (метровые волны) (simple):
+	MW (meter waves)
+Results for МГД (магнитная гидродинамика) (simple):
+	Moscow City Duma (magnetic hydrodynamics)
+Results for мгновение:
+	 moment[ˈməumənt] 
+	 instant[ˈɪnstənt] 
+Results for мгновенный:
+	 instant[ˈɪnstənt] 
+	 instantaneous[ˌɪnstənˈteɪnjəs] (Естественные науки)
+	 
+Results for мгновенный:
+	 instant[ˈɪnstənt] 
+	 instantaneous[ˌɪnstənˈteɪnjəs] (Естественные науки)
+	 
+Results for МДП (металл-диэлектрик-полупроводник) (simple):
+	TIR (metal-dielectric-semiconductor)
+Results for меандр:
+	 meander[mɪˈændə] 
+Results for мегабайт:
+	 megabyte 
+Results for мегабит:
+	 megabit 
+Results for мегагерц:
+	 megacycle[ˈmeɡəˈsaɪkl] (Естественные науки)
+	 
+Results for мегагерцевый (simple):
+	megahertz
+Results for мегаджоуль:
+	 megajoule 
+Results for мегаомметр:
+	 megohm meter (Техника)
+	 
+Results for мегафон:
+	 megaphone[ˈmeɡəfəun] Мегафон 
+	 Существительное Мегафон / Мегафоны 
+	 Megafon МегаФон 
+	 Существительное МегаФон /  
+	 MegaFon 
+Results for мегафонный:
+	 megaphone[ˈmeɡəfəun] 
+Results for мегацикл (simple):
+	megacycle
+Results for мегацикловой (simple):
+	megacyclic
+Results for мегаэлектрон-вольт (simple):
+	megaelectron-volt
+Results for мегом:
+	 megohm[ˈmeɡəum] 
+Results for медиана:
+	 median[ˈmi:djən] 
+Results for медианный:
+	 median[ˈmi:djən] 
+Results for медленнодействующий:
+	 slow-acting 
+Results for медленность:
+	 slowness 
+Results for медленный:
+	 slow[sləu] 
+	 sluggish[ˈslʌɡɪʃ] (Естественные науки)
+	 
+Results for медлительность:
+	 sluggishness 
+Results for медлительный:
+	 sluggish[ˈslʌɡɪʃ] 
+Results for меднение:
+	 copper plating (Естественные науки)
+	 
+Results for меднозакисный:
+	 cuprous[ˈkju:prəs] 
+Results for медь:
+	 copper[ˈkɔpə] 
+Results for межблочный:
+	 interblock 
+Results for межгранульный (simple):
+	mezhgranulny
+Results for междоузлие:
+	 interstice[ɪnˈtə:stɪs] 
+Results for меж(ду)балочный (simple):
+	between (du) frame
+Results for меж(ду)витковый (simple):
+	between (du) vitkovy
+Results for междугородний:
+	 long-distance 
+	 intercity[ˈɪntəˈsɪtɪ] 
+Results for междукаскадный:
+	 intercascade 
+Results for междукатушечный (simple):
+	mezhdukatushechny
+Results for междуламповый:
+	 intervalve (Техника)
+	 
+Results for меж(ду)молекулярный (simple):
+	between (du) molecular
+Results for международный:
+	 international[ˌɪntəˈnæʃənl] 
+Results for междуобмоточный (simple):
+	mezhduobmotochny
+Results for междуполюсный:
+	 interpolar 
+Results for междурядный:
+	 interrow 
+Results for междусекционный (simple):
+	mezhdusektsionny
+Results for междуслойный:
+	 interlayer 
+Results for меж(ду)строчный (simple):
+	between (du) lower case
+Results for междуэкранный (simple):
+	mezhduekranny
+Results for меж(ду)электродный (simple):
+	between (du) electrode
+Results for межимпульсный:
+	 interpulse (Естественные науки)
+	 
+Results for межкадровый:
+	 interframe (Техника)
+	 
+Results for межкаскадный:
+	 interstage (Техника)
+	 
+Results for межмашинный:
+	 intercomputer (Компьютеры)
+	 
+Results for межмодульный (simple):
+	intermodular
+Results for межпериодный (simple):
+	mezhperiodny
+Results for межпрограммный (simple):
+	interprogram
+Results for межпроцессорный:
+	 interprocessor 
+Results for межсегментный:
+	 intersegment (Естественные науки)
+	 
+Results for межсетевой:
+	 gateway[ˈɡeɪtweɪ] 
+	 internetwork (Техника)
+	 
+Results for межсимвольный:
+	 intersymbol (Техника)
+	 
+Results for межсистемный:
+	 intersystem (Естественные науки)
+	 
+Results for межсоединение:
+	 interconnection[ˌɪntəkəˈnekʃən] 
+Results for межсоединительный (simple):
+	interconnecting
+Results for межэлектродный:
+	 interelectrode (Естественные науки)
+	 
+Results for межэлементный (simple):
+	interelement
+Results for мезаструктура:
+	 mesa structure 
+Results for мезатехнология (simple):
+	mezatekhnologiya
+Results for мезатранзистор:
+	 mesa transistor 
+Results for мезосфера (simple):
+	mesosphere
+Results for мезофаза:
+	 mesomorphic phase (Естественные науки)
+	 
+Results for мелкий:
+	 small[smɔ:l] 
+	 fine[faɪn] 
+	 shallow[ˈʃæləu] 
+	 petty[ˈpetɪ] 
+Results for мелкий:
+	 small[smɔ:l] 
+	 fine[faɪn] 
+	 shallow[ˈʃæləu] 
+	 petty[ˈpetɪ] 
+Results for мелкий:
+	 small[smɔ:l] 
+	 fine[faɪn] 
+	 shallow[ˈʃæləu] 
+	 petty[ˈpetɪ] 
+Results for мелкозернистость:
+	 fineness[ˈfaɪnnɪs] 
+Results for мелкозернистый:
+	 fine-grained 
+	 compact-grained (Естественные науки)
+	 
+Results for мелкомасштабность (simple):
+	melkomasshtabnost
+Results for мелкомасштабный:
+	 small-scale 
+Results for мелкосерийность (simple):
+	melkoseriynost
+Results for мелкосерийность (simple):
+	melkoseriynost
+Results for мелкосерийный:
+	 small-scale 
+Results for мелкосерийный:
+	 small-scale 
+Results for мелькание:
+	 flashing[ˈflæʃɪŋ] 
+Results for мелькание:
+	 flashing[ˈflæʃɪŋ] 
+Results for мельхиор:
+	 cupronickel 
+Results for мембрана:
+	 membrane[ˈmembreɪn] 
+Results for мембранный:
+	 membrane[ˈmembreɪn] 
+	 membranous (Естественные науки)
+	 
+Results for мембранный:
+	 membrane[ˈmembreɪn] 
+	 membranous (Естественные науки)
+	 
+Results for мемистор (simple):
+	memistor
+Results for мемнистор (simple):
+	memnistor
+Results for меню:
+	 menu[ˈmenju:] 
+Results for меняющийся:
+	 change[tʃeɪndʒ] 
+Results for мера:
+	 measure[ˈmeʒə] 
+	 degree[dɪˈɡri:] 
+Results for меридиан:
+	 meridian[məˈrɪdɪən] 
+Results for мерительный:
+	 measuring 
+Results for мерительный:
+	 measuring 
+Results for мероприятие:
+	 action[ˈækʃən] 
+	 event[ɪˈvent] 
+Results for мёртвый:
+	 dead[ded] мёртвый 
+	 Прилагательное мёртвый / мертвее  /  
+	 dead[ded] 
+Results for мерцание:
+	 blinking[ˈblɪŋkɪŋ] 
+	 fibrillation[ˌfaɪbrɪˈleɪʃən] (Естественные науки)
+	 
+	 flicker[ˈflɪkə] (Компьютеры)
+	 
+Results for мерцание:
+	 blinking[ˈblɪŋkɪŋ] 
+	 fibrillation[ˌfaɪbrɪˈleɪʃən] (Естественные науки)
+	 
+	 flicker[ˈflɪkə] (Компьютеры)
+	 
+Results for мерцающий:
+	 flickering[ˈflɪkərɪŋ] мерцать 
+	 Глагол мерцать / мерцаю  / мерцаешь  / мерцают 
+	 flicker[ˈflɪkə] 
+Results for мерцающий:
+	 flickering[ˈflɪkərɪŋ] мерцать 
+	 Глагол мерцать / мерцаю  / мерцаешь  / мерцают 
+	 flicker[ˈflɪkə] 
+Results for местный:
+	 local[ˈləukəl] 
+Results for место:
+	 place[pleɪs] 
+	 spot[spɔt] 
+	 site[saɪt] 
+	 location[ləuˈkeɪʃən] 
+	 seat[si:t] 
+	 post 
+	 piece[pi:s] 
+	 space[speɪs] 
+Results for местонахождение:
+	 location[ləuˈkeɪʃən] 
+Results for местоположение:
+	 location[ləuˈkeɪʃən] 
+Results for месторасположение:
+	 location[ləuˈkeɪʃən] 
+Results for месторасположение:
+	 location[ləuˈkeɪʃən] 
+Results for метадин:
+	 Metadinum (Естественные науки)
+	 
+Results for металл:
+	 metal[ˈmetl] 
+Results for металлизация:
+	 metallization[ˌmetəlaɪˈzeɪʃən] 
+Results for металлизация:
+	 metallization[ˌmetəlaɪˈzeɪʃən] 
+Results for металлизированный:
+	 metallize[ˈmetəlaɪz] 
+Results for металлизируемый:
+	 metallize[ˈmetəlaɪz] 
+Results for металлический:
+	 metal[ˈmetl] 
+	 metallic[mɪˈtælɪk] 
+Results for металлический:
+	 metal[ˈmetl] 
+	 metallic[mɪˈtælɪk] 
+Results for металловедение:
+	 metallurgical science 
+Results for металловоздушный (simple):
+	metalair
+Results for металлодиэлектрический (simple):
+	metaldielectric
+Results for металлокерамика:
+	 metal ceramics 
+Results for металлокерамический:
+	 ceramic-metal 
+Results for металлопластинчатый (simple):
+	metallamellar
+Results for металлофизика:
+	 metallophysics 
+	 physics of metals (Естественные науки)
+	 
+Results for метамагнетизм:
+	 metamagnetism (Естественные науки)
+	 
+Results for метамагнит (simple):
+	metamagnet
+Results for метамагнитный:
+	 metamagnetic (Естественные науки)
+	 
+Results for метамерный:
+	 metameric (Естественные науки)
+	 
+Results for метамеры:
+	 metamere (Естественные науки)
+	 
+Results for метастабильный:
+	 metastable (Естественные науки)
+	 
+Results for метаязык:
+	 meta language 
+Results for метеорный:
+	 meteoric[ˌmi:tɪˈɔrɪk] 
+Results for метеорологический:
+	 meteorological[ˌmi:tjərəˈlɔdʒɪkəl] 
+Results for метеорология:
+	 meteorology[ˌmi:tjəˈrɔlədʒɪ] 
+Results for метеосводка:
+	 weather report 
+Results for метеоспутник:
+	 weather satellite 
+Results for метка:
+	 label[ˈleɪbl] 
+	 tag[tæɡ] меткий 
+	 Прилагательное меткий / метче  /  
+	 well-aimed 
+	 accurate[ˈækjurɪt] 
+	 neat[ni:t] 
+Results for метод:
+	 method[ˈmeθəd] 
+Results for методика:
+	 technique[tekˈni:k] 
+	 method[ˈmeθəd] 
+Results for методический:
+	 methodical[mɪˈθɔdɪkəl] 
+Results for методичный:
+	 methodical[mɪˈθɔdɪkəl] 
+Results for методология:
+	 methodology[ˌmeθəˈdɔlədʒɪ] 
+Results for метр:
+	 meter[ˈmi:tə] 
+Results for метрика:
+	 metrics 
+Results for метрический:
+	 metric[ˈmetrɪk] 
+	 metrical[ˈmetrɪkəl] 
+Results for метровый:
+	 meter[ˈmi:tə] 
+	 one-metre-long 
+	 one-metre-wide 
+	 one-metre-high 
+Results for метрологический:
+	 metrological 
+Results for метрология:
+	 metrology[meˈtrɔlədʒɪ] 
+Results for метроном:
+	 metronome[ˈmetrənəum] метрон 
+	 Существительное метрон / метроны 
+	 metron (Естественные науки)
+	 
+Results for механизм:
+	 mechanism[ˈmekənɪzm] 
+Results for механика:
+	 mechanics[mɪˈkænɪks] механик 
+	 Существительное механик / механики 
+	 mechanic[mɪˈkænɪk] 
+Results for механический:
+	 mechanical[mɪˈkænɪkəl] 
+Results for механотрон:
+	 mechanotron 
+Results for механоэлектрет (simple):
+	mechanoelectret
+Results for меченый:
+	 marked 
+	 labelled (Естественные науки)
+	 
+Results for меченый:
+	 marked 
+	 labelled (Естественные науки)
+	 
+Results for мешающий:
+	 disturb[dɪsˈtə:b] 
+	 stir[stə:] 
+	 prevent[prɪˈvent] 
+	 mix[mɪks] 
+	 interfere[ˌɪntəˈfɪə] 
+	 hinder[ˈhaɪndə] 
+Results for мешающий:
+	 disturb[dɪsˈtə:b] 
+	 stir[stə:] 
+	 prevent[prɪˈvent] 
+	 mix[mɪks] 
+	 interfere[ˌɪntəˈfɪə] 
+	 hinder[ˈhaɪndə] 
+Results for миг:
+	 instant[ˈɪnstənt] МиГ 
+	 Существительное МиГ / МиГи 
+	 MiG 
+Results for мигание:
+	 blinking[ˈblɪŋkɪŋ] 
+Results for мигание:
+	 blinking[ˈblɪŋkɪŋ] 
+Results for мигание:
+	 blinking[ˈblɪŋkɪŋ] 
+Results for мигающий:
+	 blink[blɪŋk] 
+Results for мигающий:
+	 blink[blɪŋk] 
+Results for мигающий:
+	 blink[blɪŋk] 
+Results for миграция:
+	 migration[maɪˈɡreɪʃən] 
+Results for микроамперметр (simple):
+	microampermeter
+Results for микроассемблер (simple):
+	microassembler
+Results for микроблок (simple):
+	microblock
+Results for микроватт (simple):
+	microwatt
+Results for микроваттный (simple):
+	microwatt
+Results for микроволновый:
+	 microwave[ˈmaɪkrəuweɪv] 
+Results for микроволны:
+	 microwave[ˈmaɪkrəuweɪv] 
+Results for микровольтметр:
+	 potential galvanometer (Естественные науки)
+	 
+Results for микровыключатель (simple):
+	microswitch
+Results for микроголограмма (simple):
+	microhologram
+Results for микроголография (simple):
+	microholography
+Results for микродвойник (simple):
+	microdouble
+Results for микроденситометр:
+	 microdensitometer (Естественные науки)
+	 
+Results for микродиод (simple):
+	microdiode
+Results for микродиск (simple):
+	microdisk
+Results for микродиффузия (simple):
+	microdiffusion
+Results for микрозапись (simple):
+	microrecord
+Results for микрозапись (simple):
+	microrecord
+Results for микрозонд:
+	 microprobe (Естественные науки)
+	 
+Results for микрокалькулятор:
+	 microcalculator 
+Results for микроканавка (simple):
+	microflute
+Results for микрокоаксиальный (simple):
+	microcoaxial
+Results for микрокод:
+	 microcode 
+Results for микрокоманда (simple):
+	microteam
+Results for микрокомпонент:
+	 microcomponent 
+Results for микрокомпьютер:
+	 microcomputer 
+Results for микроконтакт (simple):
+	microcontact
+Results for микроконтроллер:
+	 microcontroller 
+Results for микрокристаллический:
+	 microcrystalline 
+	 microcrystallic (Техника)
+	 
+Results for микролазер (simple):
+	microlaser
+Results for микромагнетизм:
+	 micromagnetism (Естественные науки)
+	 
+Results for микромазер (simple):
+	mikromazer
+Results for микроманипулятор:
+	 micromanipulator (Естественные науки)
+	 
+Results for микроматрица (simple):
+	micromatrix
+Results for микрометр:
+	 micrometer[maɪˈkrɔmɪtə] 
+Results for микрометр:
+	 micrometer[maɪˈkrɔmɪtə] 
+Results for микроминиатюризация:
+	 microminiaturization 
+Results for микроминиатюрный:
+	 microminiature 
+Results for микромодель (simple):
+	micromodel
+Results for микромодуль:
+	 micromodule 
+Results for микромодульный (simple):
+	micromodular
+Results for микромостик:
+	 microbridge (Естественные науки)
+	 
+Results for микронеустойчивость:
+	 microinstability (Естественные науки)
+	 
+Results for микропайка (simple):
+	microsoldering
+Results for микропамять (simple):
+	micromemory
+Results for микропервеанс (simple):
+	микропервеанс
+Results for микропереключатель (simple):
+	microswitch
+Results for микрополоска (simple):
+	microstrip
+Results for микрополосковый (simple):
+	microstrip
+Results for микропрерывание (simple):
+	microinterruption
+Results for микропрограмма:
+	 microprogram 
+Results for микропрограммирование:
+	 micro programming 
+Results for микропрограммируемость (simple):
+	microprogrammability
+Results for микропрограммируемый (simple):
+	microprogrammable
+Results for микропрограммный:
+	 microprogram 
+Results for микропроцессор:
+	 microprocessor 
+Results for микропроцессорный:
+	 microprocessor 
+Results for микрорадиография (simple):
+	microradiography
+Results for микрорадиология (simple):
+	microradiology
+Results for микрорадиометр:
+	 microradiometer (Естественные науки)
+	 
+Results for микрорефлектометр (simple):
+	microreflectometer
+Results for микросборка (simple):
+	microassembly
+Results for микросборка (simple):
+	microassembly
+Results for микроскоп:
+	 microscope[ˈmaɪkrəskəup] 
+Results for микроскопия:
+	 microscopy[maɪˈkrɔskəpɪ] 
+Results for микросплавный (simple):
+	mikrosplavny
+Results for микросрез (simple):
+	microcut
+Results for микроструктура:
+	 microstructure 
+Results for микросхема:
+	 chip[tʃɪp] 
+Results for микросхемный (simple):
+	microcircuit
+Results for микросхемотехника (simple):
+	microcircuitry
+Results for микросхемотехнический (simple):
+	microcircuitry
+Results for микротелефон:
+	 microtelephone 
+Results for микротранзистор (simple):
+	microtransistor
+Results for микротрон:
+	 microtron 
+Results for микротумблер (simple):
+	microtoggle-switch
+Results for микроузел (simple):
+	microknot
+Results for микроуровень (simple):
+	microlevel
+Results for микроуровневый (simple):
+	micro-level
+Results for микрофарада:
+	 microfarad (Естественные науки)
+	 
+Results for микрофильм:
+	 microfilm[ˈmaɪkrəufɪlm] 
+Results for микрофильмирование:
+	 microfilming[ˈmaɪkrəuˌfɪlmɪŋ] 
+Results for микрофиша:
+	 microfiche 
+Results for микрофон:
+	 microphone[ˈmaɪkrəfəun] 
+Results for микрофонный:
+	 microphone[ˈmaɪkrəfəun] 
+Results for микрофононоситель (simple):
+	microphonocarrier
+Results for микрофотография:
+	 microphotograph (Естественные науки)
+	 
+Results for микрофотометр:
+	 microphotometer (Естественные науки)
+	 
+Results for микрофотометрия:
+	 microphotometry (Естественные науки)
+	 
+Results for микроЭВМ (simple):
+	microcomputer
+Results for микроэлектроника:
+	 microelectronics 
+Results for микроэлектронный:
+	 microelectronic 
+Results for микроэлемент:
+	 microcell 
+	 minerals 
+	 microelement[ˈmaɪkrəuˈelɪmənt] (Техника)
+	 
+Results for миктомагнетизм (simple):
+	miktomagnetizm
+Results for миктомагнетик (simple):
+	миктомагнетик
+Results for миллиамперметр:
+	 milliamperemeter 
+	 milliammeter (Естественные науки)
+	 
+Results for миллиметровый:
+	 millimetric 
+	 one-millimetre-long 
+	 one-millimetre-wide 
+Results for миниассемблер (simple):
+	miniassembler
+Results for миниатюризация:
+	 miniaturization 
+Results for миниатюрный:
+	 tiny[ˈtaɪnɪ] 
+	 miniature[ˈmɪnjətʃə] (Компьютеры)
+	 
+Results for мини-диск (simple):
+	mini-disk
+Results for минимакс:
+	 minimax 
+Results for минимаксный:
+	 minimax 
+Results for минимально-различимый (simple):
+	minimum and distinguishable
+Results for минимальный:
+	 minimum[ˈmɪnɪməm] 
+	 minimal[ˈmɪnɪml] 
+Results for минимизация:
+	 minimization 
+Results for минимум:
+	 minimum[ˈmɪnɪməm] минимум 
+	 Наречие минимум 
+	 at least 
+Results for мини-процессор (simple):
+	mini-processor
+Results for минитрон (simple):
+	minithrone
+Results for мини-ЭВМ:
+	 mini computer 
+Results for минор:
+	 minor[ˈmaɪnə] 
+Results for минус:
+	 minus[ˈmaɪnəs] минус 
+	 Союз минус 
+	 minus[ˈmaɪnəs] 
+Results for минута:
+	 minute['mɪnɪt] 
+Results for минута:
+	 minute['mɪnɪt] 
+Results for минутный:
+	 minute['mɪnɪt] 
+	 momentary[ˈməuməntərɪ] 
+Results for минутный:
+	 minute['mɪnɪt] 
+	 momentary[ˈməuməntərɪ] 
+Results for мириаметр:
+	 myriameter (Естественные науки)
+	 
+Results for мириаметровый:
+	 myriameter 
+Results for мировой:
+	 world[wə:ld] 
+	 first-class 
+	 peace[pi:s] 
+Results for мишень:
+	 target[ˈtɑ:ɡɪt] 
+Results for МКО (Международная комиссия по освещению) (simple):
+	MKO (International commission on lighting)
+Results for младший:
+	 younger 
+	 junior[ˈdʒu:njə] 
+	 low[ləu] 
+Results for мнемокод:
+	 mnemonic code 
+Results for мнемоника:
+	 mnemonic[ni:ˈmɔnɪk] 
+	 mnemonics[ni:ˈmɔnɪks] (Естественные науки)
+	 
+Results for мнемонический:
+	 mnemonic[ni:ˈmɔnɪk] 
+Results for мнемосхема:
+	 symbolic circuit 
+Results for мнимый:
+	 imaginary[ɪˈmædʒɪnərɪ] 
+Results for многоабонентский (simple):
+	multisubscriber
+Results for многоадресный:
+	 multiple-address 
+	 multiaddress (Естественные науки)
+	 
+	 multi-address (Техника)
+	 
+Results for многоальтернативный (simple):
+	multialternative
+Results for многоанодный (simple):
+	multianode
+Results for многобайтовый (simple):
+	multibyte
+Results for многобитовый (simple):
+	multibit
+Results for многовитковый:
+	 multi-turn (Техника)
+	 
+Results for многоволновой:
+	 multiwave 
+Results for многовходовый:
+	 multiport 
+Results for многогранник:
+	 polyhedron[ˈpɔlɪˈhedrən] 
+Results for многодиапазонный:
+	 multirange 
+Results for многодорожечный:
+	 multitrack 
+Results for многожильный:
+	 multicore 
+Results for многозазорный (simple):
+	multishameful
+Results for многозазорный (simple):
+	multishameful
+Results for многозарядный:
+	 multicharged 
+	 multiply charged (Естественные науки)
+	 
+Results for многозатворный (simple):
+	multibarrier
+Results for многозвенный:
+	 multilink 
+Results for многозначность:
+	 polysemy[ˈpɔlɪsi:mɪ] 
+Results for многозначный:
+	 multiple-valued 
+	 polysemantic 
+	 multidigit 
+Results for многозонный (simple):
+	multizonal
+Results for многокамерный:
+	 multichamber (Естественные науки)
+	 
+Results for многоканальный:
+	 multichannel 
+	 multi-channel (Естественные науки)
+	 
+Results for многокаскадный:
+	 cascade[kæsˈkeɪd] (Естественные науки)
+	 
+Results for многокомпонентный:
+	 multicomponent 
+Results for многоконтурный:
+	 multicircuit 
+	 multiple loop (Естественные науки)
+	 
+Results for многократный:
+	 repeated[rɪˈpi:tɪd] 
+	 frequentative[frɪˈkwentətɪv] 
+	 multiple[ˈmʌltɪpl] 
+Results for многокритериальный:
+	 multicriteria (Естественные науки)
+	 
+Results for многоленточный (simple):
+	multitape
+Results for многолепестковый:
+	 multilobed (Техника)
+	 
+Results for многолучевой:
+	 multibeam (Естественные науки)
+	 
+Results for многоматричный (simple):
+	multimatrix
+Results for многомерный:
+	 multidimensional 
+	 many-dimensional (Естественные науки)
+	 
+Results for многомодовость (simple):
+	mnogomodovost
+Results for многомодовый:
+	 multimode 
+Results for многонаправленный:
+	 polydirectional 
+Results for многонаправленный:
+	 polydirectional 
+Results for многонаправленный:
+	 polydirectional 
+Results for многообмоточный:
+	 multiwound (Естественные науки)
+	 
+Results for многообразие:
+	 variety[vəˈraɪətɪ] 
+Results for многообразие:
+	 variety[vəˈraɪətɪ] 
+Results for многообразность (simple):
+	multifigurativeness
+Results for многообразный:
+	 diverse[daɪˈvə:s] 
+Results for многопериодный:
+	 multiperiod 
+Results for многоплановость:
+	 diversity[daɪˈvə:sɪtɪ] 
+Results for многоплановый:
+	 multidimensional 
+Results for многоплечий:
+	 multiple-arm (Техника)
+	 
+Results for многопозиционный:
+	 multiposition 
+Results for многополосный:
+	 multiband 
+Results for многополюсник:
+	 multiterminal network 
+Results for многополюсный:
+	 multi-polar 
+	 pluripolar (Естественные науки)
+	 
+	 multipole (Техника)
+	 
+Results for многопортовый (simple):
+	multiport
+Results for многопредельный:
+	 multirange (Техника)
+	 
+Results for многопредельный:
+	 multirange (Техника)
+	 
+Results for многопроводной (simple):
+	multiwire
+Results for многопроводной (simple):
+	multiwire
+Results for многопрограммный:
+	 multiprogramme 
+Results for многопрожекторный (simple):
+	multiprojector
+Results for многопроцессорный:
+	 multiprocessor 
+Results for многопунктовый:
+	 multi-point (Техника)
+	 
+Results for многоразовость:
+	 reusability 
+Results for многоразовый:
+	 reusable 
+Results for многорезонаторный (simple):
+	mnogorezonatorny
+Results for многосекционный:
+	 multisection 
+Results for многосерийность (simple):
+	multiseriality
+Results for многосерийный:
+	 multiseries 
+	 serial[ˈsɪərɪəl] 
+Results for многосеточный:
+	 multigrid 
+Results for многосигнальный (simple):
+	multialarm
+Results for многоскоростной:
+	 multi-speed 
+Results for многослойность:
+	 multiple layers 
+Results for многослойный:
+	 multilayered 
+	 multilayer (Естественные науки)
+	 
+	 laminated[ˈlæmɪneɪtɪd] (Естественные науки)
+	 
+Results for многоспектральный (simple):
+	multispectral
+Results for многостанционный (simple):
+	multistation
+Results for многостепенной:
+	 multi-phase 
+	 several-stage (Естественные науки)
+	 
+Results for многострочный:
+	 multiline (Компьютеры)
+	 
+Results for многоступенчатость (simple):
+	multigradualness
+Results for многоступенчатость (simple):
+	multigradualness
+Results for многоступенчатый:
+	 multistage[ˈmʌltɪsteɪdʒ] 
+Results for многоступенчатый:
+	 multistage[ˈmʌltɪsteɪdʒ] 
+Results for многоступенчатый:
+	 multistage[ˈmʌltɪsteɪdʒ] 
+Results for многотарифный (simple):
+	multitariff
+Results for многотерминальный (simple):
+	multiterminal
+Results for многоточечный:
+	 multipoint 
+Results for многотрассовость (simple):
+	mnogotrassovost
+Results for многоугольник:
+	 polygon[ˈpɔlɪɡən] 
+Results for многоугольный:
+	 polygonal[pɔˈlɪɡənl] 
+Results for многоуровневый:
+	 multilevel 
+	 multi-level (Техника)
+	 
+Results for многоустойчивый (simple):
+	multisteady
+Results for многофазный:
+	 multiphase[ˈmʌltɪfeɪz] 
+	 polyphase (Естественные науки)
+	 
+Results for многофазовый:
+	 multiphase[ˈmʌltɪfeɪz] 
+Results for многофононный (simple):
+	multiphonon
+Results for многофункциональность:
+	 multifunctionality 
+Results for многофункциональный:
+	 multipurpose[ˈmʌltɪˈpə:pəs] 
+	 all-in-one (Техника)
+	 
+Results for многоцелевой:
+	 multi-purpose 
+Results for многочасовой:
+	 hours-long 
+Results for многочастотный:
+	 multifrequency 
+Results for многочисленность:
+	 large number 
+Results for многочисленный:
+	 numerous[ˈnju:mərəs] 
+Results for многочлен:
+	 polynomial 
+	 polynom (Техника)
+	 
+Results for многочлен:
+	 polynomial 
+	 polynom (Техника)
+	 
+Results for многочленный:
+	 polynomial 
+Results for многоэлементный:
+	 multielement 
+Results for многоэмиттерный (simple):
+	multiemitter
+Results for множественность:
+	 plurality[pluəˈrælɪtɪ] 
+Results for множественный:
+	 multiple[ˈmʌltɪpl] 
+	 plural[ˈpluərəl] 
+Results for множество:
+	 set[set] 
+	 great number 
+Results for множимое:
+	 multiplicand[ˌmʌltɪplɪˈkænd] 
+Results for множитель:
+	 multiplier[ˈmʌltɪplaɪə] 
+	 factor[ˈfæktə] (Естественные науки)
+	 
+Results for множительно-делительный:
+	 multiplication-division 
+Results for множительный:
+	 multiplying 
+Results for множительный:
+	 multiplying 
+Results for множительный:
+	 multiplying 
+Results for мобильность:
+	 mobility[məuˈbɪlɪtɪ] 
+Results for мобильный:
+	 mobile[ˈməubaɪl] 
+Results for мода:
+	 fashion[ˈfæʃən] 
+	 vogue[vəuɡ] 
+	 mode[məud] (Техника)
+	 
+Results for модальный:
+	 modal[ˈməudl] 
+Results for моделирование:
+	 modelling[ˈmɔdlɪŋ] 
+	 model operation (Естественные науки)
+	 
+Results for моделированный:
+	 simulated (Школа)
+	 моделировать 
+	 Глагол моделировать / моделирую  / моделируешь  / моделируют 
+	 model[ˈmɔdl] 
+	 simulate[ˈsɪmjuleɪt] (Естественные науки)
+	 
+Results for моделируемый:
+	 model[ˈmɔdl] 
+	 simulate[ˈsɪmjuleɪt] (Естественные науки)
+	 
+Results for моделирующий:
+	 model[ˈmɔdl] 
+	 simulate[ˈsɪmjuleɪt] (Естественные науки)
+	 
+Results for моделирующий:
+	 model[ˈmɔdl] 
+	 simulate[ˈsɪmjuleɪt] (Естественные науки)
+	 
+Results for модель:
+	 model[ˈmɔdl] 
+Results for модельный:
+	 model[ˈmɔdl] 
+	 fashion[ˈfæʃən] 
+Results for модем:
+	 modem 
+Results for модемный:
+	 modem 
+Results for модернизация:
+	 modernization 
+	 upgrade[ʌp'greɪd] (Компьютеры)
+	 
+Results for модернизированный:
+	 modernize[ˈmɔdənaɪz] 
+	 upgrade[ʌp'greɪd] 
+Results for модификатор:
+	 modifier 
+Results for модификационный:
+	 modification[ˌmɔdɪfɪˈkeɪʃən] 
+Results for модификация:
+	 modification[ˌmɔdɪfɪˈkeɪʃən] 
+Results for модифицирование:
+	 modifying 
+Results for модифицированный:
+	 modified (Естественные науки)
+	 модифицировать 
+	 Глагол модифицировать / модифицирую  / модифицируешь  / модифицируют 
+	 modify[ˈmɔdɪfaɪ] 
+Results for модулирование:
+	 modulation[ˌmɔdjuˈleɪʃən] 
+Results for модулированный:
+	 modulate[ˈmɔdjuleɪt] 
+Results for модулируемый:
+	 modulate[ˈmɔdjuleɪt] 
+Results for модулирующий:
+	 modulate[ˈmɔdjuleɪt] 
+Results for модулирующий:
+	 modulate[ˈmɔdjuleɪt] 
+Results for модулирующийся:
+	 modulate[ˈmɔdjuleɪt] 
+Results for модулирующийся:
+	 modulate[ˈmɔdjuleɪt] 
+Results for модулометр:
+	 modulation meter (Техника)
+	 
+Results for модуль:
+	 module[ˈmɔdju:l] 
+Results for много(одно)кристальный модуль (simple):
+	many (one) crystal module
+Results for модульность:
+	 modularity 
+Results for модульный:
+	 modular 
+Results for модулятор:
+	 modulator 
+Results for модуляционный:
+	 modulation[ˌmɔdjuˈleɪʃən] 
+Results for модуляция:
+	 modulation[ˌmɔdjuˈleɪʃən] 
+Results for мозаика:
+	 mosaic[məuˈzeɪɪk] 
+Results for мозаиковый (simple):
+	mozaikovy
+Results for мозаичность:
+	 mosaicity 
+	 variegation[ˌvɛərɪˈɡeɪʃən] (Естественные науки)
+	 
+Results for мозаичный:
+	 mosaic[məuˈzeɪɪk] 
+	 tesselated (Естественные науки)
+	 
+Results for молектроника:
+	 molectronics 
+Results for молекула:
+	 molecule[ˈmɔlɪkju:l] 
+Results for молекулярный:
+	 molecular[məuˈlekjulə] 
+Results for молоточек:
+	 hammer[ˈhæmə] 
+Results for молниезащита:
+	 lightning protection 
+Results for молниеотвод:
+	 lightning conductor 
+	 lightning rod 
+	 lightning-arrester (Естественные науки)
+	 
+	 lightning arrester (Техника)
+	 
+Results for молниеприёмник:
+	 interception rod 
+Results for молния:
+	 lightning[ˈlaɪtnɪŋ] 
+	 zipper[ˈzɪpə] 
+Results for момент:
+	 moment[ˈməumənt] 
+	 instant[ˈɪnstənt] 
+Results for моментальный:
+	 instant[ˈɪnstənt] 
+	 momentary[ˈməuməntərɪ] (Естественные науки)
+	 
+Results for моментный:
+	 moment[ˈməumənt] 
+Results for монитор:
+	 monitor[ˈmɔnɪtə] 
+Results for мониторинг:
+	 monitoring 
+Results for мониторный:
+	 monitor[ˈmɔnɪtə] 
+Results for моноимпульсный (simple):
+	monopulse
+Results for моноканал:
+	 mono channel (Техника)
+	 
+Results for монокристалл:
+	 monocrystal 
+Results for монокристаллический:
+	 single-crystal 
+	 monocrystal (Естественные науки)
+	 
+Results for монолитный:
+	 monolithic[ˌmɔnəuˈlɪθɪk] 
+Results for мономер:
+	 monomer[ˈməunəmə] 
+Results for монополь:
+	 monopole 
+Results for монопольный:
+	 exclusive[ɪksˈklu:sɪv] 
+Results for моноптера:
+	 monopteros 
+Results for моноскоп:
+	 monoscope (Техника)
+	 
+Results for монослой:
+	 monolayer (Естественные науки)
+	 
+Results for монотелефон (simple):
+	monophone
+Results for монотонность:
+	 monotony[məˈnɔtnɪ] 
+Results for монотонный:
+	 monotonous[məˈnɔtnəs] 
+	 monotonic (Естественные науки)
+	 
+Results for монотрон:
+	 monotron 
+Results for монотропный:
+	 monotropic 
+Results for монофонический (simple):
+	monophonic
+Results for монофония:
+	 monophony 
+Results for монофункциональный (simple):
+	monofunctional
+Results for монохроматический:
+	 monochromatic[ˈmɔnəkrəuˈmætɪk] 
+Results for монохроматор:
+	 monochromator 
+Results for монохромный:
+	 monochrome[ˈmɔnəkrəum] 
+Results for монтаж:
+	 installation[ˌɪnstəˈleɪʃən] 
+	 mounting[ˈmauntɪŋ] (Техника)
+	 
+Results for монтажный:
+	 assembly[əˈsemblɪ] 
+	 editing 
+	 mounting[ˈmauntɪŋ] (Техника)
+	 
+Results for монтёр:
+	 repairman 
+Results for монтирование:
+	 assembling 
+Results for монтированный:
+	 mounted 
+Results for монтировочный:
+	 mounting[ˈmauntɪŋ] 
+Results for МОП (металл-оксид-полупроводник) (simple):
+	MOP (metal-oxide-semiconductor)
+Results for морфологический:
+	 morphological[ˌmɔ:fəˈlɔdʒɪkəl] 
+Results for морфология:
+	 morphology[mɔ:ˈfɔlədʒɪ] 
+Results for мост:
+	 bridge[brɪdʒ] 
+Results for мостик:
+	 bridge[brɪdʒ] 
+Results for мостиковый:
+	 bridge[brɪdʒ] (Естественные науки)
+	 
+Results for мотание (simple):
+	motaniye
+Results for мотанный (simple):
+	motanny
+Results for мотаный (simple):
+	motany
+Results for мотор:
+	 motor[ˈməutə] 
+Results for мощностный:
+	 power[ˈpauə] 
+Results for мощность:
+	 power[ˈpauə] 
+	 capacity[kəˈpæsɪtɪ] 
+Results for мощный:
+	 powerful[ˈpauəful] 
+	 strong[strɔŋ] 
+	 high-capacity 
+	 potent[ˈpəutənt] (Естественные науки)
+	 
+Results for муар:
+	 moire[.ˈmwɑ:reɪ] 
+Results for мульдем (simple):
+	muldy
+Results for мультибаза (simple):
+	multibase
+Results for мультивибратор:
+	 multivibrator 
+Results for мультивид (simple):
+	multilook
+Results for мультидоступ (simple):
+	multiaccess
+Results for мультизадача (simple):
+	multitask
+Results for мультизадачный:
+	 multitask 
+Results for мультикомпаратор (simple):
+	multicomparator
+Results for мультиметр:
+	 multimeter 
+Results for мультиобработка:
+	 multiprocessing 
+Results for мультиобработка:
+	 multiprocessing 
+Results for мультиплексер:
+	 multiplexer 
+Results for мультиплексерный (simple):
+	multiplekserny
+Results for мультиплексирование:
+	 multiplexing 
+Results for мультиплексный:
+	 multiplex[ˈmʌltɪpleks] 
+Results for мультиплет:
+	 multiplet 
+	 multiple[ˈmʌltɪpl] (Естественные науки)
+	 
+Results for мультиплетность:
+	 multiplicity[ˌmʌltɪˈplɪsɪtɪ] 
+Results for мультиплетный:
+	 multiplet 
+Results for мультипликативность:
+	 multiplication[ˌmʌltɪplɪˈkeɪʃən] 
+	 multiplicativity (Естественные науки)
+	 
+Results for мультипликативный:
+	 multiplicative 
+Results for мультипликатор:
+	 animator 
+	 multiplicator (Естественные науки)
+	 
+Results for мультипликационный:
+	 animated[ˈænɪmeɪtɪd] 
+	 animation[ˌænɪˈmeɪʃən] (Компьютеры)
+	 
+Results for мультипликация:
+	 animation[ˌænɪˈmeɪʃən] 
+Results for мультиплицирование:
+	 multiplication[ˌmʌltɪplɪˈkeɪʃən] 
+Results for мультиполь:
+	 multipole (Естественные науки)
+	 
+Results for мультипольный:
+	 multipolar 
+Results for мультипрограмма (simple):
+	multiprogram
+Results for мультипрограммирование:
+	 multiprogramming 
+Results for мультипрограммный:
+	 multiprogram 
+Results for мультипроекция (simple):
+	multiprojection
+Results for мультипроцессор:
+	 multiprocessor 
+Results for мультипроцессорный:
+	 multiprocessor 
+Results for мультисписок (simple):
+	multilist
+Results for мультиустойчивость (simple):
+	multistability
+Results for мультиустойчивый (simple):
+	multisteady
+Results for мультишина (simple):
+	multitire
+Results for муметалл (simple):
+	муметалл
+Results for мутация:
+	 mutation[mju:ˈteɪʃən] 
+Results for МЦР (мазер на циклотронном резонансе) (simple):
+	MTsR (Mather on a cyclotron resonance)
+Results for «мышь» (simple):
+	"mouse"
+Results for мюон:
+	 muon 
+Results for мягкий:
+	 soft[sɔft] 
+	 weak[wi:k] (Естественные науки)
+	 
+Results for набег:
+	 attack[əˈtæk] 
+Results for набегание:
+	 crowding (Техника)
+	 
+Results for набегающий:
+	 filling[ˈfɪlɪŋ] (Естественные науки)
+	 набегать 
+	 Глагол набегать / набегаю  / набегаешь  / набегают 
+	 run[rʌn] 
+Results for набирание:
+	 typesetting[ˈtaɪpˌsetɪŋ] 
+	 typing[ˈtaɪpɪŋ] (Компьютеры)
+	 
+Results for набла-оператор (simple):
+	nabla-operator
+Results for наблюдаемость:
+	 observability 
+Results for наблюдаемый:
+	 observable[əbˈzə:vəbl] 
+	 observed наблюдать 
+	 Глагол наблюдать / наблюдаю  / наблюдаешь  / наблюдают 
+	 observe[əbˈzə:v] 
+	 watch[wɔtʃ] 
+Results for наблюдатель:
+	 observer[əbˈzə:və] 
+Results for наблюдатель:
+	 observer[əbˈzə:və] 
+Results for наблюдательный:
+	 observant[əbˈzə:vənt] 
+	 supervisory[ˌsju:pəˈvaɪzərɪ] 
+	 observation[ˌɔbzə:ˈveɪʃən] 
+	 observational[ˌɔbzə:ˈveɪʃənl] (Естественные науки)
+	 
+Results for наблюдательный:
+	 observant[əbˈzə:vənt] 
+	 supervisory[ˌsju:pəˈvaɪzərɪ] 
+	 observation[ˌɔbzə:ˈveɪʃən] 
+	 observational[ˌɔbzə:ˈveɪʃənl] (Естественные науки)
+	 
+Results for наблюдающий:
+	 observe[əbˈzə:v] 
+	 watch[wɔtʃ] 
+Results for наблюдающий:
+	 observe[əbˈzə:v] 
+	 watch[wɔtʃ] 
+Results for наблюдающий:
+	 observe[əbˈzə:v] 
+	 watch[wɔtʃ] 
+Results for наблюдение:
+	 observation[ˌɔbzə:ˈveɪʃən] 
+	 supervision[ˌsju:pəˈvɪʒən] 
+	 monitoring 
+Results for наблюдённый (simple):
+	nablyudyonny
+Results for набор:
+	 set[set] 
+	 enrollment 
+	 type-setting 
+Results for набор:
+	 set[set] 
+	 enrollment 
+	 type-setting 
+Results for наборный:
+	 type-setting 
+	 composite[ˈkɔmpəzɪt] 
+	 decorative[ˈdekərətɪv] 
+Results for набранный:
+	 gather 
+	 type[taɪp] 
+	 gain[ɡeɪn] 
+	 collect[kə'lekt] 
+	 take[teɪk] 
+	 recruit[rɪˈkru:t] 
+Results for наваривание:
+	 welding on (Естественные науки)
+	 
+	 welding[ˈweldɪŋ] (Техника)
+	 
+Results for наведение:
+	 targeting 
+	 guidance[ˈɡaɪdəns] 
+	 prompting[ˈprɔmptɪŋ] 
+	 aiming[ˈeɪmɪŋ] 
+Results for наведенный:
+	 direct[dɪˈrekt] 
+	 guide[ɡaɪd] 
+Results for навесной [навесный] (simple):
+	hinged [navesny]
+Results for навесной [навесный] (simple):
+	hinged [navesny]
+Results for навешанный (simple):
+	hung
+Results for навешенный:
+	 hang[hæŋ] 
+Results for навешенный:
+	 hang[hæŋ] 
+Results for навешенный:
+	 hang[hæŋ] 
+Results for навёрнутый (simple):
+	navyornuty
+Results for навёрнутый (simple):
+	navyornuty
+Results for навёрнутый (simple):
+	navyornuty
+Results for навивание (simple):
+	navivaniye
+Results for навивание (simple):
+	navivaniye
+Results for навивание (simple):
+	navivaniye
+Results for навивной:
+	 spirally wound (Техника)
+	 
+Results for навигационный:
+	 navigation[ˌnævɪˈɡeɪʃən] 
+Results for навигация:
+	 navigation[ˌnævɪˈɡeɪʃən] 
+Results for навинченный:
+	 screw[skru:] 
+Results for навинченный:
+	 screw[skru:] 
+Results for навинчивание:
+	 screwing on (Техника)
+	 
+Results for навинчивание:
+	 screwing on (Техника)
+	 
+Results for навитый:
+	 wind[wɪnd] 
+Results for навитый:
+	 wind[wɪnd] 
+Results for навитый:
+	 wind[wɪnd] 
+Results for наводимый:
+	 direct[dɪˈrekt] 
+	 guide[ɡaɪd] 
+Results for наводка:
+	 aiming[ˈeɪmɪŋ] 
+	 adjustment[əˈdʒʌstmənt] (Естественные науки)
+	 
+Results for наводчик:
+	 tipper-of 
+Results for наводящий:
+	 direct[dɪˈrekt] 
+	 guide[ɡaɪd] 
+Results for наводящий:
+	 direct[dɪˈrekt] 
+	 guide[ɡaɪd] 
+Results for наводящий:
+	 direct[dɪˈrekt] 
+	 guide[ɡaɪd] 
+Results for наводящийся:
+	 direct[dɪˈrekt] 
+	 guide[ɡaɪd] 
+Results for нагар:
+	 deposit[dɪˈpɔzɪt] нагара 
+	 Существительное нагара / нагары 
+	 nagara (Музыка)
+	 
+Results for наглядность:
+	 presentation[ˌprezenˈteɪʃən] 
+	 obviousness (Естественные науки)
+	 
+	 visualization[ˌvɪzjuəlaɪˈzeɪʃən] (Техника)
+	 
+Results for наглядный:
+	 evident[ˈevɪdənt] 
+	 visual[ˈvɪzjuəl] 
+Results for нагнетание:
+	 forcing[ˈfɔ:sɪŋ] 
+Results for нагнетатель:
+	 supercharger[ˈsju:pəˌtʃɑ:dʒə] 
+Results for нагнетательный:
+	 delivery[dɪˈlɪvərɪ] 
+Results for нагнетённый:
+	 pumped 
+Results for нагрев:
+	 heating[ˈhi:tɪŋ] нагревать 
+	 Глагол нагревать / нагреваю  / нагреваешь  / нагревают 
+	 heat[hi:t] 
+Results for нагрев:
+	 heating[ˈhi:tɪŋ] нагревать 
+	 Глагол нагревать / нагреваю  / нагреваешь  / нагревают 
+	 heat[hi:t] 
+Results for нагревание:
+	 heating[ˈhi:tɪŋ] 
+Results for нагреватель:
+	 heater[ˈhi:tə] 
+Results for нагреватель:
+	 heater[ˈhi:tə] 
+Results for нагревательный:
+	 heating[ˈhi:tɪŋ] 
+Results for нагревающий:
+	 heat[hi:t] 
+Results for нагревающий:
+	 heat[hi:t] 
+Results for нагревающийся:
+	 heat up 
+Results for нагревостойкость:
+	 heat stability 
+Results for нагретый:
+	 heated[ˈhi:tɪd] нагревать 
+	 Глагол нагревать / нагреваю  / нагреваешь  / нагревают 
+	 heat[hi:t] 
+Results for нагромождение:
+	 heap[hi:p] 
+Results for нагромождение:
+	 heap[hi:p] 
+Results for нагромождённый:
+	 heat up 
+Results for нагромождённый:
+	 heat up 
+Results for нагружаемость (simple):
+	nagruzhayemost
+Results for нагружаемый:
+	 load[ləud] 
+Results for нагружающий:
+	 load[ləud] 
+Results for нагружающийся:
+	 load[ləud] 
+Results for нагруженность [нагружённость] (simple):
+	loading [loading]
+Results for нагруженный [нагружённый] (simple):
+	loaded [nagruzhyonny]
+Results for нагрузка:
+	 loading[ˈləudɪŋ] 
+	 load[ləud] 
+Results for нагрузочный:
+	 load[ləud] 
+Results for надавленный:
+	 press[pres] 
+	 pressure[ˈpreʃə] 
+Results for надавливание:
+	 pressing[ˈpresɪŋ] 
+Results for надавливание:
+	 pressing[ˈpresɪŋ] 
+Results for надблочный (simple):
+	nadblochny
+Results for надблочный (simple):
+	nadblochny
+Results for надграф:
+	 supergraph (Естественные науки)
+	 
+	 overgraph (Техника)
+	 
+Results for надграфик (simple):
+	надграфик
+Results for надёжно:
+	 reliable[rɪˈlaɪəbl] 
+	 safe[seɪf] 
+Results for надёжно:
+	 reliable[rɪˈlaɪəbl] 
+	 safe[seɪf] 
+Results for надёжностный (simple):
+	nadyozhnostny
+Results for надёжность:
+	 reliability 
+Results for надёжный:
+	 reliable[rɪˈlaɪəbl] 
+	 safe[seɪf] 
+Results for надзор:
+	 supervision[ˌsju:pəˈvɪʒən] 
+Results for надкол (simple):
+	надкол
+Results for надлежащий:
+	 appropriate[ə'prəuprɪət] 
+	 suitable[ˈsju:təbl] (Естественные науки)
+	 
+	 proper[ˈprɔpə] (Бизнес)
+	 надлежать 
+	 Глагол надлежать / надлежу  / надлежишь  / надлежат 
+	 ought[ɔ:t] 
+Results for надлежащий:
+	 appropriate[ə'prəuprɪət] 
+	 suitable[ˈsju:təbl] (Естественные науки)
+	 
+	 proper[ˈprɔpə] (Бизнес)
+	 надлежать 
+	 Глагол надлежать / надлежу  / надлежишь  / надлежат 
+	 ought[ɔ:t] 
+Results for надлом:
+	 break[breɪk] 
+Results for надлом:
+	 break[breɪk] 
+Results for надмножество:
+	 superset 
+Results for надпись:
+	 inscription[ɪnˈskrɪpʃən] 
+	 text[tekst] (Техника)
+	 
+Results for надрез:
+	 cut[kʌt] 
+Results for надрез:
+	 cut[kʌt] 
+Results for надрезанный:
+	 make an incision 
+Results for надрезанный:
+	 make an incision 
+Results for надстраивание (simple):
+	nadstraivaniye
+Results for надстройка:
+	 superstructure[ˈsju:pəˌstrʌktʃə] 
+Results for надстрочный:
+	 overline (Техника)
+	 
+Results for нажатие:
+	 pressing[ˈpresɪŋ] 
+	 clicking (Компьютеры)
+	 
+Results for нажатый:
+	 press[pres] 
+	 click[klɪk] (Компьютеры)
+	 
+Results for нажатый:
+	 press[pres] 
+	 click[klɪk] (Компьютеры)
+	 
+Results for нажим:
+	 pressing[ˈpresɪŋ] 
+	 depression[dɪˈpreʃən] 
+Results for нажимание (simple):
+	nazhimaniye
+Results for нажимание (simple):
+	nazhimaniye
+Results for нажимной:
+	 push[puʃ] (Естественные науки)
+	 нажимный 
+	 Прилагательное нажимный /   /  
+	 press[pres] 
+Results for название:
+	 name[neɪm] 
+Results for названный:
+	 call[kɔ:l] 
+	 designate[. ̈a.ˈdezɪɡnɪt] 
+	 name[neɪm] 
+Results for наземный:
+	 land[lænd] 
+Results for назначение:
+	 appointment[əˈpɔɪntmənt] 
+	 purpose[ˈpə:pəs] 
+	 destination[ˌdestɪˈneɪʃən] 
+	 assignment[əˈsaɪnmənt] (Компьютеры)
+	 
+Results for назначенный:
+	 appoint[əˈpɔɪnt] 
+	 nominate[ˈnɔmɪneɪt] 
+	 assign[əˈsaɪn] (Компьютеры)
+	 
+Results for наибольший:
+	 greatest 
+	 highest 
+	 largest 
+Results for наивероятнейший (simple):
+	the most probable
+Results for наивысший:
+	 highest 
+Results for наилучший:
+	 best 
+Results for наименование:
+	 name[neɪm] 
+Results for наименование:
+	 name[neɪm] 
+Results for наименьший:
+	 smallest 
+	 least (Естественные науки)
+	 
+Results for наинизший (simple):
+	the lowest
+Results for наискось:
+	 obliquely 
+Results for наискось:
+	 obliquely 
+Results for наихудший:
+	 worst 
+Results for найденный:
+	 find[faɪnd] 
+Results for найденный:
+	 find[faɪnd] 
+Results for накал:
+	 heat[hi:t] 
+Results for накал:
+	 heat[hi:t] 
+Results for накал:
+	 heat[hi:t] 
+Results for накалённость:
+	 heat[hi:t] 
+Results for накалённость:
+	 heat[hi:t] 
+Results for накалённый:
+	 heat[hi:t] накалять 
+	 Глагол накалять / накаляю  / накаляешь  / накаляют 
+	 heat[hi:t] 
+	 tense[tens] 
+Results for накалённый:
+	 heat[hi:t] накалять 
+	 Глагол накалять / накаляю  / накаляешь  / накаляют 
+	 heat[hi:t] 
+	 tense[tens] 
+Results for накаливаемый:
+	 heat[hi:t] 
+Results for накаливаемый:
+	 heat[hi:t] 
+Results for накаливаемый:
+	 heat[hi:t] 
+Results for накаливание:
+	 incandescence[ˈɪnkænˈdesns] 
+	 calefaction (Естественные науки)
+	 
+Results for накаливание:
+	 incandescence[ˈɪnkænˈdesns] 
+	 calefaction (Естественные науки)
+	 
+Results for накаливающий:
+	 heat[hi:t] 
+Results for накаливающий:
+	 heat[hi:t] 
+Results for накаливающий:
+	 heat[hi:t] 
+Results for накаливающийся:
+	 calefacient (Естественные науки)
+	 
+Results for накальный:
+	 filament[ˈfɪləmənt] 
+Results for накаляемость (simple):
+	nakalyaemost
+Results for наканифоленный (simple):
+	nakanifolenny
+Results for накапливаемый:
+	 accumulate[əˈkju:mjuleɪt] 
+	 save up 
+Results for накапливаемый:
+	 accumulate[əˈkju:mjuleɪt] 
+	 save up 
+Results for накапливание:
+	 accumulation[əˌkju:mjuˈleɪʃən] 
+Results for накапливание:
+	 accumulation[əˌkju:mjuˈleɪʃən] 
+Results for накапливающий:
+	 accumulate[əˈkju:mjuleɪt] 
+	 save up 
+Results for накапливающийся:
+	 collect[kə'lekt] 
+Results for накатка:
+	 knurl[nə:l] (Техника)
+	 
+Results for накатка:
+	 knurl[nə:l] (Техника)
+	 
+Results for накачанный:
+	 beefy[ˈbi:fɪ] накачивать 
+	 Глагол накачивать / накачиваю  / накачиваешь  / накачивают 
+	 pump up 
+Results for накачивание:
+	 inflating 
+	 pumping (Техника)
+	 
+Results for накачка:
+	 rating[ˈreɪtɪŋ] 
+	 pumping (Техника)
+	 
+Results for накладка:
+	 slip[slɪp] 
+	 overlay['əuv(ə)leɪ] 
+	 pad[pæd] (Техника)
+	 
+Results for накладка:
+	 slip[slɪp] 
+	 overlay['əuv(ə)leɪ] 
+	 pad[pæd] (Техника)
+	 
+Results for накладной:
+	 laid on 
+	 false[fɔ:ls] накладная 
+	 Существительное накладная / накладные 
+	 consignment note 
+	 delivery note (Бизнес)
+	 накладный 
+	 Прилагательное накладный / накладнее  / накладнейший 
+	 unprofitable[ʌnˈprɔfɪtəbl] 
+Results for накладываемый:
+	 impose[ɪmˈpəuz] 
+Results for накладывание:
+	 overlaying 
+	 superposing (Естественные науки)
+	 
+Results for наклон:
+	 inclination[ˌɪnklɪˈneɪʃən] 
+	 bending (Спорт)
+	 
+Results for наклонение:
+	 inclination[ˌɪnklɪˈneɪʃən] 
+Results for наклонённый:
+	 incline['ɪnklaɪn] 
+Results for наклонная:
+	 inclined plane наклонный 
+	 Прилагательное наклонный /   /  
+	 inclined[ɪnˈklaɪnd] 
+	 sloping[ˈsləupɪŋ] (Естественные науки)
+	 
+	 oblique[əˈbli:k] (Компьютеры)
+	 
+Results for наклонность:
+	 bent[bent] 
+	 inclination[ˌɪnklɪˈneɪʃən] (Компьютеры)
+	 
+Results for наклонный:
+	 inclined[ɪnˈklaɪnd] 
+	 sloping[ˈsləupɪŋ] (Естественные науки)
+	 
+	 oblique[əˈbli:k] (Компьютеры)
+	 
+Results for наклоняющий:
+	 incline['ɪnklaɪn] 
+Results for наклоняющийся:
+	 bend[bend] 
+Results for наконечник:
+	 tip[tɪp] 
+Results for накопитель:
+	 store[stɔ:] 
+	 drive[draɪv] (Компьютеры)
+	 
+Results for накопитель:
+	 store[stɔ:] 
+	 drive[draɪv] (Компьютеры)
+	 
+Results for накопительный:
+	 accumulative[əˈkju:mjulətɪv] 
+Results for накопительный:
+	 accumulative[əˈkju:mjulətɪv] 
+Results for накопление:
+	 accumulation[əˌkju:mjuˈleɪʃən] 
+Results for накопление:
+	 accumulation[əˌkju:mjuˈleɪʃən] 
+Results for накопленный:
+	 save up накапливать 
+	 Глагол накапливать / накапливаю  / накапливаешь  / накапливают 
+	 accumulate[əˈkju:mjuleɪt] 
+	 save up 
+Results for накопляющий:
+	 save up 
+Results for накрутка:
+	 price markup 
+	 wrapping[ˈræpɪŋ] (Техника)
+	 
+Results for накрытие:
+	 covering[ˈkʌvərɪŋ] (Техника)
+	 
+Results for наладка:
+	 adjustment[əˈdʒʌstmənt] 
+Results for наладочный:
+	 adjustment[əˈdʒʌstmənt] 
+	 setup[ˈsetʌp] (Техника)
+	 
+Results for наладчик:
+	 serviceman[ˈsə:vɪsmæn] 
+Results for налаженность:
+	 co-ordination 
+Results for налаженность:
+	 co-ordination 
+Results for налаженный:
+	 adjust[əˈdʒʌst] 
+	 fix[fɪks] 
+Results for налаженный:
+	 adjust[əˈdʒʌst] 
+	 fix[fɪks] 
+Results for налаживание:
+	 adjustment[əˈdʒʌstmənt] 
+	 establishing 
+Results for налаживание:
+	 adjustment[əˈdʒʌstmənt] 
+	 establishing 
+Results for наличие:
+	 existence[ɪɡˈzɪstəns] 
+	 presence[ˈprezns] 
+	 availability[əˌveɪləˈbɪlɪtɪ] 
+Results for наличный:
+	 cash[kæʃ] 
+	 available[əˈveɪləbl] 
+Results for наложение:
+	 imposing[ɪmˈpəuzɪŋ] 
+Results for наложенный:
+	 impose[ɪmˈpəuz] накладывать 
+	 Глагол накладывать / накладываю  / накладываешь  / накладывают 
+	 impose[ɪmˈpəuz] 
+Results for намагничение (simple):
+	namagnicheniye
+Results for намагниченность:
+	 magnetization[ˌmæɡnɪtaɪˈzeɪʃən] 
+Results for намагниченный:
+	 magnetize[ˈmæɡnɪtaɪz] намагнитить 
+	 Глагол  /   /   /  
+	 magnetize[ˈmæɡnɪtaɪz] 
+Results for намагничиваемый:
+	 magnetize[ˈmæɡnɪtaɪz] 
+Results for намагничивание:
+	 magnetization[ˌmæɡnɪtaɪˈzeɪʃən] 
+Results for намагничивающий:
+	 magnetizing (Естественные науки)
+	 намагничивать 
+	 Глагол намагничивать / намагничиваю  / намагничиваешь  / намагничивают 
+	 magnetize[ˈmæɡnɪtaɪz] 
+Results for намагничивающийся:
+	 magnetizing (Естественные науки)
+	 намагничивать 
+	 Глагол намагничивать / намагничиваю  / намагничиваешь  / намагничивают 
+	 magnetize[ˈmæɡnɪtaɪz] 
+Results for наматываемый:
+	 reel up 
+Results for наматывание:
+	 winding 
+	 reeling (Естественные науки)
+	 
+Results for наматывающий:
+	 reel up 
+Results for наматывающийся:
+	 reel up 
+Results for намеренный:
+	 intended[ɪnˈtendɪd] 
+Results for намокание (simple):
+	namokaniye
+Results for намотанный:
+	 reel up 
+Results for намотанный:
+	 reel up 
+Results for намотка:
+	 winding 
+Results for намотка:
+	 winding 
+Results for намоточный:
+	 coil-processing 
+	 winding (Техника)
+	 
+Results for нанесение:
+	 drawing[ˈdrɔ:ɪŋ] 
+	 putting 
+	 causing 
+Results for наносекунда:
+	 nanosecond 
+Results for наносекундный:
+	 nanosecond 
+Results for нанотехнология:
+	 nanotechnology 
+Results for наноэлектроника:
+	 nanoelectronics 
+Results for напаиваемый (simple):
+	napaivayemy
+Results for напаиваемый (simple):
+	napaivayemy
+Results for напаивание:
+	 sweating-on (Техника)
+	 
+Results for напаивающий (simple):
+	napaivayushchiya
+Results for напайка:
+	 sealing (Техника)
+	 
+Results for напайка:
+	 sealing (Техника)
+	 
+Results for напаянный:
+	 solder[ˈsɔldə] 
+Results for напёрстковый (simple):
+	napyorstkovy
+Results for напечатание (simple):
+	napechataniye
+Results for напечатанный:
+	 print[prɪnt] 
+	 issue[ˈɪʃu:] 
+	 publish[ˈpʌblɪʃ] 
+Results for напечатанный:
+	 print[prɪnt] 
+	 issue[ˈɪʃu:] 
+	 publish[ˈpʌblɪʃ] 
+Results for напильник:
+	 file[faɪl] 
+Results for напильник:
+	 file[faɪl] 
+Results for наплавленный:
+	 build up 
+Results for наплыв:
+	 flow[fləu] 
+	 influx[ˈɪnflʌks] наплывать 
+	 Глагол наплывать / наплываю  / наплываешь  / наплывают 
+	 run[rʌn] 
+Results for наползание:
+	 creeping[ˈkri:pɪŋ] (Техника)
+	 
+Results for наполнение:
+	 filling[ˈfɪlɪŋ] 
+Results for наполненный:
+	 fill[fɪl] 
+Results for наполнитель:
+	 filler[ˈfɪlə] 
+	 excipient (Естественные науки)
+	 
+Results for направление:
+	 direction[dɪˈrekʃən] 
+Results for направление:
+	 direction[dɪˈrekʃən] 
+Results for направление:
+	 direction[dɪˈrekʃən] 
+Results for направление:
+	 direction[dɪˈrekʃən] 
+Results for направленность:
+	 orientation[ˌɔ:rɪenˈteɪʃən] 
+Results for направленность:
+	 orientation[ˌɔ:rɪenˈteɪʃən] 
+Results for направленность:
+	 orientation[ˌɔ:rɪenˈteɪʃən] 
+Results for направленность:
+	 orientation[ˌɔ:rɪenˈteɪʃən] 
+Results for направленный:
+	 directional[dɪˈrekʃənl] (Естественные науки)
+	 направлять 
+	 Глагол направлять / направляю  / направляешь  / направляют 
+	 direct[dɪˈrekt] 
+	 send[send] 
+Results for направленный:
+	 directional[dɪˈrekʃənl] (Естественные науки)
+	 направлять 
+	 Глагол направлять / направляю  / направляешь  / направляют 
+	 direct[dɪˈrekt] 
+	 send[send] 
+Results for направленный:
+	 directional[dɪˈrekʃənl] (Естественные науки)
+	 направлять 
+	 Глагол направлять / направляю  / направляешь  / направляют 
+	 direct[dɪˈrekt] 
+	 send[send] 
+Results for направленный:
+	 directional[dɪˈrekʃənl] (Естественные науки)
+	 направлять 
+	 Глагол направлять / направляю  / направляешь  / направляют 
+	 direct[dɪˈrekt] 
+	 send[send] 
+Results for направляющая:
+	 guide[ɡaɪd] направлять 
+	 Глагол направлять / направляю  / направляешь  / направляют 
+	 direct[dɪˈrekt] 
+	 send[send] 
+Results for направляющий:
+	 direct[dɪˈrekt] 
+	 send[send] 
+Results for направляющий:
+	 direct[dɪˈrekt] 
+	 send[send] 
+Results for направляющий:
+	 direct[dɪˈrekt] 
+	 send[send] 
+Results for направляющий:
+	 direct[dɪˈrekt] 
+	 send[send] 
+Results for напрасный:
+	 vain[veɪn] 
+	 wrongful[ˈrɔŋful] 
+Results for напрасный:
+	 vain[veɪn] 
+	 wrongful[ˈrɔŋful] 
+Results for напряжение:
+	 tension[ˈtenʃən] 
+	 stress[stres] 
+Results for напряжённость:
+	 tension[ˈtenʃən] 
+	 strength[streŋθ] (Техника)
+	 
+Results for напряжённый:
+	 intense напрягать 
+	 Глагол напрягать / напрягаю  / напрягаешь  / напрягают 
+	 strain[streɪn] 
+Results for напыление:
+	 dusting[ˈdʌstɪŋ] 
+	 sputtering (Техника)
+	 
+Results for напылённость (simple):
+	napylyonnost
+Results for напылённый:
+	 raise dust 
+Results for наработка:
+	 operating time 
+	 practices 
+	 development[dɪˈveləpmənt] 
+Results for наработка:
+	 operating time 
+	 practices 
+	 development[dɪˈveləpmənt] 
+Results for нарастание:
+	 increase['ɪnkriːs] 
+Results for нарастающий:
+	 accrue[əˈkru:] 
+	 increase['ɪnkriːs] 
+Results for наращённый (simple):
+	narashchyonny
+Results for наращиваемый:
+	 increase['ɪnkriːs] 
+Results for наращивание:
+	 building[ˈbɪldɪŋ] 
+	 accumulation[əˌkju:mjuˈleɪʃən] 
+	 extension[ɪksˈtenʃən] 
+	 increasing 
+	 escalating[ˈeskəleɪtɪŋ] 
+	 strengthening 
+Results for нарисованный:
+	 draw[drɔ:] 
+Results for нарисованный:
+	 draw[drɔ:] 
+Results for наружный:
+	 external[eksˈtə:nl] 
+	 affected[əˈfektɪd] 
+	 outside[aut'saɪd] (Техника)
+	 
+Results for нарушение:
+	 violation[ˌvaɪəˈleɪʃən] 
+	 infringement[ɪnˈfrɪndʒmənt] (Естественные науки)
+	 
+	 disturbance[dɪsˈtə:bəns] (Естественные науки)
+	 
+Results for нарушенный:
+	 break[breɪk] 
+	 disturb[dɪsˈtə:b] 
+	 violate[ˈvaɪəleɪt] 
+Results for насадка:
+	 nozzle[ˈnɔzl] 
+Results for насадка:
+	 nozzle[ˈnɔzl] 
+Results for населённость:
+	 density of population 
+Results for наслоение:
+	 stratification[ˌstrætɪfɪˈkeɪʃən] 
+Results for насос:
+	 pump[pʌmp] 
+Results for настенный:
+	 wall[wɔ:l] 
+Results for настольный:
+	 desktop 
+	 desk[desk] 
+	 table[ˈteɪbl] (Естественные науки)
+	 
+Results for настраиваемый:
+	 adjust[əˈdʒʌst] 
+	 set up 
+	 incite[ɪnˈsaɪt] 
+	 configure 
+	 be ready 
+Results for настраивание:
+	 attuning 
+	 configuration[kənˌfɪɡjuˈreɪʃən] (Компьютеры)
+	 
+Results for настраивание:
+	 attuning 
+	 configuration[kənˌfɪɡjuˈreɪʃən] (Компьютеры)
+	 
+Results for настраивание:
+	 attuning 
+	 configuration[kənˌfɪɡjuˈreɪʃən] (Компьютеры)
+	 
+Results for настраивание:
+	 attuning 
+	 configuration[kənˌfɪɡjuˈreɪʃən] (Компьютеры)
+	 
+Results for настраивание:
+	 attuning 
+	 configuration[kənˌfɪɡjuˈreɪʃən] (Компьютеры)
+	 
+Results for настраивающий:
+	 adjust[əˈdʒʌst] 
+	 set up 
+	 incite[ɪnˈsaɪt] 
+	 configure 
+	 be ready 

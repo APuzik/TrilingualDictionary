@@ -1,0 +1,2342 @@
+Results for внешний (внутренний) селектор мод (simple):
+	external (internal) selector of fashion
+Results for временной селектор:
+	 time division gate (Компьютеры)
+	 
+	 time gate (Техника)
+	 
+Results for поляризационный селектор:
+	 polarization selector (Компьютеры)
+	 
+Results for пусковой селектор:
+	 trigger selector (Техника)
+	 
+Results for селектор (анти)совпадений (simple):
+	selector (anti-) coincidence
+Results for селектор базовых форм (simple):
+	selector of basic forms
+Results for селектор видеосигнала (simple):
+	video signal selector
+Results for селектор входных сигналов (simple):
+	selector of entrance signals
+Results for селектор дальности (simple):
+	range selector
+Results for селектор длины волны излучения лазера (simple):
+	laser radiation wavelength selector
+Results for селектор (длительности (полярности, формы)) импульсов (simple):
+	selector (duration (polarity, form)) impulses
+Results for селектор каналов дециметровых волн (simple):
+	selector of channels of decimeter waves
+Results for селектор кодовых комбинаций (simple):
+	selector of code combinations
+Results for селектор лазерных (продольных) мод (simple):
+	selector of laser (longitudinal) fashion
+Results for селектор пеленга относительно всенаправленного радиомаяка (simple):
+	selector of a bearing of rather omnidirectional radio beacon
+Results for селектор признаков (simple):
+	selector of signs
+Results for селектор состояний (simple):
+	selector of states
+Results for селектор страниц (simple):
+	selector of pages
+Results for селектор типов колебаний:
+	 mode selector (Техника)
+	 
+Results for (сенсорный) селектор каналов (simple):
+	(touch) selector of channels
+Results for цифровой селектор (simple):
+	digital selector
+Results for амплитудная селекция (simple):
+	amplitude selection
+Results for временная селекция (simple):
+	temporary selection
+Results for предварительная селекция (simple):
+	preliminary selection
+Results for поляризационная селекция (simple):
+	polarizing selection
+Results for пространственная селекция (simple):
+	spatial selection
+Results for селекция длин волн (simple):
+	selection of lengths of waves
+Results for селекция изображений (simple):
+	selection of images
+Results for селекция импульсов по длительности (частоте повторения) (simple):
+	selection of impulses on duration (repetition frequency)
+Results for селекция мод:
+	 mode selection (Компьютеры)
+	 
+Results for селекция по доплеровскому сдвигу частоты (simple):
+	selection on Doppler shift of frequency
+Results for селекция по скорости (simple):
+	selection on speed
+Results for селекция цели (simple):
+	selection of the purpose
+Results for азимутальный сельсин (simple):
+	azimuthal selsyn
+Results for безконтактный сельсин (simple):
+	contactless selsyn
+Results for ведущий сельсин:
+	 exciter selsyn (Техника)
+	 
+Results for двухфазный сельсин (simple):
+	two-phase selsyn
+Results for дифференциальный сельсин:
+	 differential synchro (Техника)
+	 
+Results for сельсин высоты:
+	 altitude selsyn (Техника)
+	 
+Results for сельсин дальности:
+	 range selsyn (Техника)
+	 
+Results for сельсин-датчик:
+	 selsyn sensor (Техника)
+	 
+	 selsyn transmitter (Техника)
+	 
+Results for сельсин-двигатель (simple):
+	selsyn engine
+Results for сельсин-приёмник (simple):
+	selsyn receiver
+Results for сельсин системы дистанционного измерения (simple):
+	selsyn of system of remote measurement
+Results for сельсин следящей системы (simple):
+	the selsyn of the watching system
+Results for сельсин-фазовращатель (simple):
+	selsyn phase shifter
+Results for угломестный сельсин (simple):
+	uglomestny selsyn
+Results for семантика языка программирования (simple):
+	semantics of a programming language
+Results for семафор синхронизации (simple):
+	synchronization semaphore
+Results for семейство кривых:
+	 family of curves (Естественные науки)
+	 
+	 set of curves (Техника)
+	 
+Results for семейство характеристик:
+	 characteristic family (Естественные науки)
+	 
+Results for сенсибилизатор резиста (simple):
+	rezist sensitizer
+Results for серосодержащий сенсибилизатор (simple):
+	sulfur-containing sensitizer
+Results for циклогексаноновый сенсибилизатор (simple):
+	tsiklogeksanonovy sensitizer
+Results for кооперативная сенсибилизация (simple):
+	cooperative sensitization
+Results for сенсибилизация дихроматами (simple):
+	sensitization bichromates
+Results for сенсибилизация примесей (simple):
+	sensitization of impurity
+Results for фотохимическая сенсибилизация (simple):
+	photochemical sensitization
+Results for сенситометрия фоторезистов (simple):
+	sensitometry of photoresist
+Results for центробежный сепаратор:
+	 centrifugal separator (Техника)
+	 
+	 ratio separator (Естественные науки)
+	 
+Results for (электро)магнитный сепаратор (simple):
+	(electro) magnetic separator
+Results for магнитная сепарация:
+	 magnetic separation (Кулинария)
+	 
+Results for сепарация частиц (simple):
+	separation of particles
+Results for броневой сердечник:
+	 pot core (Компьютеры)
+	 
+Results for (бусинковый) ферритовый сердечник (simple):
+	(businkovy) ferrite core
+Results for воздушный сердечник (simple):
+	air core
+Results for втяжной сердечник (simple):
+	vtyazhny core
+Results for Г(Н, Ш, U)-образный сердечник (simple):
+	(N, Sh, U)-shaped core
+Results for кабельный сердечник (simple):
+	cable core
+Results for кольцевой (спиральный) ленточный сердечник (simple):
+	ring (spiral) tape core
+Results for крестообразный сердечник (simple):
+	crosswise core
+Results for магнитный сердечник с двумя устойчивыми состояниями (simple):
+	the magnetic core with two steady states
+Results for многоотверстный сердечник (simple):
+	mnogootverstny core
+Results for нагрузочный сердечник (simple):
+	load core
+Results for насыщаемый сердечник (simple):
+	saturable core
+Results for насыщенный сердечник:
+	 saturable core (Естественные науки)
+	 
+Results for подстроечный сердечник:
+	 insert core (Компьютеры)
+	 
+Results for прессованный сердечник (simple):
+	the pressed core
+Results for сердечник антенны (simple):
+	antenna core
+Results for сердечник для ленты (simple):
+	the core for a tape
+Results for сердечник из карбонильного железа (магнитного порошка) (simple):
+	the core from carbonyl iron (magnetic powder)
+Results for сердечник катушки:
+	 bobbin barrel (Естественные науки)
+	 
+Results for сердечник магнитной головки (simple):
+	core of a magnetic head
+Results for сердечник с (не)замкнутым магнитопроводом (simple):
+	the core with not closed magnetic conductor
+Results for сердечник с подмагничиванием (simple):
+	the core with a podmagnichivaniye
+Results for сердечник с прямоугольной петлёй гистерезиса (simple):
+	the core with a rectangular loop of a hysteresis
+Results for сердечник с распределённым зазором (simple):
+	the core with the distributed gap
+Results for сердечник трансформатора:
+	 transformer core (Техника)
+	 
+Results for сердечник якоря:
+	 armature core (Естественные науки)
+	 
+Results for трубчатый сердечник (simple):
+	tubular core
+Results for ферримагнитный сердечник (simple):
+	ferrimagnitny core
+Results for ферромагнитный сердечник (simple):
+	ferromagnetic core
+Results for шихтованный [пластинчатый] сердечник (simple):
+	shikhtovanny [lamellar] core
+Results for жидкостная сердцевина (simple):
+	liquid core
+Results for сердцевина оптического волокна (simple):
+	core of optical fiber
+Results for сердцевина флюксоида (simple):
+	core of a flyuksoid
+Results for серия волн:
+	 wave train (Компьютеры)
+	 
+Results for серия дифракционных максимумов (simple):
+	series of diffraction maxima
+Results for серия импульсов:
+	 pulse train (Техника)
+	 
+Results for серия микросхем (simple):
+	series of chips
+Results for серия резонансных (спектральных) частот (simple):
+	series of resonant (spectral) frequencies
+Results for спектральная серия Бальмера (Брекетта, Лаймана, Пашена, Пфунда, Хэмфри) (simple):
+	spectral Balmera series (Brekett, Lyman, Pashen, Pfund, Hemfri)
+Results for антидинатронная сетка (simple):
+	anti-dynatron grid
+Results for барьерная сетка (simple):
+	barrier grid
+Results for встроенная сетка (simple):
+	built-in grid
+Results for гетеродинная сетка (simple):
+	heterodyne grid
+Results for градусная сетка:
+	 grade grid (Техника)
+	 
+Results for деионизационная сетка (simple):
+	deionizatsionny grid
+Results for замедляющая сетка (simple):
+	the slowing-down grid
+Results for защитная сетка:
+	 guard mesh (Техника)
+	 
+	 protecting screen (Естественные науки)
+	 
+	 wire mesh guard (Техника)
+	 
+Results for катодная сетка:
+	 cathode grid (Компьютеры)
+	 
+Results for коллекторная сетка (simple):
+	collector grid
+Results for координатная сетка:
+	 abacus (Естественные науки)
+	 
+	 grid chart (Компьютеры)
+	 
+	 reticle pattern (Техника)
+	 
+Results for масштабная сетка (simple):
+	large-scale grid
+Results for накапливающая сетка (simple):
+	the accumulating grid
+Results for (после)ускоряющая сетка (simple):
+	(after) the accelerating grid
+Results for противодинатронная сетка (simple):
+	antidynatron grid
+Results for противоионная сетка (simple):
+	antiionic grid
+Results for рамочная сетка (simple):
+	frame grid
+Results for сетка дислокаций (simple):
+	grid of dislocations
+Results for сетка из резисторов (simple):
+	grid from resistors
+Results for сетка размещения кристаллов (simple):
+	grid of placement of crystals
+Results for сетка резонатора (simple):
+	resonator grid
+Results for сетка с переменным шагом (simple):
+	grid with a variable step
+Results for сетка с плавающим потенциалом [плавающая сетка] (simple):
+	grid with a floating potential [a floating grid]
+Results for сетка электронной лампы (simple):
+	grid of the electron tube
+Results for сигнальная сетка (simple):
+	alarm grid
+Results for теневая сетка (simple):
+	shadow grid
+Results for управляющая сетка:
+	 control grid (Компьютеры)
+	 
+	 signal grid (Техника)
+	 
+Results for фокусирующая сетка (simple):
+	the focusing grid
+Results for цветокоммутирующая сетка (simple):
+	color-switching grid
+Results for экранирующая сетка:
+	 wire mesh screen (Техника)
+	 
+Results for автоматическая сеть телефонной связи (simple):
+	automatic network of telephone communication
+Results for внутристанционная сеть соединений (simple):
+	intra station network of connections
+Results for высоковольтная сеть:
+	 high-voltage network (Техника)
+	 
+Results for гибридная сеть связи (simple):
+	hybrid communication network
+Results for замкнутая сеть частных линий связи (simple):
+	the closed network of private communication lines
+Results for звёздообразная сеть (simple):
+	star-shaped network
+Results for интегральная сеть:
+	 integrated network (Компьютеры)
+	 
+Results for кабельная сеть:
+	 cable network (Компьютеры)
+	 
+Results for кольцевая сеть с маркерной [эстафетной] передачей (simple):
+	ring network with marker [relay] transfer
+Results for магистральная (многопунктовая) сеть связи (simple):
+	main (mnogopunktovy) communication network
+Results for междугородная телефонная сеть (simple):
+	long-distance telephone network
+Results for много(полно)станционная сеть (simple):
+	many (fully) station network
+Results for многосвязанная сеть (simple):
+	multirelated network
+Results for многофункциональная сеть:
+	 multi-service network (Компьютеры)
+	 
+Results for нейронная сеть:
+	 neural network (Компьютеры)
+	 
+Results for опорная (разветвлённая) сеть связи (simple):
+	basic (branched) communication network
+Results for радиорелейная сеть связи (simple):
+	radio relay communication network
+Results for семантическая сеть:
+	 semantic network (Компьютеры)
+	 
+Results for сеть абонентских линий (simple):
+	network of subscriber lines
+Results for сеть автоматизированных рабочих мест (simple):
+	network of the automated jobs
+Results for сеть арендованных линий связи (simple):
+	network of leased communication lines
+Results for сеть ближней (дальней) связи (simple):
+	network of near (distant) communication
+Results for сеть внутренней (местной) связи (simple):
+	network of internal (local) communication
+Results for сеть возбудимых элементов (simple):
+	network of excitable elements
+Results for сеть вычислительных центров с разделением ресурсов (simple):
+	network of computer centers with division of resources
+Results for сеть командного управления (simple):
+	network of team management
+Results for сеть коммутации кадров (пакетов) (simple):
+	network of switching of shots (packages)
+Results for сеть конференц-связи:
+	 conference network (Компьютеры)
+	 
+Results for сеть массового обслуживания (simple):
+	network of mass service
+Results for сеть междугородных линий (simple):
+	network of long-distance lines
+Results for сеть наземных станций (simple):
+	network of earth-based stations
+Results for сеть (не)санкционируемой связи (simple):
+	network of not authorized communication
+Results for сеть общего пользования:
+	 public service network (Компьютеры)
+	 
+Results for сеть опорных РЛС (simple):
+	network of basic radar stations
+Results for сеть передачи данных (по телефонным каналам, с промежуточным накоплением) (simple):
+	data transmission network (on telephone channels, with intermediate accumulation)
+Results for сеть пакетной коммутации (simple):
+	network of package switching
+Results for сеть первичных преобразователей (simple):
+	network of primary converters
+Results for сеть персональных ЭВМ (simple):
+	network of personal COMPUTERS
+Results for сеть прямой передачи речевой информации (simple):
+	network of direct transfer of speech information
+Results for сеть с абонентским (многостанционным) доступом (simple):
+	network with subscriber (multistation) access
+Results for сеть связи с высокой пропускной способностью (закреплёнными каналами) (simple):
+	communication network with a high capacity (the fixed channels)
+Results for сеть с индивидуальными услугами за дополнительную плату (simple):
+	network with individual services for an additional fee
+Results for сеть с коммутацией сообщений:
+	 message switched network (Компьютеры)
+	 
+Results for сеть с маршрутизацией (simple):
+	network with routing
+Results for сеть соединительных линий (simple):
+	network of connecting lines
+Results for сеть с петлевой структурой (simple):
+	network with loopback structure
+Results for сеть с полным перебором (simple):
+	network with full search
+Results for сеть с предоставлением каналов по требованию (simple):
+	network with granting channels on demand
+Results for сеть станций наведения (радиоопределения, слежения) (simple):
+	network of stations of targeting (radiodeterminations, trackings)
+Results for сеть Хэбба (simple):
+	Hebba network
+Results for сеть цифровой (спутниковой) связи (simple):
+	network of digital (satellite) communication
+Results for сеть электросвязи (simple):
+	network of telecommunication
+Results for телетайпная сеть:
+	 teletype network (Компьютеры)
+	 
+Results for узловая сеть (simple):
+	nodal network
+Results for электрическая сеть:
+	 electrical network 
+	 power network (Бизнес)
+	 
+Results for сечение взаимодействия ионизирующих частиц (simple):
+	section of interaction of the ionizing particles
+Results for сечение возбуждения (simple):
+	excitement section
+Results for сечение захвата:
+	 capture cross-section (Естественные науки)
+	 
+Results for сечение поверхности (simple):
+	surface section
+Results for сечение пучка:
+	 beam area (Естественные науки)
+	 
+Results for сечение рассеяния:
+	 scattering cross-section (Техника)
+	 
+Results for сечение столкновений (simple):
+	section of collisions
+Results for эффективное сечение захвата (ионизации, рекомбинации) (simple):
+	effective section of capture (ionization, recombination)
+Results for эффективное сечение поглощения (рассеяния) (simple):
+	effective section of absorption (dispersion)
+Results for временное сжатие (simple):
+	temporary compression
+Results for сжатие (в области) белого (чёрного) (simple):
+	compression (in the area) white (black)
+Results for сжатие данных (за счёт нулей) (simple):
+	compression of data (at the expense of zero)
+Results for сжатие диаграммы направленности антенны при боковом обзоре (simple):
+	compression of the directional pattern of the antenna at the side review
+Results for сжатие зондирующего импульса (simple):
+	compression of the probing impulse
+Results for сжатие импульсов с линейной частотной модуляцией (simple):
+	compression of impulses with linear frequency modulation
+Results for сжатие плазменного шнура (simple):
+	compression of a plasma cord
+Results for сжатие плазмы (simple):
+	plasma compression
+Results for сжатие полосы частот:
+	 bandwidth compression (Компьютеры)
+	 
+Results for сжатие по скорости передачи (simple):
+	compression on transfer speed
+Results for сжатие при кодировании (simple):
+	compression when coding
+Results for сжатие при пинч-разряде (simple):
+	compression at pinch discharge
+Results for сжатие синхроимпульсов (simple):
+	compression of clock pulses
+Results for сжатие спектра (речевого сигнала) (simple):
+	compression of a range (speech signal)
+Results for сжатие с переприёмом информации (simple):
+	compression with rereception of information
+Results for сигма-функция:
+	 sigma-function 
+Results for сигма-частица (simple):
+	sigma particle
+Results for аварийный сигнал:
+	 alarm signal (Компьютеры)
+	 
+Results for амплитудно(фазо, частотно)-модулированный сигнал (simple):
+	it is amplitude (a phase, it is frequency) - the modulated signal
+Results for аналоговый сигнал:
+	 analog signal (Компьютеры)
+	 
+Results for биоэлектрический сигнал (simple):
+	bioelectric signal
+Results for биполярный сигнал:
+	 bipolar signal (Компьютеры)
+	 
+Results for взвешенный сигнал (simple):
+	the weighed signal
+Results for возрастающий сигнал (simple):
+	the increasing signal
+Results for восстанавливающий сигнал:
+	 restoring signal (Техника)
+	 
+Results for в(вы)ходной сигнал (simple):
+	in (you) hodny signal
+Results for выпрямленный сигнал:
+	 rectified signal (Техника)
+	 
+Results for высоко(низко)частотный [ВЧ- (НЧ-)] сигнал (simple):
+	highly (low) frequency [VCh-(LF-)] a signal
+Results for гауссов сигнал (simple):
+	the signal is Gaussian
+Results for глобальный сигнал (simple):
+	global signal
+Results for групповой сигнал:
+	 composite signal (Техника)
+	 
+Results for двухпозиционный сигнал:
+	 two-position signal (Техника)
+	 
+Results for (дез)ориентирующий сигнал (simple):
+	(misinformation) the focusing signal
+Results for (де)кодированный сигнал (simple):
+	the coded signal
+Results for детерминированный сигнал (simple):
+	the determined signal
+Results for дискретизованный сигнал (simple):
+	diskretizovanny signal
+Results for дифференциальный сигнал (simple):
+	differential signal
+Results for дуобинарный сигнал (simple):
+	duobinarny signal
+Results for запросный [запрашивающий] сигнал (simple):
+	the request [requesting] signal
+Results for запускающий сигнал (simple):
+	the starting signal
+Results for звуковой сигнал:
+	 audible signal (Естественные науки)
+	 
+	 sound signal (Компьютеры)
+	 
+	 beep[bi:p] (Техника)
+	 
+Results for зондирующий сигнал (simple):
+	the probing signal
+Results for импульсный сигнал і (simple):
+	pulse signal і
+Results for информативный сигнал (simple):
+	informative signal
+Results for испытательный сигнал:
+	 measuring signal (Компьютеры)
+	 
+	 testing signal (Техника)
+	 
+Results for камерный сигнал (simple):
+	chamber signal
+Results for квазитроичный сигнал (simple):
+	quasiternary signal
+Results for квантованный сигнал:
+	 quantized signal (Естественные науки)
+	 
+Results for когерентный сигнал:
+	 coherent signal (Компьютеры)
+	 
+Results for комплексный аналитический сигнал (simple):
+	complex analytical signal
+Results for контрольный сигнал:
+	 monitor signal (Техника)
+	 
+	 monitoring signal (Техника)
+	 
+Results for лазерный сигнал:
+	 laser signal (Техника)
+	 
+Results for ложный сигнал:
+	 spurious signal (Естественные науки)
+	 
+	 false signal (Компьютеры)
+	 
+Results for международный (кодовый) сигнал (simple):
+	international (code) signal
+Results for мигающий сигнал занятости (simple):
+	the blinking busy signal
+Results for минимальный обнаружимый (различимый) сигнал (simple):
+	minimum detectable (distinguishable) signal
+Results for модулирующий сигнал:
+	 modulating signal (Компьютеры)
+	 
+Results for монофонический [суммарный] сигнал (simple):
+	monophonic [total] signal
+Results for насыщающий сигнал (simple):
+	the sating signal
+Results for (не)вокализированный сигнал (simple):
+	not vocalized signal
+Results for (неза)шифрованный сигнал (simple):
+	(neza) encoded signal
+Results for ((не)изохронный) цифровой сигнал (simple):
+	((not) isochronous) digital signal
+Results for нейроэлектрический сигнал (simple):
+	neuroelectric signal
+Results for (не)квитируемый сигнал (simple):
+	(not) kvitiruyemy signal
+Results for обнаружимый сигнал (simple):
+	detectable signal
+Results for опорный сигнал:
+	 reference signal (Компьютеры)
+	 
+Results for оптический сигнал (simple):
+	optical signal
+Results for ответный сигнал:
+	 answer-back signal (Техника)
+	 
+Results for отражённый сигнал (simple):
+	the reflected signal
+Results for панорамный сигнал (simple):
+	panoramic signal
+Results for паразитный сигнал:
+	 spurious signal (Естественные науки)
+	 
+Results for передаваемый сигнал:
+	 transmit signal 
+Results for пилообразный сигнал:
+	 sawtooth signal (Техника)
+	 
+	 saw-tooth signal (Компьютеры)
+	 
+Results for пилот-сигнал (simple):
+	pilot signal
+Results for подмешиваемый сигнал (simple):
+	the mixed signal
+Results for полезный сигнал:
+	 wanted signal (Техника)
+	 
+	 desired signal (Компьютеры)
+	 
+Results for полный сигнал строки (simple):
+	full signal of a line
+Results for пороговый сигнал:
+	 threshold signal (Компьютеры)
+	 
+Results for поступающий сигнал (simple):
+	the arriving signal
+Results for противо(син)фазный сигнал (simple):
+	противо (Xing) phase signal
+Results for (псевдо)случайный сигнал (simple):
+	(pseudo) casual signal
+Results for (псевдо)шумовой сигнал (simple):
+	(pseudo) noise signal
+Results for ПЧ-сигнал (simple):
+	PCh-signal
+Results for радиочастотный сигнал (simple):
+	radio-frequency signal
+Results for различимый сигнал:
+	 detectable signal (Компьютеры)
+	 
+Results for ретранслированный сигнал:
+	 repeater signal (Компьютеры)
+	 
+Results for речевой сигнал:
+	 voice signal (Компьютеры)
+	 
+	 speech signal (Техника)
+	 
+Results for робастный сигнал (simple):
+	robastny signal
+Results for свёрнутый сигнал с расширенным спектром (simple):
+	the curtailed signal with an expanded range
+Results for СВЧ-сигнал (simple):
+	Microwave signal
+Results for селекторный [стробирующий] сигнал (simple):
+	selector [strobiruyushchy] signal
+Results for сигнал бедствия:
+	 distress signal 
+	 distress message (Естественные науки)
+	 
+	 distress call (Техника)
+	 
+Results for сигнал без шумов (simple):
+	signal without noise
+Results for сигнал блокировки:
+	 blocking signal (Компьютеры)
+	 
+	 locking signal (Техника)
+	 
+Results for сигнал внезонной индикации (simple):
+	signal of extra zonal indication
+Results for сигнал воспроизведения (simple):
+	reproduction signal
+Results for сигнал всенаправленного радиомаяка (simple):
+	signal of the omnidirectional radio beacon
+Results for сигнал вспышки:
+	 flashing luminous signal (Техника)
+	 
+Results for сигнал в форме меандра (simple):
+	signal in the form of a meander
+Results for сигнал в эфире (simple):
+	signal on air
+Results for сигнал высокого (низкого) уровня (simple):
+	signal of high (low) level
+Results for сигнал гашения (simple):
+	clearing signal
+Results for сигнал голубого (зелёного, красного) цвета (simple):
+	signal blue (green, red) colors
+Results for сигнал готовности к приёму (simple):
+	signal of readiness for reception
+Results for сигнал дискретизации (simple):
+	sampling signal
+Results for сигнал длительности (simple):
+	duration signal
+Results for сигнал допускового контроля (simple):
+	signal of dopuskovy control
+Results for сигнал задержки (simple):
+	delay signal
+Results for сигнал «занято» («свободно») (simple):
+	signal "is busy" ("freely")
+Results for сигнал занятости линии (simple):
+	line busy signal
+Results for сигнал записи:
+	 write signal (Компьютеры)
+	 
+	 write input (Техника)
+	 
+Results for сигнал запрета:
+	 disable signal (Техника)
+	 
+Results for сигнал запроса:
+	 demand signal (Компьютеры)
+	 
+Results for сигнал , защищённый от несанкционированного использования (simple):
+	the signal protected from unauthorized use
+Results for сигнал изображения:
+	 picture signal 
+Results for сигнал импульсно-кодовой модуляции (simple):
+	signal of pulse code modulation
+Results for сигнал испытательной таблицы (simple):
+	signal of the test table
+Results for сигнал испытательных строк (simple):
+	signal of test lines
+Results for сигнал квантования (simple):
+	quantization signal
+Results for сигнал компенсации паразитного сигнала передающей трубки (simple):
+	signal of compensation of a parasitic signal of the transmitting tube
+Results for сигнал контроля посылки вызова:
+	 call confirmation signal (Компьютеры)
+	 
+Results for сигнал конца (начала) сообщения (simple):
+	signal of the end (beginning) of the message
+Results for сигнал кругосветного радиоэха (simple):
+	signal of a round-the-world radio echo
+Results for сигнал (ложной) тревоги (simple):
+	signal (false) alarm
+Results for сигнал межкадровой (межэлементной) разности (simple):
+	signal of an interpersonnel (interelement) difference
+Results for сигнал межкадровой синхронизации (simple):
+	signal of interpersonnel synchronization
+Results for сигнал многочастотного кода (simple):
+	signal of a multifrequency code
+Results for сигнал момента (проверки) времени (simple):
+	signal of the moment (check) of time
+Results for сигнал на ликвидацию (simple):
+	signal on elimination
+Results for сигнал наличия радиопеленга (simple):
+	signal of existence of a radio bearing
+Results for сигнал настройки (simple):
+	control signal
+Results for сигнал начала (окончания, разрешения) переноса (simple):
+	beginning signal (terminations, permissions) transfer
+Results for сигнал начала развёртки (сообщения) (simple):
+	signal of the beginning of development (message)
+Results for сигнал неисправности:
+	 failure alarm (Компьютеры)
+	 
+	 fault signal (Техника)
+	 
+Results for сигнал нуля:
+	 zero signal (Компьютеры)
+	 
+	 naught signal (Техника)
+	 
+Results for сигнал обратного хода (simple):
+	signal of reverse motion
+Results for сигнал обратной связи:
+	 return signal (Компьютеры)
+	 
+	 feedback signal (Техника)
+	 
+Results for сигнал ограниченной длительности:
+	 time-limited signal (Компьютеры)
+	 
+Results for сигнал, ограниченный по амплитуде:
+	 Существительное сигнал
+	 ограниченный по амплитуде / сигналы
+	 ограниченные по амплитуде 
+	 clipped signal (Компьютеры)
+	 
+Results for сигнал оповещения:
+	 warning signal (Техника)
+	 
+Results for сигнал опознавания цели (simple):
+	signal of identification of the purpose
+Results for сигнал освобождения цепи (simple):
+	signal of release of a chain
+Results for сигнал отбоя:
+	 all clear signal 
+	 clear-back signal (Компьютеры)
+	 
+	 clear signal (Техника)
+	 
+Results for сигнал отказа от вызова (simple):
+	signal of refusal of a call
+Results for сигнал отражённый от водной (земной) поверхности (simple):
+	the signal reflected from a water (terrestrial) surface
+Results for сигнал (отсутствия) набора (simple):
+	signal (absence) of set
+Results for сигнал от цели (simple):
+	signal from the purpose
+Results for сигнал ошибки систем автосопровождения (simple):
+	signal of an error of systems of automaintenance
+Results for сигнал первичных признаков (simple):
+	signal of primary signs
+Results for сигнал перевода регистра (simple):
+	signal of the translation of the register
+Results for сигнал , передаваемый по радиолучу (simple):
+	the signal transmitted on a radio beam
+Results for сигнал переноса:
+	 carry[ˈkærɪ] (Техника)
+	 
+Results for сигнал повторного вызова (simple):
+	signal of a repeated call
+Results for сигнал подготовки (simple):
+	preparation signal
+Results for сигнал подтверждения:
+	 acknowledgement signal (Компьютеры)
+	 
+	 acknowledgment signal (Техника)
+	 
+Results for сигнал помехи:
+	 disturbance signal (Компьютеры)
+	 
+	 interfering signal (Техника)
+	 
+Results for сигнал (поступления) данных (simple):
+	signal (receipts) of data
+Results for сигнал предупреждения:
+	 warning signal (Техника)
+	 
+Results for сигнал прерывания:
+	 break signal (Компьютеры)
+	 
+	 interrupt signal (Техника)
+	 
+Results for сигнал прохождения вызова (simple):
+	signal of passing of a call
+Results for сигнал пульсара (simple):
+	pulsar signal
+Results for сигнал радиовещательной программы (simple):
+	signal of the broadcasting program
+Results for сигнал радиозвезды (simple):
+	radio star signal
+Results for сигнал разъединения:
+	 disconnection signal (Компьютеры)
+	 
+Results for сигнал распознавания (simple):
+	recognition signal
+Results for сигнал рассогласования:
+	 error signal (Техника)
+	 
+Results for сигнал самонаведения:
+	 homing signal (Техника)
+	 
+Results for сигнал сведения лучей (simple):
+	signal of the data of beams
+Results for сигнал свободной линии (simple):
+	signal of the free line
+Results for сигнал с двумя боковыми полосами (simple):
+	signal with two side strips
+Results for сигнал с доплеровским сдвигом (simple):
+	signal with Doppler shift
+Results for сигнал селекции (simple):
+	selection signal
+Results for сигнал с избыточной информацией (simple):
+	signal with surplus information
+Results for сигнал , сжатый по спектру (simple):
+	the signal compressed on a range
+Results for сигнал с избыточностью:
+	 redundant signal (Компьютеры)
+	 
+Results for сигнал синхронизации (simple):
+	synchronization signal
+Results for сигнал сканирования (simple):
+	scanning signal
+Results for сигнал с качающейся частотой (simple):
+	signal with the shaking frequency
+Results for сигнал с кодированием по фазе (simple):
+	signal with coding on a phase
+Results for сигнал с ЛЧМ (simple):
+	signal with LChM
+Results for сигнал с нелинейной частотной модуляцией (simple):
+	signal with nonlinear frequency modulation
+Results for сигнал с ограниченной полосой частот (simple):
+	signal with a limited strip of frequencies
+Results for сигнал с одной (частично подавленной) боковой полосой (simple):
+	signal with one (partially suppressed) side strip
+Results for сигнал со скачкообразной перестройкой частоты (simple):
+	signal with spasmodic reorganization of frequency
+Results for сигнал состояния (simple):
+	state signal
+Results for сигнал с полностью известными параметрами (simple):
+	signal with completely known parameters
+Results for сигнал с расширенным спектром (simple):
+	signal with an expanded range
+Results for сигнал средства измерений (simple):
+	measuring instrument signal
+Results for сигнал стандартной частоты (simple):
+	signal of standard frequency
+Results for сигнал (стерео)звукового сопровождения (simple):
+	signal (stereo) of a soundtrack
+Results for сигнал стирания:
+	 clearing signal (Техника)
+	 
+Results for сигнал с частотно-временным кодированием (simple):
+	signal with time-and-frequency coding
+Results for сигнал с чередованием полярности импульсов:
+	 alternate mark inversion signal (Компьютеры)
+	 
+Results for сигнал считывания:
+	 read signal (Компьютеры)
+	 
+	 sensing signal (Техника)
+	 
+Results for сигнал с шумами:
+	 noisy signal (Компьютеры)
+	 
+Results for сигнал управления:
+	 management signal (Компьютеры)
+	 
+	 command signal (Техника)
+	 
+Results for сигнал фазирования (simple):
+	phasing signal
+Results for сигнал цветности:
+	 chroma signal (Компьютеры)
+	 
+	 chroma (Техника)
+	 
+Results for сигнал цветного изображения (simple):
+	signal of the color image
+Results for сигнал цветовой синхронизации (simple):
+	signal of color synchronization
+Results for сигнал цветовой составляющей (simple):
+	signal of a color component
+Results for сигнал цветных полос (simple):
+	signal of color strips
+Results for сигнал чёрного поля (simple):
+	signal of the black field
+Results for сигнал чёрного пятна (simple):
+	signal of a black spot
+Results for сигнал шумов (simple):
+	signal of noise
+Results for сигнал яркости:
+	 intensity signal (Техника)
+	 
+Results for синхронизирующий сигнал [синхроимпульс] (simple):
+	the synchronizing signal [clock pulse]
+Results for сжатый сигнал (simple):
+	the compressed signal
+Results for скремблированный сигнал (simple):
+	the scrambled signal
+Results for стандартный сигнал (simple):
+	standard signal
+Results for стартстопный сигнал:
+	 start-stop signal (Компьютеры)
+	 
+Results for стереофонический [разностный] сигнал (simple):
+	stereophonic [differential] signal
+Results for строчный сигнал (simple):
+	lower case signal
+Results for структурно-меандровый сигнал (simple):
+	structural меандровый signal
+Results for тональный сигнал:
+	 tone signal (Компьютеры)
+	 
+Results for транслированный сигнал (simple):
+	the broadcast signal
+Results for убывающий сигнал (simple):
+	the decreasing signal
+Results for узко(широко)полосный сигнал (simple):
+	narrowly (widely) band signal
+Results for уплотнённый сигнал (simple):
+	the condensed signal
+Results for управляющий сигнал:
+	 pilot signal (Естественные науки)
+	 
+	 control signal (Компьютеры)
+	 
+Results for установившийся сигнал:
+	 steady state signal (Компьютеры)
+	 
+Results for фазо(частотно)-манипулированный сигнал (simple):
+	phase it (is frequency) - the manipulated signal
+Results for факсимильный сигнал (simple):
+	facsimile signal
+Results for флуктуирующий сигнал:
+	 fluctuating signal (Компьютеры)
+	 
+Results for хронирующий сигнал:
+	 timing wave (Компьютеры)
+	 
+	 timing signal (Техника)
+	 
+Results for цветовой телевизионный сигнал (simple):
+	color television signal
+Results for цветоразностный сигнал (simple):
+	color-difference signal
+Results for шумоподобный сигнал (simple):
+	noise-type signal
+Results for электрический сигнал:
+	 electrical signal (Техника)
+	 
+Results for сигнализатор перегоревшей лампы (simple):
+	signaling device of the fused lamp
+Results for сигнализатор перегрузки по току (simple):
+	overload signaling device on current
+Results for сигнализатор перенапряжения (simple):
+	overstrain signaling device
+Results for сигнализатор подсвета цели (simple):
+	purpose sublight signaling device
+Results for сигнализатор уровня напряжения (simple):
+	tension level signaling device
+Results for автоматическая сигнализация:
+	 automatic signalling (Техника)
+	 
+Results for абонентская сигнализация (simple):
+	subscriber alarm system
+Results for вне(внутри)полосная сигнализация (simple):
+	out of (inside) band alarm system
+Results for двоичная сигнализация [сигнализация в двоичном коде] (simple):
+	the binary alarm system [the alarm system in a binary code]
+Results for двухпозиционная сигнализация (simple):
+	on-off alarm system
+Results for защитная сигнализация:
+	 protective signalling (Техника)
+	 
+Results for звуковая сигнализация:
+	 chime[tʃaɪm] (Естественные науки)
+	 
+	 audible alarm (Техника)
+	 
+Results for многочастотная сигнализация:
+	 multi-frequency signaling (Компьютеры)
+	 
+Results for световая сигнализация:
+	 signal light (Компьютеры)
+	 
+	 flashing alarm (Техника)
+	 
+Results for сигнализация о неисправностях (повреждениях) (simple):
+	trouble signaling (damages)
+Results for сигнализация о пропадании несущей (simple):
+	the alarm system about loss of bearing
+Results for сигнализация о свободных каналах (simple):
+	the alarm system about free channels
+Results for сигнализация по объединённому каналу (simple):
+	the alarm system on the joint channel
+Results for сигнализация по разделённым каналам (simple):
+	the alarm system on the divided channels
+Results for сигнализация по участкам:
+	 link-by-link signaling (Компьютеры)
+	 
+Results for сигнализация по цифровым каналам связи (simple):
+	the alarm system on digital channels of communication
+Results for сигнализация при передаче данных (simple):
+	the alarm system at data transmission
+Results for сквозная сигнализация (simple):
+	through alarm system
+Results for тональная сигнализация:
+	 tone signaling (Компьютеры)
+	 
+Results for тревожная сигнализация (simple):
+	disturbing alarm system
+Results for гетеро(гомо, мезо, плезио)хронные сигналы (simple):
+	hetero (Goma, meso, plesio) hronny signals
+Results for цифровые сигналы:
+	 digital signal (Техника)
+	 
+Results for свёрнутые сигналы (simple):
+	the curtailed signals
+Results for сигналы набора номера:
+	 selection signal (Техника)
+	 
+Results for сигналы основных цветов (simple):
+	signals of primary colors
+Results for возмущающая сила:
+	 disturbing force (Техника)
+	 
+Results for втягивающая сила (simple):
+	the involving force
+Results for движущая сила:
+	 driving force 
+	 propellent[prəˈpelənt] (Естественные науки)
+	 
+	 motive power (Естественные науки)
+	 
+Results for коэрцитивная сила сегнетоэлектрика (simple):
+	coercive force of a ferroelectric material
+Results for кулоновская сила:
+	 Coulomb force (Техника)
+	 
+Results for левитационная сила (simple):
+	levitation force
+Results for магнитодвижущая сила:
+	 magnetomotive force (Техника)
+	 
+Results for намагничивающая сила:
+	 magnetizing force (Естественные науки)
+	 
+Results for направленная сила (simple):
+	the directed force
+Results for обобщённая сила (simple):
+	the generalized force
+Results for оптическая сила линзы (simple):
+	optical power of a lens
+Results for отклоняющая сила:
+	 deflecting force (Естественные науки)
+	 
+Results for отталкивающая сила (simple):
+	repellent force
+Results for подъёмная сила:
+	 carrying power 
+Results for потенциальная сила (simple):
+	potential force
+Results for прижимная сила (simple):
+	clamping force
+Results for (противо)электродвижущая сила (simple):
+	(противо) the electromotive force
+Results for пондеромоторная сила:
+	 ponderomotive force (Естественные науки)
+	 
+Results for равнодействующая сила:
+	 net force 
+	 resultant force (Техника)
+	 
+Results for сила звука:
+	 sound intensity 
+Results for сила излучения (simple):
+	radiation force
+Results for сила инерции:
+	 inertial force (Естественные науки)
+	 
+Results for сила Лоренца:
+	 Lorentz force 
+Results for сила отталкивания:
+	 repulsive force (Естественные науки)
+	 
+Results for сила пиннинга (simple):
+	pinning force
+Results for сила притяжения:
+	 attractive force (Естественные науки)
+	 
+	 force of attraction (Бизнес)
+	 
+	 attracting force (Компьютеры)
+	 
+Results for сила света:
+	 luminous intensity 
+	 light intensity (Естественные науки)
+	 
+Results for скатывающая сила звукоснимателя (simple):
+	skatyvayushchy force of the sound pickup
+Results for термо(фото)электродвижущая сила (simple):
+	thermo (photo) the electromotive force
+Results for близкодействующие силы (simple):
+	short-range forces
+Results for квантово-механические силы (simple):
+	quantum-mechanical forces
+Results for обменные силы (simple):
+	exchange forces
+Results for силы взаимодействия токов (simple):
+	forces of interaction of currents
+Results for алфавитный символ (simple):
+	alphabetic symbol
+Results for двоично-кодированный символ (simple):
+	binary-coded symbol
+Results for логический символ (simple):
+	logical symbol
+Results for недопустимый символ:
+	 invalid character 
+Results for основной символ (simple):
+	main symbol
+Results for пустой символ (simple):
+	empty symbol
+Results for растровый символ (simple):
+	raster symbol
+Results for символ блок-схемы (simple):
+	flowchart symbol
+Results for символ возврата на одну позицию (simple):
+	return symbol on one position
+Results for символ-заполнитель:
+	 fill character (Компьютеры)
+	 
+Results for символ запроса:
+	 enquiry character (Компьютеры)
+	 
+Results for символ знака (simple):
+	sign symbol
+Results for символ из сплошных нулей (simple):
+	symbol from continuous zero
+Results for символ кода (simple):
+	code symbol
+Results for символ Кронекера:
+	 Kronecker delta (Естественные науки)
+	 
+Results for символ (не)подтверждения приёма (simple):
+	symbol (not) of confirmation of reception
+Results for символ оповещения (simple):
+	notification symbol
+Results for символ переключения на дополнительный (стандартный) регистр (simple):
+	symbol of switching to the additional (standard) register
+Results for символ «пробел» (simple):
+	gap symbol
+Results for символ синхронизации (simple):
+	synchronization symbol
+Results for символ смены регистра:
+	 shift character (Компьютеры)
+	 
+Results for символ с переменной длительностью (simple):
+	symbol with variable duration
+Results for символ стирания:
+	 era[ˈɪərə] (Техника)
+	 
+Results for символ с чертой сверху (simple):
+	symbol with line from above
+Results for символ табуляции:
+	 tabulation character (Компьютеры)
+	 
+Results for символ трассировки (simple):
+	trace symbol
+Results for символ удаления:
+	 erase character (Компьютеры)
+	 
+Results for символ управления (simple):
+	symbol of management
+Results for символ фазирующей посылки (simple):
+	symbol of the phasing parcel
+Results for суггестивный символ (simple):
+	suggestive symbol
+Results for точечный символ (simple):
+	dot symbol
+Results for управляющий символ:
+	 control character (Компьютеры)
+	 
+Results for фонемный символ (simple):
+	fonemny symbol
+Results for функциональный символ (simple):
+	functional symbol
+Results for холостой символ (simple):
+	single symbol
+Results for цифровой символ (simple):
+	digital symbol
+Results for штриховой символ (simple):
+	shaped symbol
+Results for математическая символика (simple):
+	mathematical symbolics
+Results for симметрирование кабелей (simple):
+	balancing of cables
+Results for аксиальная симметрия (simple):
+	axial symmetry
+Results for зеркальная симметрия:
+	 bilateral symmetry (Техника)
+	 
+Results for симметрия вращения (simple):
+	symmetry of rotation
+Results for строгая симметрия (simple):
+	strict symmetry
+Results for центральная симметрия (simple):
+	central symmetry
+Results for симплекс-метод:
+	 simplex-method (Естественные науки)
+	 
+Results for симплекс-множитель (simple):
+	simplex multiplier
+Results for симплекс-таблица (simple):
+	simplex table
+Results for симплекс-шаг (simple):
+	simplex step
+Results for синтаксис языка программирования (simple):
+	syntax of a programming language
+Results for автоматический синтез аппаратных средств (simple):
+	automatic synthesis of hardware
+Results for апертурный синтез (с использованием вращения Земли) (simple):
+	aperture synthesis (with use of rotation of Earth)
+Results for глобальный логический синтез (simple):
+	global logical synthesis
+Results for дифференциальный синтез (simple):
+	differential synthesis
+Results for синтез абстрактных (конечных) автоматов (simple):
+	synthesis of abstract (final) automatic machines
+Results for синтез алгоритма управления (simple):
+	synthesis of a control algorithm
+Results for синтез антенн (simple):
+	synthesis of antennas
+Results for синтез белого света (simple):
+	synthesis of this world
+Results for синтез голограмм (simple):
+	synthesis of holograms
+Results for синтез математических моделей (simple):
+	synthesis of mathematical models
+Results for синтез методом стандартных ячеек (simple):
+	synthesis by method of standard cells
+Results for синтез монокристаллов (simple):
+	synthesis of monocrystals
+Results for синтез на основе произвольной логики (simple):
+	synthesis on the basis of any logic
+Results for синтез на элементарном уровне (simple):
+	synthesis at the elementary level
+Results for синтез оптических изображений (simple):
+	synthesis of optical images
+Results for синтез программ (simple):
+	synthesis of programs
+Results for синтез речевых сигналов (simple):
+	synthesis of speech signals
+Results for синтез речи на уровне предложений (слов) (simple):
+	synthesis of the speech at the level of offers (words)
+Results for синтез схемы многополюсника (simple):
+	synthesis of the scheme of the multiterminal network
+Results for синтез текста (simple):
+	synthesis of the text
+Results for синтез формант (simple):
+	synthesis formant
+Results for синтез цепей (simple):
+	synthesis of chains
+Results for синтез частот (simple):
+	synthesis of frequencies
+Results for цифровой синтез музыкальных звуков (simple):
+	digital synthesis of musical sounds
+Results for ((декадный) когерентный) синтезатор частот (simple):
+	((decade) coherent) synthesizer of frequencies
+Results for декодер-синтезатор (simple):
+	decoder synthesizer
+Results for механический синтезатор формы сигнала (simple):
+	mechanical synthesizer of a form of a signal
+Results for синтезатор вокодера (simple):
+	voice coder synthesizer
+Results for синтезатор гетеродинной частоты (simple):
+	synthesizer of heterodyne frequency
+Results for синтезатор изображений (simple):
+	synthesizer of images
+Results for синтезатор с быстрой перестройкой частоты (simple):
+	synthesizer with fast reorganization of frequency
+Results for синтезатор с косвенным (прямым) синтезом частот (simple):
+	synthesizer with indirect (direct) synthesis of frequencies
+Results for синтезатор формант (simple):
+	synthesizer formant
+Results for синтезатор Фурье [гармонический синтезатор] (simple):
+	Fourier's synthesizer [harmonious synthesizer]
+Results for спектральный (электронный) синтезатор частот (simple):
+	spectral (electronic) synthesizer of frequencies
+Results for (цифровой) синтезатор речи (simple):
+	(digital) synthesizer of the speech
+Results for синтезирование апертуры (simple):
+	synthesizing of an aperture
+Results for синтезирование голограмм (simple):
+	synthesizing of holograms
+Results for синтезирование информации (simple):
+	synthesizing of information
+Results for гиперболический синус:
+	 hyperbolic sine (Техника)
+	 
+Results for интегральный синус:
+	 integral sine (Естественные науки)
+	 
+	 sine integral (Техника)
+	 
+Results for синус-преобразование Фурье:
+	 Fourier sine trasform (Техника)
+	 
+Results for адаптивный сканирующий синхронизатор (simple):
+	the adaptive scanning synchronizer
+Results for (видео)магнитофонный синхронизатор (simple):
+	(video) recorder synchronizer
+Results for активная (пассивная) синхронизация мод (simple):
+	active (passive) synchronization of fashion
+Results for ведомая синхронизация (simple):
+	the conducted synchronization
+Results for внешняя синхронизация:
+	 injection locking (Компьютеры)
+	 
+Results for внутренняя синхронизация (simple):
+	internal synchronization
+Results for временная синхронизация:
+	 time synchronization (Компьютеры)
+	 
+Results for грубая синхронизация:
+	 random paralleling (Техника)
+	 
+Results for двух(одно)сторонняя синхронизация (simple):
+	two (one) third-party synchronization
+Results for импульсная синхронизация і (simple):
+	pulse synchronization і
+Results for инерционная синхронизация (simple):
+	inertial synchronization
+Results for кадровая синхронизация:
+	 frame synchronization (Компьютеры)
+	 
+	 vertical synchronization (Техника)
+	 
+Results for пакетная синхронизация (simple):
+	package synchronization
+Results for полевая синхронизация (simple):
+	field synchronization
+Results for принудительная синхронизация (simple):
+	compulsory synchronization
+Results for сетевая синхронизация (simple):
+	network synchronization
+Results for символьная синхронизация (simple):
+	symbolical synchronization
+Results for синхронизация в телевидении (simple):
+	synchronization in television
+Results for синхронизация входа-выхода (simple):
+	synchronization of an entrance exit
+Results for синхронизация двух генераторов (simple):
+	synchronization of two generators
+Results for синхронизация измерительного приёмника от передатчика (simple):
+	synchronization of the measuring receiver from the transmitter
+Results for синхронизация мод (лазера) (simple):
+	synchronization of fashion (laser)
+Results for синхронизация операций (simple):
+	synchronization of operations
+Results for синхронизация осциллографа (simple):
+	synchronization of an oscillograph
+Results for синхронизация от сети (simple):
+	synchronization from network
+Results for синхронизация по кодовым комбинациям (simple):
+	synchronization on code combinations
+Results for синхронизация полей (simple):
+	synchronization of fields
+Results for синхронизация по несущей (ПЧ) (simple):
+	synchronization on bearing (PCh)
+Results for синхронизация по сигналам единого времени (simple):
+	synchronization on signals of uniform time
+Results for синхронизация процессов:
+	 process synchronization (Компьютеры)
+	 
+Results for синхронизация развёртки (simple):
+	development synchronization
+Results for синхронизация сигналов цветности (simple):
+	synchronization of signals of chromaticity
+Results for синхронизация строк (simple):
+	synchronization of lines
+Results for синхронизация цветовой поднесущей (simple):
+	synchronization of color subbearing
+Results for строчная синхронизация:
+	 horizontal synchronization (Техника)
+	 
+Results for тактовая синхронизация (simple):
+	clock synchronization
+Results for цикловая синхронизация:
+	 frame alignment (Компьютеры)
+	 
+Results for абсолютно централизованная вычислительная система (simple):
+	absolutely centralized computing system
+Results for авиационная электронная система (simple):
+	aviation electronic system
+Results for автоматизированная система:
+	 automated system (Компьютеры)
+	 
+Results for автоматическая справочная (телефонная) система (simple):
+	automatic help (telephone) system
+Results for автономная система:
+	 autonomous system (Компьютеры)
+	 
+	 off-line system (Техника)
+	 
+Results for адаптивная (центральная, цифровая) система управления (simple):
+	adaptive (central, digital) control system
+Results for адаптивная система с эталонной моделью:
+	 model reference adaptive system (Компьютеры)
+	 
+Results for активная система ночного поиска (simple):
+	active system of night search
+Results for акустическая система:
+	 speaker system 
+	 tone system (Техника)
+	 
+Results for антенная система (с шумопонижением) (simple):
+	antenna system (with noise reduction)
+Results for аэродромная система связи (simple):
+	airfield communication system
+Results for безынерционная (линейная, логическая, оптимизирующая) система управления (simple):
+	inertialess (linear, logical, optimizing) a control system
+Results for безынерционная обучающаяся система управления (simple):
+	the inertialess studying control system
+Results for бесконечномерная система (simple):
+	beskonechnomerny system
+Results for беспоисковая система идентификации (simple):
+	bespoiskovy system of identification
+Results for бортовая самолётная система дальнего обнаружения (simple):
+	onboard plane system of distant detection
+Results for быстродействующая система факсимильной связи (simple):
+	high-speed system of fax
+Results for бытовая акустическая система (simple):
+	household speaker system
+Results for вакуумная система:
+	 vacuum system (Естественные науки)
+	 
+Results for видеоимпульсная радиолокационная система (simple):
+	video pulse radar-tracking system
+Results for волноводная система (simple):
+	the waveguide system
+Results for волоконно-оптическая система:
+	 fiber optical system (Компьютеры)
+	 
+Results for вращающаяся система координат:
+	 rotating coordinate system (Естественные науки)
+	 
+Results for всепогодная система наведения (инструментальной посадки) (simple):
+	all-weather system of targeting (tool landing)
+Results for встроенная система:
+	 built-in system (Компьютеры)
+	 
+Results for гибкая производственная система:
+	 flexible production system (Бизнес)
+	 
+	 flexible manufacturing system (Гуманитарные науки)
+	 
+Results for глобальная система связи (временной синхронизации) (simple):
+	global communication system (temporary synchronization)
+Results for глобальная спутниковая система радиоопределения (simple):
+	global satellite system of radiodetermination
+Results for голографическая система записи и считывания (simple):
+	holographic system of record and reading
+Results for дальномерная система:
+	 ranging system (Техника)
+	 
+Results for дальномерно-пеленгационная система (simple):
+	ranging пеленгационная system
+Results for двоичная (десятичная) система счисления (simple):
+	binary (decimal) numeral system
+Results for дескрипторная система защиты информации (simple):
+	descriptor system of information security
+Results for (диагностическая) информационная диодная (триодная) система катодного распыления (simple):
+	(diagnostic) information diode (triode) system of cathodic dispersion
+Results for дисковая операционная система:
+	 disk operating system (Компьютеры)
+	 
+Results for дискретно-адресная система с произвольным доступом (simple):
+	discrete and address system with random access
+Results for диссипативная система (simple):
+	dissipative system
+Results for дифференциальная (дуплексная) система (simple):
+	differential (duplex) system
+Results for дублированная система:
+	 duplicate system (Компьютеры)
+	 
+Results for Европейская система спутниковой связи (simple):
+	European satellite communication system
+Results for замкнутая телевизионная система (simple):
+	the closed television system
+Results for зуммерная (зуммерно-голосовая) система поискового вызова (simple):
+	zummerny (zummerno-voice) system of a search call
+Results for иерархическая система распознавания образов (simple):
+	hierarchical system of recognition of images
+Results for изотропная система (simple):
+	isotropic system
+Results for импульсная доплеровская система (simple):
+	pulse Doppler system
+Results for инерциальная система наведения (навигации) (simple):
+	inertial system of targeting (navigation)
+Results for интегрированная система:
+	 federated system (Естественные науки)
+	 
+Results for интеллектуальная система (simple):
+	intellectual system
+Results for интерактивная система анализа и классификации образов (проектирования) (simple):
+	interactive system of the analysis and classification of images (design)
+Results for интерференционная система контроля положения (simple):
+	interferential control system of situation
+Results for информационно-поисковая (-справочная, -управляющая) система (simple):
+	information retrieval (-help, - the managing director) system
+Results for итеративная система произвольного шифра (simple):
+	iterative system of any code
+Results for квази(не)линейная система управления с обратной связью (simple):
+	quasi linear control system with feedback
+Results for кодово-адресная система (simple):
+	code and address system
+Results for колебательная система:
+	 vibrating system (Естественные науки)
+	 
+Results for командная система (simple):
+	command system
+Results for комбинированная система радиоуправления (simple):
+	the combined system of radio control
+Results for коммутационная система:
+	 dial system (Техника)
+	 
+Results for комплексная система наведения (simple):
+	complex system of targeting
+Results for корреляционная система слежения (simple):
+	correlation system of tracking
+Results for координатная система АТС (simple):
+	coordinate system of automatic telephone exchange
+Results for криптографическая система (simple):
+	cryptographic system
+Results for кристаллографическая система (simple):
+	crystallographic system
+Results for лазерная система инерциальной навигации (simple):
+	laser system of inertial navigation
+Results for лазерная система связи (слежения) (simple):
+	laser communication system (trackings)
+Results for лево(право)винтовая система координат (simple):
+	left (right) screw system of coordinates
+Results for матричная система квазиквадрафонического радиовещания (simple):
+	matrix system of quasiquadraphonic broadcasting
+Results for механическая система индикации (телевидения) (simple):
+	mechanical system of indication (television)
+Results for микропроцессорная система задержки (пространственной локации) (simple):
+	microprocessor system of a delay (spatial location)
+Results for микроэлектронная система (simple):
+	microelectronic system
+Results for многоадресная асинхронная система связи (simple):
+	multiple-address asynchronous communication system
+Results for многоканальная система:
+	 multichannel system (Техника)
+	 
+Results for многоконтурная система:
+	 multiple-loop system (Компьютеры)
+	 
+Results for многомашинная система (simple):
+	multimachine system
+Results for много(одно)дорожечная система записи (simple):
+	many (one) dorozhechny system of record
+Results for много(одно)мерная система (simple):
+	many (one) measured system
+Results for многорезонаторная система (simple):
+	mnogorezonatorny system
+Results for много(трёх,четырёх)уровневая система (simple):
+	the-level system is a lot of (three, four)
+Results for многофазная система (simple):
+	multiphase system
+Results for многоэлементная интерферометрическая система (simple):
+	multielement interferometrichesky system
+Results for модульная система:
+	 building block system (Компьютеры)
+	 
+	 module system (Естественные науки)
+	 
+	 modular system (Техника)
+	 
+Results for моноимпульсная система слежения (simple):
+	monopulse system of tracking
+Results for мульти(одно)процессорная система (simple):
+	multi (one) processor system
+Results for мультипольная система (simple):
+	multipolar system
+Results for навигационная система:
+	 navigation system 
+Results for наземная система обеспечения космических полётов (simple):
+	land system of ensuring space flights
+Results for национальная спутниковая система связи (simple):
+	national satellite communication system
+Results for небесная система координат (simple):
+	heavenly system of coordinates
+Results for (не)восстанавливаемая система (simple):
+	not restored system
+Results for (не)заземлённая система (simple):
+	not grounded system
+Results for (не)обслуживаемая система (simple):
+	not served system
+Results for (не)ремонтопригодная система (simple):
+	(not) maintainable system
+Results for (не)стационарная система (simple):
+	(not) stationary system
+Results for объединённая система обзора воздушного пространства (simple):
+	joint system of the review of airspace
+Results for одновременная система цветного телевидения (simple):
+	simultaneous system of color television
+Results for одноканальная система выделения сигнала (simple):
+	single-channel system of allocation of a signal
+Results for операционная система:
+	 operating system 
+Results for оптическая система обработки данных (связи, слежения) (simple):
+	optical system of data processing (communications, trackings)
+Results for оптоэлектронная система (simple):
+	optoelectronic system
+Results for ортогональная система:
+	 orthogonal system (Естественные науки)
+	 
+Results for отказо(ошибко)устойчивая система (simple):
+	refusal (mistake) steady system
+Results for отклоняющая система:
+	 deflection field (Естественные науки)
+	 
+	 deflecting yoke (Естественные науки)
+	 
+Results for палочковая система проектирования топологии (simple):
+	bacillary system of design of topology
+Results for параметрическая система:
+	 parametric system (Компьютеры)
+	 
+Results for пассивная система самонаведения (слежения) (simple):
+	passive system of homing (tracking)
+Results for пиктографическая система (simple):
+	pictographic system
+Results for подводная кабельная система связи (simple):
+	underwater cable communication system
+Results for поисковая система:
+	 search engine 
+	 retrieval system (Техника)
+	 
+Results for приёмная система с пространственным и частотным разнесением (simple):
+	reception system with a spatial and frequency razneseniye
+Results for приёмно-передающая система (simple):
+	send-receive system
+Results for пространственно-зависимая система распознавания образов (simple):
+	space dependent system of recognition of images
+Results for прямоугольная (сферическая, цилиндрическая) система координат (simple):
+	rectangular (spherical, cylindrical) system of coordinates
+Results for радиационно стойкая система (simple):
+	radiation resistant system
+Results for радиоинерциальная система наведения (simple):
+	radio inertial system of targeting
+Results for радиолокационная система наведения (опознавания, сбора, торможения, формирования изображений) (simple):
+	radar-tracking system of targeting (identification, collecting, braking, formation of images)
+Results for радиомаячная система с дискретной адресацией (simple):
+	radiomayachny system with discrete addressing
+Results for радиомаячная система управления воздушным движением (simple):
+	radiomayachny control system of air traffic
+Results for радионавигационная система:
+	 radio navigation system (Техника)
+	 
+Results for радиорелейная система:
+	 radio relay system (Компьютеры)
+	 
+	 radio-relay system (Техника)
+	 
+Results for радиотеплолокационная система наведения (поиска и сопровождения) (simple):
+	radio heatlocational system of targeting (search and maintenance)
+Results for резонансная система (simple):
+	resonant system
+Results for робототехническая система (simple):
+	robotic system
+Results for самоадаптирующаяся система (simple):
+	self-adaptive system
+Results for самонастраивающаяся система (simple):
+	the self-adjusted system
+Results for самоорганизующаяся система (simple):
+	the self-organized system
+Results for сверхпроводящая система накопления энергии (simple):
+	superconducting system of accumulation of energy
+Results for симметричная система на двухпроводной линии (simple):
+	symmetric system on the two-wire line
+Results for сиплектическая система (simple):
+	siplektichesky system
+Results for синхронная система управления линиями передачи данных (simple):
+	synchronous control system of data lines
+Results for система автоблокировки:
+	 automatic block system (Техника)
+	 
+Results for система автоматизации научных исследований (simple):
+	system of automation of scientific research
+Results for система автоматизированного проектирования:
+	 computer-aided engineering system 
+	 automated design engineering system (Компьютеры)
+	 
+Results for система автоматического контроля параллельного (последовательного) действия (simple):
+	system of automatic control of parallel (consecutive) action
+Results for система автоматического регулирования (управления) (simple):
+	system of automatic control (management)
+Results for система аксиом (simple):
+	system of axioms
+Results for система анализа изображений (simple):
+	system of the analysis of images
+Results for система астронаведения:
+	 stellar guidance system (Техника)
+	 
+Results for система баз (организации банков) данных (simple):
+	system of bases (organization of banks) of data
+Results for система барьерного авиационного патрулирования (simple):
+	system of barrier aviation patrol
+Results for система без накопления (потерь, резервирования) (simple):
+	system without accumulation (losses, reservation)
+Results for система ближней (дальней) радионавигации (simple):
+	system of near (distant) radio navigation
+Results for система ввода-вывода:
+	 input-output system (Компьютеры)
+	 
+Results for система верификации (опознавания) диктора (simple):
+	system of verification (identification) of the announcer
+Results for система внутренней связи:
+	 intercom system 
+	 interphone system (Техника)
+	 
+Results for система возбуждения:
+	 excitation system (Техника)
+	 
+Results for система временного уплотнения (simple):
+	system of temporary consolidation
+Results for система дальнего оповещения (simple):
+	system of the distant notification
+Results for система дистанционного (каскадного, программного) управления (simple):
+	system remote (cascade, program) managements
+Results for система единиц физических величин (simple):
+	system of units of physical quantities
+Results for система единого времени:
+	 common timing system (Компьютеры)
+	 
+Results for система замкнутого управления (simple):
+	the system of the closed management
+Results for система записи СВЧ-голограмм (simple):
+	system of record of microwave holograms
+Results for система засекречивания (simple):
+	system of classification
+Results for система захода на посадку по командам с Земли (simple):
+	the system of landing approach according to teams from Earth
+Results for система звукоусиления:
+	 sound reinforcement system (Компьютеры)
+	 
+Results for система Интервидения (simple):
+	Intervideniya system
+Results for система испытаний (simple):
+	system of tests
+Results for система кабельного телевидения (simple):
+	system of cable television
+Results for система кодирования (обработки, формирования сигналов) изображений (simple):
+	system of coding (processings, formations of signals) images
+Results for система команд:
+	 instruction set (Компьютеры)
+	 
+	 command system (Техника)
+	 
+Results for система командного наведения (управления) (simple):
+	system of team targeting (management)
+Results for система комплексного планирования (обслуживания средств вычислительной техники) (simple):
+	system of comprehensive planning (service of computer aids)
+Results for система компьютерного обучения (simple):
+	system of computer training
+Results for система контроля:
+	 control system 
+Results for система критериев надёжности (simple):
+	system of criteria of reliability
+Results for система массового обслуживания:
+	 queuing system (Компьютеры)
+	 
+Results for система математического обеспечения (simple):
+	system of software
+Results for система мгновенного действия (simple):
+	system of instant action
+Results for система межабонентского обмена сообщениями (simple):
+	system of interpersonal exchange of messages
+Results for система межсоединений (simple):
+	system of interconnections
+Results for система наведения по радиолучу (simple):
+	the system of targeting on a radio beam
+Results for система накачки лазера (мазера) (simple):
+	system of a rating of the laser (Mather)
+Results for система непосредственной (раздельной) обработки и передачи данных (simple):
+	system of direct (separate) processing and data transmission
+Results for система обегающего контроля и управления (simple):
+	the system of the running all over control and management
+Results for система обеспечения жизнедеятельности:
+	 life support system (Техника)
+	 
+Results for система обзора со вторичными РЛС (simple):
+	the system of the review with secondary radar stations
+Results for система обмена сообщениями:
+	 messaging system (Компьютеры)
+	 
+	 message system (Техника)
+	 
+Results for система обнаружения и сопровождения (simple):
+	detection system and maintenances
+Results for система обнаружения ракет и искусственных спутников (simple):
+	system of detection of rockets and artificial satellites
+Results for система обозначений:
+	 notation[nəuˈteɪʃən] (Естественные науки)
+	 
+Results for система обработки (сбора, сжатия, передачи) данных (simple):
+	system of processing (collecting, compression, transfer) data
+Results for система обслуживания с ожиданием (simple):
+	the system of service with expectation
+Results for система оповещения по трансляционной сети (simple):
+	the warning system on a relaying system
+Results for система отображения (передачи) информации (simple):
+	system of display (transfer) of information
+Results for система отсчёта (simple):
+	reference system
+Results for система охлаждения:
+	 cooling system 
+	 refrigeration system (Техника)
+	 
+Results for система передачи данных с использованием несущей (simple):
+	the system of data transmission with use of bearing
+Results for система передачи с временным (частотным) разделением (simple):
+	the system of transfer with temporary (frequency) division
+Results for система передачи с коммутацией пакетов сообщений (simple):
+	the system of transfer with switching of packages of messages
+Results for система передачи с одной боковой полосой и подавлением несущей (simple):
+	the system of transfer with one side strip and suppression of bearing
+Results for система передачи энергии СВЧ-пучком (simple):
+	system of transmission of energy by a microwave bunch
+Results for система пересылки сообщений (simple):
+	system of transfer of messages
+Results for система подвижной радиотелефонной связи (simple):
+	system of mobile radiotelephone communication
+Results for система подводного видения (simple):
+	system of underwater vision
+Results for система подстановок (simple):
+	system of substitutions
+Results for система посадки по приборам:
+	 blind landing system (Техника)
+	 
+Results for система постоянного присутствия (simple):
+	system of constant presence
+Results for система построения трансляторов (simple):
+	system of creation of translators
+Results for система предотвращения столкновений с местностью (simple):
+	crash avoidance system with the area
+Results for система представлений чисел (simple):
+	system of representations of numbers
+Results for система представления с плавающей (фиксированной) запятой (simple):
+	the system of representation from the floating (fixed) comma
+Results for система предупреждения столкновений самолётов (simple):
+	system of prevention of collisions of planes
+Results for система преобразования развёрток (simple):
+	system of transformation of development
+Results for система принудительной синхронизации (simple):
+	system of compulsory synchronization
+Results for система приоритета (simple):
+	system of a priority
+Results for система программирования:
+	 programming system 
+Results for система радиационного контроля:
+	 radiation-monitoring system (Техника)
+	 
+Results for система радиосвязи с коммутацией антенн (simple):
+	the system of a radio communication with switching of antennas
+Results for система радиотехнической разведки (simple):
+	system of radio engineering investigation
+Results for система радиоэлектронного подавления (simple):
+	system of radio-electronic suppression
+Results for система разделения времени (simple):
+	system of division of time
+Results for система распознавания (слитной) речи (simple):
+	system of recognition (conjoint) speech
+Results for система реального времени:
+	 real-time system (Компьютеры)
+	 
+Results for система с временным (частотным) уплотнением (simple):
+	system with temporary (frequency) consolidation
+Results for система связи с большой пропускной способностью (simple):
+	communication system with a big capacity
+Results for система связи с многодистанционным доступом (simple):
+	communication system with multiremote access
+Results for система связи с ретрансляторами (simple):
+	communication system with repeaters
+Results for система с дельта-модуляцией (simple):
+	system with delta modulation
+Results for система с дискретизацией данных (simple):
+	system with sampling of data
+Results for система селективного распознавания (simple):
+	system of selective recognition
+Results for система сертификации (simple):
+	system of certification
+Results for система сжатия импульсов (simple):
+	system of compression of impulses
+Results for система сигнализации:
+	 alarm system (Естественные науки)
+	 
+	 signaling system (Компьютеры)
+	 
+	 alarm installation (Техника)
+	 
+Results for система синхронизации с кодовыми словами (simple):
+	system of synchronization with code words
+Results for система сканирования (simple):
+	system of scanning
+Results for система слежения по дальности (скорости) (simple):
+	the system of tracking on the range (speed)
+Results for система слепой посадки:
+	 blind landing system (Техника)
+	 
+Results for система с ограниченной полосой частот (simple):
+	system with a limited strip of frequencies
+Results for система с одной степенью (со многими степенями) свободы (simple):
+	system with one degree (with many degrees) freedoms
+Results for система с ожиданием (отказами) (simple):
+	system with expectation (refusals)
+Results for система со смещённой цветовой поднесущей (simple):
+	system from the displaced color subbearing
+Results for система спутниковой (телевизионной) связи (simple):
+	system of satellite (television) communication
+Results for система с прямым исправлением ошибок (simple):
+	system with direct correction of mistakes
+Results for система сравнения временных интервалов (simple):
+	system of comparison of time intervals
+Results for система с распределёнными (сосредоточенными) параметрами (simple):
+	system with the distributed (concentrated) parameters
+Results for система с резервированием (simple):
+	system with reservation
+Results for система с самоизменяющейся структурой:
+	 self-structuring system (Компьютеры)
+	 
+Results for система с самотестированием (simple):
+	system with self-testing
+Results for система стабилизации поля (simple):
+	system of stabilization of the field
+Results for система статической регулировки (simple):
+	system of static adjustment
+Results for система стереотелевидения (simple):
+	system of stereotelevision
+Results for система стоячих волн (simple):
+	system of standing waves
+Results for система считывания (simple):
+	system of reading
+Results for система телеизмерений (simple):
+	system of telemetry
+Results for система телеобработки данных (simple):
+	system of teleprocessing of data
+Results for система тестирования:
+	 testing system (Компьютеры)
+	 
+Results for система технического зрения:
+	 electronic vision system (Компьютеры)
+	 
+Results for система тональных сигналов (simple):
+	system of voice-frequency signals
+Results for система тревожной сигнализации:
+	 alarm system (Техника)
+	 
+Results for система уплотнения абонентской линии (simple):
+	system of consolidation of a subscriber line
+Results for система управления базой данных (знаний) (simple):
+	control system of the database (knowledge)
+Results for система управления каналами связи (simple):
+	control system of communication channels
+Results for система управления качеством:
+	 quality management system (Бизнес)
+	 
+Results for система уравнений:
+	 set of equations (Естественные науки)
+	 
+	 system of equations (Компьютеры)
+	 
+	 combined equations (Техника)
+	 
+Results for система фазовой автоподстройки частоты [ФАПЧ] (simple):
+	system of a phase auto-adjust of the frequency [FAPCh]
+Results for система цветного телевидения:
+	 Systeme Couleur Avec Memoire (Компьютеры)
+	 
+Results for система «человек-машина» (simple):
+	person car system
+Results for система шифрования:
+	 encryption system (Компьютеры)
+	 
+Results for система шумопонижения (simple):
+	system of noise reduction
+Results for система экспертной оценки (simple):
+	system of expert assessment
+Results for система экстремального управления (simple):
+	system of extreme management
+Results for система электропроводки (simple):
+	system of an electrical wiring
+Results for система элементов:
+	 cell system (Техника)
+	 
+Results for система энергоснабжения:
+	 power supply system (Техника)
+	 
+Results for система эталонных частот (simple):
+	system of reference frequencies
+Results for система h(у, z)-параметров (simple):
+	system h (at, z) - parameters
+Results for следящая система с обратной связью (simple):
+	the watching system with feedback
+Results for совместимая система с одной боковой полосой (simple):
+	compatible system with one side strip
+Results for совместимая система с разделением времени (simple):
+	compatible system with division of time
+Results for сопряжённая система (simple):
+	the interfaced system
+Results for спиновая система (с инверсией населённости) (simple):
+	spin system (with inversion of density of population)
+Results for спинодальная система (simple):
+	spinodalny system
+Results for спутниковая система (коммерческой) связи (simple):
+	satellite system (commercial) communication
+Results for стартстопная система:
+	 start-stop system (Компьютеры)
+	 
+Results for стереофоническая система звуковоспроизведения (simple):
+	stereophonic system of sound reproduction
+Results for телеграфная система с исправлением ошибок (simple):
+	cable system with correction of mistakes
+Results for телеметрическая система:
+	 telemetering system (Естественные науки)
+	 
+Results for трансконтинентальная система связи (simple):
+	transcontinental communication system
+Results for трехфазная четырехпроводная система (simple):
+	three-phase four-wire system
+Results for триплексная система:
+	 triplex system (Компьютеры)
+	 
+Results for угломерно-дальномерная система (simple):
+	goniometric and ranging system
+Results for учрежденческая вычислительная система с гибкой конфигурацией (simple):
+	the office computing system with a flexible configuration
+Results for файловая система:
+	 file system 
+Results for фильмопроекционная система (simple):
+	filmoproyektsionny system
+Results for фотогальваническая система питания (simple):
+	photovoltaic power supply system
+Results for фотографическая (электронно-лучевая) проекционная система (simple):
+	photographic (electron beam) projective system
+Results for цветовая система Манселла (simple):
+	color system of Munsell
+Results for централизованная система автоматической локализации неисправности (simple):
+	the centralized system of automatic localization of malfunction
+Results for шлирен-система (simple):
+	shliren-system
+Results for эквивалентная четырёхпроводная система (simple):
+	equivalent four-wire system
+Results for экспертная система:
+	 expert system (Компьютеры)
+	 
+	 consulting model (Техника)
+	 
+Results for электродинамическая система (simple):
+	electrodynamic system
+Results for электромеханическая проекционнаясистема (simple):
+	electromechanical proyektsionnayasistema
+Results for электронная коммутационная система (simple):
+	electronic switching system
+Results for электронная система обработки данных (simple):
+	electronic system of data processing
+Results for электронная система опознавания (слежения) (simple):
+	electronic system of identification (tracking)
+Results for электронно-оптическая система (simple):
+	electron-optical system
+Results for электрооптическая система модуляции света (simple):
+	electrooptical system of modulation of light
+Results for двух(одно)координатный сканер (simple):
+	two (one) coordinate scanners
+Results for лазерный сканер (simple):
+	laser scanner
+Results for оптико-механический сканер (simple):
+	the optical-mechanical scanner
+Results for оптический сканер (simple):
+	optical scanner
+Results for призменный сканер (simple):
+	prismatic scanner
+Results for рефракционный сканер (simple):
+	refraction scanner
+Results for сканер антенны (simple):
+	antenna scanner
+Results for сканер на дифракционной решётке (simple):
+	the scanner on a diffraction lattice
+Results for сканер с гальванометрическим зеркалом (simple):
+	the scanner with a galvanometrichesky mirror
+Results for сканер с ручным управлением (simple):
+	hand-operated scanner
+Results for ультразвуковой сканер (simple):
+	ultrasonic scanner
+Results for электрооптический сканер (simple):
+	electrooptical scanner
+Results for винтовое сканирование:
+	 screw scanning (Техника)
+	 
+Results for грубое сканирование (simple):
+	rough scanning
+Results for двумерное секторное сканирование (simple):
+	two-dimensional sector scanning
+Results for дискретное сканирование (simple):
+	discrete scanning
+Results for коммутационное сканирование:
+	 switching scanning (Компьютеры)
+	 
+Results for коническое сканирование:
+	 conical lobing (Компьютеры)
+	 
+Results for круговое сканирование (simple):
+	circular scanning
+Results for линейное сканирование (simple):
+	linear scanning
+Results for механическое сканирование (simple):
+	mechanical scanning
+Results for многолучевое сканирование (simple):
+	multibeam scanning
+Results for сканирование в ближней (промежуточной) зоне (simple):
+	scanning in a near (intermediate) zone
+Results for сканирование в горизонтальной плоскости (simple):
+	scanning in the horizontal plane
+Results for сканирование в Е(Н)-плоскости (simple):
+	scanning in E(H) - the plane
+Results for сканирование веерной диаграммы направленности антенны (simple):
+	scanning of the fan directional pattern of the antenna
+Results for сканирование в ограниченном (широком) секторе (simple):
+	scanning in the limited (wide) sector
+Results for сканирование в поперечном направлении (simple):
+	scanning in the cross direction
+Results for сканирование главного лепестка диаграммы направленности антенны (simple):
+	scanning of the main petal of the directional pattern of the antenna
+Results for сканирование изображений (simple):
+	scanning of images
+Results for сканирование лазерного луча (simple):
+	scanning of a laser beam
+Results for сканирование под углом (simple):
+	scanning at an angle
+Results for сканирование поляризации:
+	 polarization scanning (Техника)
+	 
+Results for сканирование по полю обзора (simple):
+	scanning across the field of the review
+Results for сканирование по углу места (simple):
+	scanning in a place corner
+Results for сканирование при ограниченной чувствительности (simple):
+	scanning at limited sensitivity
+Results for сканирование с переменной скоростью (simple):
+	scanning with a variable speed
+Results for сканирование с помощью ферритовых элементов (simple):
+	scanning by means of ferrite elements
+Results for сканирование с произвольным доступом (simple):
+	scanning with random access
+Results for спиральное сканирование:
+	 spiral scanning (Техника)
+	 
+	 spiral scan (Техника)
+	 
+Results for точное сканирование (simple):
+	exact scanning
+Results for фазовое сканирование:
+	 phase scanning (Компьютеры)
+	 
+Results for частотное сканирование (simple):
+	frequency scanning
+Results for широкоугольное сканирование (simple):
+	wide-angle scanning
+Results for электронное [электрическое] сканирование (simple):
+	electronic [electric] scanning
+Results for электрооптическое сканирование (simple):
+	electrooptical scanning
+Results for многопереходный сканистор (simple):
+	multitransitional skanistor
+Results for сканистор с диодными парами (simple):
+	skanistor with diode couples
+Results for сканистор с дискретными (равномерно распределёнными) р-п переходами (simple):
+	skanistor with the discrete (evenly distributed) is transitions
+Results for двойной скачок (simple):
+	double jump
+Results for многократный скачок (simple):
+	repeated jump
+Results for скачок Баркгаузена (simple):
+	Barkgauzen's jump
+Results for скачок намагниченности (simple):
+	jump of magnetization
+Results for скачок напряжения:
+	 power surge 
+	 voltage surge (Техника)
+	 
+Results for скачок потенциала:
+	 potential jump (Естественные науки)
+	 
+Results for скачок потока (simple):
+	jump of a stream
+Results for скачок температуры (simple):
+	jump of temperature
+Results for скачок тока (simple):
+	jump of current
+Results for скачок удельной электропроводности (simple):
+	jump of specific conductivity
+Results for скачок частоты:
+	 frequency hop (Компьютеры)
+	 
+Results for скачок фазы (simple):
+	jump of a phase
+Results for скачок функции (simple):
+	function jump
+Results for ВЧ-сквид (simple):
+	VCh-skvid
+Results for двух(одно)контурный сквид (simple):
+	two (one) planimetric сквид
+Results for сквид на постоянном токе (simple):
+	сквид on a direct current
+Results for аномальный скин-эффект (simple):
+	abnormal skin-effect
+Results for скин-эффект в металле (плазме) (simple):
+	skin-effect in metal (plasma)
+Results for склейка магнитной ленты (simple):
+	gluing together of a magnetic tape
+Results for (задний) склон импульса (simple):
+	(back) slope of an impulse
+Results for магнитное склонение:
+	 magnetic declination (Естественные науки)
+	 
+	 declination angle (Компьютеры)
+	 
+Results for крепёжная скоба (simple):
+	fixing bracket
+Results for скоба для измерения (simple):
+	bracket for measurement
+Results for соединительная скоба:
+	 shackle[ˈʃækl] (Естественные науки)
+	 
+Results for квадратная скобка (simple):
+	square bracket
+Results for круглая скобка (simple):
+	parentheses
+Results for фигурная скобка:
+	 brace[breɪs] 
+	 curly bracket (Компьютеры)
+	 
+Results for Пуассона скобки:
+	 Poisson bracket (Естественные науки)
+	 
+Results for скол кристалла (simple):
+	crystal chip
+Results for скол изображения по полю (simple):
+	image chip across the field
+Results for скопление зарядов (simple):
+	congestion of charges
+Results for скопление частиц (simple):
+	congestion of particles
+Results for альфвеновская скорость (simple):
+	alfvenovsky speed
+Results for воздушная скорость:
+	 airspeed[ˈɛəspi:d] (Техника)
+	 
+Results for групповая скорость:
+	 group velocity (Компьютеры)
+	 
+Results for действующая (мгновенная) скорость (simple):
+	the operating (instant) speed
+Results for доплеровская скорость:
+	 Doppler velocity (Техника)
+	 

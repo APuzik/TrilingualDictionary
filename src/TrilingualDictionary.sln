@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2008
+VisualStudioVersion = 15.0.26430.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B215BE8B-A924-4856-ACD3-FC2647CD55BE}"
 	ProjectSection(SolutionItems) = preProject
@@ -25,7 +25,16 @@ Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "Modelin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionaryCore", "MultiDictionaryCore\MultiDictionaryCore.csproj", "{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionary", "MultiDictionary\MultiDictionary.csproj", "{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionaryCore.Test", "MultiDictionaryCore.Test\MultiDictionaryCore.Test.csproj", "{B2760102-C266-4697-91E7-04081BDE35A2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9} = {889D9238-D266-4B0B-8C0E-EEE277AE1DF9}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionaryViewModel", "MultiDictionaryViewModel\MultiDictionaryViewModel.csproj", "{61B7C5D4-221E-424E-9D28-1FDE291BCDF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultilingualDictionary", "MultilingualDictionary\MultilingualDictionary.csproj", "{5EC3F9E2-C306-4B70-A576-1078022CB579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnglishTranslationsCollector", "EnglishTranslationsCollector\EnglishTranslationsCollector.csproj", "{04BEA891-F38B-4BB0-9AA4-CC8F5E1FF005}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,16 +66,25 @@ Global
 		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Release|Any CPU.Build.0 = Release|Any CPU
-		{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2760102-C266-4697-91E7-04081BDE35A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2760102-C266-4697-91E7-04081BDE35A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2760102-C266-4697-91E7-04081BDE35A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2760102-C266-4697-91E7-04081BDE35A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61B7C5D4-221E-424E-9D28-1FDE291BCDF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61B7C5D4-221E-424E-9D28-1FDE291BCDF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61B7C5D4-221E-424E-9D28-1FDE291BCDF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61B7C5D4-221E-424E-9D28-1FDE291BCDF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC3F9E2-C306-4B70-A576-1078022CB579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC3F9E2-C306-4B70-A576-1078022CB579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC3F9E2-C306-4B70-A576-1078022CB579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC3F9E2-C306-4B70-A576-1078022CB579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04BEA891-F38B-4BB0-9AA4-CC8F5E1FF005}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04BEA891-F38B-4BB0-9AA4-CC8F5E1FF005}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04BEA891-F38B-4BB0-9AA4-CC8F5E1FF005}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04BEA891-F38B-4BB0-9AA4-CC8F5E1FF005}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {958AEB02-C9BE-46CF-BD16-DAD62EFA3FE9}
 	EndGlobalSection
 	GlobalSection(Performance) = preSolution
 		HasPerformanceSessions = true

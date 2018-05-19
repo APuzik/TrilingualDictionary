@@ -1,0 +1,1259 @@
+Results for электроположительный элемент (simple):
+	electropositive element
+Results for элемент аккумуляторной батареи:
+	 accumulator cell (Компьютеры)
+	 
+	 storage cell (Техника)
+	 
+Results for элемент алфавита (simple):
+	alphabet element
+Results for элемент антенной решётки (simple):
+	element of an antenna lattice
+Results for элемент антенны:
+	 element[ˈelɪmənt] (Техника)
+	 
+Results for элемент блок-схемы (simple):
+	flowchart element
+Results for элемент ветви дерева графа (simple):
+	element of a branch of a tree of the count
+Results for элемент взаимной индуктивности (simple):
+	element of mutual inductance
+Results for элемент выдержки времени (simple):
+	element of endurance of time
+Results for элемент задержки:
+	 delay component (Техника)
+	 
+Results for элемент изображения:
+	 image element (Компьютеры)
+	 
+	 picture element (Техника)
+	 
+Results for элемент ИС (simple):
+	IS element
+Results for элемент кода:
+	 code unit (Компьютеры)
+	 
+Results for элемент (кодированного) сигнала (simple):
+	element (coded) signal
+Results for элемент люминесцентного экрана (simple):
+	element of the luminescent screen
+Results for элемент мажоритарной логики (simple):
+	element of majority logic
+Results for элемент массива:
+	 array cell (Компьютеры)
+	 
+Results for элемент матрицы фотоприёмников (simple):
+	element of a matrix of photodetectors
+Results for элемент мишени:
+	 target element (Техника)
+	 
+Results for элемент множества:
+	 set member (Компьютеры)
+	 
+Results for элемент наводки на цель (simple):
+	aiming element on the purpose
+Results for элемент на эффекте Керра (Фарадея) (simple):
+	element on Kerr (Faraday's) effect
+Results for элемент объёма (simple):
+	volume element
+Results for элемент памяти:
+	 memory cell (Компьютеры)
+	 
+Results for элемент (передачи) данных (simple):
+	element (transfers) of data
+Results for элемент передающей (приёмной) антенной решётки (simple):
+	element of the transferring (reception) antenna lattice
+Results for элемент площади (simple):
+	area element
+Results for элемент поверхности:
+	 surface element (Техника)
+	 
+Results for элемент программы:
+	 program item (Компьютеры)
+	 
+Results for элемент разветвления (simple):
+	branching element
+Results for элемент развязки (simple):
+	outcome element
+Results for элемент разложения изображения (simple):
+	element of decomposition of the image
+Results for элемент разрешения (РЛС по объёму) (simple):
+	permission element (radar station on volume)
+Results for элемент растра:
+	 pel (Техника)
+	 
+Results for элемент связи:
+	 coupling element (Компьютеры)
+	 
+Results for элемент с зарядовой связью (simple):
+	element with charging communication
+Results for элемент симметрии (simple):
+	symmetry element
+Results for элемент системы управления:
+	 control-system component (Техника)
+	 
+Results for элемент системы формирования пучка (simple):
+	element of system of formation of a bunch
+Results for элемент сортировки:
+	 sort item (Компьютеры)
+	 
+Results for элемент с плавающим затвором (simple):
+	element with a floating lock
+Results for элемент сравнения с эталонным задающим воздействием (simple):
+	comparison element with the reference setting influence
+Results for элемент с распределёнными (сосредоточенными) параметрами (simple):
+	element with the distributed (concentrated) parameters
+Results for элемент средства измерения (simple):
+	gage element
+Results for элемент строки (simple):
+	element of a line
+Results for элемент углового наведения (simple):
+	element of angular targeting
+Results for элемент установки порога срабатывания радиовзрывателя (simple):
+	element of installation of a threshold of operation of the radio detonator
+Results for элемент цепи:
+	 chain unit (Естественные науки)
+	 
+	 circuit element (Техника)
+	 
+Results for элемент цикла (simple):
+	cycle element
+Results for элемент электронной схемы (simple):
+	element of the electronic scheme
+Results for эллипс вероятности перехода (simple):
+	ellipse of probability of transition
+Results for эллипс погрешностей:
+	 ellipse of errors (Техника)
+	 
+Results for эллипс поляризации (simple):
+	polarization ellipse
+Results for эллипс рассеяния:
+	 ellipse of concentration (Естественные науки)
+	 
+Results for эллипсоид вращения:
+	 ellipsoid of revolution (Естественные науки)
+	 
+Results for эллипсоид ошибок (simple):
+	ellipsoid of mistakes
+Results for эллипсоид поляризуемости (simple):
+	polarizability ellipsoid
+Results for эллипсоид рассеяния:
+	 ellipsoid of concentration (Естественные науки)
+	 
+Results for эллипсоид Френеля:
+	 Fresnel ellipsoid (Естественные науки)
+	 
+Results for полутеневой эллипсометр (simple):
+	penumbral эллипсометр
+Results for оптическая эллипсометрия (simple):
+	optical ellipsometriya
+Results for эллиптичность Керра (simple):
+	Kerr's ellipticity
+Results for (авто, фото)электронная эмиссия (simple):
+	(car, photo) electronic issue
+Results for анодная эмиссия:
+	 anode emission (Техника)
+	 
+Results for вторичная (электронная) эмиссия (simple):
+	secondary (electronic) issue
+Results for изотермическая эмиссия (simple):
+	isothermal issue
+Results for импульсная эмиссия і (simple):
+	pulse issue і
+Results for ионно-ионная эмиссия (simple):
+	ion-ion issue
+Results for обратная эмиссия (simple):
+	return issue
+Results for паразитная эмиссия (simple):
+	parasitic issue
+Results for поверхностная эмиссия (simple):
+	superficial issue
+Results for термоиндуцированная эмиссия (simple):
+	the thermoinduced issue
+Results for термоионная эмиссия:
+	 surface ionization (Естественные науки)
+	 
+Results for термоэлектронная эмиссия:
+	 thermionic emission (Естественные науки)
+	 
+	 thermal electron emission (Компьютеры)
+	 
+Results for удельная эмиссия (simple):
+	specific issue
+Results for фотоэлектронная эмиссия:
+	 external photoelectric effect (Естественные науки)
+	 
+Results for холодная эмиссия:
+	 autoelectronic emission (Техника)
+	 
+Results for экзоэлектронная эмиссия:
+	 exoelectronic emission (Естественные науки)
+	 
+Results for электронно-ионная эмиссия (simple):
+	electronic and ion issue
+Results for эмиссия волн напряжения (simple):
+	issue of waves of tension
+Results for эмиссия дырок (simple):
+	issue of holes
+Results for эмиссия катода (simple):
+	issue of the cathode
+Results for эмиссия сетки:
+	 grid emission (Техника)
+	 
+Results for эмиссия Френкеля-Пуля (simple):
+	Frenkel Bullet issue
+Results for эмиссия Шоттки (simple):
+	Schottky's issue
+Results for эмиттанс пучка (simple):
+	bunch emittance
+Results for вспомогательный эмиттер (simple):
+	auxiliary emitter
+Results for диффузионный эмиттер (simple):
+	diffusive emitter
+Results for дырочный эмиттер (simple):
+	hole emitter
+Results for заземлённый эмиттер (simple):
+	the grounded emitter
+Results for звёздообразный эмиттер (simple):
+	star-shaped emitter
+Results for ионно-имплантированный эмиттер (simple):
+	the ion-implanted emitter
+Results for кольцевой эмиттер (simple):
+	ring emitter
+Results for металлический эмиттер (simple):
+	metal emitter
+Results for нейтрализующий эмиттер (simple):
+	neutralized emitter
+Results for неоднородный эмиттер (simple):
+	non-uniform emitter
+Results for нитевидный эмиттер (simple):
+	threadlike emitter
+Results for общий эмиттер:
+	 common emitter (Техника)
+	 
+Results for плавающий эмиттер (simple):
+	floating emitter
+Results for плазменный эмиттер (simple):
+	plasma emitter
+Results for сплавной эмиттер (simple):
+	floatable emitter
+Results for тонкоплёночный эмиттер (simple):
+	thin-film emitter
+Results for точечный эмиттер (simple):
+	dot emitter
+Results for туннельный эмиттер (simple):
+	tunnel emitter
+Results for широкозонный эмиттер:
+	 wide band gap emitter (Компьютеры)
+	 
+Results for электронный эмиттер (simple):
+	electronic emitter
+Results for эмиттер горячих электронов (simple):
+	emitter of hot electrons
+Results for эмиттер из бора (simple):
+	the emitter from a pine forest
+Results for эмиттер ионов (simple):
+	emitter of ions
+Results for эмиттер (не)основных носителей (simple):
+	emitter (not) of the main carriers
+Results for эмиттер с барьером Шоттки (simple):
+	the emitter with Schottky's barrier
+Results for эмиттер с гребенчатой структурой (simple):
+	the emitter with edge structure
+Results for эмиттер с охранным кольцом (simple):
+	the emitter with a security ring
+Results for эмиттер с резким переходом (simple):
+	the emitter with sharp transition
+Results for эмиттер с током, ограниченным объёмным зарядом (simple):
+	the emitter with current, a limited volume charge
+Results for эмиттер ячеистого типа (simple):
+	emitter of cellular type
+Results for автономный эмулятор (simple):
+	independent emulator
+Results for внутрисхемный эмулятор:
+	 in-circuit emulation (Компьютеры)
+	 
+	 in-circuit emulator (Компьютеры)
+	 
+Results for эмулятор терминала:
+	 terminal emulator (Компьютеры)
+	 
+Results for внутрисхемная эмуляция:
+	 in-circuit emulation (Компьютеры)
+	 
+Results for внутренняя энергия:
+	 internal energy (Естественные науки)
+	 
+Results for градиентная энергия (simple):
+	gradient energy
+Results for джозефсоновская энергия связи (simple):
+	Josephson binding energy
+Results for дипольная энергия (simple):
+	dipolar energy
+Results for зееманова энергия (simple):
+	zeemanova energy
+Results for избыточная энергия:
+	 excess energy (Техника)
+	 
+Results for кинетическая энергия:
+	 kinetic energy (Естественные науки)
+	 
+	 drop energy (Естественные науки)
+	 
+	 motive energy (Естественные науки)
+	 
+Results for корреляционная энергия:
+	 correlation energy (Техника)
+	 
+Results for лучистая энергия:
+	 radiant energy (Естественные науки)
+	 
+Results for магнитная энергия:
+	 magnetic field energy (Естественные науки)
+	 
+Results for магнитостатическая энергия (simple):
+	magnetostatic energy
+Results for магнитоупругая энергия:
+	 magnetoelastic energy (Техника)
+	 
+Results for нулевая энергия:
+	 zero-point energy (Естественные науки)
+	 
+	 zero point energy (Компьютеры)
+	 
+Results for обменная энергия:
+	 exchange energy (Естественные науки)
+	 
+	 metabolizable energy (Естественные науки)
+	 
+Results for резонансная энергия:
+	 resonance energy (Техника)
+	 
+Results for световая энергия:
+	 light energy (Бизнес)
+	 
+Results for свободная энергия:
+	 free energy (Естественные науки)
+	 
+Results for поверхностная энергия:
+	 surface energy (Естественные науки)
+	 
+Results for полезная энергия:
+	 useful power (Естественные науки)
+	 
+Results for пороговая энергия:
+	 threshold energy (Бизнес)
+	 
+Results for потенциальная энергия:
+	 potential energy (Естественные науки)
+	 
+Results for потерянная энергия:
+	 wasted power (Техника)
+	 
+Results for просачивающаяся энергия (simple):
+	the filtering energy
+Results for свободная энергия:
+	 free energy (Естественные науки)
+	 
+Results for тепловая энергия:
+	 thermal energy 
+	 heat energy (Бизнес)
+	 
+Results for электрическая энергия:
+	 electrical energy (Бизнес)
+	 
+	 electric power (Техника)
+	 
+Results for электромагнитная энергия:
+	 electromagnetic energy (Техника)
+	 
+Results for электростатическая энергия:
+	 electrostatic energy (Естественные науки)
+	 
+Results for энергия активации диффузии (simple):
+	energy of activation of diffusion
+Results for энергия анизотропии:
+	 anisotropy energy (Техника)
+	 
+Results for энергия блоховской точки (simple):
+	energy of a Bloch point
+Results for энергия взаимодействия:
+	 electrostatic energy (Естественные науки)
+	 
+	 interaction energy (Естественные науки)
+	 
+Results for энергия возбуждения:
+	 excitation energy (Естественные науки)
+	 
+Results for энергия волны:
+	 wave energy (Бизнес)
+	 
+Results for энергия в пике (simple):
+	energy in dive
+Results for энергия Гельгольмца (Гиббса, Ферми) (simple):
+	Gelgolmts's energy (Gibbs, Fermi)
+Results for энергия домена:
+	 domain energy (Техника)
+	 
+Results for энергия доменной границы (simple):
+	energy of domain border
+Results for энергия дырки (simple):
+	energy of a hole
+Results for энергия излучения:
+	 radiation energy (Естественные науки)
+	 
+	 radiant energy (Естественные науки)
+	 
+Results for энергия имплантируемых ионов (simple):
+	energy of the implanted ions
+Results for энергия импульса:
+	 pulse energy (Компьютеры)
+	 
+Results for энергия инжекции (simple):
+	energy of injection
+Results for энергия ионизации акцепторов (доноров) (simple):
+	energy of ionization of acceptors (donors)
+Results for энергия испарения (simple):
+	energy of evaporation
+Results for энергия кванта (simple):
+	energy of quantum
+Results for энергия конденсации (simple):
+	energy of condensation
+Results for энергия накачки (simple):
+	energy of a rating
+Results for энергия нулевых колебаний (simple):
+	energy of zero fluctuations
+Results for энергия плазмона (simple):
+	energy of a plasmon
+Results for энергия покоя:
+	 rest energy (Естественные науки)
+	 
+Results for энергия поля (рассеяния) (simple):
+	energy of the field (dispersion)
+Results for энергия размагничивающего поля (simple):
+	energy of the degaussing field
+Results for энергия распада:
+	 disintegration energy (Бизнес)
+	 
+	 decay energy (Техника)
+	 
+Results for энергия рождения пар носителей (simple):
+	energy of the birth of pairs of carriers
+Results for энергия светового потока (simple):
+	energy of a light stream
+Results for энергия связи:
+	 binding energy 
+	 bond energy (Естественные науки)
+	 
+Results for энергия сродства к электрону (simple):
+	energy of affinity to an electron
+Results for энергия фотона:
+	 photon energy (Техника)
+	 
+Results for энергия частицы (simple):
+	energy of a particle
+Results for энергия электрона (simple):
+	energy of an electron
+Results for молярная энтальпия (simple):
+	molar enthalpy
+Results for парциальная энтальпия (simple):
+	partial enthalpy
+Results for двоичная энтропия (simple):
+	binary entropy
+Results for дифференциальная энтропия (simple):
+	differential entropy
+Results for конфигурационная энтропия:
+	 configurational entropy (Естественные науки)
+	 
+Results for спиновая энтропия (simple):
+	spin entropy
+Results for условная энтропия (simple):
+	conditional entropy
+Results for энтропия белого шума (simple):
+	entropy of white noise
+Results for энтропия плазмы (simple):
+	entropy of plasma
+Results for энтропия распределения (simple):
+	entropy of distribution
+Results for энтропия случайной величины (simple):
+	entropy of a random variable
+Results for энтропия сообщения (simple):
+	entropy of the message
+Results for вакуумная эпитаксия (simple):
+	vacuum epitaxy
+Results for газотранспортная эпитаксия (simple):
+	gas transmission epitaxy
+Results for гидротермальная эпитаксия:
+	 hydrothermal epitaxy (Компьютеры)
+	 
+Results for молекулярная эпитаксия:
+	 molecular epitaxy (Компьютеры)
+	 
+Results for селективная эпитаксия (simple):
+	selective epitaxy
+Results for эпитаксия атомных слоёв (simple):
+	epitaxy of atomic layers
+Results for эпитаксия в горизонтальной лодочке (simple):
+	epitaxy in the horizontal boat
+Results for эпитаксия из газовой (жидкой, паровой, твёрдой) фазы (simple):
+	epitaxy from gas (liquid, steam, firm) phases
+Results for эпитаксия на подложке (simple):
+	epitaxy on a substrate
+Results for ЭПР1 (электронный парамагнитный резонанс)-датчик (simple):
+	EPR1 (electronic paramagnetic resonance) - the sensor
+Results for ЭПР1 (электронный парамагнитный резонанс)-магнитометр (simple):
+	EPR1 (electronic paramagnetic resonance) - the magnetometer
+Results for ЭПР1 (электронный парамагнитный резонанс)-спектр (simple):
+	EPR1 (electronic paramagnetic resonance) - a range
+Results for ЭПР1 (электронный парамагнитный резонанс)-спектрометр (simple):
+	EPR1 (electronic paramagnetic resonance) - a spectrometer
+Results for ЭПР1 (электронный парамагнитный резонанс)-спектроскопия (simple):
+	EPR1 (electronic paramagnetic resonance) - spectroscopy
+Results for ЭПР2 (эффективная площадь рассеяния) баллистической ракеты (simple):
+	EPR2 (effective area of dispersion) of a ballistic missile
+Results for ЭПР2 (эффективная площадь рассеяния) групповых целей (simple):
+	EPR2 (effective area of dispersion) of the group purposes
+Results for ЭПР2 (эффективная площадь рассеяния) двухточечной цели (simple):
+	EPR2 (effective area of dispersion) of the point-to-point purpose
+Results for ЭПР2 (эффективная площадь рассеяния) корабля (simple):
+	EPR2 (effective area of dispersion) of the ship
+Results for ЭПР2 (эффективная площадь рассеяния) линейного (полуволнового) вибратора (simple):
+	EPR2 (effective area of dispersion) of the linear (half-wave) vibrator
+Results for ЭПР2 (эффективная площадь рассеяния) морской (шероховатой земной) поверхности (simple):
+	EPR2 (effective area of dispersion) sea (rough terrestrial) surfaces
+Results for ЭПР2 (эффективная площадь рассеяния) простых (сложных) тел (simple):
+	EPR2 (effective area of dispersion) of simple (difficult) bodies
+Results for ЭПР2 (эффективная площадь рассеяния) самолёта (simple):
+	EPR2 (effective area of dispersion) of the plane
+Results for ЭПР2 (эффективная площадь рассеяния) уголкового отражателя (simple):
+	EPR2 (effective area of dispersion) of the angular reflector
+Results for ЭПР2 (эффективная площадь рассеяния) человека (simple):
+	EPR2 (effective area of dispersion) of the person
+Results for полевая эрозия (simple):
+	field erosion
+Results for электрическая эрозия (simple):
+	electric erosion
+Results for эрозия контактов (simple):
+	erosion of contacts
+Results for атомно-лучевой эталон частоты (simple):
+	atomic and beam standard of frequency
+Results for атомный эталон времени (частоты) (simple):
+	atomic standard of time (frequency)
+Results for водородный (кварцевый, молекулярный, рубидиевый, таллиевый, цезиевый) эталон частоты (simple):
+	hydrogen (quartz, molecular, rubidium, thallic, caesium) frequency standard
+Results for вторичный (первичный) эталон (simple):
+	secondary (primary) standard
+Results for рабочий эталон:
+	 working standard (Естественные науки)
+	 
+Results for эталон длины волны (simple):
+	wavelength standard
+Results for эталон единицы физической величины:
+	 standard of measurement (Техника)
+	 
+Results for эталон шума:
+	 reference noise (Компьютеры)
+	 
+Results for этап исследования:
+	 investigation phase 
+Results for этап проектирования:
+	 design stage 
+	 projecting phase (Техника)
+	 
+Results for этап разработки:
+	 development stage 
+Results for акустический эффект (simple):
+	acoustic effect
+Results for акусторезистивный эффект (simple):
+	akustorezistivny effect
+Results for акустоэлектрический эффект (simple):
+	acoustoelectric effect
+Results for амбиофонический эффект (simple):
+	ambiofonichesky effect
+Results for анизотропный эффект (simple):
+	anisotropic effect
+Results for аномальный эффект (simple):
+	abnormal effect
+Results for антенный эффект:
+	 antenna effect (Техника)
+	 
+Results for барьерный эффект (simple):
+	barrier effect
+Results for бинауральный эффект:
+	 binaural effect (Естественные науки)
+	 
+Results for гальванотермомагнитный эффект (simple):
+	galvanotermomagnitny effect
+Results for динатронный эффект:
+	 dynatron effect (Естественные науки)
+	 
+Results for дробовой эффект:
+	 shot noise (Естественные науки)
+	 
+	 schrot effect (Компьютеры)
+	 
+Results for зеркальный эффект:
+	 image effect (Естественные науки)
+	 
+Results for изотопический эффект:
+	 isotope effect (Естественные науки)
+	 
+Results for инвар-эффект (simple):
+	invar effect
+Results for инерционный эффект:
+	 ratchet effect 
+Results for канальный эффект (simple):
+	channel effect
+Results for квадра(стерео)фонический эффект (simple):
+	quadra (stereo) phonic effect
+Results for краевой эффект:
+	 edge effect (Естественные науки)
+	 
+Results for лазерный эффект (simple):
+	laser effect
+Results for люксембург-горьковский эффект:
+	 tellegen effect (Техника)
+	 
+Results for магнетронный эффект (simple):
+	magnetron effect
+Results for магниторезистивный эффект:
+	 magnetoresistance (Естественные науки)
+	 
+Results for магнитоупругий эффект (simple):
+	magnetoelastic effect
+Results for магнитоэлектрический эффект:
+	 magnetoelectric effect (Техника)
+	 
+Results for микрофонный эффект:
+	 microphonic effect (Компьютеры)
+	 
+	 microphone effect (Техника)
+	 
+Results for мультипакторный эффект (simple):
+	multipactor effect
+Results for нормальный эффект (simple):
+	normal effect
+Results for обратный эффект:
+	 boomerang effect 
+	 converse effect (Естественные науки)
+	 
+Results for объёмный эффект (simple):
+	volume effect
+Results for островковый эффект:
+	 island effect 
+Results for пик-эффект:
+	 peak effect (Естественные науки)
+	 
+Results for пинч-эффект:
+	 pinch effect (Естественные науки)
+	 
+Results for пиромагнитный эффект (simple):
+	pyromagnetic effect
+Results for пироэлектрический эффект:
+	 pyroelectric effect (Техника)
+	 
+Results for поверхностный эффект:
+	 skin effect (Компьютеры)
+	 
+	 surface effect (Техника)
+	 
+Results for полевой эффект [эффект поля] (simple):
+	field effect [effect of the field]
+Results for пороговый эффект:
+	 threshold effect (Естественные науки)
+	 
+Results for пьезомагнитный эффект (simple):
+	pyezomagnitny effect
+Results for пьезомагнитоэлектрический эффект (simple):
+	pyezomagnitoelektrichesky effect
+Results for пьезооптический эффект (simple):
+	piezooptical effect
+Results for пьезорезистивный эффект (simple):
+	pyezorezistivny effect
+Results for пьезоэлектрический эффект:
+	 piezoelectric effect (Естественные науки)
+	 
+Results for размерный эффект:
+	 size effect (Естественные науки)
+	 
+Results for ракурсный эффект (simple):
+	rakursny effect
+Results for релятивистский эффект:
+	 relativistic effect (Естественные науки)
+	 
+Results for скин-эффект:
+	 skin-effect 
+	 skin effect (Естественные науки)
+	 
+Results for стробоскопический эффект:
+	 stroboscopic effect (Естественные науки)
+	 
+	 strobing effect (Компьютеры)
+	 
+Results for туннельный эффект:
+	 tunnel effect (Естественные науки)
+	 
+Results for упругооптический эффект (simple):
+	uprugooptichesky effect
+Results for фликкер-эффект:
+	 flicker effect 
+Results for фоновый эффект (simple):
+	background effect
+Results for фотогальванический эффект (simple):
+	photovoltaic effect
+Results for фотоёмкостный эффект (simple):
+	photocapacitor effect
+Results for фотомагнитоэлектрический эффект (simple):
+	photomagnetoelectric effect
+Results for фотопьезоэлектрический эффект (simple):
+	photopiezoelectric effect
+Results for фоторезистивный эффект (simple):
+	photoresistive effect
+Results for фототермоэлектрический эффект (simple):
+	photothermoelectric effect
+Results for фотоэлектретный эффект (simple):
+	photoelectret effect
+Results for эласторезистивный эффект (simple):
+	elastorezistivny effect
+Results for электро(акусто)оптический эффект (simple):
+	electro (акусто) optical effect
+Results for электрорезистивный эффект (simple):
+	electroresistive effect
+Results for эффект Баркгаузена (Барнетта, Бриджмена, Брэгга-Вульфа, Бурштейна-Мосса) (simple):
+	Barkgauzen's effect (Barnett, Bridzhmena, Bragg-Woolf, Burshteyna-Moss)
+Results for эффект близости:
+	 proximity effect (Естественные науки)
+	 
+Results for эффект Вебстера (Вертхайма, Виганда, Видемана, Виллари) (simple):
+	Webster's effect (Vertkhaym, Viganda, Wiedemann, Villari)
+Results for эффект взаимодействия:
+	 coupling effect (Техника)
+	 
+Results for эффект вытеснения тока (simple):
+	effect of replacement of current
+Results for эффект вытеснения (углубления) эмиттера (simple):
+	effect of replacement (deepening) of the emitter
+Results for эффект Ганна (Гаусса) (simple):
+	Gunn (Gauss's) effect
+Results for эффект движения носителя (simple):
+	effect of the movement of the carrier
+Results for эффект Дебая(-Сорса) (Демблера, Джозефсона, Доплера) (simple):
+	Debye's effect (-Sorsa) (Dembler, Josephson, Dopler)
+Results for эффект длинной линии (simple):
+	effect of the long line
+Results for эффект замедления (simple):
+	effect of delay
+Results for эффект затухания (simple):
+	effect of attenuation
+Results for эффект захвата:
+	 capture effect (Техника)
+	 
+Results for эффект Зеемана (Зенера) (simple):
+	Szeemann (Zener's) effect
+Results for эффект «змейки» (simple):
+	effect of "snake"
+Results for эффект Капицы-Дирака (Керра, Кикоина-Носкова, Кирка, Комптона, Корбино, Коттона-Мутона) (simple):
+	Kapitsa-Dirac's effect (Kerr, Kikoin-Noskov, Kirk, Compton, Korbino, Kottona-Mutona)
+Results for эффект короткого канала (simple):
+	effect of the short channel
+Results for эффект Ли (Лоренца) (simple):
+	Li (Lorentz's) effect
+Results for эффект Мейснера (Мёссбауэра, Молтера) (simple):
+	Meysner's effect (Mössbauer, Molter)
+Results for эффект мёртвой зоны (simple):
+	effect of a dead zone
+Results for эффект модуляции базы (simple):
+	effect of modulation of base
+Results for эффект модуляции удельной электропроводности (simple):
+	effect of modulation of specific conductivity
+Results for эффект наклонной плоскости (simple):
+	effect of the inclined plane
+Results for эффект накопления заряда (simple):
+	effect of accumulation of a charge
+Results for эффект нейтрализации (simple):
+	effect of neutralization
+Results for эффект Нерста-Эттинсгаузена (Ноттингема) (simple):
+	Nersta-Ettinsgauzen's (Nottingham) effect
+Results for эффект Оверхаузера (Овшинского, Оже) (simple):
+	Overkhauzer's effect (Ovshinsky, Auger)
+Results for эффект «окна» (simple):
+	effect of "window"
+Results for эффект остаточного намагничивания (simple):
+	effect of residual magnetization
+Results for эффект отрицательного сопротивления (simple):
+	effect of negative resistance
+Results for эффект памяти:
+	 memory effect (Естественные науки)
+	 
+Results for эффект Пашена-Бака (Пельтье, Поккельса, Пуля-Френкеля) (simple):
+	Pashena-Buck's effect (Peltier, Pokkelsa, Bullet Frenkel)
+Results for эффект поверхностного заряда (разряда) (simple):
+	effect of a superficial charge (category)
+Results for эффект пространственного заряда (simple):
+	effect of a spatial charge
+Results for эффект Рамана (Рамзауэра, Риги-Ледюка) (simple):
+	Raman's effect (Ramzauera, Righi-Ledjuc)
+Results for эффект расфазировки (simple):
+	effect of a rasfazirovka
+Results for эффект самоторможения (simple):
+	effect of self-retardation
+Results for эффект Сильсби (Стайлса-Крауфорда, Сула) (simple):
+	effect of Silsbi (Stiles-Krauforda, Sula)
+Results for эффект скручивания:
+	 twist-effect (Техника)
+	 
+Results for эффект Тиндаля (Томсона) (simple):
+	Tyndall (Thomson's) effect
+Results for эффект Фарадея (Фохта) (simple):
+	Faraday (Fokht's) effect
+Results for эффект Хааса (Ханле, Холла) (simple):
+	Haas's effect (Hanle, Hall)
+Results for эффект «частокола» (simple):
+	effect of "paling"
+Results for эффект Черенкова (simple):
+	Cherenkov's effect
+Results for эффект Шоттки (Штарка) (simple):
+	Schottky (Stark's) effect
+Results for эффект шумового подавления (simple):
+	effect of noise suppression
+Results for эффект шунтирования базы (simple):
+	effect of shunting of base
+Results for эффект экранирования:
+	 screening effect (Естественные науки)
+	 
+Results for эффект Эйнштейна-де Гааза (Эрли, Эттинсгаузена) (simple):
+	Einstein Gaaz's effect (Erli, Ettinsgauzena)
+Results for эффект Яна-Теллера (simple):
+	Yang-Tellera's effect
+Results for кадровая эффективность (simple):
+	personnel efficiency
+Results for квантовая эффективность (simple):
+	quantum efficiency
+Results for конверсионная эффективность (сцинтиллятора) (simple):
+	conversion efficiency (scintillator)
+Results for (спектральная) световая эффективность (simple):
+	(spectral) light efficiency
+Results for эффективность активного радиоэлектронного подавления (simple):
+	efficiency of active radio-electronic suppression
+Results for эффективность детектора при полном поглощении (simple):
+	efficiency of the detector at full absorption
+Results for эффективность излучения (simple):
+	efficiency of radiation
+Results for эффективность информационного поиска (simple):
+	efficiency of information search
+Results for эффективность использования частот (simple):
+	efficiency of use of frequencies
+Results for эффективность катода (simple):
+	efficiency of the cathode
+Results for эффективность обнаружения (simple):
+	efficiency of detection
+Results for эффективность передачи сообщений (simple):
+	efficiency of transmission of messages
+Results for эффективность переноса (simple):
+	efficiency of transfer
+Results for эффективность программы (simple):
+	efficiency of the program
+Results for эффективность регистрации (simple):
+	efficiency of registration
+Results for эффективность систем связи (simple):
+	efficiency of communication systems
+Results for эффективность собирания электронов (simple):
+	efficiency of collecting of electrons
+Results for эффективность состояния системы (simple):
+	efficiency of a condition of system
+Results for эффективность счёта (simple):
+	efficiency of the account
+Results for эффективность термоэлектронной эмиссии (simple):
+	efficiency of thermionic issue
+Results for эффективность тушения (simple):
+	efficiency of suppression
+Results for эффективность уширения (simple):
+	efficiency of broadening
+Results for эффективность фокусировки (simple):
+	efficiency of focusing
+Results for эффективность эмиттера (simple):
+	efficiency of the emitter
+Results for авроральное эхо (simple):
+	avroralny echo
+Results for запаздывающее (опережающее) эхо (simple):
+	the late (advancing) echo
+Results for искусственное эхо:
+	 artificial echo (Компьютеры)
+	 
+Results for кругосветное эхо:
+	 round-the-world echo (Компьютеры)
+	 
+Results for магнитостатическое эхо (simple):
+	magnetostatic echo
+Results for магнитоупругое эхо (simple):
+	magnetoelastic echo
+Results for механическое эхо (simple):
+	mechanical echo
+Results for многократное эхо:
+	 flutter echo (Техника)
+	 
+Results for музыкальное эхо (simple):
+	musical echo
+Results for плазменно-волновое эхо (simple):
+	plasma and wave echo
+Results for плазменное эхо (simple):
+	plasma echo
+Results for порхающее эхо (simple):
+	the flitting echo
+Results for спиновое эхо:
+	 spin echo (Естественные науки)
+	 
+Results for фононное эхо (simple):
+	phonon echo
+Results for фотонное эхо:
+	 photon echo (Естественные науки)
+	 
+Results for эхо говорящего:
+	 talker echo (Компьютеры)
+	 
+Results for эхо-камера:
+	 echo-chamber (Естественные науки)
+	 
+Results for эхо-отображение (simple):
+	echo display
+Results for эхо-резонатор:
+	 echo box (Техника)
+	 
+Results for эхо-сигнал (simple):
+	echo signal
+Results for адаптивный эхозаградитель (simple):
+	adaptive echo suppressor
+Results for эхо-сигнал магнитного резонанса (simple):
+	echo signal of a magnetic resonance
+Results for эхо-сигнал от движущегося предмета (simple):
+	echo signal from a moving subject
+Results for эхо-сигнал от земной (морской) поверхности (simple):
+	echo signal from a land (sea) surface
+Results for эхо-сигнал от морских волн (simple):
+	echo signal from sea waves
+Results for эхо-сигнал от наземных (неподвижных) предметов (simple):
+	echo signal from land (motionless) objects
+Results for эхо-сигнал от планет (simple):
+	echo signal from planets
+Results for эхо-сигнал от (холодных) облаков (simple):
+	echo signal from (cold) clouds
+Results for эхо-сигнал от цели (simple):
+	echo signal from the purpose
+Results for юстировка антенны:
+	 antenna alignment (Компьютеры)
+	 
+Results for юстировка зеркала (simple):
+	mirror adjustment
+Results for юстировка кинескопа (simple):
+	kinescope adjustment
+Results for юстировка лазера:
+	 laser alignment (Естественные науки)
+	 
+Results for юстировка магнитного поля (simple):
+	adjustment of magnetic field
+Results for юстировка моста (simple):
+	bridge adjustment
+Results for юстировка оптической системы (simple):
+	adjustment of optical system
+Results for юстировка прибора (simple):
+	device adjustment
+Results for юстировка резонатора (simple):
+	resonator adjustment
+Results for юстировка средства измерений (simple):
+	measuring instrument adjustment
+Results for юстировка ТВ-камеры (simple):
+	Television camera adjustment
+Results for пороговое явление (simple):
+	threshold phenomenon
+Results for термоэлектрическое явление (simple):
+	thermoelectric phenomenon
+Results for физическое явление (simple):
+	physical phenomenon
+Results for явление гистерезиса (simple):
+	hysteresis phenomenon
+Results for явление комбинационного рассеивания (simple):
+	phenomenon of combinational dispersion
+Results for явление неустойчивости (simple):
+	instability phenomenon
+Results for явление (полного внутреннего) отражения (simple):
+	phenomenon (full internal) reflections
+Results for явление преломления:
+	 refractivity (Естественные науки)
+	 
+Results for явление пробоя барьера (simple):
+	phenomenon of breakdown of a barrier
+Results for явление резонанса:
+	 resonance condition (Техника)
+	 
+Results for явление смыкания в многослойных структурах (simple):
+	the smykaniye phenomenon in multilayered structures
+Results for гиромагнитные явления (simple):
+	gyromagnetic phenomena
+Results for граничные явления (simple):
+	boundary phenomena
+Results for анизотропное ядро (simple):
+	anisotropic kernel
+Results for вырожденное ядро (simple):
+	degenerate kernel
+Results for ксантеновое ядро (simple):
+	ksantenovy kernel
+Results for открытое ядро (simple):
+	open kernel
+Results for ядро атома:
+	 atomic nucleus 
+Results for ядро вихря:
+	 whirl core (Естественные науки)
+	 
+	 vortex core (Компьютеры)
+	 
+Results for ядро дислокации:
+	 dislocation core (Техника)
+	 
+Results for ядро интегрального уравнения (simple):
+	kernel of the integrated equation
+Results for ядро линейного оператора (simple):
+	kernel of the linear operator
+Results for ядро метода суммирования (simple):
+	summation method kernel
+Results for ядро операционной системы:
+	 operating system kernel (Компьютеры)
+	 
+Results for ядро отдачи:
+	 recoil nucleus (Естественные науки)
+	 
+Results for ядро поляризации (simple):
+	polarization kernel
+Results for ядро представления (simple):
+	representation kernel
+Results for ядро среды программирования:
+	 programming environment kernel (Компьютеры)
+	 
+Results for алгоритмический язык:
+	 algorithmic language 
+Results for машинно-независимый язык:
+	 computer-independent language (Техника)
+	 
+Results for машинный язык:
+	 computer language 
+	 machine language (Компьютеры)
+	 
+	 machine code (Техника)
+	 
+Results for проблемно(процедурно)-ориентированный язык (simple):
+	problemno (protsedurno) - the focused language
+Results for формализованный язык (simple):
+	the formalized language
+Results for язык базы данных (simple):
+	database language
+Results for язык видеозапросов (simple):
+	language of video inquiries
+Results for язык визуального общения (simple):
+	language of visual communication
+Results for язык высокого (низкого, среднего) уровня (simple):
+	language high (low, average) level
+Results for язык запросов к базе данных (simple):
+	language of inquiries to the database
+Results for язык избыточности (simple):
+	redundancy language
+Results for язык индексирования:
+	 indexing language (Компьютеры)
+	 
+Results for язык (логического, функционального) программирования (simple):
+	language (logical, functional) programming
+Results for язык манипулирования данными:
+	 data manipulation language (Компьютеры)
+	 
+Results for язык моделирования:
+	 modeling language (Компьютеры)
+	 
+Results for язык описания (определения) данных (simple):
+	language of the description (definition) of data
+Results for язык-посредник:
+	 intermediate language 
+Results for язык проектирования (simple):
+	design language
+Results for язык решающих таблиц (simple):
+	language of decisive tables
+Results for язык с блочной структурой (simple):
+	language with block structure
+Results for язык с однократным присваиванием (simple):
+	language with single giving
+Results for язык спецификаций (simple):
+	language of specifications
+Results for язык управления заданиями:
+	 job control language (Компьютеры)
+	 
+Results for язык уровня робота (simple):
+	robot level language
+Results for барабанный якорь:
+	 drum armature (Техника)
+	 
+Results for двухколлекторный якорь с двумя обмотками (simple):
+	two-collector anchor with two windings
+Results for дисковый якорь:
+	 disk-type armature (Техника)
+	 
+Results for магнитный якорь (simple):
+	magnetic anchor
+Results for перекидной железный якорь (simple):
+	cross over iron anchor
+Results for уравновешенный якорь (simple):
+	balanced anchor
+Results for якорь-реле (simple):
+	anchor relay
+Results for потенциальная яма:
+	 potential well (Естественные науки)
+	 
+	 potential hole (Компьютеры)
+	 
+Results for ЯМР (ядерный магнитный резонанс)-датчик (simple):
+	Nuclear magnetic resonance (nuclear magnetic resonance) - the sensor
+Results for ЯМР (ядерный магнитный резонанс)-спектрометр (simple):
+	Nuclear magnetic resonance (nuclear magnetic resonance) - a spectrometer
+Results for ЯМР (ядерный магнитный резонанс)-спектроскопия (simple):
+	Nuclear magnetic resonance (nuclear magnetic resonance) - spectroscopy
+Results for ЯМР (ядерный магнитный резонанс)-томограф (simple):
+	Nuclear magnetic resonance (nuclear magnetic resonance) - the tomograph
+Results for ЯМР (ядерный магнитный резонанс)-томография (simple):
+	Nuclear magnetic resonance (nuclear magnetic resonance) - a tomography
+Results for единичная яркость (simple):
+	single brightness
+Results for приведённая яркость (simple):
+	the specified brightness
+Results for средняя яркость (simple):
+	average brightness
+Results for субъективная яркость (simple):
+	subjective brightness
+Results for эквивалентная яркость (simple):
+	equivalent brightness
+Results for энергетическая яркость (simple):
+	power brightness
+Results for яркость белого (simple):
+	brightness of white
+Results for яркость изображения:
+	 brightness of image (Естественные науки)
+	 
+	 image brightness (Компьютеры)
+	 
+Results for яркость отметки цели (simple):
+	purpose mark brightness
+Results for яркость поля адаптации (simple):
+	brightness of the field of adaptation
+Results for яркость тепловых источников (simple):
+	brightness of thermal sources
+Results for яркость фона:
+	 background brightness (Естественные науки)
+	 
+Results for яркость цвета (simple):
+	brightness of color
+Results for яркость эквивалентной вуали (simple):
+	brightness of an equivalent veil
+Results for яркость экрана (в отсутствие изображения) (simple):
+	screen brightness (in the absence of the image)
+Results for яркость электролюминесцентного источника (simple):
+	brightness of an electroluminescent source
+Results for ярмо постоянного магнита (simple):
+	yoke of a permanent magnet
+Results for ярмо трансформатора:
+	 transformer yoke (Техника)
+	 
+Results for ярус антенны (simple):
+	antenna tier
+Results for акустооптическая ячейка (simple):
+	optical-acoustic cell
+Results for (асимметричная) электрохимическая ячейка (simple):
+	(asymmetric) electrochemical cell
+Results for базовая ячейка:
+	 anchor cell (Компьютеры)
+	 
+	 master cell (Техника)
+	 
+Results for бистабильная ячейка:
+	 bistable cell (Компьютеры)
+	 
+Results for бриллюэновская ячейка (simple):
+	brillyuenovsky cell
+Results for брэгговская ячейка (simple):
+	breggovsky cell
+Results for газовая ячейка (simple):
+	gas cell
+Results for двоичная ячейка:
+	 binary cell (Компьютеры)
+	 
+Results for дифракционная ячейка:
+	 diffraction cell (Компьютеры)
+	 
+Results for жидкокристаллическая ячейка (simple):
+	liquid crystal cell
+Results for запоминающая ячейка (simple):
+	the memorable cell
+Results for криогенная ячейка (simple):
+	cryogenic cell
+Results for кристаллографическая ячейка:
+	 crystallographic cell (Компьютеры)
+	 
+Results for крупная ячейка:
+	 jumbo cell (Компьютеры)
+	 
+Results for магнитная ячейка (simple):
+	magnetic cell
+Results for отклоняющая ячейка (simple):
+	the rejecting cell
+Results for примитивная ячейка (simple):
+	primitive cell
+Results for процессорная ячейка (simple):
+	processor cell
+Results for резонансная ячейка (simple):
+	resonant cell
+Results for рубидиевая газовая ячейка (simple):
+	rubidium gas cell
+Results for сегнетоэлектрическая ячейка (simple):
+	segnetoelektrichesky cell
+Results for стандартная ячейка (simple):
+	standard cell
+Results for счётная ячейка (simple):
+	calculating cell
+Results for ультразвуковая модулирующая (рефракционная) ячейка (simple):
+	the ultrasonic modulating (refraction) cell
+Results for ферримагнитная ячейка (simple):
+	ferrimagnitny cell
+Results for ферритовая ячейка (simple):
+	ferrite cell
+Results for функциональная (логическая) ячейка (simple):
+	functional (logical) cell
+Results for электролитическая ячейка:
+	 electrolytic cell (Естественные науки)
+	 
+Results for электролюминесцентная ячейка (simple):
+	electroluminescent cell
+Results for элементарная ячейка:
+	 unit cell (Компьютеры)
+	 
+	 lattice cell (Техника)
+	 
+	 low-level cell (Компьютеры)
+	 
+Results for ячейка Вигнера-Зейтца (Голея, Керра, Кроу, Поккельса, Рамана, Фарадея, Фрейма, Штарка) (simple):
+	Vignera-Zeytts's cell (Goley, Kerr, Crowe, Pokkels, Raman, Faraday, Frame, Stark)
+Results for ячейка для кассеты (simple):
+	cell for the cartridge
+Results for ячейка жидкокристаллического дисплея (simple):
+	cell of the liquid-crystal display
+Results for ячейка ЗУ (с гистерезисом) (simple):
+	STORAGE cell (with a hysteresis)
+Results for ячейка поликристаллического выпрямителя (simple):
+	cell of the polycrystalline rectifier
+Results for ячейка с запоминанием (переносом) заряда (simple):
+	cell with storing (transfer) of a charge
+Results for ячейка сложной формы (simple):
+	cell of irregular shape
+Results for ячейка с разрядом Пеннинга (simple):
+	cell with Penning's category
+Results for ячейка устройства (simple):
+	device cell
+Results for потенциальный ящик (simple):
+	potential box
+Results for чёрный ящик (simple):
+	black box
+Results for ящик громкоговорителя (simple):
+	loudspeaker box

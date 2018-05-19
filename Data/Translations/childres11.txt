@@ -1,0 +1,2348 @@
+Results for (не)вырожденная мода (simple):
+	(not) degenerate fashion
+Results for нежелательная мода:
+	 undesired mode (Компьютеры)
+	 
+Results for (не)канализируемая мода (simple):
+	not canalized fashion
+Results for неосесимметричная мода (simple):
+	not axisymmetric fashion
+Results for нераспространяющаяся мода:
+	 evanescent mode (Компьютеры)
+	 
+Results for (не)резонансная мода (simple):
+	(not) resonant fashion
+Results for (не)чётная мода (simple):
+	(not) even fashion
+Results for (не)чётно-симметричная мода (simple):
+	(not) even and symmetric fashion
+Results for нормальная [собственная] мода (simple):
+	normal [own] fashion
+Results for обратная мода (simple):
+	return fashion
+Results for объёмная мода (simple):
+	volume fashion
+Results for одиночная мода:
+	 single mode (Техника)
+	 
+Results for оптическая мода:
+	 optical mode (Естественные науки)
+	 
+Results for основная мода:
+	 characteristic mode (Компьютеры)
+	 
+	 principal mode (Техника)
+	 
+Results for паразитная мода:
+	 spurious mode (Техника)
+	 
+Results for плазменная мода (simple):
+	plasma fashion
+Results for (плоско)поляризованная мода (simple):
+	(plainly) the polarized fashion
+Results for поверхностная мода (simple):
+	superficial fashion
+Results for поперечная мода (simple):
+	cross fashion
+Results for продольная мода (simple):
+	longitudinal fashion
+Results for проникающая мода (simple):
+	the getting fashion
+Results for прямая мода (simple):
+	direct fashion
+Results for псевдорэлеевская мода (simple):
+	pseudo-Rayleigh fashion
+Results for (псевдо)спиновая мода (simple):
+	(pseudo) spin fashion
+Results for радиальная мода (simple):
+	radial fashion
+Results for решёточная мода (simple):
+	reshyotochny fashion
+Results for самосинхронизируемая мода (simple):
+	self-synchronizable fashion
+Results for сверхизлучающая мода (simple):
+	the superradiating fashion
+Results for сдвиговая мода (simple):
+	shift fashion
+Results for сегнетоэлектрическая мода (simple):
+	segnetoelektrichesky fashion
+Results for смешанная мода (simple):
+	the mixed fashion
+Results for стоксова мода (simple):
+	Stokes fashion
+Results for усечённая мода (simple):
+	the truncated fashion
+Results for устойчивая мода (simple):
+	steady fashion
+Results for фононная мода (simple):
+	phonon fashion
+Results for центральная мода (simple):
+	central fashion
+Results for циклотронная мода (simple):
+	cyclotron fashion
+Results for элементарная мода (simple):
+	elementary fashion
+Results for эллиптически поляризованная мода (simple):
+	elliptically polarized fashion
+Results for автоматизированное моделирование (simple):
+	the automated modeling
+Results for аналоговое моделирование (simple):
+	analog modeling
+Results for аналого-цифровое моделирование:
+	 analog-digital simulation (Техника)
+	 
+Results for аппаратное моделирование (simple):
+	hardware modeling
+Results for иерархическое моделирование (simple):
+	hierarchical modeling
+Results for квазимногомерное моделирование (simple):
+	quasimultidimensional modeling
+Results for масштабное моделирование (simple):
+	large-scale modeling
+Results for машинное моделирование:
+	 computeraided engineering (Естественные науки)
+	 
+Results for многоуровневое моделирование:
+	 multi-level simulation (Компьютеры)
+	 
+Results for моделирование антенной решётки (simple):
+	modeling of an antenna lattice
+Results for моделирование в реальном масштабе времени:
+	 real-time simulation (Техника)
+	 
+Results for моделирование методом Монте-Карло (simple):
+	modeling by Monte Carlo method
+Results for моделирование на поведенческом уровне (simple):
+	modeling at the behavioural level
+Results for моделирование на уровне подсхем (транзистора) (simple):
+	modeling at the level of subcircuits (transistor)
+Results for моделирование окружающей среды (simple):
+	modeling of the environment
+Results for моделирование прерываний (simple):
+	modeling of interruptions
+Results for моделирование пропускной способности (simple):
+	modeling of capacity
+Results for моделирование психофизиологических факторов (simple):
+	modeling of psychophysiological factors
+Results for моделирование распространения волны (simple):
+	modeling of distribution of a wave
+Results for моделирование условий космического пространства (simple):
+	modeling of conditions of space
+Results for моделирование условий эксплуатации (simple):
+	modeling of service conditions
+Results for программное моделирование операций ввода-вывода (simple):
+	program modeling of operations of input-output
+Results for системное моделирование:
+	 system simulation (Компьютеры)
+	 
+Results for смешанное моделирование:
+	 mixed simulation (Компьютеры)
+	 
+Results for событийное логическое моделирование (simple):
+	event logical modeling
+Results for схемное моделирование (simple):
+	circuit modeling
+Results for физическое моделирование (simple):
+	physical modeling
+Results for цифровое моделирование (simple):
+	digital modeling
+Results for электродинамическое моделирование (simple):
+	electrodynamic modeling
+Results for электронное моделирование (simple):
+	electronic modeling
+Results for аналоговая модель:
+	 analog[ˈænəlɔɡ] (Техника)
+	 
+Results for вероятностная модель:
+	 probabilistic model (Компьютеры)
+	 
+	 probability model (Компьютеры)
+	 
+	 stochastic model (Техника)
+	 
+Results for гипотетическая модель (simple):
+	hypothetical model
+Results for голографическая модель (simple):
+	holographic model
+Results for дву(одно)мерная модель (simple):
+	two-(one) measured model
+Results for двухжидкостная модель плазмы (сверхпроводимости) (simple):
+	two-liquid model of plasma (superconductivity)
+Results for детерминированная модель (simple):
+	the determined model
+Results for зонная модель:
+	 band model (Техника)
+	 
+Results for имитационная модель:
+	 simulation model (Бизнес)
+	 
+Results for квазилинейная модель (simple):
+	quasilinear model
+Results for квазиравновесная модель (simple):
+	quasiequilibrium model
+Results for квантово-механическая модель (simple):
+	quantum-mechanical model
+Results for континуальная модель (simple):
+	continual model
+Results for макро(микро)уровневая модель (simple):
+	macro (micro)-level model
+Results for масштабная модель:
+	 scale model (Техника)
+	 
+Results for машинная модель (simple):
+	machine model
+Results for модель в пространстве состояний (simple):
+	model in space of states
+Results for модель Гейзенберга (Изинга) (simple):
+	Heisenberg's model (Изинга)
+Results for модель для проектирования (simple):
+	model for design
+Results for модель ионосферы с резкими границами (simple):
+	ionosphere model with sharp borders
+Results for модель коллективизированных электронов:
+	 collective electron model (Естественные науки)
+	 
+Results for модель Кронига-Пенни (simple):
+	Kroniga-Penny's model
+Results for модель массового обслуживания:
+	 waiting line model (Компьютеры)
+	 
+Results for модель наземной обстановки (simple):
+	model of a land situation
+Results for модель объекта (simple):
+	object model
+Results for модель (параболической) ионосферы (simple):
+	model (parabolic) ionosphere
+Results for модель плазмы (simple):
+	plasma model
+Results for модель плоской (сферической) Земли (simple):
+	model of flat (spherical) Earth
+Results for модель просмотровых таблиц (simple):
+	model of viewing tables
+Results for модель распределения плотности атмосферы (simple):
+	model of distribution of density of the atmosphere
+Results for модель сети (simple):
+	model of network
+Results for модель с конечной населённостью (simple):
+	model with final density of population
+Results for модель с накоплением носителей заряда (simple):
+	model with accumulation of carriers of a charge
+Results for модель с управлением зарядом (simple):
+	model with management of a charge
+Results for модель флюктуирующей цели (simple):
+	model of the flyuktuiruyushchy purpose
+Results for нелокальная модель Пиппарда (simple):
+	not local Pipparda model
+Results for одноионная модель (simple):
+	one-ionic model
+Results for описательная модель:
+	 descriptive model (Компьютеры)
+	 
+Results for опытно-конструкторская модель (simple):
+	developmental model
+Results for поведенческая модель:
+	 behavioral model (Бизнес)
+	 
+Results for прогнозирующая модель:
+	 predictive model (Компьютеры)
+	 
+Results for статистическая модель:
+	 statistical model (Компьютеры)
+	 
+Results for тестовая модель (simple):
+	test model
+Results for эвристическая модель (simple):
+	heuristic model
+Results for экспериментальная модель:
+	 pilot model (Естественные науки)
+	 
+Results for адаптивный модем (simple):
+	adaptive modem
+Results for групповой модем (simple):
+	group modem
+Results for дуплексный модем (simple):
+	duplex modem
+Results for когерентный модем (simple):
+	coherent modem
+Results for многочастотный модем (simple):
+	multifrequency modem
+Results for модем для абонентских линий (simple):
+	the modem for subscriber lines
+Results for модем для линий с ограниченной дальностью (simple):
+	the modem for lines with limited range
+Results for модем для передачи по телефонным каналам (simple):
+	the modem for transfer on telephone channels
+Results for модем для сетей с автоматической коммутацией (simple):
+	the modem for networks with automatic switching
+Results for модем комплексного числа (simple):
+	modem of complex number
+Results for модем с автоответом (simple):
+	the modem with an auto answer
+Results for модем с быстрой перестройкой частоты (simple):
+	the modem with fast reorganization of frequency
+Results for модем с быстрым опросом (simple):
+	the modem with fast poll
+Results for модем с временным (частотным) разнесением (simple):
+	the modem with a temporary (frequency) razneseniye
+Results for модем с многостанционным доступом (simple):
+	the modem with multistation access
+Results for модем с пакетной передачей (simple):
+	the modem with packet transmission
+Results for модем с переменной скоростью передачи (simple):
+	the modem with a variable speed of transfer
+Results for модем с разделением каналов (данных) (simple):
+	the modem with division of channels (data)
+Results for однокристальный модем (simple):
+	single-crystal modem
+Results for помехозащищённый модем (simple):
+	pomekhozashchishchyonny modem
+Results for телеграфный модем (simple):
+	cable modem
+Results for телефонный модем:
+	 telephone modem (Компьютеры)
+	 
+Results for факсимильный модем (simple):
+	facsimile modem
+Results for аппаратный модуль:
+	 hardware module (Компьютеры)
+	 
+Results for базовый операционный модуль (simple):
+	basic operational module
+Results for дисковый модуль (simple):
+	disk module
+Results for иерархический модуль (simple):
+	hierarchical module
+Results for интегральный модуль (simple):
+	integrated module
+Results for колончатый модуль (simple):
+	kolonchaty module
+Results for конденсаторно-резисторный модуль (simple):
+	condenser and resistor module
+Results for контрольно-измерительный модуль (simple):
+	control and measuring module
+Results for логический модуль:
+	 logic module (Техника)
+	 
+Results for много(одно)кратно используемый модуль (simple):
+	a lot of (one) multiply used the module
+Results for много(одно)кристальный модуль (simple):
+	many (one) crystal module
+Results for много(одно)кристальный модуль высокого уровня (simple):
+	many (one) crystal module of high level
+Results for много(одно)кристальный модуль загрузки (simple):
+	many (one) crystal module of loading
+Results for много(одно)кристальный модуль запоминающего устройства (simple):
+	many (one) crystal module of the memory device
+Results for много(одно)кристальный модуль на элементах в таблеточном исполнении (simple):
+	many (one) crystal module on elements in tablet execution
+Results for много(одно)кристальный модуль независимого типа (simple):
+	many (one) crystal module of independent type
+Results for много(одно)кристальный модуль обмена сообщениями (simple):
+	many (one) crystal module of exchange of messages
+Results for много(одно)кристальный модуль расширения (simple):
+	many (one) crystal module of expansion
+Results for много(одно)кристальный модуль регистровых передач (simple):
+	many (one) crystal module of register transfers
+Results for много(одно)кристальный модуль регулировки (simple):
+	many (one) crystal module of adjustment
+Results for много(одно)кристальный модуль с дву(одно)сторонними выводами (simple):
+	many (one) crystal module with two-(one) third-party conclusions
+Results for много(одно)кристальный модуль умножения-сложения (simple):
+	many (one) crystal module of multiplication addition
+Results for много(одно)кристальный модуль цифрового ввода (вывода) (simple):
+	many (one) crystal module of digital input (conclusion)
+Results for много(одно)кристальный модуль юнга (simple):
+	many (one) crystal module ship's boy
+Results for плоский много(одно)кристальный модуль (simple):
+	flat many (one) crystal module
+Results for программный много(одно)кристальный модуль (simple):
+	program many (one) crystal module
+Results for производный много(одно)кристальный модуль (simple):
+	derivative many (one) crystal module
+Results for самодокументируемый много(одно)кристальный модуль (simple):
+	the self-documented many (one) crystal module
+Results for самосинхронизируемый много(одно)кристальный модуль (simple):
+	the self-synchronized many (one) crystal module
+Results for сменный много(одно)кристальный модуль (simple):
+	replaceable many (one) crystal module
+Results for сотовый много(одно)кристальный модуль (simple):
+	cellular many (one) crystal module
+Results for твердотельный много(одно)кристальный модуль (simple):
+	solid-state many (one) crystal module
+Results for функционально-коммутационный много(одно)кристальный модуль (simple):
+	functional and switching many (one) crystal module
+Results for цифровой много(одно)кристальный модуль (simple):
+	digital many (one) crystal module
+Results for акустический дифракционный модулятор (simple):
+	acoustic diffraction modulator
+Results for акустооптический модулятор:
+	 acousto-optical modulator (Техника)
+	 
+Results for амплитудный модулятор:
+	 amplitude modulator (Компьютеры)
+	 
+Results for аналоговый модулятор (simple):
+	analog modulator
+Results for асимметричный модулятор (simple):
+	asymmetric modulator
+Results for асинхронный модулятор (simple):
+	asynchronous modulator
+Results for балансный модулятор:
+	 balanced modulator (Техника)
+	 
+Results for брэгговский модулятор (simple):
+	breggovsky modulator
+Results for внешний модулятор (simple):
+	external modulator
+Results for внутренний модулятор (simple):
+	internal modulator
+Results for внутрирезонаторный модулятор (simple):
+	vnutrirezonatorny modulator
+Results for время(фазо)импульсный модулятор (simple):
+	time (phase) pulse modulator
+Results for гальванометрический модулятор (simple):
+	galvanometrichesky modulator
+Results for групповой модулятор:
+	 group modulator (Компьютеры)
+	 
+Results for двойной балансный модулятор:
+	 double balanced modulator (Компьютеры)
+	 
+Results for двух(одно)полосный модулятор (simple):
+	two (one) band modulators
+Results for дельта-сигма-модулятор (simple):
+	delta sigma modulator
+Results for диодный модулятор:
+	 diode modulator (Компьютеры)
+	 
+Results for импульсно-кодовый модулятор:
+	 pulse-code modulator (Техника)
+	 
+Results for импульсный модулятор:
+	 pulse modulator (Техника)
+	 
+Results for искровой модулятор (simple):
+	spark modulator
+Results for квадратичный модулятор:
+	 square law modulator (Компьютеры)
+	 
+Results for кольцевой модулятор:
+	 ring modulator (Техника)
+	 
+Results for ламповый модулятор:
+	 vacuum-tube modulator (Техника)
+	 
+Results for линейный модулятор (simple):
+	linear modulator
+Results for магнитострикционный модулятор (simple):
+	magnetostriction modulator
+Results for механический модулятор (simple):
+	mechanical modulator
+Results for модулятор бегущей волны:
+	 traveling wave modulator (Компьютеры)
+	 
+	 travelling wave modulator (Техника)
+	 
+Results for модулятор группы каналов (simple):
+	modulator of group of channels
+Results for модулятор-демодулятор (simple):
+	modulator demodulator
+Results for модулятор класса А (АВ, В, С) (simple):
+	class A modulator (AB, B, C)
+Results for модулятор линии связи с уплотнением (simple):
+	the communication line modulator with consolidation
+Results for модулятор на реактивной лампе (simple):
+	the modulator on a jet lamp
+Results for модулятор на эффекте двулучепреломления (simple):
+	the modulator on effect of two-refraction
+Results for модулятор на эффекте нарушения полного внутреннего отражения (simple):
+	the modulator on effect of violation of full internal reflection
+Results for модулятор на эффекте ударной ионизации (simple):
+	the modulator on effect of shock ionization
+Results for модулятор на ячейке Поккельса (simple):
+	the modulator on Pokkels's cell
+Results for модулятор поглощательного типа (simple):
+	modulator of the absorptive type
+Results for модулятор с активным коммутатором (simple):
+	the modulator with the active switchboard
+Results for модулятор света на гетеропереходе (р-n-переходе) (simple):
+	light modulator on a heterojunction (р - n - transition)
+Results for модулятор света на продольном электрооптическом эффекте (simple):
+	light modulator on longitudinal electrooptical effect
+Results for модулятор синхронизатора (simple):
+	synchronizer modulator
+Results for модулятор с компадированием (simple):
+	the modulator with a kompadirovaniye
+Results for модулятор с малыми искажениями (simple):
+	the modulator with small distortions
+Results for модулятор стоячей волны (simple):
+	modulator of a standing wave
+Results for модулятор яркости (simple):
+	brightness modulator
+Results for мультипликативный модулятор (simple):
+	multiplicative modulator
+Results for оптический модулятор (simple):
+	optical modulator
+Results for параметрический модулятор (simple):
+	parametrical modulator
+Results for пространственный модулятор света (simple):
+	spatial modulator of light
+Results for пьезоэлектрический модулятор (simple):
+	piezoelectric modulator
+Results for пьезоэлектрооптический модулятор (simple):
+	pyezoelektrooptichesky modulator
+Results for сверхпроводящий модулятор (simple):
+	superconducting modulator
+Results for сверхпроводящий [СВЧ] модулятор света (simple):
+	superconducting [microwave oven] modulator of light
+Results for световодный модулятор (simple):
+	light-guide modulator
+Results for сегнетоэлектрический модулятор:
+	 ferroelectric modulator (Техника)
+	 
+Results for следящий модулятор (simple):
+	the watching modulator
+Results for ультразвуковой модулятор света (simple):
+	ultrasonic modulator of light
+Results for фазовый модулятор:
+	 phase modulator (Компьютеры)
+	 
+Results for фарадеевский модулятор (simple):
+	Faraday modulator
+Results for ферритовый модулятор:
+	 ferrite modulator (Компьютеры)
+	 
+Results for частотно(широтно)-импульсный модулятор (simple):
+	it is frequency (shirotno) - the pulse modulator
+Results for частотный модулятор:
+	 frequency modulator (Компьютеры)
+	 
+Results for (электро)механический модулятор (simple):
+	(electro) mechanical modulator
+Results for электрооптический модулятор (simple):
+	electrooptical modulator
+Results for акустооптическая модуляция (simple):
+	optical-acoustic modulation
+Results for амплитудная гармоническая модуляция (simple):
+	amplitude harmonious modulation
+Results for амплитудная модуляция с использованием поглощения (simple):
+	amplitude modulation with absorption use
+Results for амплитудно(время, фазо, частотно)-импульсная модуляция (simple):
+	it is amplitude (time, a phase, is frequency) - pulse modulation
+Results for амплитудно-частотная (-фазовая) модуляция (simple):
+	amplitude-frequency (-phase) modulation
+Results for аналоговая модуляция (simple):
+	analog modulation
+Results for анодная модуляция:
+	 anode modulation (Компьютеры)
+	 
+Results for анодно-экранная модуляция (simple):
+	anode and screen modulation
+Results for балансная модуляция (simple):
+	balance modulation
+Results for вибрационная модуляция (simple):
+	vibration modulation
+Results for внешняя модуляция:
+	 external modulation (Техника)
+	 
+Results for внутренняя модуляция (simple):
+	internal modulation
+Results for (внутри)импульсная линейная модуляция (simple):
+	(inside) pulse linear modulation
+Results for внутрирезонаторная модуляция:
+	 in-cavity modulation (Техника)
+	 
+Results for временная модуляция:
+	 time modulation (Компьютеры)
+	 
+	 random time modulation (Техника)
+	 
+Results for глубокая модуляция (simple):
+	deep modulation
+Results for групповая модуляция (simple):
+	group modulation
+Results for (двоичная) импульсно-кодовая модуляция (simple):
+	(binary) pulse code modulation
+Results for двойная (частотная) модуляция (simple):
+	double (frequency) modulation
+Results for двух(одно)полосная модуляция (simple):
+	two (one) band modulations
+Results for двух(одно)тональная модуляция (simple):
+	two (one) voice-frequency modulations
+Results for дельта(-сигма)-модуляция (simple):
+	the delta (-sigma) - modulation
+Results for дифференциальная модуляция (simple):
+	differential modulation
+Results for звуковая модуляция (simple):
+	sound modulation
+Results for изохронная модуляция (simple):
+	isochronous modulation
+Results for импульсная сеточная модуляция (simple):
+	pulse net modulation
+Results for импульсно-кодовая модуляция:
+	 PCM (Техника)
+	 
+	 pulse code modulation (Компьютеры)
+	 
+Results for интерференционная модуляция (simple):
+	interferential modulation
+Results for камертонная модуляция (simple):
+	kamertonny modulation
+Results for катодная модуляция:
+	 cathode modulation (Техника)
+	 
+Results for квадратурная модуляция:
+	 quadrature modulation (Компьютеры)
+	 
+Results for коллекторная модуляция (simple):
+	collector modulation
+Results for комбинированная асинхронная дельта-модуляция (simple):
+	the combined asynchronous delta modulation
+Results for косвенная модуляция (simple):
+	indirect modulation
+Results for (ко)синусоидальная модуляция (simple):
+	(to) sinusoidal modulation
+Results for линейная модуляция (simple):
+	linear modulation
+Results for логарифмическая фазовая модуляция (simple):
+	logarithmic phase modulation
+Results for магнитооптическая модуляция (simple):
+	magnetooptical modulation
+Results for медленная модуляция (simple):
+	slow modulation
+Results for многократная модуляция:
+	 multiple modulation (Компьютеры)
+	 
+Results for модуляция без искажений (simple):
+	modulation without distortions
+Results for модуляция видеосигналом (simple):
+	modulation by video signal
+Results for модуляция времени жизни (simple):
+	modulation of time of life
+Results for модуляция времени задержки (simple):
+	modulation of time of a delay
+Results for модуляция, вызванная воздействием окружающей среды (simple):
+	the modulation caused by influence of the environment
+Results for модуляция групповой скорости (simple):
+	modulation of group speed
+Results for модуляция дефазированием:
+	 outphasing modulation (Техника)
+	 
+Results for модуляция длины канала:
+	 channel length modulation (Техника)
+	 
+Results for модуляция добротности:
+	 Q-modulation (Техника)
+	 
+Results for модуляция излучения лазера:
+	 laser modulation (Техника)
+	 
+Results for модуляция инверсной заселённости [населённости] (simple):
+	modulation of inverse population [density of population]
+Results for модуляция конвекционного тока (simple):
+	modulation of convection current
+Results for модуляция концентрации примесей (simple):
+	modulation of concentration of impurity
+Results for модуляция на эффекте поля (simple):
+	modulation on effect of the field
+Results for модуляция плотности заряда (simple):
+	modulation of density of a charge
+Results for модуляция по антидинатронной (экранирующей) сетке (simple):
+	modulation on the anti-dynatron (shielding) grid
+Results for модуляция (под)несущей (simple):
+	modulation (under) bearing
+Results for модуляция по управляющему электроду (simple):
+	modulation on the operating electrode
+Results for модуляция по элементу связи:
+	 coupling modulation (Техника)
+	 
+Results for модуляция прерывателем:
+	 chopper modulation (Техника)
+	 
+Results for модуляция при прохождении луча (simple):
+	modulation when passing a beam
+Results for модуляция прямоугольными импульсами:
+	 square-wave modulation (Компьютеры)
+	 
+Results for модуляция с авторегулированием коэффициента модуляции (simple):
+	modulation with autoregulation of coefficient of modulation
+Results for модуляция, связанная со сканированием (simple):
+	the modulation connected with scanning
+Results for модуляция скорости развёртки (simple):
+	modulation of speed of development
+Results for модуляция смещением на затворе (simple):
+	modulation by shift on a lock
+Results for модуляция с независимой боковой полосой (simple):
+	modulation with an independent side strip
+Results for модуляция со сглаживанием фазы (simple):
+	modulation with smoothing of a phase
+Results for модуляция со скачкообразной перестройкой частоты сигнала (simple):
+	modulation with spasmodic reorganization of frequency of a signal
+Results for модуляция состава (simple):
+	modulation of structure
+Results for модуляция с подавлением несущей в отсутствие модулирующего сигнала (simple):
+	modulation with suppression bringing to lack of the modulating signal
+Results for модуляция с помощью объёмного резонатора (simple):
+	modulation by means of the volume resonator
+Results for модуляция с помощью эффекта Фарадея (Холла) (simple):
+	modulation by means of Faraday (Hall's) effect
+Results for модуляция с помощью ячейки Керра (simple):
+	modulation by means of Kerr's cell
+Results for модуляция с постоянной огибающей (simple):
+	modulation from the constant which is bending around
+Results for модуляция с расширением спектра (simple):
+	modulation with expansion of a range
+Results for модуляция (тока) пучка (simple):
+	modulation (current) of a bunch
+Results for модуляция толщины (ширины) базы (simple):
+	modulation of thickness (width) of base
+Results for модуляция удельной электропроводности базы (simple):
+	modulation of specific conductivity of base
+Results for модуляция фазовой скорости (simple):
+	modulation of phase speed
+Results for модуляция цвета (simple):
+	modulation of color
+Results for модуляция цветовых поднесущих (simple):
+	modulation of color subbearing
+Results for модуляция цветоразностными сигналами (simple):
+	modulation by color-difference signals
+Results for модуляция электрической проводимости (simple):
+	modulation of electric conductivity
+Results for модуляция электронного луча (simple):
+	modulation of an electronic beam
+Results for модуляция яркости:
+	 intensity modulation (Техника)
+	 
+Results for мультипликативная модуляция (simple):
+	multiplicative modulation
+Results for негативная модуляция (simple):
+	negative modulation
+Results for (не)полярная модуляция (simple):
+	(not) polar modulation
+Results for паразитная модуляция:
+	 spurious modulation (Компьютеры)
+	 
+Results for перекрёстная модуляция [кросс-модуляция] (simple):
+	cross modulation [cross-modulation]
+Results for перестановочная модуляция:
+	 permutation modulation (Компьютеры)
+	 
+Results for позитивная модуляция:
+	 positive modulation (Техника)
+	 
+Results for поляризационная модуляция (simple):
+	polarizing modulation
+Results for помеховая модуляция (simple):
+	interfering modulation
+Results for поперечная модуляция (simple):
+	cross modulation
+Results for пространственная модуляция (simple):
+	spatial modulation
+Results for прямая модуляция (simple):
+	direct modulation
+Results for псевдослучайная модуляция (simple):
+	pseudorandom modulation
+Results for псевдошумовая модуляция (simple):
+	pseudo-noise modulation
+Results for пьезоэлектрооптическая модуляция света (simple):
+	pyezoelektrooptichesky modulation of light
+Results for речевая модуляция:
+	 voice modulation (Техника)
+	 
+Results for симметричная модуляция (simple):
+	symmetric modulation
+Results for синхронная модуляция (simple):
+	synchronous modulation
+Results for смешанная модуляция:
+	 hybrid modulation (Компьютеры)
+	 
+Results for спектральная модуляция (simple):
+	spectral modulation
+Results for стартстопная модуляция (simple):
+	startstopny modulation
+Results for стопроцентная модуляция (simple):
+	absolute modulation
+Results for телеметрическая модуляция (simple):
+	telemetric modulation
+Results for тональная модуляция:
+	 tone modulation (Компьютеры)
+	 
+	 audio modulation (Техника)
+	 
+Results for угловая модуляция:
+	 angle modulation (Компьютеры)
+	 
+Results for упругооптическая модуляция (simple):
+	uprugooptichesky modulation
+Results for фазоразностная модуляция (simple):
+	fazoraznostny modulation
+Results for фазо(частотно)-импульсная модуляция (simple):
+	phase it (is frequency) - pulse modulation
+Results for фоновая модуляция (simple):
+	background modulation
+Results for фотоиндуцированная модуляция (simple):
+	the photoinduced modulation
+Results for холловская модуляция:
+	 Hall effect modulation (Компьютеры)
+	 
+Results for цифровая модуляция:
+	 digital modulation (Компьютеры)
+	 
+Results for частотная модуляция:
+	 frequency shift keying (Компьютеры)
+	 
+	 frequency modulation (Техника)
+	 
+Results for широтно-импульсная модуляция:
+	 pulse width modulation (Компьютеры)
+	 
+	 pulse-width modulation (Техника)
+	 
+Results for штарковская модуляция:
+	 Stark modulation (Техника)
+	 
+Results for шумовая (остаточная) модуляция (несущей) (simple):
+	noise (residual) modulation (bearing)
+Results for эхо-модуляция (simple):
+	echo modulation
+Results for мозаика из изолированных (проводящих) элементов (simple):
+	mosaic from the isolated (carrying-out) elements
+Results for мозаика иконоскопа (simple):
+	iconoscope mosaic
+Results for фоточувствительная мозаика (simple):
+	photosensitive mosaic
+Results for двухатомная молекула (simple):
+	diatomic molecule
+Results for ди(моно)мерная молекула (simple):
+	di (mono) measured molecule
+Results for молекула в режиме лазерной генерации (simple):
+	molecule in the mode of laser generation
+Results for электронно-акцепторная (-донорная) молекула (simple):
+	electronic and acceptor (-donorny) a molecule
+Results for шаровая молния:
+	 fireball[ˈfaɪəbɔ:l] 
+	 globular lightning (Естественные науки)
+	 
+	 ball lighting (Естественные науки)
+	 
+Results for вращательный момент:
+	 angular momentum (Естественные науки)
+	 
+Results for дипольный момент:
+	 electrical dipole moment (Естественные науки)
+	 
+	 dipole moment (Естественные науки)
+	 
+Results for квадрупольный момент:
+	 quadrupole moment (Техника)
+	 
+Results for магнитный момент:
+	 moment of magnet (Естественные науки)
+	 
+	 magnet moment (Компьютеры)
+	 
+	 magnetic moment (Естественные науки)
+	 
+Results for момент времени:
+	 timepoint 
+	 instant[ˈɪnstənt] (Естественные науки)
+	 
+Results for момент импульса:
+	 moment[ˈməumənt] (Естественные науки)
+	 
+Results for момент инерции:
+	 moment of inertia (Техника)
+	 
+	 inertia moment (Компьютеры)
+	 
+Results for момент количества движения:
+	 moment of momentum (Естественные науки)
+	 
+Results for момент пробоя (simple):
+	breakdown moment
+Results for момент трогания:
+	 break-away torque (Техника)
+	 
+Results for орбитальный момент (simple):
+	orbital moment
+Results for парамагнитный момент (simple):
+	paramagnetic moment
+Results for спиновый момент (simple):
+	spin moment
+Results for электрический момент:
+	 electric moment (Техника)
+	 
+Results for дикторский монитор (simple):
+	announcer's monitor
+Results for линейный монитор (simple):
+	linear monitor
+Results for монитор задачи (simple):
+	task monitor
+Results for монитор пакетного режима:
+	 batch monitor (Компьютеры)
+	 
+Results for монитор последовательности операций (simple):
+	monitor of the sequence of operations
+Results for монитор профиля ионного пучка (simple):
+	monitor of a profile of an ionic bunch
+Results for монитор разделения времени (simple):
+	monitor of division of time
+Results for монитор реального времени (simple):
+	monitor of real time
+Results for монитор телевизионной камеры (simple):
+	monitor of the TV camera
+Results for монитор телекоммуникации (simple):
+	telecommunication monitor
+Results for монитор цветного изображения (simple):
+	monitor of the color image
+Results for резидентный монитор (simple):
+	resident monitor
+Results for магнитный монополь Дирака (simple):
+	magnetic monopole of Dirac
+Results for псевдоморфный монослой (simple):
+	psevdomorfny monolayer
+Results for эпитаксиальный монослой (simple):
+	epitaxial monolayer
+Results for вакуумный монохроматор (simple):
+	vacuum monochromator
+Results for дифракционный монохроматор (simple):
+	diffraction monochromator
+Results for электронный монохроматор (simple):
+	electronic monochromator
+Results for беспаечный монтаж:
+	 solderless wiring (Техника)
+	 
+Results for (дублированный, прямой) электронный монтаж (simple):
+	(duplicated, direct) electronic installation
+Results for механический монтаж (simple):
+	mechanical installation
+Results for монтаж видеофонограммы (simple):
+	installation of a video soundtrack
+Results for монтаж в режиме вставки (продолжения) (simple):
+	installation in the mode of an insert (continuation)
+Results for монтаж грамзаписей (simple):
+	installation of gramzapisy
+Results for монтаж компонентов:
+	 component mounting (Компьютеры)
+	 
+Results for монтаж кристалла:
+	 die mounting (Компьютеры)
+	 
+Results for монтаж методом перевёрнутого кристалла (simple):
+	installation by method of the turned crystal
+Results for монтаж на внутренней стороне панели:
+	 back-of-panel wiring (Техника)
+	 
+Results for монтаж накруткой (simple):
+	installation by a price markup
+Results for монтаж на объединительной плате (simple):
+	installation on a unifying payment
+Results for монтаж на стойке:
+	 rack mounting (Техника)
+	 
+Results for монтаж неизолированным проводом (simple):
+	installation by an uninsulated wire
+Results for монтаж сигналограммы (simple):
+	installation of a signalogramma
+Results for монтаж цветных телевизионных программ (simple):
+	installation of color television programs
+Results for навесной монтаж:
+	 point-to-point wiring (Техника)
+	 
+Results for печатный монтаж:
+	 printed circuit wiring 
+Results for скрытый монтаж:
+	 concealed wiring (Техника)
+	 
+Results for точный монтаж (simple):
+	exact installation
+Results for фиксированный монтаж (simple):
+	the fixed installation
+Results for МОП (металл-оксид-полупроводник)-процессор (simple):
+	MOP (metal-oxide-semiconductor) - the processor
+Results for МОП (металл-оксид-полупроводник)-структура (simple):
+	MOP (metal-oxide-semiconductor) - structure
+Results for МОП (металл-оксид-полупроводник)-транзистор (simple):
+	MOP (metal-oxide-semiconductor) - the transistor
+Results for морфология кристаллов (simple):
+	morphology of crystals
+Results for (без)реохордный мост (simple):
+	(without) reokhordny bridge
+Results for болометрический мост:
+	 bolometer bridge (Естественные науки)
+	 
+Results for волноводный мост (simple):
+	the waveguide bridge
+Results for высокочастотный [ВЧ-] мост (simple):
+	high-frequency [VCh-] bridge
+Results for двойной Т-образный мост (simple):
+	double T-obrazny Bridge
+Results for декадный мост:
+	 decade bridge (Техника)
+	 
+Results for дифференциальный мост:
+	 differential bridge (Естественные науки)
+	 
+Results for измерительный мост:
+	 measuring bridge (Компьютеры)
+	 
+Results for индуктивный мост (simple):
+	inductive bridge
+Results for магазинный мост:
+	 post-office bridge (Естественные науки)
+	 
+Results for мост для измерения методом замещения (simple):
+	the bridge for measurement by a replacement method
+Results for мост для измерения полной проводимости (полного сопротивления) (simple):
+	the bridge for measurement of admittance (full resistance)
+Results for мост отношений:
+	 ratiometric bridge (Техника)
+	 
+Results for мост переменного (постоянного) тока (simple):
+	bridge of alternating (constant) current
+Results for мост сложения мощностей (simple):
+	bridge of addition of capacities
+Results for мост с непосредственным отсчётом (simple):
+	the bridge with direct counting
+Results for мост сравнения (simple):
+	bridge of comparison
+Results for мост с распределённой связью (simple):
+	the bridge with the distributed communication
+Results for (не)уравновешенный мост (simple):
+	(not) the balanced bridge
+Results for НЧ-мост для измерения параметров диэлектриков (simple):
+	The LF bridge for measurement of parameters of dielectrics
+Results for равноплечий мост:
+	 equal-arm bridge (Естественные науки)
+	 
+Results for резонансный мост:
+	 resonance bridge (Естественные науки)
+	 
+Results for реохордный мост Рафаэля (simple):
+	reokhordny Raphael Bridge
+Results for сверхвысокочастотный [СВЧ-] мост (simple):
+	superhigh-frequency [the microwave oven-] the bridge
+Results for терморезисторный мост (simple):
+	thermistor bridge
+Results for фазосдвигающий мост:
+	 phase shift bridge (Техника)
+	 
+Results for цифровой мост (simple):
+	digital bridge
+Results for частотнонезависимый мост (simple):
+	chastotnonezavisimy bridge
+Results for частотомерный мост (simple):
+	chastotomerny bridge
+Results for четырёх(шести)плечий мост (simple):
+	four (six) plechiya bridge
+Results for электрический мост (simple):
+	electric bridge
+Results for кислородный мостик:
+	 oxygen linkage (Естественные науки)
+	 
+Results for мостик андерсона-Дайема (Мерсеро-Нотариса, Паркса) (simple):
+	bridge of an andersona-Dayem (Mersero-Notaris, Parks)
+Results for мостик на эффекте близости (simple):
+	the bridge on effect of proximity
+Results for омический [проводящий] мостик (simple):
+	the ohmic [carrying-out] bridge
+Results for сверхпроводящий тонкоплёночный мостик (simple):
+	superconducting thin-film bridge
+Results for углеродный мостик:
+	 carbon bridge (Естественные науки)
+	 
+Results for акустическая мощность:
+	 sound power (Техника)
+	 
+Results for в(вы)ходная мощность (simple):
+	in (you) hodny power
+Results for вне(внутри)полосная мощность (simple):
+	out of (inside) band power
+Results for действительная мощность:
+	 available power (Естественные науки)
+	 
+Results for допустимая мощность:
+	 power carrying capacity (Компьютеры)
+	 
+	 power-carrying capacity (Техника)
+	 
+Results for излучающая мощность [мощность излучения] (simple):
+	the radiating power [radiation power]
+Results for кажущаяся мощность (simple):
+	the seeming power
+Results for комплексная мощность:
+	 vector power (Естественные науки)
+	 
+	 complex power (Компьютеры)
+	 
+Results for мгновенная мощность:
+	 instantaneous power (Естественные науки)
+	 
+	 instantaneous capacity (Компьютеры)
+	 
+Results for мощность в боковой полосе (simple):
+	power in a side strip
+Results for мощность возбуждения:
+	 excitation power (Компьютеры)
+	 
+Results for мощность в плоскости апертуры антенны (simple):
+	power in the antenna aperture plane
+Results for мощность выгорания (simple):
+	burning out power
+Results for мощность, выделяемая на нагрузке (simple):
+	the power allocated on loading
+Results for мощность группы дислокаций (simple):
+	power of group of dislocations
+Results for мощность дозы:
+	 dosage rate (Естественные науки)
+	 
+	 dose rate (Техника)
+	 
+Results for мощность дуги (simple):
+	arch power
+Results for мощность зажигания (simple):
+	ignition power
+Results for мощность, затрачиваемая на переключение (simple):
+	the power spent for switching
+Results for мощность искажения (simple):
+	distortion power
+Results for мощность комбинационных составляющих (simple):
+	power of combinational components
+Results for мощность минимально обнаруживаемого сигнала (simple):
+	power of minimum found signal
+Results for мощность моды:
+	 modal power (Компьютеры)
+	 
+Results for мощность нагрузки:
+	 load capacity (Техника)
+	 
+Results for мощность накачки:
+	 pump power (Техника)
+	 
+Results for мощность несущей:
+	 carrier power (Компьютеры)
+	 
+Results for мощность обратного (прямого) рассеяния (simple):
+	power of the return (direct) dispersion
+Results for мощность ответвления обмотки (simple):
+	winding branch power
+Results for мощность отражённой (падающей) волны (simple):
+	power of the reflected (falling) wave
+Results for мощность передатчика (simple):
+	transmitter power
+Results for мощность переменного (постоянного) тока (simple):
+	power of alternating (constant) current
+Results for мощность питания анода (simple):
+	power of power supply of the anode
+Results for мощность, подводимая к антенне (simple):
+	the power brought to the antenna
+Results for мощность потребления (simple):
+	consumption power
+Results for мощность, потребляемая нагрузкой (от сети) (simple):
+	the power consumed by loading (from network)
+Results for мощность сети (simple):
+	power of network
+Results for мощность согласования (simple):
+	coordination power
+Results for мощность стандартного испытательного сигнала (simple):
+	power of a standard test signal
+Results for мощность трансформатора (simple):
+	transformer power
+Results for номинальная мощность:
+	 rated power 
+	 standard horsepower (Естественные науки)
+	 
+	 rated output (Техника)
+	 
+Results for пиковая мощность:
+	 peak power (Естественные науки)
+	 
+	 peak capacity (Компьютеры)
+	 
+Results for поглощаемая мощность (simple):
+	the absorbed power
+Results for поглощённая мощность (simple):
+	the absorbed power
+Results for полезная мощность:
+	 useful power 
+	 useful horsepower (Техника)
+	 
+	 net power (Техника)
+	 
+Results for полная мощность:
+	 full capacity 
+	 ultimate capacity (Естественные науки)
+	 
+	 gross power (Естественные науки)
+	 
+Results for пороговая мощность (simple):
+	threshold power
+Results for предельная мощность:
+	 ultimate capacity (Компьютеры)
+	 
+	 ultimate output (Естественные науки)
+	 
+Results for приведённая мощность (simple):
+	the specified power
+Results for принимаемая мощность (simple):
+	the accepted power
+Results for просачивающаяся мощность плоской части импульса (simple):
+	the filtering power of a flat part of an impulse
+Results for проходящая мощность:
+	 throughput[ˈθru:put] (Техника)
+	 
+Results for рабочая мощность:
+	 operating capacity (Техника)
+	 
+Results for рассеиваемая мощность:
+	 power dissipation capability (Компьютеры)
+	 
+Results for рассеянная мощность:
+	 dissipated power (Техника)
+	 
+Results for (ре)активная мощность (simple):
+	(ре) active power
+Results for согласованная мощность (simple):
+	the coordinated power
+Results for средняя мощность речевого сигнала:
+	 average speech power (Компьютеры)
+	 
+Results for тепловая мощность:
+	 thermal power 
+	 thermal rating (Естественные науки)
+	 
+Results for удельная мощность:
+	 specific power (Естественные науки)
+	 
+	 specific capacity (Бизнес)
+	 
+	 power density (Техника)
+	 
+Results for управляющая мощность (simple):
+	the operating power
+Results for условная мощность (simple):
+	conditional power
+Results for установленная мощность:
+	 rated capacity 
+	 installed capacity (Техника)
+	 
+	 installed power (Техника)
+	 
+Results for (эквивалентная) мощность шума (simple):
+	(equivalent) power of noise
+Results for электромагнитная мощность (simple):
+	electromagnetic power
+Results for эффективная мощность:
+	 effective power 
+	 effective capacity (Бизнес)
+	 
+Results for бистабильный мультивибратор:
+	 bistable multi-vibrator (Компьютеры)
+	 
+	 bistable multivibrator (Техника)
+	 
+Results for ждущий [моностабильный] мультивибратор (simple):
+	the waiting [monostable] multivibrator
+Results for задающий мультивибратор:
+	 master multivibrator (Техника)
+	 
+Results for мультивибратор блока строчной развёртки (simple):
+	multivibrator of the block of lower case development
+Results for мультивибратор с задержкой (simple):
+	the multivibrator with a delay
+Results for мультивибратор с катодной (эмиттерной) связью (simple):
+	the multivibrator with cathodic (emitter) communication
+Results for (не)симметричный мультивибратор (simple):
+	(not) the symmetric multivibrator
+Results for (не)синхронизированный мультивибратор (simple):
+	(not) the synchronized multivibrator
+Results for цифровой мультиметр:
+	 digital multi-meter (Компьютеры)
+	 
+Results for электронный мультиметр (simple):
+	electronic multimeter
+Results for аналоговый мультиплексер (simple):
+	analog multiplexer
+Results for мультиплексер-демультиплексер (simple):
+	multiplexer-demultiplekser
+Results for мультиплексер передачи данных (simple):
+	data transmission multiplexer
+Results for мультиплексер с коммутацией каналов (simple):
+	multiplexer with circuit switching
+Results for мультиплексер с опросом (simple):
+	multiplexer with poll
+Results for цифровой мультиплексер (simple):
+	digital multiplexer
+Results for зарядовый мультиплет (simple):
+	charging multiplet
+Results for изотопический мультиплет (simple):
+	isotopic multiplet
+Results for квадрупольный мультиплет (simple):
+	kvadrupolny multiplet
+Results for нормальный мультиплет (simple):
+	normal multiplet
+Results for обращённый мультиплет (simple):
+	the turned multiplet
+Results for спин-орбитальный мультиплет (simple):
+	backs - an orbital multiplet
+Results for магнитный мультиполь (simple):
+	magnetic мультиполь
+Results for электрический мультиполь (simple):
+	electric мультиполь
+Results for набег фазы:
+	 phase progression (Компьютеры)
+	 
+Results for набегание ленты:
+	 tracking (Естественные науки)
+	 
+Results for наблюдатель, адаптированный к дневному свету (simple):
+	the observer adapted to a daylight
+Results for стандартный наблюдатель МКО (simple):
+	standard observer of MKO
+Results for визуальное наблюдение:
+	 sighting (Естественные науки)
+	 
+	 visual examination (Техника)
+	 
+	 visual study (Кулинария)
+	 
+	 manual observation (Естественные науки)
+	 
+Results for качественное наблюдение (simple):
+	high-quality observation
+Results for наблюдение за (не)подвижной целью (simple):
+	observation of (not) the mobile purpose
+Results for наблюдение объектов (simple):
+	observation of objects
+Results for наблюдение при измерении (simple):
+	observation at measurement
+Results for одновременное наблюдение (simple):
+	simultaneous observation
+Results for радиоветровое наблюдение (simple):
+	radio wind observation
+Results for хронометражное наблюдение (simple):
+	time observation
+Results for ассортиментный набор (simple):
+	assortment set
+Results for библиотечный набор данных (simple):
+	library data set
+Results for кнопочный набор (simple):
+	push-button set
+Results for набор временных данных (simple):
+	set of temporary data
+Results for набор знаков:
+	 character set 
+Results for набор инструментов:
+	 tool kit 
+	 kit[kɪt] (Естественные науки)
+	 
+	 set of tools (Техника)
+	 
+Results for набор кода (simple):
+	set of a code
+Results for набор команд:
+	 command set (Компьютеры)
+	 
+Results for набор мер (simple):
+	set died
+Results for набор номера:
+	 dialing 
+	 numerical selection (Техника)
+	 
+Results for набор микропрограмм (simple):
+	set of microprograms
+Results for набор приборов (simple):
+	set of devices
+Results for набор символов:
+	 character set 
+	 symbol set (Компьютеры)
+	 
+Results for набор сопротивлений:
+	 bank of resistors (Техника)
+	 
+Results for составной набор данных (simple):
+	compound data set
+Results for (астро, радио)инерциальное наведение (simple):
+	(astro, radio) inertial targeting
+Results for гиперболическое наведение (simple):
+	hyperbolic targeting
+Results for командное наведение:
+	 command guidance (Техника)
+	 
+Results for лазерное наведение:
+	 laser targeting 
+Results for наведение антенны:
+	 antenna position control (Компьютеры)
+	 
+	 antenna steering (Техника)
+	 
+Results for наведение луча на цель (simple):
+	aiming of a beam at the purpose
+Results for наведение методом погони:
+	 pursuit guidance (Техника)
+	 
+Results for наведение на конечном (среднем, стартовом) участке траектории (simple):
+	targeting on final (average, starting) the site of a trajectory
+Results for наведение нескольких ракет (simple):
+	targeting of several rockets
+Results for наведение по азимуту (радиолучу) (simple):
+	targeting on an azimuth (radio beam)
+Results for наведение по данным о гравитационном поле (магнитном поле Земли, местности) (simple):
+	targeting by data about gravitational field (magnetic field of Earth, area)
+Results for наведение по каналам связи (simple):
+	targeting on communication channels
+Results for наведение по командам с Земли (simple):
+	targeting according to teams from Earth
+Results for наведение по курсу (simple):
+	targeting at the rate
+Results for наведение по магнитному полю цели (simple):
+	targeting on magnetic field of the purpose
+Results for наведение помех:
+	 noise induction (Компьютеры)
+	 
+Results for наведение по проводам:
+	 wire guidance (Техника)
+	 
+Results for наведение по программе (simple):
+	targeting according to the program
+Results for наведение при вхождении в плотные слои атмосферы (simple):
+	targeting at entry into dense beds of the atmosphere
+Results for наведение при оптическом слежении (simple):
+	targeting at optical tracking
+Results for наведение ракет дальнего действия (simple):
+	targeting of long-range missiles
+Results for наведение с Земли по сигналам бортовой РЛС обнаружения целей (simple):
+	targeting from Earth on signals of onboard radar station is more whole than detection
+Results for наведение с Земли по сигналам бортовой телевизионной станции (simple):
+	targeting from Earth on signals of the onboard television station
+Results for наведение сигнала на катушке датчика (simple):
+	targeting of a signal on the sensor coil
+Results for наведение с помощью астро(радио)навигационных средств (simple):
+	targeting by means of astro (radio) of navigation aids
+Results for пассивное наведение (simple):
+	passive targeting
+Results for программное наведение:
+	 preset guidance (Техника)
+	 
+Results for радиолокационное наведение:
+	 radar guidance (Техника)
+	 
+Results for (астро)инерциальная навигация (simple):
+	(astro) inertial navigation
+Results for астрономическая навигация:
+	 celestial navigation (Техника)
+	 
+Results for ближняя навигация:
+	 short-range navigation (Техника)
+	 
+Results for воздушная навигация:
+	 aerial navigation (Техника)
+	 
+Results for гиперболическая навигация:
+	 hyperbolic navigation (Техника)
+	 
+Results for дальняя космическая навигация (simple):
+	distant space navigation
+Results for доплеровская навигация (simple):
+	Doppler navigation
+Results for инструментальная навигация (simple):
+	tool navigation
+Results for зональная навигация:
+	 area navigation (Техника)
+	 
+Results for маршрутная навигация (simple):
+	route navigation
+Results for навигация по гравитационному полю Земли (simple):
+	navigation on gravitational field of Earth
+Results for навигация по лучу глиссадного радиомаяка (simple):
+	navigation on a beam of the glissadny radio beacon
+Results for навигация по рельефу местности (simple):
+	navigation on a land relief
+Results for радиолокационная навигация:
+	 radar navigation (Техника)
+	 
+Results for высокочастотная наводка (simple):
+	high-frequency aiming
+Results for наводка в антенне (simple):
+	aiming in the antenna
+Results for наводка на устройство (simple):
+	aiming on the device
+Results for наводка по цепи питания (simple):
+	aiming on a power-supply circuit
+Results for наводчик на цель (simple):
+	the tipper-of on the purpose
+Results for (бес)контактный нагрев (simple):
+	(demon) contact heating
+Results for быстрый нагрев:
+	 flash heat (Техника)
+	 
+Results for высокочастотный нагрев:
+	 high-frequency heating (Естественные науки)
+	 
+	 electronic heating (Компьютеры)
+	 
+Results for индукционный нагрев:
+	 induction heating (Естественные науки)
+	 
+	 induction heat (Техника)
+	 
+Results for интенсивный нагрев (simple):
+	intensive heating
+Results for косвенный нагрев:
+	 indirect heating (Естественные науки)
+	 
+Results for кратко(одно)временный нагрев (simple):
+	briefly (one) temporary heating
+Results for местный нагрев (simple):
+	local heating
+Results for многократный нагрев (simple):
+	repeated heating
+Results for нагрев бегущей волной (simple):
+	heating by the running wave
+Results for нагрев изнутри (simple):
+	heating from within
+Results for нагрев контактов (simple):
+	heating of contacts
+Results for нагрев при работе (simple):
+	heating during the work
+Results for нагрев снаружи (simple):
+	heating outside
+Results for нагрев электронным лучом (simple):
+	having heated an electronic beam
+Results for (не)равномерный нагрев (simple):
+	(not) uniform heating
+Results for нестационарный нагрев (simple):
+	non-stationary heating
+Results for односторонний нагрев (simple):
+	unilateral heating
+Results for поверхностный нагрев (simple):
+	superficial heating
+Results for повторный нагрев:
+	 reheating (Естественные науки)
+	 
+	 reheat[ˈri:ˈhi:t] (Техника)
+	 
+Results for поперечный нагрев (simple):
+	cross heating
+Results for последовательный нагрев (simple):
+	consecutive heating
+Results for предварительный нагрев:
+	 preheating (Техника)
+	 
+Results for продольный нагрев (simple):
+	longitudinal heating
+Results for прямой нагрев:
+	 direct heating (Естественные науки)
+	 
+Results for сверхвысокочастотный [СВЧ-] нагрев (simple):
+	superhigh-frequency [the microwave oven-] heating
+Results for совместный нагрев (simple):
+	joint heating
+Results for сплошной нагрев (simple):
+	continuous heating
+Results for лазерное нагревание (simple):
+	laser heating
+Results for нагревание плазмы (simple):
+	plasma heating
+Results for циклическое нагревание (simple):
+	cyclic heating
+Results for абонентская нагрузка (simple):
+	subscriber loading
+Results for анодная нагрузка:
+	 anode load (Компьютеры)
+	 
+Results for безындуктивная нагрузка (simple):
+	bezynduktivny loading
+Results for большая нагрузка:
+	 heavy load (Техника)
+	 
+Results for в(ис)ходящая нагрузка (simple):
+	in (ис) the going loading
+Results for внутристанционная нагрузка (simple):
+	intra station loading
+Results for водяная (волноводная) нагрузка (simple):
+	water (waveguide) loading
+Results for высоко(низко)омная нагрузка (simple):
+	highly (low) omny loading
+Results for двухсторонняя нагрузка (simple):
+	bilateral loading
+Results for допустимая токовая нагрузка (simple):
+	permissible current load
+Results for ёмкостная нагрузка (simple):
+	capacitor loading
+Results for избыточная нагрузка (simple):
+	excess loading
+Results for изменяющаяся нагрузка (simple):
+	the changing loading
+Results for индуктивная нагрузка:
+	 inductive loading (Техника)
+	 
+Results for информационная нагрузка (simple):
+	information loading
+Results for катодная нагрузка:
+	 cathode load (Компьютеры)
+	 
+Results for критическая нагрузка:
+	 ultimate load (Естественные науки)
+	 
+	 critical load (Естественные науки)
+	 
+Results for межгрупповая нагрузка (simple):
+	intergroup loading
+Results for междугородная телефонная нагрузка (simple):
+	long-distance telephone loading
+Results for местная нагрузка:
+	 local load (Техника)
+	 
+Results for механическая нагрузка на воздушную линию (simple):
+	mechanical load of an air-line
+Results for нагрузка антенны (simple):
+	antenna loading
+Results for нагрузка волноводной линии (simple):
+	loading of the waveguide line
+Results for нагрузка линии передачи (simple):
+	transmission line loading
+Results for нагрузка на единицу длины (поверхности) (simple):
+	loading per unit length (surfaces)
+Results for нагрузка на шину:
+	 load on the tire (Техника)
+	 
+Results for нагрузка, обусловленная электронным пучком (simple):
+	the loading caused by an electron beam
+Results for нагрузка оконечного каскада (simple):
+	loading of the terminal cascade
+Results for нагрузка резонатора (simple):
+	resonator loading
+Results for (не)согласованная нагрузка (simple):
+	not coordinated loading
+Results for оконечная нагрузка:
+	 terminating load (Техника)
+	 
+Results for омическая нагрузка:
+	 resistive load (Техника)
+	 
+Results for отрицательная нагрузка (simple):
+	negative loading
+Results for пиковая нагрузка:
+	 peak load (Естественные науки)
+	 
+Results for поглощающая нагрузка (simple):
+	the absorbing loading
+Results for подключённая нагрузка (simple):
+	the connected loading
+Results for полезная нагрузка:
+	 payload[ˈpeɪləud] 
+	 useful load (Естественные науки)
+	 
+	 effective load (Кулинария)
+	 
+Results for полная нагрузка:
+	 total load (Естественные науки)
+	 
+	 overall load (Техника)
+	 
+	 full load (Естественные науки)
+	 
+	 gross load (Техника)
+	 
+Results for потерянная нагрузка (simple):
+	the lost loading
+Results for предельная нагрузка:
+	 maximum load 
+	 ultimate load (Естественные науки)
+	 
+Results for приведённая нагрузка (simple):
+	the given loading
+Results for пробная нагрузка:
+	 trial load (Естественные науки)
+	 
+Results for проверочная нагрузка (simple):
+	test loading
+Results for продолжительная нагрузка (simple):
+	long loading
+Results for распределённая нагрузка (simple):
+	the distributed loading
+Results for (ре)активная нагрузка (simple):
+	(ре) active loading
+Results for симметричная нагрузка:
+	 balanced load (Естественные науки)
+	 
+	 symmetrical load (Техника)
+	 
+Results for скользящая нагрузка:
+	 sheave[ʃi:v] (Естественные науки)
+	 
+Results for случайная нагрузка:
+	 random load (Техника)
+	 
+Results for сосредоточенная нагрузка:
+	 lumped load (Компьютеры)
+	 
+	 concentrated load (Техника)
+	 
+Results for телеграфная нагрузка (simple):
+	cable loading
+Results for телефонная нагрузка:
+	 telephone traffic (Техника)
+	 
+Results for транзитная нагрузка (simple):
+	transit loading
+Results for ударная нагрузка:
+	 shock load (Естественные науки)
+	 
+	 impact load (Естественные науки)
+	 
+Results for фронтальная акустическая нагрузка (simple):
+	frontal acoustic loading
+Results for электрическая нагрузка:
+	 electrical load (Техника)
+	 
+Results for высокая надёжность (simple):
+	high reliability
+Results for долго(кратко)временная надёжность (simple):
+	long (briefly) temporary reliability
+Results for надёжность в эксплуатации (simple):
+	reliability in operation
+Results for надёжность изготовления (simple):
+	reliability of production
+Results for надёжность канала связи (simple):
+	reliability of a communication channel
+Results for надёжность компонента (simple):
+	reliability of a component
+Results for надёжность конструкции (simple):
+	reliability of a design
+Results for надёжность обнаружения (simple):
+	reliability of detection
+Results for надёжность (отдельных) частей системы (simple):
+	reliability (separate) parts of system
+Results for надёжность системы (simple):
+	reliability of system
+Results for надёжность узла (simple):
+	reliability of knot
+Results for низкая надёжность (simple):
+	low reliability
+Results for повышенная надёжность (simple):
+	the increased reliability
+Results for расчётная надёжность (simple):
+	settlement reliability
+Results for собственная надёжность (simple):
+	own reliability
+Results for технический надзор:
+	 technical advice (Техника)
+	 
+Results for контактное нажатие (simple):
+	contact pressing
+Results for косвенный накал (simple):
+	indirect heat
+Results for накал катода (simple):
+	heat of the cathode
+Results for накал от батареи (simple):
+	heat from the battery
+Results for повышенный накал (simple):
+	the increased heat
+Results for прямой накал (simple):
+	direct heat
+Results for накапливание сигнала (simple):
+	accumulation of a signal
+Results for накатка резьбы:
+	 thread rolling (Техника)
+	 
+Results for взрывная накачка лазера (simple):
+	explosive rating of the laser
+Results for вне(внутри)резонаторная накачка (simple):
+	out of (inside) rezonatorny rating
+Results for волноводная накачка (simple):
+	the waveguide rating
+Results for гамма-накачка (simple):
+	gamma rating
+Results for импульсная накачка (simple):
+	pulse rating
+Results for интенсивная накачка (simple):
+	intensive rating
+Results for квадрупольная накачка (simple):
+	kvadrupolny rating
+Results for лазерная накачка:
+	 laser pumping (Естественные науки)
+	 
+Results for магнитная накачка (simple):
+	magnetic rating
+Results for магнитостатическая накачка (simple):
+	magnetostatic rating
+Results for магнитоупругая накачка (simple):
+	magnetoelastic rating
+Results for много(одно)модовая накачка (simple):
+	many (one) modovy rating
+Results for многоуровневая накачка:
+	 multilevel pump (Техника)
+	 
+Results for много(одно)частотная накачка (simple):
+	many (one) frequency rating
+Results for монохроматическая накачка (simple):
+	monochromatic rating
+Results for накачка бегущей волной (simple):
+	rating the running wave
+Results for накачка импульсной лампой (simple):
+	rating pulse lamp
+Results for накачка на двух частотах:
+	 double pump (Компьютеры)
+	 
+Results for накачка на основной частоте:
+	 fundamental pumping (Компьютеры)
+	 
+Results for накачка с помощью разряда батареи конденсаторов (simple):
+	rating by means of the category of the battery of condensers
+Results for накачка ударной волной (simple):
+	rating shock wave
+Results for накачка электрическим полем (simple):
+	rating electric field
+Results for накачка электронным пучком (simple):
+	rating electron beam
+Results for некогерентная накачка (simple):
+	incoherent rating
+Results for (не)однородная накачка (simple):
+	(not) uniform rating
+Results for непрерывная накачка (simple):
+	continuous rating
+Results for оптическая накачка (simple):
+	optical rating
+Results for параметрическая накачка (simple):
+	parametrical rating
+Results for поперечная накачка (simple):
+	cross rating
+Results for продольная накачка (simple):
+	longitudinal rating
+Results for противофазная накачка (simple):
+	antiphase rating
+Results for пушпульная накачка (simple):
+	pushpulny rating
+Results for селективная накачка (simple):
+	selective rating
+Results for синфазная накачка:
+	 in-phase pump (Техника)
+	 
+Results for спин-волновая накачка (simple):
+	backs - a wave rating
+Results for ступенчатая [пушпушная] накачка (simple):
+	step [pushpushny] rating
+Results for (суб)гармоническая накачка (simple):
+	(sub) harmonious rating
+Results for торцевая накачка (simple):
+	face rating
+Results for упругая накачка (simple):
+	elastic rating
+Results for фононная накачка (simple):
+	phonon rating
+Results for химическая накачка (simple):
+	chemical rating
+Results for электромагнитная накачка (simple):
+	electromagnetic rating
+Results for электронная накачка (simple):
+	electronic rating
+Results for электроразрядная накачка (simple):
+	electrodigit rating
+Results for ядерная накачка (simple):
+	nuclear rating
+Results for наклон волнового фронта (simple):
+	inclination of the wave front
+Results for наклон касательной (simple):
+	tangent inclination
+Results for наклон луча (simple):
+	beam inclination
+Results for наклон профиля поверхности (simple):
+	surface profile inclination
+Results for наклон резонансной кривой (simple):
+	inclination of a resonant curve
+Results for нормированный наклон (simple):
+	rated inclination
+Results for относительный наклон (simple):
+	relative inclination
+Results for наконечник излучателя (simple):
+	radiator tip
+Results for наконечник магнитной головки (simple):
+	tip of a magnetic head
+Results for наконечник паяльника:
+	 soldering iron tip (Компьютеры)
+	 
+Results for наконечник предохранителя (simple):
+	safety lock tip
+Results for наконечник щупа:
+	 probe tip (Техника)
+	 
+Results for полюсный наконечник:
+	 pole-shoe (Естественные науки)
+	 
+Results for ёмкостный накопитель (simple):
+	capacitor store
+Results for индуктивный накопитель (simple):
+	inductive store
+Results for когерентный накопитель (simple):
+	coherent store
+Results for накопитель вызываемых сигналов (simple):
+	the store of the caused signals
+Results for накопитель импульсов (simple):
+	store of impulses
+Results for накопитель на бегущей ленте (simple):
+	the store on the running tape
+Results for накопитель на гибких магнитных дисках:
+	 floppy-disk store 
+Results for накопитель на кассетной (магнитной) ленте (simple):
+	the store on a cassette (magnetic) tape
+Results for накопитель на магнитных картах:
+	 magnetic card storage (Компьютеры)
+	 
+	 magnetic card store (Техника)
+	 
+Results for накопитель прерываний (simple):
+	store of interruptions
+Results for накопитель с набором узкополосных фильтров (simple):
+	the store with a set of narrow-band filters
+Results for накопитель со статической памятью (simple):
+	the store with static memory
+Results for накопитель типа «винчестер» (simple):
+	"winchester" store
+Results for накопитель управления доступом (simple):
+	store of management of access
+Results for накопитель числа (simple):
+	number store
+Results for накопитель энергии (simple):
+	energy store
+Results for накопление во времени (simple):
+	accumulation in time
+Results for накопление данных (simple):
+	accumulation of data
+Results for накопление дырок (заряда) (simple):
+	accumulation of holes (charge)
+Results for накопление (неосновных) носителей (simple):
+	accumulation (nonbasic) carriers
+Results for накопление парамагнитных центров (simple):
+	accumulation of the paramagnetic centers
+Results for накопление погрешности (simple):
+	accumulation of an error
+Results for накопление сигнала (simple):
+	accumulation of a signal
+Results for накопление электронов (simple):
+	accumulation of electrons
+Results for ограниченное накопление объёмного заряда (simple):
+	limited accumulation of a volume charge
+Results for поверхностное накопление (simple):
+	superficial accumulation
+Results for наличие высших гармоник (simple):
+	existence of the highest harmonicas
+Results for наличие сигнала (simple):
+	existence of a signal
+Results for наложение записи (simple):
+	record imposing
+Results for наложение изображений (simple):
+	imposing of images
+Results for наложение импульсов (simple):
+	imposing of impulses
+Results for наложение колебаний (simple):
+	imposing of fluctuations
+Results for наложение маски (simple):
+	imposing of a mask
+Results for наложение отражённых сигналов (simple):
+	imposing of the reflected signals
+Results for наложение спектров (simple):
+	imposing of ranges
+Results for наложение строк (simple):
+	imposing of lines
+Results for наложение фаз (simple):
+	imposing of phases
+Results for макроскопическая намагниченность (simple):
+	macroscopic magnetization
+Results for намагниченность вещества (simple):
+	magnetization of substance
+Results for намагниченность насыщения:
+	 saturation magnetization (Естественные науки)
+	 
+Results for намагниченность подрешётки (simple):
+	magnetization of a sublattice
+Results for обратимая намагниченность (simple):
+	reversible magnetization
+Results for остаточная намагниченность:
+	 remanence (Естественные науки)
+	 
+	 residual magnetization (Естественные науки)
+	 
+Results for поперечная намагниченность (simple):
+	cross magnetization
+Results for постоянная намагниченность (simple):
+	constant magnetization
+Results for продольная намагниченность (simple):
+	longitudinal magnetization
+Results for результирующая намагниченность:
+	 net magnetization (Естественные науки)
+	 
+Results for самопроизвольная намагниченность:
+	 spontaneous magnetization (Техника)
+	 
+Results for спонтанная намагниченность (simple):
+	spontaneous magnetization
+Results for статическая намагниченность (simple):
+	static magnetization
+Results for безгистерезисное намагничивание (simple):
+	bezgisterezisny magnetization
+Results for истинное намагничивание (simple):
+	true magnetization
+Results for намагничивание в результате нагрева (simple):
+	magnetization as a result of heating
+Results for намагничивание за счёт вращения (simple):
+	magnetization due to rotation
+Results for намагничивание за счёт движения доменных границ (simple):
+	magnetization due to the movement of domain borders
+Results for намагничивание током (simple):
+	magnetization by current
+Results for безындукционная намотка (simple):
+	non-inductive winding
+Results for (бес)каркасная намотка (simple):
+	(demon) frame winding
+Results for бифилярная намотка (simple):
+	bifilyarny winding
+Results for дикая намотка (simple):
+	wild winding
+Results for дисковая намотка (simple):
+	disk winding
+Results for намотка витков (simple):
+	winding of rounds
+Results for намотка внахлёстку (simple):
+	winding vnakhlyostka
+Results for намотка в один ряд (слой) (simple):
+	winding in one row (layer)
+Results for намотка впритык (simple):
+	winding end-to-end
+Results for намотка вразброс (simple):
+	winding randomly
+Results for намотка с зазором (simple):
+	winding with a gap
+Results for намотка с перекрытием (simple):
+	winding with overlapping
+Results for однородная намотка (simple):
+	uniform winding
+Results for ручная намотка (simple):
+	manual winding
+Results for рядовая намотка (simple):
+	ordinary winding
+Results for сотовая намотка (simple):
+	cellular winding
+Results for нанесение (металлических) покрытий (simple):
+	drawing (metal) coverings
+Results for нанесение меток:
+	 marking[ˈmɑ:kɪŋ] (Техника)
+	 
+Results for нанесение тонких плёнок (simple):
+	drawing thin films
+Results for наползание изображения (simple):
+	napolzany images
+Results for кристаллографическое направление (simple):
+	crystallographic direction
+Results for направление антенны на объект (simple):
+	the direction of the antenna on an object
+Results for направление брэгговского рассеяния (simple):
+	direction of breggovsky dispersion
+Results for направление вращения:
+	 rotation sense (Естественные науки)
+	 
+	 sign of rotation (Естественные науки)
+	 
+	 rotating direction (Техника)
+	 
+Results for направление действия сигнала (simple):
+	direction of action of a signal
+Results for направление излучения (simple):
+	direction of radiation
+Results for направление лёгкого (трудного) намагничивания (simple):
+	direction of easy (difficult) magnetization
+Results for направление луча на антенну (simple):
+	the direction of a beam on the antenna
+Results for направление наблюдения (simple):
+	direction of observation
+Results for направление наведённого тока (simple):
+	the direction of the induced current
+Results for направление намагниченности (simple):
+	direction of magnetization
+Results for направление намотки обмотки (simple):
+	direction of winding of a winding
+Results for направление обхода контура:
+	 direction of traversal (Техника)
+	 
+Results for направление отклонения луча (simple):
+	direction of a deviation of a beam
+Results for направление передачи (simple):
+	direction of transfer
+Results for направление плотной упаковки (simple):
+	direction of dense packing
+Results for направление поляризации (simple):
+	direction of polarization
+Results for направление потока:
+	 flow direction (Естественные науки)
+	 
+	 stream direction (Техника)
+	 
+Results for направление приёма (simple):
+	direction of reception
+Results for направление развёртки (simple):
+	direction of development
+Results for направление распространения волн:
+	 sea direction (Техника)
+	 
+Results for направление роста (simple):
+	direction of growth
+Results for направление связи:
+	 communications link (Техника)
+	 
+Results for направление сканирования (simple):
+	direction of scanning
+Results for направление сканирующего луча (simple):
+	the direction of the scanning beam
+Results for направление тока (simple):
+	direction of current
+Results for направление туннелирования (simple):
+	direction of tunneling
+Results for обратное [запирающее] направление (simple):
+	the opposite [locking] direction
+Results for опорное направление (simple):
+	basic direction
+Results for прямое [проводящее] направление (simple):
+	the direct [carrying-out] direction
+Results for равносигнальное направление (simple):
+	equal-signal direction
+Results for направляющая ленты (simple):
+	directing tapes
+Results for направляющая потока воздуха (simple):
+	air stream guide
+Results for активное напряжение (simple):
+	active tension
+Results for амплитудное напряжение:
+	 peak voltage (Техника)
+	 
+Results for анизотропное напряжение (simple):
+	anisotropic tension
+Results for анодное напряжение:
+	 anode voltage (Компьютеры)
+	 
+Results for внутреннее напряжение:
+	 internal stress (Естественные науки)
+	 
+Results for вторичное напряжение:
+	 secondary voltage (Техника)
+	 
+Results for в(вы)ходное напряжение (simple):
+	in (you) hodny tension
+Results for действующее напряжение:
+	 effective stress (Естественные науки)
+	 
+	 actual stress (Техника)
+	 
+Results for запирающее напряжение [напряжение запирания] (simple):
+	the locking tension [locking tension]
+Results for избыточное напряжение (simple):
+	excess tension
+Results for калибровочное напряжение (simple):
+	calibration tension
+Results for катодное напряжение (simple):
+	cathodic tension
+Results for коллекторное напряжение (simple):
+	collector tension
+Results for коммутируемое напряжение (simple):
+	the switched tension
+Results for комплексное напряжение (simple):
+	complex tension
+Results for магнитомеханическое напряжение (simple):
+	magnetomechanical tension
+Results for магнитострикционное напряжение (simple):
+	magnetostriction tension
+Results for наведённое напряжение (simple):
+	the induced tension
+Results for напряжение базы [базовое напряжение] (simple):
+	tension of base [basic tension]
+Results for напряжение ветви (simple):
+	branch tension
+Results for напряжение в закрытом (открытом) состоянии (simple):
+	tension in the closed (open) state
+Results for напряжение видеосигнала (simple):
+	video signal tension
+Results for напряжение включения:
+	 switch-on voltage (Техника)
+	 
+Results for напряжение возбуждения:
+	 exciting voltage (Техника)
+	 
+Results for напряжение возникновения коронного (тлеющего) разряда (simple):
+	tension of emergence of the crown (smoldering) category
+Results for напряжение вольтодобавки (simple):
+	voltodobavka tension
+Results for напряжение (в режиме) короткого замыкания (simple):
+	tension (in the mode) short circuit
+Results for напряжение (в режиме) холостого хода (simple):
+	tension (in the mode) idling
+Results for напряжение вспомогательного разряда (simple):
+	tension of the auxiliary category
+Results for напряжение гашения:
+	 blanking voltage (Техника)
+	 
+Results for напряжение затвора:
+	 gate voltage (Компьютеры)
+	 
+Results for напряжение, индуцированное диффузией (simple):
+	tension induced by diffusion
+Results for напряжение истока:
+	 source voltage (Техника)
+	 
+Results for напряжение коррекции фокусировки (simple):
+	focusing correction tension
+Results for напряжение лавинного (туннельного) пробоя (simple):
+	tension of avalanche (tunnel) breakdown
+Results for напряжение логического порога (simple):
+	tension of a logical threshold
+Results for напряжение между подогревателем и катодом (simple):
+	tension between the heater and the cathode
+Results for напряжение модулирующего сигнала (simple):
+	tension of the modulating signal
+Results for напряжение на выходе схемы дифференцирования (simple):
+	tension at the release of the scheme of differentiation
+Results for напряжение на границе раздела (simple):
+	tension on limit of the section
+Results for напряжение на домене (simple):
+	tension on the domain
+Results for напряжение на зажимах источника (simple):
+	tension on source clips
+Results for напряжение накала:
+	 filament supply voltage (Техника)
+	 
+Results for напряжение накачки:
+	 pump voltage (Техника)
+	 
+Results for напряжение на нагрузке (simple):
+	tension on loading
+Results for напряжение насыщения:
+	 saturation voltage (Естественные науки)
+	 
+Results for напряжение начала счёта (simple):
+	tension of the beginning of the account
+Results for напряжение нейтрализации (simple):
+	neutralization tension
+Results for напряжение обратного выброса (simple):
+	tension of the return emission
+Results for напряжение (обратного) зажигания (simple):
+	tension (return) ignition
+Results for напряжение обратного пробоя (смещения) (simple):
+	tension of the return breakdown (shift)
+Results for напряжение обратного хода луча (simple):
+	tension of reverse motion of a beam
+Results for напряжение относительно земли:
+	 potential above earth (Техника)
+	 
+Results for напряжение отпирания (simple):
+	unlocking tension
+Results for напряжение отпускания (simple):
+	otpuskaniye tension
+Results for напряжение отражателя (simple):
+	reflector tension
+Results for напряжение отсечки:
+	 cutoff voltage (Естественные науки)
+	 
+	 shut-off voltage (Техника)
+	 
+Results for напряжение переноса (simple):
+	transfer tension
+Results for напряжение питания:
+	 supply voltage 
+	 power supply voltage (Естественные науки)
+	 
+	 source voltage (Техника)
+	 
+Results for напряжение поддержания (прекращения) разряда (simple):
+	tension of maintenance (termination) of the category
+Results for напряжение подогревателя (simple):
+	heater tension
+Results for напряжение помехи (simple):
+	hindrance tension
+Results for напряжение потерь (simple):
+	tension of losses
+Results for напряжение предыонизации (simple):
+	preionization tension
+Results for напряжение прокола базы (simple):
+	tension of a puncture of base
+Results for напряжение пульсаций (simple):
+	tension of pulsations
+Results for напряжение развёртки (simple):
+	development tension
+Results for напряжение разложения:
+	 decomposition voltage (Техника)
+	 
+Results for напряжение раствора (simple):
+	solution tension
+Results for напряжение растяжения [растягивающее напряжение] (simple):
+	the stretching tension [stretching tension]
+Results for напряжение самопробоя:
+	 self-breakdown voltage (Техника)
+	 
+Results for напряжение сведения лучей (simple):
+	tension of the data of beams
+Results for напряжение сдвига [сдвиговое напряжение] (simple):
+	shift tension [shift tension]
+Results for напряжение сети:
+	 mains voltage (Техника)
+	 
+Results for напряжение сигнала рассогласования (simple):
+	mismatch signal tension
+Results for напряжение сигнала цветности (simple):
+	tension of a signal of chromaticity
+Results for напряжение смещения:
+	 bias voltage (Техника)
+	 
+Results for напряжение срабатывания:
+	 actuation voltage (Техника)
+	 
+Results for напряжение стирания (simple):
+	deleting tension
+Results for напряжение стока:
+	 drain voltage (Техника)
+	 
+Results for напряжение топливного элемента (simple):
+	tension of a fuel element
+Results for напряжение уровня фиксации (simple):
+	fixing level tension
+Results for напряжение флуктуаций (simple):
+	tension of fluctuations
+Results for напряжение формовки (simple):
+	molding tension
+Results for напряжение Холла:
+	 hall voltage (Техника)
+	 
+Results for напряжение хорды (simple):
+	chord tension
+Results for напряжение шума [шумовое напряжение] (simple):
+	noise tension [noise tension]
+Results for напряжение экстракции (simple):
+	extraction tension
+Results for напряжение электрического пробоя в линиях передачи (simple):
+	tension of electric breakdown in transmission lines
+Results for (не)отпирающее напряжение (simple):
+	not unlocking tension
+Results for несинфазное напряжение (simple):
+	not inphase tension
+Results for номинальное напряжение:
+	 rated voltage 
+	 nominal stress (Естественные науки)
+	 
+	 nominal voltage (Техника)
+	 
+	 voltage rating (Естественные науки)
+	 
+Results for обратное напряжение:
+	 reverse voltage (Техника)
+	 
+Results for опорное напряжение:
+	 reference voltage (Естественные науки)
+	 
+Results for основное напряжение (simple):
+	main tension
+Results for остаточное напряжение:
+	 residual stress (Естественные науки)
+	 
+Results for осциллирующее напряжение (simple):
+	oscillating tension
+Results for отклоняющее напряжение:
+	 deflecting voltage (Техника)
+	 

@@ -1,0 +1,2316 @@
+Results for блок матриц логических элементов (simple):
+	block of matrixes of logical elements
+Results for блок метки (simple):
+	tag block
+Results for блок монтажа (simple):
+	installation block
+Results for блок начальной загрузки:
+	 boot block (Компьютеры)
+	 
+Results for блок нелинейности (simple):
+	nonlinearity block
+Results for блок непрерывного действия (simple):
+	block of continuous action
+Results for блок опорных частот (simple):
+	block of basic frequencies
+Results for блок определения файла:
+	 file identification block (Компьютеры)
+	 
+Results for блок памяти:
+	 memory block (Естественные науки)
+	 
+	 memory unit (Компьютеры)
+	 
+Results for блок питания от сети:
+	 power supply unit (Естественные науки)
+	 
+Results for блок подстройки:
+	 tuning unit (Техника)
+	 
+Results for блок приёма цветного телевидения (simple):
+	block of reception of color television
+Results for блок принятия решения (simple):
+	decision-making block
+Results for блок развёртки (simple):
+	development block
+Results for блок сопряжения (simple):
+	interface block
+Results for блок сравнения:
+	 comparison unit (Техника)
+	 
+Results for блок строчной синхронизации (simple):
+	block of lower case synchronization
+Results for блок суммирования (simple):
+	summation block
+Results for блок-схема устройства (simple):
+	flowchart of the device
+Results for блок телевизионного приёмника (simple):
+	block of the television receiver
+Results for блок транспонирования частоты (simple):
+	block of transposing of frequency
+Results for блок управления каналом (линией) (simple):
+	line control block (line)
+Results for блок хранения информации (simple):
+	block of storage of information
+Results for блок электронной рирпроекции (simple):
+	block of an electronic back projection
+Results for блок электропитания:
+	 electrical power unit (Естественные науки)
+	 
+Results for блок эталонных величин (simple):
+	block of reference sizes
+Results for воспринимающий блок:
+	 sensing unit (Техника)
+	 
+Results for высоковольтный блок (simple):
+	high-voltage block
+Results for высокочастотный блок:
+	 radio-frequency unit (Техника)
+	 
+	 radio-frequency head (Техника)
+	 
+Results for дифференциальный блок (simple):
+	differential block
+Results for задающий блок:
+	 set unit (Техника)
+	 
+Results for исполнительный блок:
+	 executive unit (Техника)
+	 
+Results for катодный блок (simple):
+	cathodic block
+Results for кварцевый блок (simple):
+	quartz block
+Results for перфорирующий блок (simple):
+	the punching block
+Results for преобразующий блок (simple):
+	reformative block
+Results for разнорезонаторный блок (simple):
+	raznorezonatorny block
+Results for релейный блок:
+	 relay unit (Техника)
+	 
+Results for селекторный блок:
+	 strobe unit (Техника)
+	 
+Results for синхронизирующий блок (simple):
+	the synchronizing block
+Results for усилительный блок:
+	 amplifier unit (Техника)
+	 
+Results for блокировка дорожки (simple):
+	blocking of a path
+Results for блокировка клавиатуры:
+	 key board locking (Компьютеры)
+	 
+Results for блокировка конца цикла (simple):
+	blocking of the end of a cycle
+Results for блокировка общего вызова:
+	 all-call lockout (Техника)
+	 
+Results for блокировка от случайного стирания (simple):
+	blocking from casual deleting
+Results for блокировка при перегрузках (simple):
+	blocking at overloads
+Results for блокировка развёртки (simple):
+	development blocking
+Results for блокировка ресурса (simple):
+	blocking of a resource
+Results for блок-схема алгоритма (simple):
+	flowchart of an algorithm
+Results for блок-схема устройства (simple):
+	flowchart of the device
+Results for блуждение зарядов (simple):
+	bluzhdeniye of charges
+Results for болометр ИК-диапазона (simple):
+	Infrared range bolometer
+Results for болометр на резистивной плёнке (simple):
+	the bolometer on a resistive film
+Results for болометр Пашена (simple):
+	Pashena bolometer
+Results for болометр с СВЧ-смещением (simple):
+	the bolometer with microwave shift
+Results for волноводный болометр (simple):
+	the waveguide bolometer
+Results for ёмкостный болометр (simple):
+	capacitor bolometer
+Results for иммерсионный болометр:
+	 immersion bolometer (Техника)
+	 
+Results for коаксиальный болометр:
+	 coaxial bolometer (Техника)
+	 
+Results for плёночный болометр (simple):
+	film bolometer
+Results for полупроводниковый болометр:
+	 semiconductor bolometer (Компьютеры)
+	 
+	 semi-conductor bolometer (Техника)
+	 
+Results for регистрирующий болометр (simple):
+	the registering bolometer
+Results for сверхпроводящий [сверхпроводниковый] болометр (simple):
+	superconducting [superconductor] bolometer
+Results for СВЧ-болометр (simple):
+	Microwave bolometer
+Results for бомбардировка катода (simple):
+	bombing of the cathode
+Results for буй радиогидроакустической системы (simple):
+	buoy of the radio hydrospeaker system
+Results for ретрансляционный буй (simple):
+	relaying buoy
+Results for телеметрический буй:
+	 data buoy (Техника)
+	 
+Results for бумага для печатающего устройства (simple):
+	paper for the printer
+Results for ионосферная буря:
+	 ionospheric storm (Техника)
+	 
+Results for магнитная буря:
+	 magnetic storm (Естественные науки)
+	 
+Results for буфер блоков:
+	 block buffer (Компьютеры)
+	 
+Results for буфер ввода-вывода (simple):
+	input-output buffer
+Results for буфер дисплея (simple):
+	display buffer
+Results for буфер команд:
+	 command buffer (Компьютеры)
+	 
+Results for буфер на кристалле (simple):
+	the buffer on a crystal
+Results for буфер с тремя состояниями выхода (simple):
+	the buffer with three conditions of an exit
+Results for быстродействие измерительной системы (simple):
+	speed of measuring system
+Results for быстродействие компьютера (simple):
+	speed of the computer
+Results for быстродействие приёмника (simple):
+	speed of the receiver
+Results for быстрота связи (simple):
+	speed of communication
+Results for бюджет пользователя (simple):
+	budget of the user
+Results for анионная вакансия (simple):
+	anion vacancy
+Results for вмороженная вакансия (simple):
+	vmorozhenny vacancy
+Results for двойная вакансия (simple):
+	double vacancy
+Results for катионная вакансия (simple):
+	cationic vacancy
+Results for кислородная вакансия (simple):
+	oxygen vacancy
+Results for поверхностная вакансия (simple):
+	superficial vacancy
+Results for вакансия в оболочке:
+	 shell vacancy (Техника)
+	 
+Results for вакуум-спектрограф:
+	 vacuum spectrograph (Естественные науки)
+	 
+Results for вакуум-фактор (simple):
+	vacuum factor
+Results for начальный вакуум:
+	 first vacuum (Естественные науки)
+	 
+	 initial vacuum (Техника)
+	 
+Results for непрерывно поддерживаемый вакуум (simple):
+	continuously supported vacuum
+Results for низкий вакуум:
+	 rough vacuum (Естественные науки)
+	 
+Results for рабочий вакуум (simple):
+	working vacuum
+Results for (сверх)высокий вакуум (simple):
+	(over) a high vacuum
+Results for средний вакуум (simple):
+	average vacuum
+Results for вакуумметр с магнитным отклонением (simple):
+	the vacuum gage with a magnetic deviation
+Results for вакуумметр с сопротивлением (simple):
+	the vacuum gage with a resistance
+Results for вакуумметр с фотоэлементом (simple):
+	the vacuum gage with a photo cell
+Results for ионизационный вакуумметр:
+	 ionization vacuum gauge (Техника)
+	 
+Results for аномальная валентность (simple):
+	abnormal valency
+Results for валентность тензора (simple):
+	tensor valency
+Results for отрицательная валентность:
+	 negative valence (Естественные науки)
+	 
+Results for положительная валентность:
+	 positive valence (Естественные науки)
+	 
+Results for валик для протяжки бумаги в принтере (simple):
+	the roller for a paper broach in the printer
+Results for варактор с МДП-структурой (simple):
+	the varactor with TIR structure
+Results for варактор с накоплением заряда (simple):
+	the varactor with accumulation of a charge
+Results for варактор со сверхрезким переходом:
+	 hyperabrupt junction varactor (Компьютеры)
+	 
+Results for варактор с плавным (резким) переходом (simple):
+	the varactor with smooth (sharp) transition
+Results for диффузионный варактор (simple):
+	diffusive varactor
+Results for кремниевый варактор (simple):
+	silicon varactor
+Results for меза-варактор (simple):
+	Meuse varactor
+Results for планарный варактор (simple):
+	planar varactor
+Results for плоскостной варактор (simple):
+	plane varactor
+Results for поверхностный варактор (simple):
+	superficial varactor
+Results for точечный варактор (simple):
+	dot varactor
+Results for формованный варактор (simple):
+	the formed varactor
+Results for эпитаксиальный варактор (simple):
+	epitaxial varactor
+Results for вариант проектного решения (simple):
+	version of the design decision
+Results for вариант решения задачи (simple):
+	version of the solution of a task
+Results for вариатор коэффициентов (simple):
+	variator of coefficients
+Results for вариатор моментов (simple):
+	variator of the moments
+Results for вариатор скорости:
+	 variable speed gear (Естественные науки)
+	 
+	 speed variator (Техника)
+	 
+Results for вариация мгновенных значений (simple):
+	variation of instant values
+Results for вариация непериодического процесса (simple):
+	variation of acyclic process
+Results for вариация показаний прибора (simple):
+	variation of instrument readings
+Results for вариация функции по данному разбиению (simple):
+	function variation on this splitting
+Results for вариация функционала (simple):
+	functionality variation
+Results for мгновенная вариация (simple):
+	instant variation
+Results for варикап в корпусе (simple):
+	варикап in the case
+Results for варикап для схем умножения частоты (simple):
+	варикап for schemes of multiplication of frequency
+Results for варикап с гибкими выводами (simple):
+	варикап with flexible conclusions
+Results for вариометр гравитационного типа (simple):
+	variometer of gravitational type
+Results for вариометр с вращающейся катушкой (simple):
+	variometer with the rotating coil
+Results for вариометр с короткозамкнутым ротором (simple):
+	variometer with a short-circuited rotor
+Results for ватт-минута (simple):
+	watt-minute
+Results for ватт-секунда:
+	 watt-second 
+Results for ватт-час:
+	 watt-hour 
+Results for астатический ваттметр:
+	 astatic wattmeter (Техника)
+	 
+Results for ваттметр проходящей мощности:
+	 feed-through power meter (Техника)
+	 
+Results for ваттметр с дельта-сигма-модемом (simple):
+	wattmeter with delta sigma modem
+Results for двухэлементный ваттметр (simple):
+	two-element wattmeter
+Results for индукционный ваттметр:
+	 induction wattmeter (Техника)
+	 
+Results for калориметрический ваттметр (simple):
+	calorimetric wattmeter
+Results for компенсационный ваттметр (simple):
+	compensation wattmeter
+Results for ламповый ваттметр (simple):
+	lamp wattmeter
+Results for поглощающий ваттметр (simple):
+	the absorbing wattmeter
+Results for пондеромоторный ваттметр:
+	 radiation-pressure power meter (Техника)
+	 
+Results for терморезисторный ваттметр (simple):
+	thermistor wattmeter
+Results for термоэлектрический ваттметр (simple):
+	thermoelectric wattmeter
+Results for электродинамический ваттметр:
+	 dynamometer type wattmeter (Техника)
+	 
+Results for электронный ваттметр:
+	 electronic power meter (Техника)
+	 
+Results for электростатический ваттметр (simple):
+	electrostatic wattmeter
+Results for введение базы данных (simple):
+	introduction of the database
+Results for введение информации в компьютер (simple):
+	introduction of information to the computer
+Results for ввод (базы) данных (simple):
+	input (bases) of data
+Results for ввод в действие:
+	 commissioning 
+Results for ввод-вывод устройства (simple):
+	input-output of the device
+Results for ввод (данных) в реальном времени (simple):
+	input (data) in real time
+Results for ввод клавиатуры (simple):
+	input of the keyboard
+Results for ввод по списку (simple):
+	input according to the list
+Results for ввод прибора (simple):
+	input of the device
+Results for ввод резерва (simple):
+	input of a reserve
+Results for ввод с клавиатуры:
+	 keyboard input (Компьютеры)
+	 
+Results for ввод с перфоленты (simple):
+	input from a punched tape
+Results for ввод с терминала (simple):
+	input from the terminal
+Results for ввод терминала (simple):
+	input of the terminal
+Results for ввод электропитания (simple):
+	input of power supply
+Results for абонентский ввод:
+	 drop entrance (Компьютеры)
+	 
+	 telephone connection (Техника)
+	 
+Results for антенный ввод:
+	 antenna lead (Компьютеры)
+	 
+	 aerial lead-in (Техника)
+	 
+Results for диалоговый ввод (simple):
+	dialogue input
+Results for дистанционный ввод задания (simple):
+	remote input of a task
+Results for задержанный ввод (simple):
+	the detained input
+Results for кабельный ввод:
+	 cable entry (Компьютеры)
+	 
+	 lead-in cable (Техника)
+	 
+Results for контрольный ввод:
+	 reference input (Техника)
+	 
+Results for отсроченный ввод (simple):
+	the delayed input
+Results for речевой ввод данных (simple):
+	speech data input
+Results for ручной ввод данных (simple):
+	manual data input
+Results for сенсорный ввод данных (simple):
+	touch input of data
+Results for сплошной ввод (simple):
+	continuous input
+Results for шинный ввод (simple):
+	tire input
+Results for штепсельный ввод:
+	 plug bushing (Техника)
+	 
+Results for ввод-вывод дисплея (simple):
+	input-output of the display
+Results for ввод-вывод по каналу (simple):
+	input-output on the channel
+Results for ввод-вывод через порт (simple):
+	input-output through port
+Results for вводы перекоммутированные изнутри (simple):
+	the inputs reswitched from within
+Results for вводы сети (simple):
+	inputs of network
+Results for веберметр с интегрирующим устройством (simple):
+	веберметр with the integrating device
+Results for ведение антенны (simple):
+	maintaining antenna
+Results for ведение базы данных:
+	 database maintenance (Компьютеры)
+	 
+Results for ведение диалога (simple):
+	conducting dialogue
+Results for ведение записей (simple):
+	conducting records
+Results for ведение наблюдений (simple):
+	conducting observations
+Results for ведение пилот-сигнала (simple):
+	maintaining pilot signal
+Results for ведение по курсу (simple):
+	maintaining at the rate
+Results for ведомство связи (simple):
+	department of communication
+Results for аксиальный вектор (simple):
+	axial vector
+Results for антиферромагнитный вектор (simple):
+	anti-ferromagnetic vector
+Results for бра(кет)-вектор (simple):
+	sconce (Siberian salmons) - a vector
+Results for вектор активности (simple):
+	activity vector
+Results for вектор боковой частоты (simple):
+	vector of side frequency
+Results for вектор Герца (simple):
+	Hertz vector
+Results for вектор импульса:
+	 momentum vector (Техника)
+	 
+Results for вектор источника (simple):
+	source vector
+Results for вектор намагниченности:
+	 magnetization vector (Естественные науки)
+	 
+Results for вектор напряжения:
+	 voltage phasor (Техника)
+	 
+Results for вектор напряжённости поля (simple):
+	vector of tension of the field
+Results for вектор несущей (simple):
+	vector of bearing
+Results for вектор обратной (прямой) решётки (simple):
+	vector of the return (direct) lattice
+Results for вектор-операнд (simple):
+	vector operand
+Results for вектор перехода (simple):
+	transition vector
+Results for вектор поля (simple):
+	field vector
+Results for вектор поляризации:
+	 polarization vector (Естественные науки)
+	 
+Results for вектор поправок (simple):
+	vector of amendments
+Results for вектор признаков (simple):
+	vector of signs
+Results for вектор примитивной ячейки (simple):
+	vector of a primitive cell
+Results for вектор приращений (simple):
+	vector of increments
+Results for вектор проектных поправок (simple):
+	vector of design amendments
+Results for вектор раздела (simple):
+	section vector
+Results for вектор скорости:
+	 velocity vector (Техника)
+	 
+Results for вектор случайной величины (simple):
+	vector of a random variable
+Results for вектор смещения:
+	 displacement vector (Техника)
+	 
+Results for вектор состояния:
+	 state vector (Естественные науки)
+	 
+Results for вектор средних (величин) (simple):
+	vector of average (sizes)
+Results for вектор-столбец:
+	 column vector (Естественные науки)
+	 
+Results for вектор-строка:
+	 row vector (Естественные науки)
+	 
+Results for вектор умова-Пойнтинга (simple):
+	Umova-Poynting's vector
+Results for вектор-функция:
+	 vector function 
+Results for вектор цветности (simple):
+	vector of chromaticity
+Results for волновой вектор:
+	 wave vector (Естественные науки)
+	 
+Results for вращающийся вектор (simple):
+	the rotating vector
+Results for единичный вектор:
+	 unit vector (Естественные науки)
+	 
+Results for кодовый вектор (simple):
+	code vector
+Results for лучевой вектор (simple):
+	beam vector
+Results for полярный вектор (simple):
+	polar vector
+Results for тестовый вектор (simple):
+	test vector
+Results for ферромагнитный вектор (simple):
+	ferromagnetic vector
+Results for быстроизменяющаяся величина (simple):
+	the fast-changing size
+Results for векторная величина:
+	 vector quantity (Техника)
+	 
+Results for величина апертуры пучка (simple):
+	bunch aperture size
+Results for величина затухания (simple):
+	attenuation size
+Results for величина искажения пятна (simple):
+	size of distortion of a spot
+Results for величина напряжения:
+	 tapping interval (Техника)
+	 
+Results for величина , обратная данной (simple):
+	size, the return this
+Results for величина порога (simple):
+	threshold size
+Results for величина приращения (simple):
+	increment size
+Results for величина с малой переменной составляющей (simple):
+	size from a small variable component
+Results for величина со знаком:
+	 signed magnitude (Компьютеры)
+	 
+Results for величина с плавающей (фиксированной) запятой (simple):
+	size from the floating (fixed) comma
+Results for величина тока:
+	 strength of current (Техника)
+	 
+Results for входная величина:
+	 input value (Техника)
+	 
+Results for затухающая величина (simple):
+	the fading size
+Results for измеряемая величина:
+	 measurand (Естественные науки)
+	 
+Results for искомая величина:
+	 the unknown the quantity sought for (Техника)
+	 
+Results for исходная величина:
+	 basic value (Техника)
+	 
+Results for комплексная величина:
+	 complex quantity (Техника)
+	 
+Results for конечная величина:
+	 finite value (Техника)
+	 
+Results for мнимая величина:
+	 imaginary quantity (Техника)
+	 
+Results for модулированная величина:
+	 modulated quantity (Техника)
+	 
+Results for незатухающая величина (simple):
+	not fading size
+Results for несинусоидальная величина (simple):
+	not sinusoidal size
+Results for (не)электрическая величина (simple):
+	(not) electrical quantity
+Results for номинальная величина (simple):
+	nominal size
+Results for обратная величина:
+	 inverse value 
+	 reciprocal value (Естественные науки)
+	 
+	 reciprocal[rɪˈsɪprəkəl] (Естественные науки)
+	 
+	 reciprocal quantity (Техника)
+	 
+Results for окончательная величина (simple):
+	final size
+Results for основная величина:
+	 fundamental quantity (Техника)
+	 
+Results for осциллирующая величина (simple):
+	oscillating size
+Results for относительная величина (simple):
+	relative size
+Results for переменная величина:
+	 variable[ˈvɛərɪəbl] 
+	 alternating quantity (Техника)
+	 
+Results for периодическая величина:
+	 periodic quantity (Техника)
+	 
+Results for пороговая величина:
+	 threshold value (Техника)
+	 
+Results for предельная величина:
+	 yield value (Естественные науки)
+	 
+	 limit value (Техника)
+	 
+	 limiting value (Техника)
+	 
+Results for приведенная [приведённая] величина (simple):
+	the specified [specified] size
+Results for производная величина:
+	 derived quantity (Техника)
+	 
+Results for результирующая величина (simple):
+	the resulting size
+Results for синусоидальная результирующая величина (simple):
+	the sinusoidal resulting size
+Results for скалярная результирующая величина (simple):
+	the scalar resulting size
+Results for фактическая результирующая величина (simple):
+	the actual resulting size
+Results for физическая результирующая величина (simple):
+	the physical resulting size
+Results for экспоненциальная результирующая величина (simple):
+	the exponential resulting size
+Results for вентиль бегущей волны (simple):
+	the gate of the running wave
+Results for вентиль криотрона (simple):
+	cryotron gate
+Results for вентиль на антиферромагнетике (simple):
+	the gate on an anti-ferromagnetic
+Results for вентиль на антиферромагнитном резонансе (simple):
+	the gate on an anti-ferromagnetic resonance
+Results for вентиль на многоэмиттерном транзисторе (simple):
+	the gate on the multiemitter transistor
+Results for вентиль на полосковой (спиральной) линии (simple):
+	the gate on the strip (spiral) line
+Results for вентиль на прямоугольном волноводе (simple):
+	the gate on a rectangular wave guide
+Results for вентиль на токовых переключателях:
+	 current mode gate (Техника)
+	 
+Results for вентиль на эффекте Холла (simple):
+	the gate on Hall's effect
+Results for вентиль с диэлектрическим заполнением (simple):
+	the gate with dielectric filling
+Results for вентиль со смещением поля (simple):
+	the gate with field shift
+Results for вентиль с поглощающим слоем (simple):
+	the gate with the absorbing layer
+Results for вентиль туннельного криотрона (simple):
+	gate of the tunnel cryotron
+Results for вентиль-формирователь (simple):
+	gate shaper
+Results for вентиль цепи накачки (simple):
+	rating chain gate
+Results for волноводный вентиль:
+	 waveguide valve (Компьютеры)
+	 
+Results for коаксиальный вентиль (simple):
+	coaxial gate
+Results for оптический вентиль [оптрон] (simple):
+	optical gate [optron]
+Results for оптический вентиль с искровым разрядником (simple):
+	the optical gate with the spark rated sportsman
+Results for полупроводниковый вентиль (simple):
+	semiconductor gate
+Results for резонансный вентиль (simple):
+	resonant gate
+Results for ртутний вентиль (simple):
+	rtutny gate
+Results for СВЧ-вентиль (simple):
+	Microwave gate
+Results for фарадеевский вентиль (вентиль на эффекте Фарадея) (simple):
+	the Faraday gate (the gate on Faraday's effect)
+Results for ферритовый вентиль:
+	 ferrite valve (Компьютеры)
+	 
+Results for электрооптический вентиль:
+	 electrooptic rectifier (Техника)
+	 
+Results for вереница волн (simple):
+	chain of waves
+Results for вереница колебаний (simple):
+	chain of fluctuations
+Results for верификатор проектных решений (simple):
+	verifier of design decisions
+Results for верификатор топологических схем (simple):
+	verifier of topological schemes
+Results for автоматическая верификация (simple):
+	automatic verification
+Results for временная верификация (simple):
+	temporary verification
+Results for верификация диктора (simple):
+	verification of the announcer
+Results for верификация функциональной корректности (эквивалентности) (simple):
+	verification of functional correctness (equivalence)
+Results for верность звуковоспроизведения (simple):
+	fidelity of sound reproduction
+Results for верность решения задачи (simple):
+	fidelity of the solution of a task
+Results for вероятность безотказной работы:
+	 probability of no failure (Естественные науки)
+	 
+	 probability of non-failure (Техника)
+	 
+Results for вероятность вылета электрона (simple):
+	probability of a departure of an electron
+Results for вероятность запроса (simple):
+	probability of inquiry
+Results for вероятность излучения (simple):
+	probability of radiation
+Results for вероятность индуцированного (спонтанного) излучения (simple):
+	probability of the induced (spontaneous) radiation
+Results for вероятность (кросс-)релаксационных переходов (simple):
+	probability (cross-) relaxation transitions
+Results for вероятность ложной тревоги (simple):
+	probability of false alarm
+Results for вероятность наступления события:
+	 probability of occurence (Техника)
+	 
+Results for вероятность необнаруженных потерь (simple):
+	probability of undetected losses
+Results for вероятность обнаружения цели (simple):
+	probability of detection of the purpose
+Results for вероятность отказа:
+	 rejection probability (Естественные науки)
+	 
+Results for вероятность ошибки (simple):
+	probability of a mistake
+Results for вероятность перехода:
+	 transition probability (Естественные науки)
+	 
+Results for вероятность поглощения:
+	 absorption probability (Техника)
+	 
+Results for вероятность потери сообщения (simple):
+	probability of loss of the message
+Results for вероятность появления необнаруженных ошибок (simple):
+	probability of emergence of undetected mistakes
+Results for вероятность правильного (не)обнаружения (simple):
+	probability of the correct detection
+Results for вероятность проникновения (simple):
+	probability of penetration
+Results for вероятность пропуска цели (simple):
+	probability of the admission of the purpose
+Results for вероятность прохождения сигнала (simple):
+	probability of passing of a signal
+Results for вероятность состояния:
+	 state probability (Естественные науки)
+	 
+Results for верхушка содержимого регистра (simple):
+	register contents top
+Results for вершина графа:
+	 node of a graph (Техника)
+	 
+Results for вершина кривой:
+	 curve peak (Естественные науки)
+	 
+Results for вершина петли гистерезиса:
+	 cusp of a hysteresis loop (Техника)
+	 
+Results for вершина стека (simple):
+	stack top
+Results for вершина угла:
+	 vertex of angle 
+	 quoin[kɔɪn] (Техника)
+	 
+Results for достижимая вершина (simple):
+	achievable top
+Results for изолированная вершина (simple):
+	the isolated top
+Results for инцидентная ребру вершина (simple):
+	incidental to an edge top
+Results for конечная вершина (simple):
+	final top
+Results for концевая вершина (simple):
+	trailer top
+Results for начальная вершина (simple):
+	initial top
+Results for (не)чётная вершина (simple):
+	(not) even top
+Results for вес (одного) разряда (simple):
+	weight (one) category
+Results for вес представленного числа (simple):
+	the weight of the presented number
+Results for вес ребра графа (simple):
+	weight of an edge of the count
+Results for ветвление на несколько путей (simple):
+	branching on several ways
+Results for ветвление резисторов (simple):
+	branching of resistors
+Results for активная ветвь (simple):
+	active branch
+Results for акустическая ветвь (simple):
+	acoustic branch
+Results for ветвь аналитической функции (simple):
+	branch of analytical function
+Results for ветвь графового дерева (simple):
+	branch of a graph tree
+Results for ветвь дендрита (simple):
+	dendrite branch
+Results for ветвь кривой:
+	 branch of a curve (Техника)
+	 
+Results for ветвь леса (simple):
+	wood branch
+Results for ветвь программы (simple):
+	program branch
+Results for ветвь радиотехники (simple):
+	radio engineering branch
+Results for ветвь сети (simple):
+	branch of network
+Results for ветвь термоэлемента (simple):
+	thermoelement branch
+Results for ветвь электрической цепи (simple):
+	branch of an electric chain
+Results for ёмкостная ветвь (simple):
+	capacitor branch
+Results for индуктивная ветвь (simple):
+	inductive branch
+Results for оптическая ветвь:
+	 optical branch (Техника)
+	 
+Results for оптическая фононная ветвь (simple):
+	optical phonon branch
+Results for ориентированная ветвь (simple):
+	the focused branch
+Results for пассивная ветвь (simple):
+	passive branch
+Results for резистивная ветвь (simple):
+	resistive branch
+Results for ветер ионов (simple):
+	wind of ions
+Results for вещание в зоне неуверенного приёма (simple):
+	broadcasting in a zone of uncertain reception
+Results for вещание по кабельной сети (simple):
+	broadcasting on cable network
+Results for вещание по проводам (simple):
+	broadcasting on wires
+Results for вещание с использованием амплитудной модуляции (simple):
+	broadcasting with use of amplitude modulation
+Results for вещание (цветного) телевидения (simple):
+	broadcasting (color) television
+Results for стереофоническое вещание (simple):
+	stereophonic broadcasting
+Results for активное вещество лазера (мазера) (simple):
+	active agent of the laser (Mather)
+Results for адгезионное взаимодействие:
+	 adhesion bond (Естественные науки)
+	 
+Results for акустооптическое взаимодействие:
+	 acousto-optical interaction (Техника)
+	 
+Results for акустоэлектрическое взаимодействие (simple):
+	acoustoelectric interaction
+Results for антиферромагнитное взаимодействие (simple):
+	anti-ferromagnetic interaction
+Results for взаимодействие вихрей с дислокациями (simple):
+	interaction of whirlwinds with dislocations
+Results for взаимодействие между вихрями (simple):
+	interaction between whirlwinds
+Results for взаимодействие носителей (simple):
+	interaction of carriers
+Results for взаимодействие осцилляторов (simple):
+	interaction of oscillators
+Results for взаимодействие открытых систем:
+	 open system interconnection (Компьютеры)
+	 
+Results for взаимодействие проводников с током (simple):
+	interaction of conductors with current
+Results for взаимодействие процессов (simple):
+	interaction of processes
+Results for взаимодействие сетей (simple):
+	interaction of networks
+Results for взаимодействие солитонов (simple):
+	interaction of solitons
+Results for взаимодействие с переносом заряда (simple):
+	interaction with transfer of a charge
+Results for взаимодействие с пользователем:
+	 user interaction (Компьютеры)
+	 
+Results for взаимодействие человека с компьютером (simple):
+	interaction of the person with the computer
+Results for ди(квадру, окту)польное взаимодействие (simple):
+	di (quadra, okta) polny interaction
+Results for зееманово взаимодействие (simple):
+	зееманово interaction
+Results for когерентное взаимодействие:
+	 coherent interaction (Техника)
+	 
+Results for коллективное взаимодействие (simple):
+	collective interaction
+Results for коллинеарное взаимодействие (simple):
+	collinear interaction
+Results for кулоновское [электростатическое] взаимодействие (simple):
+	Coulomb [electrostatic] interaction
+Results for магнитное взаимодействие (simple):
+	magnetic interaction
+Results for магнитогидродинамическое взаимодействие (simple):
+	magnetohydrodynamic interaction
+Results for магнитостатическое взаимодействие (simple):
+	magnetostatic interaction
+Results for магнитоупругое взаимодействие:
+	 magnetoelastic interaction (Техника)
+	 
+Results for магнон(спин, фонон, электрон)-фононное взаимодействие (simple):
+	магнон (backs, a phonon, an electron) - phonon interaction
+Results for межионное взаимодействие (simple):
+	interionic interaction
+Results for межмолекулярное взаимодействие:
+	 intermolecular interaction (Естественные науки)
+	 
+Results for межподрешёточное взаимодействие (simple):
+	intersublattice interaction
+Results for многодолинное взаимодействие (simple):
+	multivalley interaction
+Results for невзаимное взаимодействие (simple):
+	not mutual interaction
+Results for неколлинеарное взаимодействие (simple):
+	noncollinear interaction
+Results for нелинейное взаимодействие (simple):
+	nonlinear interaction
+Results for обменное взаимодействие:
+	 exchange interaction (Естественные науки)
+	 
+Results for однонаправленное взаимодействие (simple):
+	unidirectional interaction
+Results for оптическое взаимодействие (simple):
+	optical interaction
+Results for параметрическое взаимодействие (simple):
+	parametrical interaction
+Results for плазмонное взаимодействие (simple):
+	plazmonny interaction
+Results for противонаправленное взаимодействие (simple):
+	opposing interaction
+Results for рамановское взаимодействие (simple):
+	the Raman interaction
+Results for распределённое взаимодействие (simple):
+	the distributed interaction
+Results for резонансное взаимодействие (simple):
+	resonant interaction
+Results for сверхтонкое взаимодействие:
+	 hyperfine interaction (Естественные науки)
+	 
+Results for сильное взаимодействие:
+	 strong interaction (Техника)
+	 
+	 strong coupling (Естественные науки)
+	 
+Results for слабое взаимодействие:
+	 weak coupling (Естественные науки)
+	 
+Results for сонаправленное взаимодействие (simple):
+	sonapravlenny interaction
+Results for спин-орбитальное [L-S-] взаимодействие (simple):
+	backs - orbital [L-S-] interaction
+Results for спин(электрон)-решёточное взаимодействие (simple):
+	backs (electron) - reshyotochny interaction
+Results for спин-спиновое взаимодействие:
+	 spin-spin interaction (Естественные науки)
+	 
+Results for суперобменное [сверхобменное] взаимодействие (simple):
+	superexchange [superexchange] interaction
+Results for фонон-электронное взаимодействие (simple):
+	phonon - electronic interaction
+Results for штарковское взаимодействие (simple):
+	Stark interaction
+Results for экранированное взаимодействие (simple):
+	screened interaction
+Results for электрическое взаимодействие (simple):
+	electric interaction
+Results for электрон-магнонное взаимодействие (simple):
+	electron - magnon interaction
+Results for электронное взаимодействие (simple):
+	electronic interaction
+Results for электронно-колебательное взаимодействие (simple):
+	electronic-vibration interaction
+Results for взвешивание данных (simple):
+	weighing of data
+Results for взвешивание измеряемых величин (simple):
+	weighing of the measured sizes
+Results for повышающее взвешивание (simple):
+	the raising weighing
+Results for сверхзвуковой взрыв (simple):
+	supersonic explosion
+Results for вибратор антенны (simple):
+	antenna vibrator
+Results for вибратор Герца:
+	 Hertz douplet (Естественные науки)
+	 
+Results for вибратор с колебаниями изгиба по ширине (simple):
+	the vibrator with fluctuations of a bend on width
+Results for вибратор с колебаниями сдвига по толщине (simple):
+	the vibrator with fluctuations of shift on thickness
+Results for вибратор с контурными колебаниями (simple):
+	the vibrator with planimetric fluctuations
+Results for волновой вибратор (simple):
+	wave vibrator
+Results for изотропный вибратор (simple):
+	isotropic vibrator
+Results for кольцевой вибратор (simple):
+	ring vibrator
+Results for несимметричный вибратор:
+	 monopole (Техника)
+	 
+Results for полу(четверть)волновой вибратор (simple):
+	to floor (quarter) wave vibrator
+Results for пьезоэлектрический вибратор:
+	 piezoelectric vibrator (Техника)
+	 
+Results for свёрнутый вибратор (simple):
+	the curtailed vibrator
+Results for симметричный вибратор (simple):
+	symmetric vibrator
+Results for электромагнитный вибратор:
+	 electromagnetic vibrator (Техника)
+	 
+Results for элементарный вибратор (simple):
+	elementary vibrator
+Results for вибрация контактов:
+	 contact chatter (Техника)
+	 
+Results for вибрация проводов (simple):
+	vibration of wires
+Results for вид колебаний:
+	 oscillation mode (Компьютеры)
+	 
+	 vibration mode (Техника)
+	 
+Results for вид отказа:
+	 failure mode (Компьютеры)
+	 
+Results for вид уравнений (simple):
+	type of the equations
+Results for вид энергии (simple):
+	type of energy
+Results for канонический вид:
+	 canonical form 
+Results for нормальный вид (simple):
+	normal look
+Results for видение в инфракрасных лучах (simple):
+	vision in infrared beams
+Results for видеокорректор дифференциальной фазы (simple):
+	video proofreader of a differential phase
+Results for видеокорректор нелинейности (simple):
+	video proofreader of nonlinearity
+Results for видеокорректор перемодуляции (simple):
+	video proofreader of overmodulation
+Results for видеомагнитофон с наклонно(поперечно)строчной записью (simple):
+	the videorecorder with obliquely (cross) lower case record
+Results for видеомагнитофон с продольной записью (simple):
+	the videorecorder with longitudinal record
+Results for видеопроигрыватель дискового типа (simple):
+	video player of disk type
+Results for видеопроигрыватель кассетного типа (simple):
+	video player of cassette type
+Results for видеосигнал с грубым и точным кодированием (simple):
+	video signal with rough and exact coding
+Results for видикон с обратным пучком (simple):
+	the vidicon with the return bunch
+Results for пироэлектрический видикон (simple):
+	pyroelectric vidicon
+Results for видимость на трассе распространения радиоволн (simple):
+	visibility on the route of distribution of radio waves
+Results for видимость на уровне мешающих отражений (simple):
+	visibility at the level of the disturbing reflections
+Results for видимость ниже уровня радиопомех (simple):
+	visibility is lower than the level of a radio noise
+Results for вилка прибора (simple):
+	device fork
+Results for «вирус» компьютера (simple):
+	computer "virus"
+Results for абрикосовский вихрь (simple):
+	abrikosovsky whirlwind
+Results for вихрь векторного поля:
+	 rotation of a vector (Техника)
+	 
+Results for джозефсоновский вихрь (simple):
+	Josephson whirlwind
+Results for вклад компоненты (simple):
+	contribution components
+Results for включение в цепь:
+	 switching in (Техника)
+	 
+Results for включение вручную (simple):
+	inclusion manually
+Results for включение накачки (simple):
+	inclusion of a rating
+Results for включение обмоток (simple):
+	inclusion of windings
+Results for включение по дифференциальной схеме (simple):
+	inclusion according to the differential scheme
+Results for включение прибора (simple):
+	turning on of the device
+Results for включение тиристора (simple):
+	inclusion of a tiristor
+Results for включение транзистора (simple):
+	turning on of the transistor
+Results for включение (электрического) питания (simple):
+	inclusion (electric) food
+Results for влагомер на принципе ЯМР (simple):
+	hydrometer on the principle of nuclear magnetic resonance
+Results for кондуктометрический влагомер:
+	 conductivity moisture meter (Техника)
+	 
+Results for СВЧ влагомер (simple):
+	Microwave oven hydrometer
+Results for владелец линии связи (simple):
+	owner of the communication line
+Results for владелец набора данных (simple):
+	owner of a data set
+Results for владелец программы (simple):
+	owner of the program
+Results for влияние атмосферы на лазерное излучение (simple):
+	influence of the atmosphere on laser radiation
+Results for влияние атмосферы на распространение радиоволн (simple):
+	influence of the atmosphere on distribution of radio waves
+Results for влияние близости соседнего элемента (simple):
+	influence of proximity of the next element
+Results for влияние (радио)помех (simple):
+	influence (radio) of hindrances
+Results for вложение блока (simple):
+	block investment
+Results for вложение графа (simple):
+	count's investment
+Results for вложение цикла (simple):
+	cycle investment
+Results for вложенность операторов (simple):
+	enclosure of operators
+Results for внедрение изобретения (simple):
+	introduction of an invention
+Results for внедрение методов (способов) измерения (изготовления и т. д.) (simple):
+	introduction of methods (ways) of measurement (production, etc.)
+Results for внедрение неосновных носителей заряда (simple):
+	introduction of nonbasic carriers of a charge
+Results for внезапность действия (simple):
+	suddenness of action
+Results for вобуляция луча (simple):
+	wobble of a beam
+Results for возбудитель радиопередатчика (simple):
+	radio transmitter activator
+Results for главный возбудитель (simple):
+	main activator
+Results for регулирующий возбудитель (simple):
+	the regulating activator
+Results for возбуждение антенной решётки (simple):
+	excitement of an antenna lattice
+Results for возбуждение бегущей волны (simple):
+	excitement of the running wave
+Results for возбуждение в пучности напряжения (тока) (simple):
+	excitement in an antinode of tension (current)
+Results for возбуждение в узле напряжения (simple):
+	excitement in tension knot
+Results for возбуждение ионной волны (simple):
+	excitement of an ionic wave
+Results for возбуждение колебаний:
+	 excitation of oscillations 
+Results for возбуждение лазера:
+	 laser firing (Компьютеры)
+	 
+Results for возбуждение при столкновениях (simple):
+	excitement at collisions
+Results for возбуждение радиоволн (simple):
+	excitement of radio waves
+Results for возбуждение солитонов (simple):
+	excitement of solitons
+Results for возбуждение усилителя (simple):
+	excitement of the amplifier
+Results for голосовое возбуждение (simple):
+	voice excitement
+Results for жёсткое возбуждение (simple):
+	rigid excitement
+Results for коллективное возбуждение (simple):
+	collective excitement
+Results for косвенное возбуждение:
+	 indirect excitation (Техника)
+	 
+Results for межзонное возбуждение (simple):
+	interzonal excitement
+Results for многофотонное возбуждение (simple):
+	multiphoton excitement
+Results for многочастотное возбуждение (simple):
+	multifrequency excitement
+Results for мягкое возбуждение (simple):
+	soft excitement
+Results for независимое возбуждение:
+	 separate excitation (Естественные науки)
+	 
+Results for неравновесное возбуждение (simple):
+	nonequilibrium excitement
+Results for оптическое возбуждение (simple):
+	optical excitement
+Results for параллельное возбуждение:
+	 shunt excitation (Техника)
+	 
+Results for параметрическое возбуждение:
+	 parametric excitation (Техника)
+	 
+Results for пилообразное возбуждение:
+	 saw-tooth drive (Техника)
+	 
+Results for последовательное возбуждение:
+	 series excitation (Техника)
+	 
+Results for примесное возбуждение (simple):
+	impurity excitement
+Results for пространственное возбуждение (simple):
+	spatial excitement
+Results for противофазное возбуждение (simple):
+	antiphase excitement
+Results for прямое возбуждение (simple):
+	direct excitement
+Results for секционированное возбуждение (simple):
+	the partitioned excitement
+Results for селективное возбуждение (simple):
+	selective excitement
+Results for синфазное возбуждение (simple):
+	inphase excitement
+Results for ступенчатое возбуждение (simple):
+	step excitement
+Results for термическое возбуждение:
+	 thermal excitation (Техника)
+	 
+Results for ударное возбуждение:
+	 shock excitation (Естественные науки)
+	 
+	 shock-excitation (Техника)
+	 
+Results for циклотронное возбуждение (simple):
+	cyclotron excitement
+Results for черенковское возбуждение (simple):
+	cherenkovsky excitement
+Results for электронное возбуждение (simple):
+	electronic excitement
+Results for возведение в степень:
+	 exponentiation 
+	 involution[ˌɪnvəˈlu:ʃən] (Естественные науки)
+	 
+Results for возведение конструкции (simple):
+	construction of a design
+Results for возврат в исходное положение:
+	 reset[ˈri:ˈset] 
+	 return to normal position 
+	 unwind[ˈʌnˈwaɪnd] (Техника)
+	 
+Results for возврат к предыдущему состоянию (simple):
+	return to the previous state
+Results for возврат каретки:
+	 carriage return (Компьютеры)
+	 
+Results for возврат строки:
+	 line starve (Компьютеры)
+	 
+Results for возврат управления (simple):
+	return of management
+Results for воздействие мощных излучений СВЧ (simple):
+	influence of powerful radiations of the microwave oven
+Results for воздействие на управление (simple):
+	impact on management
+Results for воздействие окружающей среды:
+	 environmental activity (Компьютеры)
+	 
+	 environmental impact (Естественные науки)
+	 
+	 environmental stress (Техника)
+	 
+Results for воздействие по интегралу (simple):
+	influence on integral
+Results for воздействие по производной:
+	 derivative action (Техника)
+	 
+Results for управляющее воздействие:
+	 corrective action (Бизнес)
+	 
+	 control action (Техника)
+	 
+Results for возможности диагностики (simple):
+	possibilities of diagnostics
+Results for возможности многократного использования:
+	 reusability (Техника)
+	 
+Results for возможности реализации:
+	 sales opportunity (Бизнес)
+	 
+Results for возможность исправления ошибок (simple):
+	possibility of correction of mistakes
+Results for возможность проведения работы (simple):
+	possibility of carrying out work
+Results for возмущение волнового фронта (simple):
+	indignation of the wave front
+Results for возмущение в системе управления с обратной связью (simple):
+	indignation in a control system with feedback
+Results for возмущение импульсом (simple):
+	indignation of an impulse
+Results for возмущение края (энергетической) зоны (simple):
+	indignation of edge (power) zone
+Results for возмущение системы энергетических уровней (simple):
+	indignation of system of power levels
+Results for атмосферное возмущение:
+	 atmospheric agitation (Естественные науки)
+	 
+	 atmospheric perturbations (Естественные науки)
+	 
+Results for волновое возмущение:
+	 wave disturbance (Техника)
+	 
+Results for геомагнитное возмущение:
+	 geomagnetic disturbance (Естественные науки)
+	 
+Results for гидромагнитное возмущение (simple):
+	hydromagnetic indignation
+Results for (движущееся) ионосферное возмущение (simple):
+	(moving) ionospheric indignation
+Results for долговременное возмущение:
+	 long-term perturbation (Техника)
+	 
+Results for допустимое возмущение (simple):
+	admissible indignation
+Results for кратковременное возмущение:
+	 transient disturbance (Естественные науки)
+	 
+Results for крупно(мелко)масштабное возмущение (simple):
+	largely (small) large-scale indignation
+Results for кулоновское возмущение (simple):
+	Coulomb indignation
+Results for магнитное возмущение:
+	 magnetic agitation (Естественные науки)
+	 
+Results for магнитоакустическое возмущение (simple):
+	magnetoacoustic indignation
+Results for ступенчатое возмущение (simple):
+	step indignation
+Results for шумовое возмущение (simple):
+	noise indignation
+Results for электромагнитное возмущение (simple):
+	electromagnetic indignation
+Results for автокорреляционный вокодер (simple):
+	autocorrelated voice coder
+Results for вокодер с возбуждением модулирующим сигналом (основным тоном) (simple):
+	voice coder with excitement by the modulating signal (the main tone)
+Results for вокодер с высокой верностью воспроизведения (simple):
+	voice coder with high fidelity of reproduction
+Results for вокодер с линейным предсказанием (simple):
+	voice coder with linear prediction
+Results for вокодер с речевым возбуждением (simple):
+	voice coder with speech excitement
+Results for вокодер со сравнением с эталонным спектром (simple):
+	voice coder with comparison with a reference range
+Results for гармонический вокодер (simple):
+	harmonious voice coder
+Results for гомоморфный вокодер (simple):
+	homomorphic voice coder
+Results for канальный вокодер (simple):
+	channel voice coder
+Results for корреляционный вокодер (simple):
+	correlation voice coder
+Results for резонансный вокодер (simple):
+	resonant voice coder
+Results for тактильный вокодер (simple):
+	tactile voice coder
+Results for фазовый вокодер (simple):
+	phase voice coder
+Results for формантный вокодер (simple):
+	formantny voice coder
+Results for акустическая волна:
+	 acoustic wave (Компьютеры)
+	 
+Results for акустогравитационная волна (simple):
+	akustogravitatsionny wave
+Results for альфа-волна (simple):
+	alpha wave
+Results for альфвеновская волна (simple):
+	alfvenovsky wave
+Results for амплитудно(импульсно, тонально, фазово, частотно)-модулированная волна (simple):
+	it is amplitude (pulsewise, tonalno, фазово, it is frequency) - the modulated wave
+Results for бегущая волна:
+	 traveling wave (Естественные науки)
+	 
+	 progressive wave (Техника)
+	 
+Results for бесстолкновительная волна (simple):
+	collisionless wave
+Results for бета-волна (simple):
+	beta wave
+Results for быстрая волна (simple):
+	fast wave
+Results for вертикально (горизонтально) поляризованная волна (simple):
+	vertically (horizontally) polarized wave
+Results for возмущающая волна (simple):
+	the revolting wave
+Results for возмущённая волна (simple):
+	indignant wave
+Results for волна Блюстейна-Гуляева (simple):
+	Blyusteyna-Gulyaev's wave
+Results for волна де Бройля:
+	 associated waves (Естественные науки)
+	 
+	 de Broglie wave (Компьютеры)
+	 
+Results for волна Лэмба (Лява) (simple):
+	Lamb's wave (Lyava)
+Results for волна Маха:
+	 Mach waves (Естественные науки)
+	 
+	 Mach wave (Компьютеры)
+	 
+Results for волна в свободном пространстве (simple):
+	wave in free space
+Results for волна зарядовой плотности (simple):
+	wave of charging density
+Results for волна изгиба:
+	 flexural wave (Техника)
+	 
+Results for волна накачки (simple):
+	rating wave
+Results for волна обратного (прямого) рассеяния (simple):
+	wave of the return (direct) dispersion
+Results for волна основного типа (simple):
+	wave of the main type
+Results for волна пилот-сигнала (simple):
+	wave pilot signal
+Results for волна плотности тока (энергии) (simple):
+	wave of density of current (energy)
+Results for волна поля (simple):
+	field wave
+Results for волна с вращающейся плоскостью поляризации (simple):
+	wave with the rotating polarization plane
+Results for волна сгущения-разрежения (simple):
+	condensation depression wave
+Results for волна сдвига (simple):
+	shift wave
+Results for волна с критической частотой (simple):
+	wave with a critical frequency
+Results for волна с круговой поляризацией (simple):
+	wave with circular polarization
+Results for волна спиновой плотности (simple):
+	wave of spin density
+Results for волна спирального типа (simple):
+	wave of spiral type
+Results for волна типа шепчущей галереи (simple):
+	wave like the whispering gallery
+Results for волна Ценека (simple):
+	Tsenek's wave
+Results for волноводная волна (simple):
+	the waveguide wave
+Results for восстанавливающая волна (simple):
+	the restoring wave
+Results for вторичная волна:
+	 secondary wave (Техника)
+	 
+Results for вытекающая волна (simple):
+	the following wave
+Results for гамма-волна (simple):
+	gamma wave
+Results for геликонная волна [геликон] (simple):
+	gelikonny wave [helicon]
+Results for гибридная волна (simple):
+	hybrid wave
+Results for (гипер, инфра, ультра)звуковая волна (simple):
+	(hyper, infra, ultra) sound wave
+Results for горизонтальная волна (simple):
+	horizontal wave
+Results for гравитационная волна:
+	 gravity wave (Естественные науки)
+	 
+Results for дельта-волна (simple):
+	delta wave
+Results for (де, не)поляризованная волна (simple):
+	(not) the polarized wave
+Results for дифрагированная волна (simple):
+	the diffracted wave
+Results for доплеронная волна (simple):
+	dopleronny wave
+Results for дрейфовая волна (simple):
+	drift wave
+Results for запаздывающая волна (simple):
+	the late wave
+Results for зондирующая волна:
+	 sensing wave (Компьютеры)
+	 
+	 trasmitted wave (Техника)
+	 
+Results for излучаемая волна:
+	 radiated wave (Техника)
+	 
+Results for излучённая волна (simple):
+	the radiated wave
+Results for изоэнтропийная волна (simple):
+	isoentropy wave
+Results for ионно(электронно)-звуковая волна (simple):
+	it is ionic (electronically) - a sound wave
+Results for ионно-циклотронная волна (simple):
+	ion-cyclotron wave
+Results for искажённая волна (simple):
+	the distorted wave
+Results for канализируемая волна (simple):
+	the canalized wave
+Results for (квази)магнитная волна (simple):
+	(quasi) magnetic wave
+Results for (квази)поперечная волна (simple):
+	(quasi) cross wave
+Results for (квази)продольная волна (simple):
+	(quasi) longitudinal wave
+Results for (квази)электрическая волна (simple):
+	(quasi) electric wave
+Results for краевая волна:
+	 edge wave (Техника)
+	 
+Results for крутильная волна (simple):
+	tortional wave
+Results for лазерно-детонационная волна (simple):
+	laser and detonation wave
+Results for лево(право)поляризованная волна (simple):
+	left (right) the polarized wave
+Results for линейно (эллиптически) поляризованная волна (simple):
+	linearly (elliptically) polarized wave
+Results for магнитогидродинамическая волна (simple):
+	magnetohydrodynamic wave
+Results for магнитоионная волна (simple):
+	magnetoionic wave
+Results for магнитоплазменная волна (simple):
+	magnetoplasma wave
+Results for магнитостатическая волна:
+	 magnetostatic wave (Компьютеры)
+	 
+Results for магнитоупругая волна (simple):
+	magnetoelastic wave
+Results for манипулированная волна (simple):
+	the manipulated wave
+Results for медленная волна (simple):
+	slow wave
+Results for (многоскачковая) ионосферная волна (simple):
+	(mnogoskachkovy) ionospheric wave
+Results for модулированная волна (simple):
+	the modulated wave
+Results for модулирующая волна (simple):
+	the modulating wave
+Results for монохроматическая волна:
+	 simple harmonic wave (Естественные науки)
+	 
+Results for наклонная волна (simple):
+	inclined wave
+Results for нарастающая волна (simple):
+	the accruing wave
+Results for (не)гармоническая волна (simple):
+	(not) harmonious wave
+Results for незатухающая волна:
+	 undamped wave (Естественные науки)
+	 
+	 continuous wave (Компьютеры)
+	 
+Results for (не)линейная волна (simple):
+	(not) linear wave
+Results for (не)обыкновенная волна (simple):
+	(not) ordinary wave
+Results for (не)однородная волна (simple):
+	(not) uniform wave
+Results for нераспространяющаяся волна (simple):
+	not extending wave
+Results for нормальная волна (simple):
+	normal wave
+Results for ню-волна (simple):
+	nu wave
+Results for обменная волна (simple):
+	exchange wave
+Results for обратная волна:
+	 backward wave (Естественные науки)
+	 
+Results for объектная волна (simple):
+	object wave
+Results for объёмная волна (simple):
+	volume wave
+Results for одномерная простая [риманова] волна (simple):
+	one-dimensional simple [Riemannian] wave
+Results for опорная волна:
+	 reference wave (Естественные науки)
+	 
+Results for ортогонализированная волна (simple):
+	ortogonalizirovanny wave
+Results for отражённая волна (simple):
+	the reflected wave
+Results for падающая волна:
+	 incident wave (Естественные науки)
+	 
+Results for паразитная волна (simple):
+	parasitic wave
+Results for плазменная (электростатическая, ленгмюровская) волна (simple):
+	plasma (electrostatic, Langmuir) wave
+Results for парциальная волна (simple):
+	partial wave
+Results for первичная волна:
+	 primary wave (Техника)
+	 
+Results for периодическая волна (simple):
+	periodic wave
+Results for плазменно-пучковая волна (simple):
+	plasma пучковая wave
+Results for плоская волна:
+	 plane wave (Естественные науки)
+	 
+Results for (при, псевдо)поверхностная волна (simple):
+	(at, pseudo) a superficial wave
+Results for полихроматическая волна (simple):
+	polychromatic wave
+Results for преломлённая волна (simple):
+	the refracted wave
+Results for приходящая волна (simple):
+	the coming wave
+Results for пространственная волна:
+	 space wave (Техника)
+	 
+Results for прямая волна:
+	 direct wave (Техника)
+	 
+Results for радиальная волна (simple):
+	radial wave
+Results for рассеянная волна:
+	 scattered wave (Естественные науки)
+	 
+Results for риманова [одномерная простая] волна (simple):
+	Riemannian [one-dimensional simple] wave
+Results for ритмическая волна (simple):
+	rhythmic wave
+Results for рэлеевская волна [волна Рэлея] (simple):
+	Rayleigh wave [Rayleigh's wave]
+Results for сейсмическая волна:
+	 earth wave (Техника)
+	 
+Results for световая волна:
+	 light wave (Естественные науки)
+	 
+Results for сигнальная волна (simple):
+	alarm wave
+Results for спиновая волна:
+	 spin wave (Естественные науки)
+	 
+Results for стоячая волна:
+	 standing wave (Естественные науки)
+	 
+Results for сферическая волна:
+	 spherical wave (Техника)
+	 
+Results for термо(электро)магнитная волна (simple):
+	thermo (electro) magnetic wave
+Results for тропосферная волна (simple):
+	tropospheric wave
+Results for ударная волна:
+	 shock wave 
+	 shockwave (Естественные науки)
+	 
+Results for уединённая волна [солитон] (simple):
+	lonely wave [soliton]
+Results for устойчивая волна (simple):
+	steady wave
+Results for холостая волна (simple):
+	single wave
+Results for циклотронная волна:
+	 cyclotron wave (Техника)
+	 
+Results for цилиндрическая волна:
+	 cylindrical wave (Техника)
+	 
+Results for щелевая волна (simple):
+	slot-hole wave
+Results for электрическая волна (simple):
+	electric wave
+Results for энтропийная волна (simple):
+	entropy wave
+Results for аксиально-симметричный волновод (simple):
+	axial and symmetric wave guide
+Results for акустический волновод:
+	 acoustic waveguide (Техника)
+	 
+Results for анизотропный волновод (simple):
+	anisotropic wave guide
+Results for асимметрично скошенный волновод (simple):
+	asymmetrically slanted wave guide
+Results for атмосферный волновод:
+	 atmospheric duct (Компьютеры)
+	 
+	 atmospheric waveguide (Техника)
+	 
+Results for взаимный волновод (simple):
+	mutual wave guide
+Results for волновод без потерь (simple):
+	wave guide without loss
+Results for волновод в земной коре (simple):
+	wave guide in crust
+Results for волновод нестандартного (переменного) сечения (simple):
+	wave guide of non-standard (variable) section
+Results for волновод поверхностных волн (simple):
+	wave guide of superficial waves
+Results for волновод с вытекающей (основной) волной (simple):
+	wave guide with the following (main) wave
+Results for волновод с диэлектрическим покрытием (simple):
+	wave guide with a dielectric covering
+Results for волновод с диэлектрическим (полупроводниковым, ферритовым) заполнением (simple):
+	wave guide with dielectric (semiconductor, ferrite) filling
+Results for волновод с открытым концом (simple):
+	wave guide with the open end
+Results for волновод с потерями (simple):
+	wave guide with losses
+Results for волновод с согласованной нагрузкой (simple):
+	wave guide with the coordinated loading
+Results for волновод с ферритовыми вставками (simple):
+	wave guide with ferrite inserts
+Results for волновод (тракта) накачки (simple):
+	wave guide (path) of a rating
+Results for волоконный волновод:
+	 fiber wave guide (Естественные науки)
+	 
+Results for газодиэлектрический волновод (simple):
+	gas-dielectric wave guide
+Results for гантельный волновод (simple):
+	gantelny wave guide
+Results for гибкий волновод:
+	 flexible waveguide (Техника)
+	 
+Results for гибридно-модовый волновод (simple):
+	hybrid модовый wave guide
+Results for гиромагнитный волновод (simple):
+	gyromagnetic wave guide
+Results for гиротропный волновод (simple):
+	girotropny wave guide
+Results for гироэлектрический волновод (simple):
+	giroelektrichesky wave guide
+Results for гофрированный волновод:
+	 corrugated waveguide (Компьютеры)
+	 
+Results for гребенчатый волновод (simple):
+	edge wave guide
+Results for гусеничный волновод (simple):
+	caterpillar wave guide
+Results for двунаправленный волновод (simple):
+	bidirectional wave guide
+Results for двух(одно, много)модовый волновод (simple):
+	two (one, is a lot of) a modovy wave guide
+Results for диафрагмированный волновод:
+	 diaphragmatic waveguide (Техника)
+	 
+Results for диффузионный волновод (simple):
+	diffusive wave guide
+Results for диэлектрический волновод:
+	 dielectric waveguide (Техника)
+	 
+Results for желобковый волновод (simple):
+	zhelobkovy wave guide
+Results for жёсткий волновод (simple):
+	rigid wave guide
+Results for закрытый волновод (simple):
+	the closed wave guide
+Results for запредельный волновод (simple):
+	ultraboundary wave guide
+Results for змейковый волновод:
+	 sinuous waveguide (Техника)
+	 
+Results for изогнутый волновод (simple):
+	curved wave guide
+Results for изотропный волновод (simple):
+	isotropic wave guide
+Results for ионно-имплантированный волновод (simple):
+	the ion-implanted wave guide
+Results for ионосферный волновод (simple):
+	ionospheric wave guide
+Results for квадратный волновод:
+	 square waveguide (Техника)
+	 
+Results for квазиоптический волновод (simple):
+	quasioptical wave guide
+Results for кольцевой волновод (simple):
+	ring wave guide
+Results for конический волновод (simple):
+	conic wave guide
+Results for копланарный волновод (simple):
+	co-planar wave guide
+Results for короткозамкнутый волновод (simple):
+	short-circuited wave guide
+Results for линзовый волновод:
+	 lens guide (Техника)
+	 
+Results for металлический волновод (simple):
+	metal wave guide
+Results for многолучевой волновод (simple):
+	multibeam wave guide
+Results for невзаимный волновод (simple):
+	not mutual wave guide
+Results for (не)нагруженный волновод (simple):
+	not loaded wave guide
+Results for (не)однородный волновод (simple):
+	(not) uniform wave guide
+Results for (не)регулярный волновод (simple):
+	(not) regular wave guide
+Results for Н(П)-образный волновод (simple):
+	N (P)-shaped wave guide
+Results for открытый волновод (simple):
+	open wave guide
+Results for панцирный волновод (simple):
+	armor-clad wave guide
+Results for параболический волновод (simple):
+	parabolic wave guide
+Results for периодический волновод (simple):
+	periodic wave guide
+Results for плазменный волновод:
+	 plasma waveguide (Техника)
+	 
+Results for планарный оптический волновод (simple):
+	planar optical wave guide
+Results for пластинчатый волновод (simple):
+	lamellar wave guide
+Results for плоский волновод:
+	 flat waveguide (Техника)
+	 
+Results for полосковый волновод:
+	 strip line (Техника)
+	 
+Results for полый волновод:
+	 hollow pipe waveguide (Компьютеры)
+	 
+	 hollow waveguide (Техника)
+	 
+Results for предельный волновод (simple):
+	limit wave guide
+Results for прецизионный волновод (simple):
+	precision wave guide
+Results for прямоугольный волновод:
+	 rectangular waveguide (Техника)
+	 
+Results for пьезоэлектрический волновод (simple):
+	piezoelectric wave guide
+Results for раздвоенный волновод (simple):
+	the doubled wave guide
+Results for свёрнутый волновод (simple):
+	the curtailed wave guide
+Results for сжимаемый волновод (simple):
+	the compressed wave guide
+Results for скрученный волновод (simple):
+	the twisted wave guide
+Results for согласованный волновод:
+	 matched waveguide (Техника)
+	 
+Results for составной волновод (simple):
+	compound wave guide
+Results for спиральный волновод (simple):
+	spiral wave guide
+Results for стандартный волновод (simple):
+	standard wave guide
+Results for стержневой волновод (simple):
+	rod wave guide
+Results for тонкоплёночный волновод (simple):
+	thin-film wave guide
+Results for трапецеидальный волновод (simple):
+	trapezoidal wave guide
+Results for тропосферный волновод (simple):
+	tropospheric wave guide
+Results for трубчатый волновод (simple):
+	tubular wave guide
+Results for усечённый волновод (simple):
+	the truncated wave guide
+Results for ферритовый волновод (simple):
+	ferrite wave guide
+Results for ферроэлектрический волновод (simple):
+	ferroelektrichesky wave guide
+Results for цельнометаллический волновод (simple):
+	all-metal wave guide
+Results for экранированный волновод (simple):
+	screened wave guide
+Results for эллиптический волновод:
+	 elliptical waveguide (Техника)
+	 
+Results for волномер с объёмным (открытым) резонатором (simple):
+	wavemeter with the volume (open) resonator
+Results for гетеродинный волномер:
+	 heterodyne wavemeter (Техника)
+	 
+Results for резонансный волномер:
+	 resonant-circuit wavemeter (Техника)
+	 
+	 resonance wavemeter (Техника)
+	 
+Results for волны высших типов (simple):
+	waves of the highest types
+Results for волны ионизации (simple):
+	ionization waves
+Results for волны космического радиоизлучения (simple):
+	waves of a space radio emission
+Results for волны пространственного заряда (simple):
+	waves of a spatial charge
+Results for вырожденные волны (simple):
+	degenerate waves
+Results for рас(с)ходящиеся волны (simple):
+	races (c) the gone waves
+Results for связанные волны (simple):
+	connected waves
+Results for абсолютный вольтметр (simple):
+	absolute voltmeter
+Results for амплитудный [пиковый] вольтметр (simple):
+	amplitude [peak] voltmeter
+Results for вольтметр переменного (постоянного) тока (simple):
+	voltmeter of alternating (constant) current
+Results for вольтметр прямого (развёртывающего) преобразования (simple):
+	the voltmeter of the direct (developing) transformation
+Results for вольтметр с временным (частотным) промежуточным преобразованием (simple):
+	the voltmeter with temporary (frequency) intermediate transformation
+Results for вольтметр с выпрямителем (simple):
+	the voltmeter with the rectifier
+Results for вольтметр следящего уравновешивания (simple):
+	the voltmeter of the watching equilibration
+Results for вольтметр с растянутой шкалой (simple):
+	the voltmeter with the stretched scale
+Results for вольтметр с цифровым выходом (simple):
+	the voltmeter with a digital output
+Results for вольтметр уравновешивающего преобразования (simple):
+	the voltmeter of the counterbalancing transformation
+Results for высокоомный вольтметр:
+	 high-resistance voltmeter (Техника)
+	 
+Results for дифференциальный вольтметр (simple):
+	differential voltmeter
+Results for зеркальный вольтметр (simple):
+	mirror voltmeter
+Results for компенсационный вольтметр:
+	 null balance voltmeter (Техника)
+	 
+Results for корреляционный вольтметр (simple):
+	correlation voltmeter
+Results for ламповый вольтметр:
+	 tube voltmeter (Естественные науки)
+	 
+	 vacuum tube voltmeter (Техника)
+	 
+Results for магнитоэлектрический вольтметр:
+	 moving-coil voltmeter (Техника)
+	 
+Results for полупроводниковый вольтметр (simple):
+	semiconductor voltmeter
+Results for самопишущий вольтметр (simple):
+	recording voltmeter
+Results for селективный вольтметр:
+	 selective voltmeter (Техника)
+	 
+Results for тепловой вольтметр:
+	 hot wire voltmeter (Техника)
+	 
+Results for термоэлектрический вольтметр:
+	 thermo-emf voltmeter (Техника)
+	 
+Results for цифровой вольтметр:
+	 digital voltmeter (Техника)
+	 
+Results for электродинамический вольтметр (simple):
+	electrodynamic voltmeter
+Results for электронный вольтметр (simple):
+	electronic voltmeter
+Results for электростатический вольтметр:
+	 electrostatic voltmeter (Техника)
+	 
+Results for внутренняя восприимчивость (simple):
+	internal susceptibility
+Results for восприимчивость компьютера к помехам (simple):
+	susceptibility of the computer to hindrances
+Results for восприимчивость магнитных доменов (simple):
+	susceptibility of magnetic domains
+Results for восприимчивость при инверсии (simple):
+	susceptibility at inversion
+Results for (диа, пара)магнитная восприимчивость (simple):
+	(dia, couple) magnetic susceptibility
+Results for диэлектрическая восприимчивость:
+	 dielectric susceptibility (Естественные науки)
+	 
+Results for начальная восприимчивость (simple):
+	initial susceptibility
+Results for обратимая восприимчивость:
+	 reversible susceptibility (Техника)
+	 
+Results for обратная восприимчивость (simple):
+	return susceptibility
+Results for объёмная восприимчивость (simple):
+	volume susceptibility
+Results for орбитальная восприимчивость (simple):
+	orbital susceptibility
+Results for отрицательная восприимчивость (simple):
+	negative susceptibility
+Results for положительная восприимчивость (simple):
+	positive susceptibility
+Results for поперечная восприимчивость (simple):
+	cross susceptibility
+Results for спиновая восприимчивость (simple):
+	spin susceptibility
+Results for тензорная восприимчивость (simple):
+	tensor susceptibility
+Results for воспроизведение в обратном направлении (simple):
+	reproduction in the opposite direction
+Results for воспроизведение голограмм (simple):
+	reproduction of holograms
+Results for воспроизведение записи (simple):
+	record reproduction
+Results for воспроизведение звука:
+	 sound playback (Компьютеры)
+	 
+	 sound reproduction (Техника)
+	 
+Results for воспроизведение изображения:
+	 reproduction of image (Техника)
+	 
+Results for воспроизводимость результатов измерений (simple):
+	reproducibility of results of measurements
+Results for автоматическое восстановление цепи:
+	 automatic circuit restoration (Компьютеры)
+	 
+Results for восстановление баз данных (simple):
+	recovery of databases
+Results for восстановление волнового фронта:
+	 wave-front reconstruction (Естественные науки)
+	 
+Results for восстановление изображения:
+	 image reconstruction (Естественные науки)
+	 
+Results for восстановление катода (simple):
+	restoration of the cathode
+Results for восстановление нагрузки (simple):
+	restoration of loading
+Results for восстановление несущей:
+	 carrier reinsertion (Техника)
+	 
+Results for восстановление огибающей (simple):
+	restoration of bending around
+Results for восстановление пакетов (simple):
+	restoration of packages
+Results for восстановление порядка следования (simple):
+	restoration of a sequence
+Results for восстановление после сбоя (simple):
+	restoration after failure
+Results for восстановление постоянной составляющей:
+	 direct-current restoration (Техника)
+	 
+Results for восстановление работоспособности:
+	 maintenance[ˈmeɪntənəns] 
+Results for восстановление синхронизации:
+	 retiming (Техника)
+	 
+Results for восстановление функционирования (simple):
+	functioning restoration
+Results for восстановление цикла (simple):
+	restoration of a cycle
+Results for восстановление чувствительности (simple):
+	restoration of sensitivity
+Results for восстановление электрической прочности (simple):
+	restoration of electric durability
+Results for обратное восстановление (simple):
+	return restoration
+Results for прямое восстановление:
+	 direct reduction (Техника)
+	 
+Results for цифровое восстановление (simple):
+	digital restoration
+Results for впадина на характеристике (simple):
+	the hollow on the characteristic
+Results for вращение плоскости поляризации:
+	 rotation of the plane of polarization (Естественные науки)
+	 
+Results for асимптотическое время жизни (simple):
+	asymptotic time of life
+Results for время адресации (simple):
+	addressing time
+Results for время ассемблирования (simple):
+	assembling time
+Results for время безотказной работы:
+	 error-free running time (Компьютеры)
+	 
+	 time between failures (Техника)
+	 
+Results for время безошибочной работы:
+	 error-free running time (Техника)
+	 
+Results for время безызлучательной релаксации (simple):
+	time of a bezyzluchatelny relaxation
+Results for время в(вы)ключения (simple):
+	klyucheniye time in (you)
+Results for время взаимодействия (simple):
+	interaction time
+Results for время возбуждения (simple):
+	excitement time
+Results for время возврата:
+	 recovery time (Естественные науки)
+	 
+Results for время восстановления:
+	 restoring time (Естественные науки)
+	 
+	 reduction period (Техника)
+	 
+Results for время выполнения команды (simple):
+	time of command execution
+Results for время генерации (simple):
+	generation time
+Results for время готовности к работе (simple):
+	available time for work
+Results for время деионизации (simple):
+	deionization time
+Results for время действия:
+	 valid time (Техника)
+	 
+Results for время диффузии:
+	 diffusion time (Естественные науки)
+	 
+Results for время диэлектрической релаксации:
+	 dielectric relaxation time (Техника)
+	 
+Results for время дрейфа:
+	 drift time (Техника)
+	 
+Results for время жизни (возбуждённого состояния) (simple):
+	life time (the excited state)
+Results for время жизни горячих электронов (избыточных носителей) (simple):
+	time of life of hot electrons (excess carriers)
+Results for время задержки сигнала (simple):
+	signal delay time
+Results for время замедления:
+	 slowing-down time (Техника)
+	 
+Results for время замыкания:
+	 closing time (Техника)
+	 
+Results for время запаздывания отражённого сигнала (simple):
+	time of delay of the reflected signal
+Results for время запуска:
+	 launch time (Техника)
+	 
+Results for время засветки фотокатода (simple):
+	photocathode flare time
+Results for время затухания:
+	 decay time (Компьютеры)
+	 
+Results for время захвата:
+	 acquisition timing (Техника)
+	 
+Results for время извлечения информации (simple):
+	time of extraction of information
+Results for время излучательной релаксации:
+	 radiative relaxation time (Техника)
+	 
+Results for время измерения (simple):
+	measurement time
+Results for время интегрирования (simple):
+	integration time
+Results for время когерентности излучения лазера (simple):
+	time of coherence of radiation of the laser
+Results for время кросс-релаксации (simple):
+	cross-relaxation time
+Results for время междолинного рассеяния электронов (simple):
+	time of intervalley dispersion of electrons
+Results for время наблюдения (simple):
+	observation time
+Results for время накала (simple):
+	heat time
+Results for время накопления (simple):
+	accumulation time
+Results for время на передачу и подтверждение приёма (simple):
+	time for transfer and confirmation of reception
+Results for время наработки на отказ:
+	 time per fault (Естественные науки)
+	 
+	 time between failures (Техника)
+	 
+Results for время нарастания сигнала:
+	 attack time (Техника)
+	 
+Results for время нахождения:
+	 time spent 
+	 dwell-time (Техника)
+	 
+Results for время неисправного состояния (simple):
+	time of failure condition
+Results for время обзора (simple):
+	review time
+Results for время облучения цели (simple):
+	time of radiation of the purpose
+Results for время оборота маркера (simple):
+	turn-around time for a marker
+Results for время обратного хода:
+	 return time (Техника)
+	 
+Results for время ожидания:
+	 waiting time 
+	 latency period (Естественные науки)
+	 
+Results for время осаждения:
+	 deposition time (Техника)
+	 
+Results for время освобождения устройства (simple):
+	time of release of the device
+Results for время ответа:
+	 response time (Компьютеры)
+	 
+Results for время отклика на запрос (simple):
+	time of a response to inquiry
+Results for время отключения:
+	 clearing time (Техника)
+	 
+Results for время отладки:
+	 debug time (Техника)
+	 
+Results for время отпадения замкнутого контакта (simple):
+	time of falling away of the closed contact
+Results for время памяти (simple):
+	memory time
+Results for время паузы (simple):
+	pause time
+Results for время перегорания (simple):
+	burn-out time
+Results for время переключения:
+	 switching time (Компьютеры)
+	 
+Results for время перемотки:
+	 forward time (Компьютеры)
+	 
+Results for время переноса (simple):
+	transfer time
+Results for время перехода из нормального состояния в сверхпроводящее (simple):
+	transition time from the normal state in superconducting
+Results for время подготовки к работе:
+	 readiness time (Техника)
+	 
+Results for время позиционирования (simple):
+	positioning time
+Results for время поиска (цели) (simple):
+	time of search (purpose)
+Results for время покоя:
+	 rest period (Техника)
+	 
+Results for время полёта (simple):
+	flight time
+Results for время послесвечения экрана (simple):
+	time of afterglow of the screen
+Results for время пребывания в выключенном (во включённом) состоянии (simple):
+	stay time in switched off (in included) a state
+Results for время преобразования:
+	 conversion time (Техника)
+	 
+Results for время прерывания:
+	 interrupt time (Компьютеры)
+	 
+Results for время прогона программы (simple):
+	program run time
+Results for время пролёта электронов (simple):
+	time of flight of electrons
+Results for время простоя по внешним причинам:
+	 external idle time (Бизнес)
+	 
+Results for время простоя по условиям окружающей среды (simple):
+	idle time under the terms of the environment
+Results for время прохождения сигнала (simple):
+	time of passing of a signal
+Results for время прямого хода кадровой развёртки (simple):
+	time of a forward stroke of a vertical sweep
+Results for время прямого хода строки (simple):
+	time of a forward stroke of a line
+Results for время пуска:
+	 starting time (Естественные науки)
+	 
+Results for время работы прибора (simple):
+	operating time of the device
+Results for время развёртки записывающего луча (simple):
+	time of development of the writing-down beam
+Results for время разгона:
+	 start time (Естественные науки)
+	 
+	 acceleration time (Техника)
+	 
+Results for время разогрева лампы (simple):
+	lamp warming up time
+Results for время разрыва (simple):
+	gap time
+Results for время распространения волны (информации) (simple):
+	time of distribution of a wave (information)

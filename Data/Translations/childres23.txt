@@ -1,0 +1,2498 @@
+Results for телефонист местного коммутатора (simple):
+	operator of the local switchboard
+Results for ВЧ-телефония (simple):
+	VCh-telephony
+Results for телефония с подавлением несущей в отсутствие модулирующего сигнала (simple):
+	telephony with suppression bringing to lack of the modulating signal
+Results for телефония с уплотнением каналов (simple):
+	telephony with consolidation of channels
+Results for телефония с частотной модуляцией несущей (simple):
+	telephony with the frequency modulation bearing
+Results for тональная телефония:
+	 voice-frequency telephony (Техника)
+	 
+	 acoustical telephony (Техника)
+	 
+Results for цифровая телефония:
+	 digital telephony (Компьютеры)
+	 
+Results for шифрованная телефония (simple):
+	encoded telephony
+Results for абсолютно чёрное тело (simple):
+	absolutely black body
+Results for аморфное тело (simple):
+	amorphous body
+Results for твёрдое тело:
+	 solid body 
+Results for тело вращения:
+	 solid of revolution (Естественные науки)
+	 
+	 axially symmetrical body (Компьютеры)
+	 
+Results for тело программы (simple):
+	program body
+Results for тело цикла:
+	 loop body (Компьютеры)
+	 
+Results for тембр тона (simple):
+	tone timbre
+Results for абсолютная температура:
+	 absolute temperature (Компьютеры)
+	 
+	 Kelvin temperature (Естественные науки)
+	 
+Results for дырочная температура (simple):
+	hole temperature
+Results for ионная температура (simple):
+	ionic temperature
+Results for комнатная температура:
+	 room temperature 
+	 ambient temperature (Естественные науки)
+	 
+Results for криогенная температура:
+	 cryogenic temperature (Естественные науки)
+	 
+Results for критическая температура:
+	 critical temperature (Естественные науки)
+	 
+Results for рабочая температура:
+	 operating temperature (Естественные науки)
+	 
+	 working temperature (Техника)
+	 
+Results for спиновая температура (simple):
+	spin temperature
+Results for температура антенны (simple):
+	antenna temperature
+Results for температура верхних слоёв атмосферы (simple):
+	temperature of an upper atmosphere
+Results for температура горячей (холодной) нагрузки (simple):
+	temperature of hot (cold) loading
+Results for температура датчика (simple):
+	sensor temperature
+Results for температура корпуса (simple):
+	case temperature
+Results for температура кристаллической решётки (simple):
+	temperature of a crystal lattice
+Results for температура магнитного упорядочения (simple):
+	temperature of magnetic streamlining
+Results for температура насыщения:
+	 saturation temperature (Естественные науки)
+	 
+Results for температура неба (simple):
+	sky temperature
+Results for температура носителей (simple):
+	temperature of carriers
+Results for температура окружающей среды:
+	 ambient temperature 
+	 environment temperature (Естественные науки)
+	 
+	 environmental temperature (Техника)
+	 
+Results for температура подложки (simple):
+	substrate temperature
+Results for температура распределения (simple):
+	distribution temperature
+Results for температура роста (simple):
+	growth temperature
+Results for температура сверхпроводящего (фазового) перехода (simple):
+	temperature of superconducting (phase) transition
+Results for температура фона:
+	 background temperature (Техника)
+	 
+Results for температура хранения:
+	 storage temperature (Техника)
+	 
+Results for температура чёрного тела (simple):
+	temperature of a black body
+Results for термодинамическая температура:
+	 thermodynamic temperature (Техника)
+	 
+Results for установившаяся температура:
+	 steady temperature (Техника)
+	 
+Results for фотометрическая стандартная температура (simple):
+	photometric standard temperature
+Results for цветовая температура:
+	 colour temperature (Естественные науки)
+	 
+	 color temperature (Компьютеры)
+	 
+Results for шумовая температура:
+	 noise temperature (Компьютеры)
+	 
+Results for электронная температура:
+	 electron temperature (Техника)
+	 
+Results for яркостная температура:
+	 brightness temperature (Техника)
+	 
+Results for аксиальный тензор (simple):
+	axial tensor
+Results for полярный тензор (simple):
+	polar tensor
+Results for тензор второго ранга (simple):
+	tensor of the second rank
+Results for тензор диэлектрической (магнитной) проницаемости (simple):
+	tensor of dielectric (magnetic) permeability
+Results for теорема Ампера о листках тока (simple):
+	Ampere's theorem of current leaves
+Results for теорема Бейеса (simple):
+	Bayes's theorem
+Results for теорема Гаусса-Остроградского (simple):
+	Gauss-Ostrogradsky's theorem
+Results for теорема взаимности:
+	 reciprocal theorem (Естественные науки)
+	 
+Results for теорема Виннера-Хинчина (simple):
+	Vinnera-Hinchin's theorem
+Results for теорема единственности:
+	 uniqueness theorem (Естественные науки)
+	 
+Results for теорема (ко)синусов (simple):
+	the theorem (to) sine
+Results for теорема Котельникова (simple):
+	Kotelnikov's theorem
+Results for теорема Найквиста:
+	 Nyquist theorem (Естественные науки)
+	 
+Results for теорема Стокса (simple):
+	Stokes's theorem
+Results for теорема существования:
+	 existence theorem (Естественные науки)
+	 
+Results for теорема Тевенина-Гельмгольца (simple):
+	Tewenin-Helmholtz's theorem
+Results for теорема Умова-Пойнтинга (simple):
+	Umov-Poynting's theorem
+Results for теорема Шеннона (simple):
+	Shannon's theorem
+Results for гидродинамическая теория:
+	 hydraulic theory (Естественные науки)
+	 
+Results for двух(трёх)жидкостная теория (simple):
+	two (three) liquid theory
+Results for жидкостная теория (simple):
+	liquid theory
+Results for зонная теория:
+	 band theory (Естественные науки)
+	 
+Results for квантовая (классическая) теория поля (simple):
+	quantum (classical) theory of the field
+Results for нелокальная теория Пиппарда (simple):
+	not local theory of Pippard
+Results for статистическая теория:
+	 statistical theory (Естественные науки)
+	 
+Results for теория автоматов:
+	 automata theory (Естественные науки)
+	 
+Results for теория алгоритмов:
+	 algorithm theory (Техника)
+	 
+Results for теория Бардина-Купера-Шриффера [БКШ] (simple):
+	Bardin-Cooper-Shriffera [BCS] theory
+Results for теория больших (малых) сигналов (simple):
+	theory of big (small) signals
+Results for теория вероятностей:
+	 probability theory 
+Results for теория возмущений:
+	 perturbation theory (Естественные науки)
+	 
+Results for теория волноводов (simple):
+	theory of wave guides
+Results for теория Гинзбурга-Ландау (simple):
+	Ginzburg-Landau's theory
+Results for теория графов:
+	 graph theory (Естественные науки)
+	 
+Results for теория групп:
+	 group theory (Естественные науки)
+	 
+Results for теория движения доменных границ (simple):
+	theory of the movement of domain borders
+Results for теория игр:
+	 game theory 
+	 games theory (Компьютеры)
+	 
+	 theory of games (Естественные науки)
+	 
+Results for теория информации:
+	 information theory (Естественные науки)
+	 
+Results for теория катастроф:
+	 catastrophe theory (Компьютеры)
+	 
+	 catastrophism (Естественные науки)
+	 
+Results for теория кодирования:
+	 coding theory (Компьютеры)
+	 
+Results for теория линий передачи (simple):
+	theory of transmission lines
+Results for теория магнетизма (simple):
+	theory of magnetism
+Results for теория массового обслуживания:
+	 theory of queues (Бизнес)
+	 
+	 queuing theory (Компьютеры)
+	 
+	 queueing theory (Техника)
+	 
+Results for теория Матисса-Бардина (simple):
+	Matisse-Bardina's theory
+Results for теория матриц (simple):
+	theory of matrixes
+Results for теория множеств:
+	 set theory (Техника)
+	 
+Results for теория надёжности (simple):
+	theory of reliability
+Results for теория относительности:
+	 relativity theory (Естественные науки)
+	 
+	 theory of relativity (Техника)
+	 
+Results for теория очередей:
+	 theory of queues (Естественные науки)
+	 
+Results for теория ошибок:
+	 error theory (Естественные науки)
+	 
+Results for теория передачи информации (simple):
+	theory of information transfer
+Results for теория полупроводников (simple):
+	theory of semiconductors
+Results for теория поля:
+	 field theory (Естественные науки)
+	 
+Results for теория размерностей:
+	 dimensional theory (Техника)
+	 
+Results for теория разрешающей способности аббе (simple):
+	theory of resolution to ABBA
+Results for теория распространения радиоволн (simple):
+	theory of distribution of radio waves
+Results for теория решений:
+	 decision theory (Компьютеры)
+	 
+Results for теория сверхпроводимости (simple):
+	theory of superconductivity
+Results for теория связи (simple):
+	theory of communication
+Results for теория систем (simple):
+	theory of systems
+Results for теория твёрдого тела (simple):
+	theory of a solid body
+Results for теория управления:
+	 management theory (Бизнес)
+	 
+	 control theory (Техника)
+	 
+Results for теория устойчивости:
+	 stability theory (Естественные науки)
+	 
+Results for теория функций действительного (комплексного) переменного (simple):
+	theory of functions of the valid (complex) variable
+Results for теория цепей:
+	 electrical circuit analysis (Естественные науки)
+	 
+Results for теория (цифровых) автоматов (simple):
+	theory (digital) automatic machines
+Results for теория чисел:
+	 number theory (Естественные науки)
+	 
+Results for теория электромагнетизма (simple):
+	theory of electromagnetism
+Results for теория электромагнитных волн СВЧ-диапазона (simple):
+	theory of electromagnetic waves of microwave range
+Results for феноменологическая теория:
+	 phenomenological theory (Естественные науки)
+	 
+Results for эргодическая теория (simple):
+	ergodic theory
+Results for решёточная теплоёмкость (simple):
+	reshyotochny thermal capacity
+Results for удельная теплоёмкость:
+	 specific heat 
+Results for электронная теплоёмкость (simple):
+	electronic thermal capacity
+Results for удельная теплопроводность:
+	 heat conductivity (Естественные науки)
+	 
+Results for замкнутый терм:
+	 closed term (Естественные науки)
+	 
+Results for синглетный терм (simple):
+	singletny term
+Results for спектральный терм:
+	 spectral term (Естественные науки)
+	 
+Results for триплетный терм (simple):
+	tripletny term
+Results for энергетический терм (simple):
+	power term
+Results for термализация электронов (simple):
+	thermalization of electrons
+Results for абонентский терминал:
+	 exchange service station (Компьютеры)
+	 
+Results for алфавитно-мозаичный(-цифровой) терминал (simple):
+	alphabetic and mosaic (-digital) the terminal
+Results for видеотелефонный терминал (simple):
+	video telephone terminal
+Results for виртуальный терминал:
+	 virtual terminal (Техника)
+	 
+Results for графический терминал:
+	 graphic terminal (Компьютеры)
+	 
+Results for интеллектуальный терминал:
+	 intelligent terminal (Компьютеры)
+	 
+Results for интерактивный терминал:
+	 interactive terminal (Компьютеры)
+	 
+Results for коммутируемый терминал (simple):
+	the switched terminal
+Results for обрабатывающий терминал (simple):
+	the processing terminal
+Results for операторский терминал (simple):
+	operator terminal
+Results for опрашиваемый терминал (simple):
+	the interviewed terminal
+Results for персональный терминал (simple):
+	personal terminal
+Results for портативный терминал:
+	 portable data terminal (Компьютеры)
+	 
+Results for преобразующий терминал (simple):
+	reformative terminal
+Results for проблемно-ориентированный терминал (simple):
+	problem-oriented terminal
+Results for программируемый терминал:
+	 programmable terminal (Компьютеры)
+	 
+Results for речевой терминал (simple):
+	speech terminal
+Results for сетевой терминал:
+	 network terminal (Компьютеры)
+	 
+Results for стартстопный терминал (simple):
+	startstopny terminal
+Results for терминал обработки информации (simple):
+	information processing terminal
+Results for терминал (пакетной) обработки данных (simple):
+	terminal (package) data processing
+Results for терминал пользователя (simple):
+	user's terminal
+Results for терминал сбора данных и управления в реальном масштабе времени (simple):
+	terminal of data collection and management in real time
+Results for терминал системы с разделением времени (simple):
+	the system terminal with division of time
+Results for терминал с распознаванием образов (simple):
+	the terminal with recognition of images
+Results for транзитный терминал (simple):
+	transit terminal
+Results for удалённый терминал (simple):
+	remote terminal
+Results for цифровой терминал (simple):
+	digital terminal
+Results for полупроводниковая термобатарея (simple):
+	semiconductor thermobattery
+Results for контактная термография (simple):
+	contact termografiya
+Results for жидкокристаллический термометр (simple):
+	liquid crystal thermometer
+Results for полупроводниковый термометр (simple):
+	semiconductor thermometer
+Results for сверхпроводящий термометр (simple):
+	superconducting thermometer
+Results for термометр сопротивления:
+	 electric resistance pyrometer (Естественные науки)
+	 
+	 resistance thermometer (Техника)
+	 
+Results for термопарный термометр (simple):
+	thermopair thermometer
+Results for ультразвуковой термометр (simple):
+	ultrasonic thermometer
+Results for электрический термометр:
+	 electric thermometer (Техника)
+	 
+Results for вакуумная термопара (simple):
+	vacuum thermocouple
+Results for железо(медь)-константановая термопара (simple):
+	iron (copper) - the konstantanovy thermocouple
+Results for иридий(платино)-родиевая термопара (simple):
+	iridium (platinum) - the rhodic thermocouple
+Results for термостимуляция течения потока (simple):
+	thermostimulation of a current of a stream
+Results for тест-сигнал (simple):
+	test signal
+Results for тест-таблица (simple):
+	test table
+Results for тестер для ИС (simple):
+	tester for IS
+Results for тестер для кабелей (simple):
+	tester for cables
+Results for тестер полупроводниковых приборов (simple):
+	tester of semiconductor devices
+Results for автоматизированное тестирование (simple):
+	the automated testing
+Results for внутрисхемное тестирование (simple):
+	intra circuit testing
+Results for синдромное тестирование (simple):
+	syndromic testing
+Results for тестирование программы (simple):
+	testing of the program
+Results for тестирование электромагнитной совместимости (simple):
+	testing of electromagnetic compatibility
+Results for функциональное тестирование:
+	 functional testing 
+Results for прорезиненная тесьма (simple):
+	the rubberized tape
+Results for резиновая тесьма (simple):
+	rubber tape
+Results for хлопчатобумажная тесьма:
+	 cotton braid (Техника)
+	 
+Results for двойной тетрод (simple):
+	double tetrode
+Results for лучевой тетрод (simple):
+	beam tetrode
+Results for МОП-тетрод (simple):
+	MOP-tetrode
+Results for плоскостной тетрод:
+	 junction tetrode (Техника)
+	 
+Results for поверхностно-управляемый тетрод (simple):
+	the superficial operated tetrode
+Results for полевой тетрод:
+	 field-effect tetrode (Техника)
+	 
+Results for СВЧ-тетрод с отрицательной сеткой (simple):
+	Microwave tetrode with a negative grid
+Results for тетрод в триодном включении (simple):
+	tetrode in triode inclusion
+Results for тетрод с многослойным затвором (simple):
+	tetrode with a multilayered lock
+Results for тетрод с отрицательным сопротивлением (simple):
+	tetrode with a negative resistance
+Results for (точечный) полупроводниковый тетрод (simple):
+	(dot) semiconductor tetrode
+Results for туннельный тетрод (simple):
+	tunnel tetrode
+Results for электрохимический тетрод:
+	 solion tetrode (Техника)
+	 
+Results for вакуумная техника:
+	 vacuum engineering (Техника)
+	 
+Results for волоконно-оптическая техника (simple):
+	fiber-optical equipment
+Results for вычислительная техника:
+	 computer facilities 
+	 computing machinery (Техника)
+	 
+	 ADP equipment (Компьютеры)
+	 
+Results for измерительная техника:
+	 measuring technique (Техника)
+	 
+Results for импульсная техника і (simple):
+	pulse equipment і
+Results for информационная техника (simple):
+	information equipment
+Results for космическая техника:
+	 space engineering (Техника)
+	 
+Results for криогенная техника:
+	 cryogenic engineering (Техника)
+	 
+Results for осветительная техника (simple):
+	lighting equipment
+Results for радиолокационная техника (simple):
+	radar equipment
+Results for радиочастотная техника (simple):
+	radio-frequency equipment
+Results for сильно(слабо)точная техника (simple):
+	strongly (poorly) exact equipment
+Results for телевизионная техника (simple):
+	television equipment
+Results for техника автоматического управления:
+	 control engineering (Техника)
+	 
+Results for техника безопасности:
+	 safety measures 
+	 accident prevention (Естественные науки)
+	 
+	 safe engineering (Бизнес)
+	 
+	 security regulation (Компьютеры)
+	 
+Results for техника воспроизведения (simple):
+	technology of reproduction
+Results for техника вычислений (simple):
+	technology of calculations
+Results for техника надёжности (simple):
+	equipment of reliability
+Results for техника научных исследований (simple):
+	technology of scientific research
+Results for техника отображения (simple):
+	technology of display
+Results for техника программного обеспечения (simple):
+	technology of the software
+Results for техника САПР (simple):
+	CAD equipment
+Results for техника СВЧ (simple):
+	microwave oven equipment
+Results for техника связи:
+	 communication engineering (Естественные науки)
+	 
+Results for техника систем визуальной индикации (simple):
+	equipment of systems of visual indication
+Results for техника студийных телевизионных передач (simple):
+	technology of studio telecasts
+Results for техника (суб)миллиметровых волн (simple):
+	equipment (sub) millimetric waves
+Results for электровакуумная техника (simple):
+	electrovacuum equipment
+Results for электронная техника:
+	 electronics[ɪlekˈtrɔnɪks] (Техника)
+	 
+Results for базовая ИС технология (simple):
+	basic IS technology
+Results for гибридная технология:
+	 hybrid technology (Компьютеры)
+	 
+Results for диффузионная технология:
+	 diffusion technology (Естественные науки)
+	 
+Results for изопланарная технология:
+	 isoplanar technology (Компьютеры)
+	 
+Results for интегральная технология (simple):
+	integrated technology
+Results for керметная технология:
+	 cermet approach (Техника)
+	 
+Results for меза-технология (simple):
+	Meuse technology
+Results for планарная технология:
+	 planar technology (Техника)
+	 
+Results for планарно-эпитаксиальная технология (simple):
+	planar and epitaxial technology
+Results for полупроводниковая технология:
+	 semiconductor technology (Компьютеры)
+	 
+Results for роботизированная технология (simple):
+	robotic technology
+Results for субмикронная технология:
+	 submicron technology (Компьютеры)
+	 
+Results for твердотельная технология (simple):
+	solid-state technology
+Results for технология изготовления микросхем (simple):
+	manufacturing techniques of chips
+Results for технология локального оксидирования кремния (simple):
+	technology of local oxygenating of silicon
+Results for технология «перевёрнутых кристаллов» (simple):
+	technology of "the turned crystals"
+Results for технология поверхностного монтажа (simple):
+	technology of superficial installation
+Results for толсто(тонко)плёночная технология (simple):
+	thickly (thinly) film technology
+Results for безвихревое течение:
+	 irrotational flow (Естественные науки)
+	 
+Results for вязкое течение:
+	 frictional flow (Естественные науки)
+	 
+	 viscous flow (Техника)
+	 
+Results for тип взаимодействия:
+	 interaction mode (Техника)
+	 
+Results for тип взаимоотношений между объектами (simple):
+	type of relationship between objects
+Results for тип волн (simple):
+	type of waves
+Results for тип колебаний:
+	 wave mode (Компьютеры)
+	 
+	 mode of vibration (Техника)
+	 
+Results for тип проводимости (simple):
+	conductivity type
+Results for тип распределения (simple):
+	distribution type
+Results for аргоновый тиратрон (simple):
+	argon thyratron
+Results for двухсеточный тиратрон (simple):
+	two-net thyratron
+Results for импульсный водородный тиратрон і (simple):
+	pulse hydrogen thyratron і
+Results for сварочный тиратрон (simple):
+	welding thyratron
+Results for тиратрон с защитной (отрицательной) сеткой (simple):
+	thyratron with a protective (negative) grid
+Results for тиратрон с холодным катодом (simple):
+	thyratron with the cold cathode
+Results for тиратрон тлеющего разряда:
+	 glow thyratron (Техника)
+	 
+Results for экранированный тиратрон (simple):
+	screened thyratron
+Results for диодный тиристор (simple):
+	diode tiristor
+Results for тиристор с инжектирующим управляющим электродом (simple):
+	tiristor with the injecting operating electrode
+Results for триодный тиристор (simple):
+	triode tiristor
+Results for активный ток:
+	 wattful current (Естественные науки)
+	 
+	 active current (Техника)
+	 
+Results for (акусто)электрический ток (simple):
+	(акусто) electric current
+Results for анодный ток:
+	 plate current (Естественные науки)
+	 
+	 anode current (Компьютеры)
+	 
+Results for антенный ток (simple):
+	antenna current
+Results for базовый ток [ток базы] (simple):
+	basic current [current of base]
+Results for блуждающий ток:
+	 vagabond current (Естественные науки)
+	 
+Results for вихревой ток:
+	 whirling current (Техника)
+	 
+Results for вторичный ток (simple):
+	secondary current
+Results for гальванический ток:
+	 galvanic current (Естественные науки)
+	 
+Results for двунаправленный ток (simple):
+	bidirectional current
+Results for двухфазный ток:
+	 two-phase current (Техника)
+	 
+Results for диффузионный ток:
+	 diffusion current (Техника)
+	 
+Results for дрейфовый ток (simple):
+	drift current
+Results for ёмкостный ток (simple):
+	capacitor current
+Results for зарядный ток:
+	 charge current (Техника)
+	 
+Results for затухающий ток:
+	 decaying current (Техника)
+	 
+Results for избыточный ток (simple):
+	excess current
+Results for индукционный ток (simple):
+	induction current
+Results for ионный ток разряда (simple):
+	ionic current of the category
+Results for катодный ток [ток катода] (simple):
+	cathodic current [cathode current]
+Results for квазистационарный ток (simple):
+	quasistationary current
+Results for коллекторный ток [ток коллектора] (simple):
+	collector current [collector current]
+Results for комплексный ток (simple):
+	complex current
+Results for конвекционный ток:
+	 convection current (Естественные науки)
+	 
+Results for контурный ток:
+	 loop current (Техника)
+	 
+Results for критический ток (simple):
+	critical current
+Results for лавинный ток:
+	 avalanche current (Техника)
+	 
+Results for межзонный ток (simple):
+	interzonal current
+Results for наведённый ток (simple):
+	the induced current
+Results for начальный пусковой ток (simple):
+	initial starting current
+Results for обратный ток:
+	 reverse current (Техника)
+	 
+	 reversed current (Естественные науки)
+	 
+Results for объёмный ток (simple):
+	volume current
+Results for остаточный ток:
+	 residual current (Естественные науки)
+	 
+	 stored current (Техника)
+	 
+Results for паразитный ток:
+	 stray current (Естественные науки)
+	 
+Results for переменный ток:
+	 alternating current 
+	 AC (Техника)
+	 
+Results for постоянный ток:
+	 direct current 
+	 DC (Техника)
+	 
+Results for пропускаемый ток:
+	 pass current 
+Results for пусковой ток:
+	 starting current (Техника)
+	 
+Results for разрядный ток:
+	 discharge current (Техника)
+	 
+Results for сверхпроводящий ток (simple):
+	superconducting current
+Results for СВЧ ток (simple):
+	Microwave oven current
+Results for сеточный ток:
+	 grid current 
+Results for синусоидальный [гармонический] ток (simple):
+	sinusoidal [harmonious] current
+Results for средний ток (simple):
+	average current
+Results for стабилизированный ток (simple):
+	the stabilized current
+Results for теллурический ток:
+	 telluric current (Естественные науки)
+	 
+Results for темновой ток:
+	 dark current (Техника)
+	 
+Results for ток абсорбции:
+	 absorption current (Техника)
+	 
+Results for ток би(моно)полярной инжекции (simple):
+	current би (mono) polar injection
+Results for ток вероятности (simple):
+	probability current
+Results for ток ветви (simple):
+	branch current
+Results for ток в зазоре (simple):
+	current in a gap
+Results for ток видеозаписи (simple):
+	video current
+Results for ток в(вы)ключения (simple):
+	klyucheniye current in (you)
+Results for ток во внешней цепи (simple):
+	current in an external chain
+Results for ток возбуждения:
+	 field current (Естественные науки)
+	 
+	 energizing current (Техника)
+	 
+Results for ток восстановления сверхпроводящего состояния (simple):
+	current of restoration of a superconducting state
+Results for ток в поверхностном слое (simple):
+	current in a blanket
+Results for ток вторичной (первичной) обмотки (simple):
+	current of secondary (primary) winding
+Results for ток в цепи высокого напряжения (обратной связи) (simple):
+	current in a chain of the high voltage (feedback)
+Results for ток выборки:
+	 drive current (Техника)
+	 
+Results for ток высокой частоты:
+	 high frequency current (Техника)
+	 
+Results for ток выходного сигнала (simple):
+	current of an output signal
+Results for ток диода (simple):
+	diode current
+Results for ток диэлектрика (simple):
+	dielectric current
+Results for ток дугового разряда (simple):
+	current of the arc category
+Results for ток записи:
+	 recording current 
+Results for ток затвора:
+	 gate current (Компьютеры)
+	 
+Results for ток истока:
+	 source current (Техника)
+	 
+Results for ток источника питания (simple):
+	power supply current
+Results for ток короткого замыкания:
+	 short-circuit current (Техника)
+	 
+Results for ток мишени (simple):
+	target current
+Results for ток Мортона (simple):
+	Morton's current
+Results for ток нагрузки:
+	 load current (Естественные науки)
+	 
+Results for ток накала:
+	 filament current (Естественные науки)
+	 
+Results for ток на(под)магничивания (simple):
+	current on (under) magnichivaniye
+Results for ток насыщения:
+	 saturation current (Естественные науки)
+	 
+Results for ток (не)основных носителей (simple):
+	current (not) of the main carriers
+Results for ток несущей (simple):
+	current of bearing
+Results for ток, ограниченный пространственным зарядом (simple):
+	the current limited to a spatial charge
+Results for ток отпускания:
+	 turn-off current (Техника)
+	 
+Results for ток отсечки:
+	 shut-off current (Техника)
+	 
+Results for ток переброса (simple):
+	transfer current
+Results for ток перегрузки:
+	 overload current (Техника)
+	 
+Results for ток переключения (simple):
+	switching current
+Results for ток пилообразной формы (simple):
+	current of a sawtooth form
+Results for ток пинч-разряда (simple):
+	pinch discharge current
+Results for ток плавления:
+	 melting current (Техника)
+	 
+Results for ток повреждения:
+	 demarcation current (Естественные науки)
+	 
+	 fault current (Техника)
+	 
+Results for ток подогревателя (simple):
+	heater current
+Results for ток покоя:
+	 standing current (Естественные науки)
+	 
+Results for ток поляризации:
+	 polarization current (Естественные науки)
+	 
+Results for ток потребления (simple):
+	consumption current
+Results for ток предварительной ионизации (simple):
+	current of preliminary ionization
+Results for ток проводимости:
+	 conduction current (Техника)
+	 
+Results for ток появления нормального состояния (simple):
+	current of emergence of the normal state
+Results for ток пробоя:
+	 breakdown current (Техника)
+	 
+Results for ток пучка:
+	 beam current (Техника)
+	 
+Results for ток распыления (simple):
+	dispersion current
+Results for ток сетки (лампы) (simple):
+	current of a grid (lamp)
+Results for ток смещения:
+	 displacement current (Естественные науки)
+	 
+Results for ток срабатывания:
+	 pick-up current (Техника)
+	 
+Results for ток стирания (simple):
+	deleting current
+Results for ток стока:
+	 drain current (Техника)
+	 
+Results for ток строчной частоты (simple):
+	current of lower case frequency
+Results for ток считывания:
+	 read current (Техника)
+	 
+Results for ток удержания:
+	 hold current (Техника)
+	 
+Results for ток утечки:
+	 leakage current (Естественные науки)
+	 
+Results for ток фиксации (simple):
+	fixing current
+Results for ток фокусирующей катушки (simple):
+	current of the focusing coil
+Results for ток холостого хода:
+	 no-load current (Техника)
+	 
+Results for ток через кристалл (simple):
+	current through a crystal
+Results for ток экстракции (simple):
+	extraction current
+Results for ток электрода (simple):
+	electrode current
+Results for ток эмиссии:
+	 emission current (Техника)
+	 
+Results for трёхфазный ток (simple):
+	three-phase current
+Results for управляющий ток:
+	 control current (Техника)
+	 
+Results for условный ток плавления (simple):
+	conditional current of melting
+Results for фарадический ток (simple):
+	faradichesky current
+Results for флуктуирующий ток (simple):
+	the fluctuating current
+Results for холловский ток (simple):
+	Hall current
+Results for эквивалентный шумовой ток (simple):
+	equivalent noise current
+Results for электронный ток:
+	 electron current (Техника)
+	 
+Results for эмиттерный ток [ток эмиттера] (simple):
+	emitter current [emitter current]
+Results for блуждающие токи:
+	 ground currents (Естественные науки)
+	 блуждающий ток 
+	 Существительное блуждающий ток / блуждающие токи 
+	 vagabond current (Естественные науки)
+	 
+Results for вихревые токи [токи Фуко] (simple):
+	vortex currents [Foucault's currents]
+Results for противонаправленные токи (simple):
+	opposing currents
+Results for оптическая толща (simple):
+	optical thickness
+Results for толщина ионизированного слоя (simple):
+	thickness of the ionized layer
+Results for толщина намотки:
+	 winding thickness (Техника)
+	 
+Results for толщина покрытия:
+	 coating thickness (Техника)
+	 
+Results for толщина слоя половинного поглощения (simple):
+	thickness of a layer of half absorption
+Results for томограф на принципе ядерного магнитного резонанса (simple):
+	the tomograph on the principle of nuclear magnetic resonance
+Results for томограф с использованием оптического (рентгеновского) излучения (simple):
+	the tomograph with use of optical (x-ray) radiation
+Results for томограф с использованием ультразвука (simple):
+	the tomograph with use of ultrasound
+Results for голографическая томография (simple):
+	holographic tomography
+Results for позитронная томография (simple):
+	positron tomography
+Results for поперечная томография (simple):
+	cross tomography
+Results for рентгеновская томография (simple):
+	x-ray tomography
+Results for рефракционная томография (simple):
+	refraction tomography
+Results for ультразвуковая томография (simple):
+	ultrasonic tomography
+Results for эмиссионная томография:
+	 emission tomography (Естественные науки)
+	 
+Results for ЯМР-томография:
+	 NMR imaging (Техника)
+	 
+Results for нулевой тон (simple):
+	zero tone
+Results for основной тон:
+	 fundamental tone (Музыка)
+	 
+	 fundamental component (Естественные науки)
+	 
+Results for тон биений:
+	 beat note (Компьютеры)
+	 
+Results for тон свиста (simple):
+	tone of whistle
+Results for цветовой тон:
+	 color tone (Естественные науки)
+	 
+	 tone of coloration (Техника)
+	 
+Results for чистый тон (simple):
+	pure tone
+Results for вертикальный тонарм (simple):
+	vertical тонарм
+Results for одноосный тонарм (simple):
+	monoaxial тонарм
+Results for поворотный тонарм (simple):
+	rotary тонарм
+Results for тангенциальный тонарм (simple):
+	tangential тонарм
+Results for тонарм с жидкостным успокоителем (simple):
+	тонарм with a liquid uspokoitel
+Results for ракетное топливо:
+	 rocket fuel (Техника)
+	 
+Results for условное топливо:
+	 equivalent fuel (Техника)
+	 
+Results for двумерная топология (simple):
+	two-dimensional topology
+Results for топология ИС (simple):
+	IS topology
+Results for топология маски:
+	 mask layout (Компьютеры)
+	 
+Results for топология соединений (simple):
+	topology of connections
+Results for топология схемы:
+	 circuit pattern (Техника)
+	 
+Results for топология фотошаблона (simple):
+	photo mask topology
+Results for торец волновода (simple):
+	wave guide end face
+Results for торец, скошенный под углом Брюстера (simple):
+	the end face mown at an angle Brewster
+Results for торец цилиндрического резонатора (simple):
+	end face of the cylindrical resonator
+Results for динамическое торможение:
+	 dynamic braking (Естественные науки)
+	 
+Results for регенеративное торможение (simple):
+	regenerative braking
+Results for рекуперативное торможение:
+	 regenerative braking (Естественные науки)
+	 
+Results for торможение вихревыми токами:
+	 eddy-current braking (Естественные науки)
+	 
+	 eddy current braking (Компьютеры)
+	 
+Results for торможение противовключением:
+	 countercurrent braking (Естественные науки)
+	 
+Results for торможение чередованием фаз (simple):
+	braking by alternation of phases
+Results for асимптотическая точка (simple):
+	asymptotic point
+Results for (би, мульти, тетра, три)критическая точка (simple):
+	(би, multi, tetra, three) critical point
+Results for блоховская точка (simple):
+	Bloch point
+Results for граничная точка (simple):
+	boundary point
+Results for изображающая точка (simple):
+	the representing point
+Results for контрольная точка:
+	 control point 
+	 reference point (Естественные науки)
+	 
+	 test point (Компьютеры)
+	 
+	 checkpoint[ˈtʃekpɔɪnt] (Техника)
+	 
+Results for критическая точка:
+	 critical point (Естественные науки)
+	 
+	 stagnation point (Естественные науки)
+	 
+Results for особая точка:
+	 singular point (Естественные науки)
+	 
+Results for перитектическая точка:
+	 peritectic point (Техника)
+	 
+Results for подспутниковая точка (simple):
+	subsatellite point
+Results for рабочая точка:
+	 working point (Естественные науки)
+	 
+	 operation point (Компьютеры)
+	 
+	 operating point (Техника)
+	 
+Results for радионавигационная точка (simple):
+	radio navigational point
+Results for стехиометрическая точка:
+	 stoichiometric point (Естественные науки)
+	 
+Results for точка белого:
+	 white point (Компьютеры)
+	 
+Results for точка в ближней (дальней, промежуточной) зоне (simple):
+	point in near (distant, intermediate) a zone
+Results for точка ввода (simple):
+	input point
+Results for точка ветвления:
+	 branching points (Естественные науки)
+	 
+	 branchpoint (Техника)
+	 
+Results for точка возбуждения (simple):
+	excitement point
+Results for точка возврата:
+	 cusp[kʌsp] (Естественные науки)
+	 
+	 backtracking point (Компьютеры)
+	 
+Results for точка возобновления (simple):
+	renewal point
+Results for точка впадины (simple):
+	hollow point
+Results for точка вспышки:
+	 flash point 
+Results for точка входа:
+	 entry point 
+	 point of entry (Бизнес)
+	 
+Results for точка вырождения (simple):
+	degeneration point
+Results for точка декалесценции (simple):
+	decalescence point
+Results for точка загиба (simple):
+	bend point
+Results for точка зажигания:
+	 firing point (Техника)
+	 
+Results for точка зародышеобразования (simple):
+	zarodysheobrazovaniye point
+Results for точка изменения маршрута (simple):
+	point of change of a route
+Results for точка измерения:
+	 measuring point (Естественные науки)
+	 
+	 measuring position (Естественные науки)
+	 
+	 measurement point (Техника)
+	 
+Results for точка изображения (simple):
+	image point
+Results for точка касания:
+	 point of tangency (Естественные науки)
+	 
+	 tangency point (Техника)
+	 
+Results for точка коммутации (simple):
+	switching point
+Results for точка компенсации (simple):
+	compensation point
+Results for точка Кюри:
+	 Curie point (Естественные науки)
+	 
+Results for точка магнитного упорядочения (simple):
+	point of magnetic streamlining
+Results for точка максимальной кривизны (simple):
+	point of the maximum curvature
+Results for точка наблюдения:
+	 vantage point (Компьютеры)
+	 
+	 view point (Техника)
+	 
+Results for точка насыщения:
+	 saturating point (Естественные науки)
+	 
+	 saturation point (Компьютеры)
+	 
+	 saturation temperature (Естественные науки)
+	 
+Results for точка Нееля (simple):
+	Neel's point
+Results for точка (обратного) плавления (simple):
+	point (return) melting
+Results for точка останова:
+	 break point (Компьютеры)
+	 
+Results for точка отражения (simple):
+	reflection point
+Results for точка отсечки:
+	 cut-off point (Техника)
+	 
+Results for точка отсчёта:
+	 reference point 
+Results for точка перегиба:
+	 inflection point 
+	 point of inflection (Естественные науки)
+	 
+	 contrary flexure point (Компьютеры)
+	 
+Results for точка перемножения (simple):
+	multiplication point
+Results for точка пересечения [кроссовера] (simple):
+	point of intersection of [crossover]
+Results for точка перехода:
+	 transition point (Естественные науки)
+	 
+	 change point (Техника)
+	 
+Results for точка питания (simple):
+	food point
+Results for точка подключения нагрузки (simple):
+	point of connection of loading
+Results for точка покоя:
+	 stationary point (Естественные науки)
+	 
+Results for точка по уровню половинной мощности (simple):
+	point on the level of half power
+Results for точка прерывания (simple):
+	interruption point
+Results for точка приостановки (simple):
+	suspension point
+Results for точка равновесия:
+	 equilibrium point (Естественные науки)
+	 
+Results for точка разветвления:
+	 branch point (Естественные науки)
+	 
+Results for точка разрыва:
+	 point of discontinuity (Естественные науки)
+	 
+	 discontinuity point (Компьютеры)
+	 
+Results for точка расположения источника (simple):
+	source arrangement point
+Results for точка раствора (simple):
+	solution point
+Results for точка рестарта (simple):
+	restart point
+Results for точка скалывания (simple):
+	skalyvaniye point
+Results for точка смешения (simple):
+	mixture point
+Results for точка соединения:
+	 connection point (Техника)
+	 
+Results for точка стационарной фазы (simple):
+	point of a stationary phase
+Results for точка стеклования:
+	 vitrifying point (Естественные науки)
+	 
+	 glass-transition point (Техника)
+	 
+Results for точка суммирования:
+	 summing point (Компьютеры)
+	 
+Results for точка фазового перехода (simple):
+	point of phase transition
+Results for точка фиксирования (simple):
+	fixation point
+Results for тройная точка:
+	 triple point (Естественные науки)
+	 
+Results for эвтектическая точка:
+	 eutectic point (Естественные науки)
+	 
+Results for экспериментальная точка (simple):
+	experimental point
+Results for λ-точка (simple):
+	λ-point
+Results for апланатические точки (simple):
+	aplanatichesky points
+Results for кардинальные точки:
+	 cardinal point (Естественные науки)
+	 кардинальные точка 
+	 Существительное кардинальные точка / кардинальные точки 
+	 cardinal points (Техника)
+	 
+Results for номинальная точность (simple):
+	nominal accuracy
+Results for относительная точность:
+	 relative precision (Естественные науки)
+	 
+Results for результирующая точность (simple):
+	the resulting accuracy
+Results for точность воспроизведения (simple):
+	reproduction accuracy
+Results for точность градуировки:
+	 calibration accuracy (Техника)
+	 
+Results for точность измерения:
+	 measurement accuracy (Естественные науки)
+	 
+	 measuring accuracy (Компьютеры)
+	 
+Results for точность измерительного прибора (simple):
+	accuracy of the measuring device
+Results for точность калибровки:
+	 calibration accuracy (Компьютеры)
+	 
+Results for точность метода обработки сигналов (simple):
+	accuracy of a method of processing of signals
+Results for точность наведения на цель (simple):
+	accuracy of aiming at the purpose
+Results for точность настройки:
+	 tuning sharpness (Компьютеры)
+	 
+	 accuracy tuning (Техника)
+	 
+Results for точность отображения (simple):
+	display accuracy
+Results for точность отсчёта (simple):
+	counting accuracy
+Results for точность пеленгования радиопеленга (simple):
+	radio bearing pelengovaniye accuracy
+Results for точность по азимуту (дальности, углу возвышения) (simple):
+	accuracy on an azimuth (to range, an eminence corner)
+Results for точность позиционирования:
+	 positioning accuracy (Компьютеры)
+	 
+Results for точность проектирования:
+	 design accuracy (Компьютеры)
+	 
+Results for точность работы системы автоматического управления (simple):
+	accuracy of work of system of automatic control
+Results for точность сопровождения (simple):
+	maintenance accuracy
+Results for точность юстировки (simple):
+	adjustment accuracy
+Results for травитель с использованием фоторезиста (simple):
+	travitel with photoresist use
+Results for геодезическая траектория (simple):
+	geodetic trajectory
+Results for параксиальная траектория (simple):
+	paraxial trajectory
+Results for траектория по дуге большого круга (simple):
+	trajectory on an arch of a big circle
+Results for траектория при загоризонтном (земном, ионосферном, многоскачковом, тропосферном) распространении (simple):
+	trajectory at over-the-horizon (terrestrial, ionospheric, mnogoskachkovy, tropospheric) distribution
+Results for траектория при распространении в пределах прямой видимости (simple):
+	trajectory at distribution within direct visibility
+Results for траектория пучка (simple):
+	bunch trajectory
+Results for траектория радиоволны (simple):
+	radio wave trajectory
+Results for траектория электрона (simple):
+	electron trajectory
+Results for фазовая траектория (simple):
+	phase trajectory
+Results for волноводный тракт:
+	 wave-guide duct (Естественные науки)
+	 
+	 waveguide duct (Компьютеры)
+	 
+Results for групповой тракт:
+	 group channel (Компьютеры)
+	 
+Results for речевой тракт:
+	 talking path (Компьютеры)
+	 
+Results for тракт передачи дискретной информации (simple):
+	path of transfer of discrete information
+Results for тракт передачи изображения (simple):
+	path of transfer of the image
+Results for тракт управления (simple):
+	management path
+Results for уплотнённый тракт (simple):
+	the condensed path
+Results for адаптивный транзистор (simple):
+	adaptive transistor
+Results for аналоговый транзистор (simple):
+	analog transistor
+Results for (без)дрейфовый транзистор (simple):
+	(without) drift transistor
+Results for бескорпусный транзистор:
+	 chip transistor (Техника)
+	 
+Results for биполярный транзистор:
+	 bipolar transistor (Компьютеры)
+	 
+Results for бусинковый транзистор:
+	 bead transistor (Компьютеры)
+	 
+Results for вертикальный транзистор:
+	 vertical transistor (Компьютеры)
+	 
+Results for высоко(низко)вольтный транзистор (simple):
+	highly (low) voltny transistor
+Results for высокочастотный транзистор:
+	 high frequency transistor (Компьютеры)
+	 
+	 high-frequency transistor (Техника)
+	 
+Results for германиевый транзистор:
+	 germanium transistor (Компьютеры)
+	 
+Results for двойной транзистор с согласованными параметрами (simple):
+	the double transistor with the coordinated parameters
+Results for двухбазовый транзистор:
+	 dualbase transistor (Компьютеры)
+	 
+	 double-base transistor (Техника)
+	 
+Results for двух(много)затворный транзистор (simple):
+	two (many) barrier transistor
+Results for двух(много)эмиттерный транзистор (simple):
+	two (many) emitter transistor
+Results for диффузионно-сплавной транзистор (simple):
+	alloy-diffused transistor
+Results for диффузионный (планарный) транзистор (simple):
+	diffusive (planar) transistor
+Results for запертый транзистор (simple):
+	the locked transistor
+Results for запоминающий транзистор:
+	 storage transistor (Компьютеры)
+	 
+Results for интегральный транзистор:
+	 integrated transistor (Техника)
+	 
+Results for ионно-имплантированный транзистор (simple):
+	the ion-implanted transistor
+Results for ионно-селективный транзистор (simple):
+	ion-selective transistor
+Results for коаксиальный транзистор (simple):
+	coaxial transistor
+Results for кольцевой транзистор (simple):
+	ring transistor
+Results for кремниевый транзистор:
+	 silicon transistor (Компьютеры)
+	 
+Results for лавинный транзистор:
+	 avalanche transistor (Компьютеры)
+	 
+Results for маломощный транзистор [транзистор малой мощности] (simple):
+	low-power transistor [transistor of low power]
+Results for малошумящий транзистор (simple):
+	low-noise transistor
+Results for микромощный транзистор (simple):
+	micropowerful transistor
+Results for микросплавной транзистор:
+	 microalloy transistor (Техника)
+	 
+Results for многоканальный транзистор:
+	 multichannel transistor (Компьютеры)
+	 
+Results for мозаичный транзистор (simple):
+	mosaic transistor
+Results for монолитный транзистор (simple):
+	monolithic transistor
+Results for нагрузочный транзистор (simple):
+	load transistor
+Results for напылённый транзистор (simple):
+	the raised dust transistor
+Results for нитевидный транзистор:
+	 filamentary transistor (Компьютеры)
+	 
+Results for обращённый транзистор (simple):
+	the turned transistor
+Results for однопереходный транзистор:
+	 unijunction transistor (Компьютеры)
+	 
+Results for открытый транзистор (simple):
+	open transistor
+Results for пассивированный транзистор (simple):
+	the passivated transistor
+Results for переключающий транзистор:
+	 switching transistor (Компьютеры)
+	 
+Results for планарно-эпитаксиальный транзистор (simple):
+	planar and epitaxial transistor
+Results for планарный транзистор (simple):
+	planar transistor
+Results for плоскостной транзистор:
+	 junction transistor (Техника)
+	 
+Results for поверхностно-барьерный (-зарядный, -сплавной, -управляемый, лавинный) транзистор (simple):
+	superficial and barrier (-shooter, - floatable, - operated, avalanche) the transistor
+Results for полевой транзистор:
+	 field transistor (Компьютеры)
+	 
+Results for пролётный транзистор (simple):
+	flying transistor
+Results for пяти(четырёх)слойный транзистор (simple):
+	five (four) layer transistor
+Results for радиационно-стойкий транзистор (simple):
+	radiation resistant transistor
+Results for реактивный транзистор (simple):
+	jet transistor
+Results for речевой транзистор (simple):
+	speech transistor
+Results for СВЧ-транзистор (simple):
+	Microwave transistor
+Results for симметричный транзистор (simple):
+	symmetric transistor
+Results for слоистый транзистор (simple):
+	layered transistor
+Results for составной транзистор:
+	 tandem transistor (Компьютеры)
+	 
+Results for сплавной (плоскостной) транзистор (simple):
+	floatable (plane) transistor
+Results for таблеточный транзистор (simple):
+	tablet transistor
+Results for тензочувствительный транзистор (simple):
+	tenzochuvstvitelny transistor
+Results for тонкоплёночный транзистор (simple):
+	thin-film transistor
+Results for точечно-плоскостной транзистор (simple):
+	dot and plane transistor
+Results for точечный транзистор:
+	 point transistor (Техника)
+	 
+Results for транзистор большой мощности (simple):
+	transistor of big power
+Results for транзистор в диодном включении (simple):
+	the transistor in diode inclusion
+Results for транзистор в корпусе патронного типа (simple):
+	the transistor in the case of cartridge type
+Results for транзистор в режиме насыщения (simple):
+	the transistor in the saturation mode
+Results for транзистор логической схемы (simple):
+	transistor of the logical scheme
+Results for транзистор на гетеропереходе (simple):
+	the transistor on a heterojunction
+Results for транзистор на гомоструктурных переходах (simple):
+	the transistor on gomostrukturny transitions
+Results for транзистор на горячих электронах (simple):
+	the transistor on hot electrons
+Results for транзистор на монокристаллической тонкой плёнке (simple):
+	the transistor on a single-crystal thin film
+Results for транзистор с балочными выводами:
+	 beamlead transistor (Компьютеры)
+	 
+Results for транзистор с бегущей волной (simple):
+	the transistor with the running wave
+Results for транзистор с большой площадью переходов (simple):
+	the transistor with a big area of transitions
+Results for транзистор с вплавленной (длинной, кольцевой, короткой, полосковой, удалённой, эпитаксиальной) базой (simple):
+	the transistor with vplavlenny (long, ring, short, strip, remote, epitaxial) base
+Results for транзистор с герметизированными (диффузионными) переходами (simple):
+	the transistor with the pressurized (diffusive) transitions
+Results for транзистор с горизонтальным расположением областей (simple):
+	the transistor with a horizontal arrangement of areas
+Results for транзистор с гребенчатой структурой (simple):
+	the transistor with edge structure
+Results for транзистор с инверсионным (узким) каналом (simple):
+	the transistor with the inversion (narrow) channel
+Results for транзистор с инжекцией неосновных носителей (simple):
+	the transistor with injection of nonbasic carriers
+Results for транзистор с коллектором, шунтированным диодом Шоттки (simple):
+	the transistor with the collector shunted by Schottky's diode
+Results for транзистор с копланарными электродами (simple):
+	the transistor with co-planar electrodes
+Results for транзистор с косым шлифом (simple):
+	the transistor with a slanting shlif
+Results for транзистор с накоплением заряда (simple):
+	the transistor with accumulation of a charge
+Results for транзистор с обращённым эмиттером (simple):
+	the transistor with the turned emitter
+Results for транзистор со сплавным коллектором (эмиттером) (simple):
+	the transistor with a floatable collector (emitter)
+Results for транзистор со структурой металл-диэлектрик-полупроводник [МДП-транзистор] (simple):
+	the transistor with structure the metal-dielectric-semiconductor [TIR transistor]
+Results for транзистор со структурой металл-оксид-полупроводник [МОН-транзистор] (simple):
+	the transistor with structure the metal-oxide-semiconductor [MON-transistor]
+Results for транзистор с охранным кольцом (simple):
+	the transistor with a security ring
+Results for транзистор с переносом тока основными носителями (simple):
+	the transistor with transfer of current the main carriers
+Results for транзистор с проколом базы (simple):
+	the transistor with a puncture of base
+Results for транзистор с распределённым взаимодействием (simple):
+	the transistor with the distributed interaction
+Results for транзистор с (сильно)обеднённым слоем (simple):
+	the transistor with (strongly) impoverished layer
+Results for транзистор с тормозящим полем (simple):
+	the transistor with the braking field
+Results for транзистор с экспоненциальным распределением примесей (simple):
+	the transistor with exponential distribution of impurity
+Results for транзистор с эмиттером ячеистого типа (simple):
+	the transistor with the emitter of cellular type
+Results for туннельный транзистор:
+	 tunnel transistor (Техника)
+	 
+Results for управляющий транзистор:
+	 control transistor (Компьютеры)
+	 
+Results for эпитаксиальный транзистор:
+	 epitaxial transistor (Техника)
+	 
+Results for ячеистый транзистор (simple):
+	cellular transistor
+Results for автоматический транзит:
+	 dial system tandem operation (Компьютеры)
+	 
+Results for транзит системы связи (simple):
+	transit of a communication system
+Results for транзит телефонной нагрузки (simple):
+	transit of telephone loading
+Results for транслятор наладки (simple):
+	adjustment translator
+Results for транслятор одностороннего действия (simple):
+	translator of unilateral action
+Results for транслятор-преобразователь (simple):
+	translator converter
+Results for примитивная трансляция (simple):
+	primitive broadcasting
+Results for трансляция с языка ассемблера (simple):
+	broadcasting from assembler language
+Results for трансляция телепередач (simple):
+	broadcast of telecasts
+Results for ленточный трансмиттер (simple):
+	tape transmitter
+Results for оптический транспарант (simple):
+	optical banner
+Results for плоский транспарант (simple):
+	flat banner
+Results for полутоновый транспарант (simple):
+	gray-scale banner
+Results for транспарант на жидких кристаллах (simple):
+	banner on liquid crystals
+Results for управляемый (акустооптический, жидкокристаллический, магнитооптический, мембранный, фотодихроичный) транспарант (simple):
+	operated (optical-acoustic, liquid crystal, magnetooptical, membrane, fotodikhroichny) a banner
+Results for эталонный точечный транспарант (simple):
+	reference dot banner
+Results for транспонирование частоты (simple):
+	transposing of frequency
+Results for воздушный трансформатор:
+	 air-core transformer (Техника)
+	 
+Results for волноводный трансформатор:
+	 waveguide transformer (Техника)
+	 
+Results for вольтодобавочный трансформатор:
+	 injection transformer (Техника)
+	 
+	 booster transformer (Техника)
+	 
+Results for (вращающийся) фазорегулирующий трансформатор (simple):
+	(rotating) fazoreguliruyushchy transformer
+Results for входной трансформатор (модулятора) (simple):
+	entrance transformer (modulator)
+Results for выходной трансформатор строчной развёртки (simple):
+	output transformer of lower case development
+Results for гибридный трансформатор (simple):
+	hybrid transformer
+Results for дифференциальный трансформатор:
+	 differential transformer (Естественные науки)
+	 
+Results for заземляющий трансформатор:
+	 earhting transformer (Техника)
+	 
+Results for идеальный трансформатор (simple):
+	ideal transformer
+Results for измерительный трансформатор:
+	 measuring transformer (Естественные науки)
+	 
+Results for импульсный трансформатор:
+	 pulse transformer (Естественные науки)
+	 
+	 impulse transformer (Техника)
+	 
+	 peaking transformer (Техника)
+	 
+Results for компенсированный трансформатор напряжения (тока) (simple):
+	the compensated transformer of tension (current)
+Results for компенсирующий трансформатор:
+	 compensating transformer (Техника)
+	 
+Results for линейный трансформатор:
+	 line transformer (Техника)
+	 
+Results for межкаскадный трансформатор (simple):
+	intercascade transformer
+Results for меж(много)фазный трансформатор (simple):
+	between (much) phase transformer
+Results for микрофонный трансформатор:
+	 microphone transformer (Техника)
+	 
+Results for опрессованный трансформатор:
+	 molded transformer (Техника)
+	 
+Results for повышающий трансформатор:
+	 step-up transformer (Естественные науки)
+	 
+Results for понижающий трансформатор:
+	 reducing transformer (Техника)
+	 понижающий трансформатор 
+	 Прилагательное понижающий трансформатор /   /  
+	 step-down transformer (Естественные науки)
+	 
+Results for радиочастотный трансформатор (simple):
+	radio-frequency transformer
+Results for развязывающий трансформатор:
+	 decoupling transformer (Техника)
+	 
+Results for регулировочный трансформатор напряжения:
+	 variable-voltage transformer (Техника)
+	 
+Results for резонансный трансформатор:
+	 resonant transformer (Техника)
+	 
+Results for сварочный трансформатор:
+	 welding transformer (Техника)
+	 
+Results for сверхпроводящий трансформатор (simple):
+	superconducting transformer
+Results for секционированный трансформатор:
+	 subdivided transformer (Техника)
+	 
+Results for сетевой трансформатор питания (simple):
+	network transformer of food
+Results for силовой трансформатор:
+	 power transformer (Естественные науки)
+	 
+Results for симметрирующий трансформатор:
+	 balancing transformer (Техника)
+	 
+Results for симметричный трансформатор:
+	 balun transformer (Техника)
+	 
+Results for согласующий трансформатор:
+	 matching transformer (Компьютеры)
+	 
+Results for стабилизирующий трансформатор (simple):
+	the stabilizing transformer
+Results for трансформатор без сердечника:
+	 coreless transformer (Техника)
+	 
+Results for трансформатор в линии передачи (simple):
+	the transformer in a transmission line
+Results for трансформатор выпрямителя (simple):
+	rectifier transformer
+Results for трансформатор дискриминатора (simple):
+	discriminator transformer
+Results for трансформатор задающего каскада (simple):
+	the transformer of the setting cascade
+Results for трансформатор звуковой частоты:
+	 audio-frequency transformer (Техника)
+	 
+Results for трансформатор на отрезке экспоненциальной линии (simple):
+	the transformer on a piece of the exponential line
+Results for трансформатор питания цепи накала (simple):
+	heat chain food transformer
+Results for трансформатор полных сопротивлений (simple):
+	transformer of full resistance
+Results for трансформатор потока:
+	 flux transformer (Естественные науки)
+	 
+Results for трансформатор СВЧ (simple):
+	microwave oven transformer
+Results for трансформатор связи:
+	 coupling transformer (Техника)
+	 
+Results for трансформатор сдвига (simple):
+	shift transformer
+Results for трансформатор с литой изоляцией (simple):
+	the transformer with cast isolation
+Results for трансформатор со средней точкой:
+	 centre-tap transformer (Техника)
+	 
+Results for трансформатор строчной развёртки (simple):
+	transformer of lower case development
+Results for трансформатор с (Ш-образным, железным) сердечником (simple):
+	the transformer with (Sh-shaped, iron) the core
+Results for трансформатор Тесла:
+	 Tesla coil 
+	 Tesla transformer (Техника)
+	 
+Results for трансформатор типов волн (simple):
+	transformer of types of waves
+Results for трансформатор тока:
+	 current transformer (Естественные науки)
+	 
+Results for трансформатор цепи управления:
+	 control circuit transformer (Техника)
+	 
+Results for трансформатор частоты:
+	 frequency transformer (Техника)
+	 
+Results for четвертьволновый трансформатор:
+	 quarter-wave transformer (Техника)
+	 
+Results for широкополосный трансформатор:
+	 wide-band transformer (Техника)
+	 
+Results for прямая трасса:
+	 direct route 
+Results for трасса Земля-ИСЗ (simple):
+	route Zemlya-ISZ
+Results for трасса кабеля:
+	 cable route (Техника)
+	 
+Results for трасса магистральной линии связи (simple):
+	route of the main communication line
+Results for автоматическая трассировка:
+	 automatic routing (Компьютеры)
+	 
+Results for глобальная трассировка (simple):
+	global trace
+Results for динамическая трассировка (simple):
+	dynamic trace
+Results for многослойная трассировка (simple):
+	multilayered trace
+Results for ручная трассировка (simple):
+	manual trace
+Results for точная трассировка (simple):
+	exact trace
+Results for трассировка вне линий (по линиям) координатной сетки (simple):
+	trace out of lines (on lines) a coordinate grid
+Results for трассировка в ячейке (simple):
+	trace in a cell
+Results for трассировка методом поиска в лабиринте (simple):
+	trace by a search method in a labyrinth
+Results for трассировка соединений (simple):
+	trace of connections
+Results for требование к точности измерения (simple):
+	requirement to measurement accuracy
+Results for схемные требования:
+	 circuit requirement (Компьютеры)
+	 
+Results for технические требования:
+	 technical requirement 
+	 engineering requirement (Бизнес)
+	 
+	 specification[ˌspesɪfɪˈkeɪʃən] (Техника)
+	 технические требование 
+	 Существительное технические требование / технические требования 
+	 performance specification (Естественные науки)
+	 
+Results for требования к авиационной электронной аппаратуре (simple):
+	requirements to the aviation electronic equipment
+Results for требования к рабочим характеристикам:
+	 specific operational requirement (Техника)
+	 
+Results for требования , обусловленные условиями окружающей среды (simple):
+	the requirements caused by environment conditions
+Results for трек ионизации (simple):
+	ionization track
+Results for трек частицы (simple):
+	particle track
+Results for трекинг диэлектрика (simple):
+	dielectric tracking
+Results for радиолокационный тренажёр (simple):
+	radar exercise machine
+Results for тренировка электронной лампы (simple):
+	training of the electron tube
+Results for тренировка электронных приборов (simple):
+	training of electronic devices
+Results for треск микрофона (simple):
+	microphone crash
+Results for треугольник Максвелла (simple):
+	Maxwell's triangle
+Results for треугольник мощностей (simple):
+	triangle of capacities
+Results for треугольник напряжений:
+	 voltage triangle (Техника)
+	 
+Results for треугольник полного сопротивления (simple):
+	triangle of full resistance
+Results for цветовой треугольник:
+	 color triangle (Естественные науки)
+	 
+	 colour triangle (Техника)
+	 
+Results for деформационная трещина:
+	 strain crack (Естественные науки)
+	 
+Results for межкристаллитная трещина (simple):
+	intercrystalline crack
+Results for трещина спайности (simple):
+	spaynost crack
+Results for триада экрана (simple):
+	screen triad
+Results for цветовая триада (simple):
+	color triad
+Results for (а)синхронный триггер (simple):
+	(a) synchronous trigger
+Results for двухступенчатый триггер (simple):
+	two-level trigger
+Results for ждущий [моностабильный] триггер (simple):
+	the waiting [monostable] trigger
+Results for запоминающий триггер (simple):
+	the memorable trigger
+Results for комбинированный триггер (simple):
+	the combined trigger
+Results for ламповый триггер (simple):
+	lamp trigger
+Results for транзисторный триггер (simple):
+	transistor trigger
+Results for триггер без соревнования фронтов (simple):
+	the trigger without competition of fronts
+Results for триггер внутренней связи (simple):
+	trigger of internal communication
+Results for триггер задержки (simple):
+	delay trigger
+Results for триггер запрета (simple):
+	ban trigger
+Results for триггер-защёлка (simple):
+	trigger latch
+Results for триггер-повторитель (simple):
+	trigger repeater
+Results for триггер прерывания:
+	 interrupt flip-flop (Техника)
+	 
+Results for триггер с задержкой (simple):
+	the trigger with a delay
+Results for триггер с непосредственными (перекрёстными, обратными) связями (simple):
+	the trigger with direct (cross, the return) communications
+Results for триггер со счётным входом (запуском) (simple):
+	the trigger with a calculating entrance (start)
+Results for триггер с преимуществом по включению (simple):
+	the trigger with advantage on inclusion
+Results for триггер с раздельной установкой (simple):
+	the trigger with separate installation
+Results for триггер с раздельными входами (simple):
+	the trigger with separate entrances
+Results for триггер с фиксированным смещением (simple):
+	the trigger with the fixed shift
+Results for триггер, тактируемый срезом импульса (уровнем напряжения, фронтом импульса) (simple):
+	trigger, taktiruyemy impulse cut (tension level, front of an impulse)
+Results for триггер, управляемый потенциалом (simple):
+	the trigger operated by potential
+Results for триггер Шмитта:
+	 Schmitt trigger (Компьютеры)
+	 
+Results for универсальный триггер (simple):
+	universal trigger
+Results for германиевый триод:
+	 germanium triode (Техника)
+	 
+Results for двойной триод (simple):
+	double triode
+Results for обращённый триод (simple):
+	the turned triode
+Results for стержневой триод (simple):
+	rod triode
+Results for триод-гексод (simple):
+	triode hexode
+Results for триод-гептод (simple):
+	triode heptode
+Results for триод-пентод (simple):
+	triode pentode
+Results for триод с заземлённой сеткой (simple):
+	the triode with the grounded grid
+Results for триод с магнитной фокусировкой (simple):
+	the triode with magnetic focusing
+Results for триод с тормозящим полем (simple):
+	the triode with the braking field
+Results for зеемановский триплет (simple):
+	zeemanovsky triplet
+Results for орбитальный триплет (simple):
+	orbital triplet
+Results for спин-волновой триплет (simple):
+	backs - a wave triplet
+Results for триплет спектральной линии (simple):
+	triplet of the spectral line
+Results for (двойной) волноводный тройник (simple):
+	(double) waveguide tee
+Results for приведённый троланд (simple):
+	brought троланд
+Results for несущий трос:
+	 carrier cable (Естественные науки)
+	 
+	 suspension wire (Техника)
+	 
+Results for тросик верньерного устройства (simple):
+	rope of the vernyerny device
+Results for декадный трохотрон (simple):
+	decade trochotron
+Results for реакционная труба (simple):
+	reactionary pipe
+Results for труба диффузионной печи (simple):
+	pipe of the diffusive furnace
+Results for труба дрейфа (simple):
+	drift pipe
+Results for (борная, тонкостенная) счётная трубка (simple):
+	(boric, thin-walled) calculating tube
+Results for газоразрядная трубка:
+	 gas-discharge tube (Техника)
+	 
+Results for интерференционная трубка (simple):
+	interferential tube
+Results for катодно-лучевая трубка (simple):
+	cathode-ray tube
+Results for неоновая трубка:
+	 neon tube (Техника)
+	 
+Results for разрядная трубка:
+	 discharge tube (Техника)
+	 
+Results for рентгеновская трубка:
+	 X-ray tube (Естественные науки)
+	 
+	 x-ray tube (Техника)
+	 
+Results for трубка для передачи по методу бегущего луча (simple):
+	tube for transfer by a method of the running beam
+Results for трубка для увеличения акустической массы (микрофона) (simple):
+	tube for increase in the acoustic weight (microphone)
+Results for трубка запоминающего осциллографа (simple):
+	tube of the memorable oscillograph
+Results for трубка магнитного потока (simple):
+	tube of a magnetic flux
+Results for трубка ночного видения (simple):
+	tube of night vision
+Results for трубка с линейной развёрткой (simple):
+	tube with linear development
+Results for трубка тока (simple):
+	current tube
+Results for электронно-лучевая трубка [ЭЛТ] (simple):
+	electron beam tube [EBT]
+Results for электростатическая трубка (simple):
+	electrostatic tube
+Results for знакопечатающая трубка (simple):
+	symbol-printing tube
+Results for джозефсоновское туннелирование (simple):
+	Josephson tunneling
+Results for зенеровское туннелирование (simple):
+	zenerovsky tunneling
+Results for изотермическое туннелирование (simple):
+	isothermal tunneling
+Results for квантово-механическое туннелирование (simple):
+	quantum-mechanical tunneling
+Results for межзонное туннелирование (simple):
+	interzonal tunneling
+Results for много(одно)частичное туннелирование (simple):
+	many (one) partial tunneling
+Results for (не)прямое туннелирование (simple):
+	(not) direct tunneling
+Results for (не)упругое туннелирование (simple):
+	(not) elastic tunneling
+Results for обратное туннелирование:
+	 backward tunneling (Компьютеры)
+	 
+Results for оптическое туннелирование (simple):
+	optical tunneling
+Results for туннелирование в бесщелевых сверхпроводниках (simple):
+	tunneling in besshchelevy superconductors
+Results for туннелирование ионов (simple):
+	tunneling of ions
+Results for туннелирование квазичастиц (simple):
+	tunneling of quasiparticles
+Results for туннелирование примесей (simple):
+	tunneling of impurity
+Results for туннелирование, стимулированное фононами (simple):
+	tunneling, stimulated phonons
+Results for туннелирование через потенциальный барьер (simple):
+	tunneling through a potential barrier
+Results for туннелирование электронов (simple):
+	tunneling of electrons
+Results for тушение флюоресценции (simple):
+	fluorescence suppression
+Results for тушитель, дезактивирующий триплетные состояния (simple):
+	the quencher deactivating tripletny states
+Results for линейное увеличение:
+	 linear magnification (Естественные науки)
+	 
+	 scalingup (Естественные науки)
+	 
+Results for оптическое увеличение (simple):
+	optical increase
+Results for переменное увеличение (simple):
+	variable increase
+Results for поперечное увеличение:
+	 lateral magnification (Естественные науки)
+	 
+Results for продольное увеличение (simple):
+	longitudinal increase
+Results for увеличение длительности наблюдения (simple):
+	increase in duration of observation
+Results for увеличение изображения:
+	 blowup[ˈbləuˈʌp] (Естественные науки)
+	 
+Results for увеличение отношения сигнал-шум (simple):
+	increase in the relation signal noise
+Results for увеличение тока пучка электронно-лучевой трубки (simple):
+	increase in current of a bunch of an electron beam tube
+Results for увеличение фонда звукопоглощения (simple):
+	increase in fund of sound absorption
+Results for увеличение частоты вращения (simple):
+	increase in frequency of rotation
+Results for увеличение ЭПР ложных целей (simple):
+	increase in EPR of false targets
+Results for угловое увеличение (simple):
+	angular increase
+Results for азимутальный угол:
+	 lateral angle (Естественные науки)
+	 
+Results for базовый угол (simple):
+	basic corner
+Results for брэгговский угол:
+	 Bragg angle (Естественные науки)
+	 
+Results for главный угол (simple):
+	main corner
+Results for глиссадный угол (simple):
+	glissadny corner
+Results for двугранный угол:
+	 dihedral angle 
+	 dihedron (Естественные науки)
+	 
+Results for двухпозиционный угол (simple):
+	on-off corner
+Results for дополнительный угол:
+	 complementary angle (Естественные науки)
+	 
+Results for кажущийся угол между оптическими осями первого рода (simple):
+	the seeming corner between optical axes of the first sort
+Results for координатный угол (simple):
+	coordinate corner
+Results for краевой угол:
+	 wetting angle (Естественные науки)
+	 
+Results for критический угол:
+	 critical angle 
+Results for курсовой угол:
+	 relative bearing (Техника)
+	 
+Results for острый угол:
+	 acute angle 
+	 sharp angle (Техника)
+	 
+Results for отклоняющий угол призмы (simple):
+	the rejecting prism corner
+Results for полоидальный угол (simple):
+	poloidalny corner
+Results for предельный угол:
+	 critical angle (Естественные науки)
+	 
+	 limiting angle (Техника)
+	 
+Results for (псевдо)брюстеровский угол (simple):
+	(pseudo) bryusterovsky corner
+Results for путевой угол в системе квазикоординат (simple):
+	traveling corner in the system of quasicoordinates
+Results for телесный угол излучения (приёма) (simple):
+	space angle of the radiation (reception)
+Results for угол атаки:
+	 angle of attack 
+	 attack angle (Компьютеры)
+	 
+	 angle of harrow (Естественные науки)
+	 
+Results for угол Брэгга (simple):
+	Bragg's corner
+Results for угол Брюстера:
+	 Brewster angle (Естественные науки)
+	 
+Results for угол визирования цели (simple):
+	angle of vising of the purpose
+Results for угол возвышения главного лепестка диаграммы направленности (simple):
+	corner of the eminence of the main petal of the directional pattern
+Results for угол вращения:
+	 angle of rotation 
+	 rotation angle (Компьютеры)
+	 
+	 roll angle (Техника)
+	 
+Results for угол группирования (simple):
+	angle of grouping
+Results for угол дифракции (simple):
+	angle of diffraction
+Results for угол диэлектрических потерь:
+	 dielectric loss angle (Естественные науки)
+	 
+Results for угол задержки:
+	 angle of retard (Техника)
+	 
+Results for угол зажигания тиратрона (simple):
+	angle of ignition of thyratron
+Results for угол запаздывания (опережения) по фазе (simple):
+	the angle of delay (advancing) on a phase
+Results for угол зрения:
+	 point of view 
+	 sight angle (Естественные науки)
+	 
+	 visual angle (Естественные науки)
+	 
+Results for угол зрительного контакта (simple):
+	angle of visual contact
+Results for угол излучения полупроводникового излучателя (simple):
+	corner of radiation of the semiconductor radiator
+Results for угол качания (simple):
+	angle of swing
+Results for угол (конического) сканирования (simple):
+	angle (conic) scanning
+Results for угол коррекции тонарма (simple):
+	angle of correction of a tonarm
+Results for угол крена:
+	 angle of heel 
+	 angle of bank (Техника)
+	 
+Results for угол между гранями (simple):
+	corner between sides
+Results for угол места:
+	 angle of elevation (Техника)
+	 
+Results for угол наблюдения:
+	 viewing angle (Естественные науки)
+	 
+Results for угол наклона (линии визирования) (simple):
+	tilt angle (line of vising)
+Results for угол наклонения:
+	 dip angle (Естественные науки)
+	 
+Results for угол обзора:
+	 viewing angle 
+Results for угол обхвата магнитной головки (simple):
+	corner of a grasp of a magnetic head
+Results for угол опережения зажигания:
+	 ignition dwell angle (Техника)
+	 
+Results for угол освещения (simple):
+	angle of lighting
+Results for угол отклонения луча (цели) (simple):
+	corner of a deviation of a beam (purpose)
+Results for угол отражения:
+	 reflex angle (Естественные науки)
+	 
+	 angle of reflection (Техника)
+	 
+Results for угол отсечки:
+	 angle of cutoff (Естественные науки)
+	 
+	 shut-off angle (Техника)
+	 
+Results for угол отставания (simple):
+	angle of lag
+Results for угол падения:
+	 hade[heɪd] 
+	 angle of incidence (Естественные науки)
+	 
+	 descent angle (Компьютеры)
+	 
+	 incidence angle (Спорт)
+	 
+Results for угол перекоса рабочего зазора (simple):
+	corner of a distortion of a working gap
+Results for угол перекрытия:
+	 overlap angle (Естественные науки)
+	 
+Results for угол пересечения:
+	 intersection angle (Естественные науки)
+	 
+	 crossing angle (Техника)
+	 
+Results for угол поворота:
+	 angle of rotation 
+	 tilt angle (Естественные науки)
+	 
+	 turning angle (Техника)
+	 
+Results for угол поиска (simple):
+	angle of search
+Results for угол (полного) внутреннего отражения (simple):
+	angle (full) internal reflection
+Results for угол половинной яркости (simple):
+	corner of half brightness
+Results for угол поля изображения:
+	 angle of view (Естественные науки)
+	 
+Results for угол потерь:
+	 loss angle (Естественные науки)
+	 
+Results for угол преломления:
+	 refraction angle (Естественные науки)
+	 
+Results for угол прецессии:
+	 precession angle (Техника)
+	 
+Results for угол прихода (ухода) волны (simple):
+	angle of arrival (leaving) of a wave
+Results for угол проекции (simple):
+	projection corner
+Results for угол пролёта (simple):
+	angle of flight
+Results for угол прохождения тока (simple):
+	angle of passing of current
+Results for угол разориентировки зёрен (simple):
+	corner of a razoriyentirovka of grains
+Results for угол разрешения (simple):
+	permission corner
+Results for угол раскрыва (simple):
+	corner of a raskryv
+Results for угол распространения волны:
+	 wave angle (Естественные науки)
+	 
+Results for угол рассеяния:
+	 scattering angle (Естественные науки)
+	 
+Results for угол раствора:
+	 cone angle (Естественные науки)
+	 
+	 span angle (Техника)
+	 
+Results for угол расхождения:
+	 divergence angle (Естественные науки)
+	 
+Results for угол рыскания:
+	 yaw angle (Техника)
+	 
+Results for угол сведения лучей (simple):
+	corner of the data of beams
+Results for угол связи:
+	 bond angle (Естественные науки)
+	 
+	 communication angle (Техника)
+	 
+Results for угол скольжения:
+	 yaw angle (Естественные науки)
+	 
+	 angle of slide (Естественные науки)
+	 
+	 gliding angle (Техника)
+	 
+Results for угол сноса (simple):
+	angle of demolition
+Results for угол управления (simple):
+	angle of management
+Results for угол Холла (simple):
+	Hall's corner
+Results for угол экранирования (simple):
+	angle of shielding
+Results for фазовый угол:
+	 phase angle (Естественные науки)
+	 
+Results for уголок антенного фидера (simple):
+	corner of an antenna feeder
+Results for уголок волновода (simple):
+	wave guide corner
+Results for удаление воздуха:
+	 deaerating (Естественные науки)
+	 
+Results for удаление маски (simple):
+	removal of a mask
+Results for удаление от объекта (simple):
+	removal from an object
+Results for удаление символа (simple):
+	removal of a symbol
+Results for удаление травлением (simple):
+	removal by etching
+Results for удаление фоторезиста:
+	 photoresist removal (Компьютеры)
+	 
+Results for удаление части текста из памяти (simple):
+	removal of a part of the text from memory
+Results for механический удар (simple):
+	mechanical blow
+Results for (не)упругий удар (simple):
+	(not) elastic blow
+Results for тепловой [термический] удар (simple):
+	thermal [thermal] blow
+Results for удар второго рода (simple):
+	blow of the second sort
+Results for двух(одно)полупериодный удвоитель (simple):
+	two (one) half-period doublers
+Results for удвоитель напряжения:
+	 voltage doubler (Естественные науки)
+	 
+Results for удвоитель частоты:
+	 frequency doubler (Естественные науки)
+	 
+Results for удлинитель линии передачи (simple):
+	transmission line extender
+Results for удобство эксплуатации (simple):
+	convenience of operation
+Results for изолированный узел (simple):
+	the isolated knot
+Results for направляющий узел (simple):
+	the directing knot
+Results for оконечный узел (simple):
+	terminal knot
+Results for печатный узел:
+	 printed board assembly (Компьютеры)
+	 
+Results for сборочный узел:
+	 subassembly (Техника)
+	 
+Results for синхронизирующий узел (simple):
+	the synchronizing knot
+Results for сменный узел (simple):
+	replaceable knot
+Results for съёмный узел (simple):
+	removable knot
+Results for узел автоматической коммутации:
+	 transit trunk exchange (Компьютеры)
+	 
+Results for узел анализа неисправности (simple):
+	knot of the analysis of malfunction
+Results for узел выборки адреса (simple):
+	knot of selection of the address
+Results for узел графа (simple):
+	count's knot
+Results for узел зоновой связи (simple):
+	knot of zone communication
+Results for узел колебаний:
+	 vibration node (Техника)
+	 
+Results for узел коммутации каналов (сообщений) (simple):
+	knot of circuit switching (messages)
+Results for узел компоновки (simple):
+	configuration knot
+Results for узел лентопротяжного механизма (simple):
+	knot of the tape drive mechanism
+Results for узел магнитного (электрического) поля (simple):
+	knot of the magnetic (electric) field
+Results for узел нагрузки (simple):
+	loading knot
+Results for узел назначения (simple):
+	appointment knot
+Results for узел напряжения (тока) (simple):
+	knot of tension (current)
+Results for узел обслуживания (simple):
+	service knot
+Results for узел отсчёта (simple):
+	counting knot
+Results for узел решётки (simple):
+	lattice knot
+Results for узел связи:
+	 communication center 
+	 hub site (Компьютеры)
+	 
+	 signal center (Техника)
+	 
+Results for узел с дискретными компонентами (simple):
+	knot with discrete components
+Results for узел сетевого соединения (simple):
+	knot of network connection
+Results for узел сети (simple):
+	knot of network
+Results for узел системы управления (simple):
+	control system knot
+Results for узел скользящих контактов (simple):
+	knot of the sliding contacts
+Results for узел стоячей волны:
+	 node of a wave (Естественные науки)
+	 
+Results for узел схемы (simple):
+	scheme knot
+Results for узел считывания данных (simple):
+	data read-out knot
+Results for узел цепи (simple):
+	chain knot
+Results for узел щёткодержателя (simple):
+	brush holder knot
+Results for указание места повреждения (simple):
+	indication of the place of damage
+Results for указание оператору (simple):
+	instruction to the operator
+Results for акустический указатель вызова (simple):
+	acoustic index of a call
+Results for указатель вершины стека:
+	 stack pointer (Компьютеры)
+	 
+Results for указатель возврата:
+	 backward pointer (Компьютеры)
+	 
+Results for указатель вызовов:
+	 call indicator (Техника)
+	 
+Results for указатель данных (simple):
+	index of data
+Results for указатель зоны связи (simple):
+	index of the communication zone
+Results for указатель имени (simple):
+	index of a name
+Results for указатель курса (с прицельным перекрестием) (simple):
+	the index of a course (with an aim cross hairs)
+Results for указатель маршрута (в сети) (simple):
+	the index of a route (in network)

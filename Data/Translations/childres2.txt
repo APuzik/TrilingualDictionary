@@ -1,0 +1,2316 @@
+Results for время рассасывания зарядов (simple):
+	time of a rassasyvaniye of charges
+Results for время релаксации:
+	 relaxation time (Естественные науки)
+	 
+Results for время свободного пробега:
+	 mean free time (Техника)
+	 
+Results for время собирания ионов (simple):
+	time of collecting of ions
+Results for время сохранения информации (simple):
+	time of saving information
+Results for время спада:
+	 releasing time (Техника)
+	 
+Results for время спин-решёточной [продольной] релаксации (simple):
+	time of backs-reshyotochnoy of a [longitudinal] relaxation
+Results for время спин-спиновой [поперечной] релаксации (simple):
+	time of backs - a spin [cross] relaxation
+Results for время срабатывания замыкающего контакта (simple):
+	reaction time of the closing contact
+Results for время стандартной реверберации (simple):
+	time of standard reverberation
+Results for время стирания одиночным импульсом (simple):
+	deleting time single impulse
+Results for время счёта:
+	 counting duration 
+Results for время считывания информации (simple):
+	time of reading of information
+Results for время теплового ухода частоты (simple):
+	time of thermal leaving of frequency
+Results for время тепловой релаксации (simple):
+	time of a thermal relaxation
+Results for время технического обслуживания:
+	 maintenance time 
+Results for время-токовая характеристика:
+	 time-current characteristic (Техника)
+	 
+Results for время торможения:
+	 braking time (Техника)
+	 
+Results for время туннелирования (simple):
+	tunneling time
+Results for время успокоения:
+	 settling time (Техника)
+	 
+Results for время усреднения (simple):
+	averaging time
+Results for время установления частоты (simple):
+	time of establishment of frequency
+Results for время холостого хода:
+	 no-load time 
+	 idle time (Техника)
+	 
+Results for время хранения данных (simple):
+	storage time of data
+Results for время центрального процессора (simple):
+	time of the central processing unit
+Results for время цикла:
+	 cycle time (Естественные науки)
+	 
+	 repetition time (Техника)
+	 
+Results for время чувствительности (simple):
+	sensitivity time
+Results for всемирное время:
+	 universal time (Компьютеры)
+	 
+Results for гринвичское время:
+	 Greenwich time 
+Results for групповое (заданное) время задержки (simple):
+	the group (set) delay time
+Results for максимальное время памяти (simple):
+	maximum time of memory
+Results for машинное [компьютерное] время (simple):
+	machine [computer] time
+Results for мёртвое время (simple):
+	dead time
+Results for объёмное время жизни (simple):
+	volume time of life
+Results for радиационное время жизни уровня (simple):
+	radiation time of life of level
+Results for разрешающее время (simple):
+	the allowing time
+Results for расчётное время:
+	 estimated time 
+Results for рекомбинационное время жизни (simple):
+	recombinational time of life
+Results for эфемеридное время (simple):
+	ephemeris time
+Results for всплеск переходного процесса (simple):
+	surge in transition process
+Results for всплеск радиоизлучения (simple):
+	splash in a radio emission
+Results for всплеск тока (simple):
+	splash in current
+Results for вставка символов (simple):
+	insert of symbols
+Results for вставка разрешения записи (simple):
+	insert of permission of record
+Results for вторжение зарядов в базу транзистора (simple):
+	invasion of charges into base of the transistor
+Results for аналоговый вход:
+	 analog input (Техника)
+	 
+Results for асинхронный вход (simple):
+	asynchronous entrance
+Results for вход антенны:
+	 antenna port (Компьютеры)
+	 
+Results for вход видеосигнала (simple):
+	video signal entrance
+Results for вход в программу (simple):
+	entrance to the program
+Results for вход-выход (simple):
+	entrance exit
+Results for вход опорного сигнала:
+	 reference input (Техника)
+	 
+Results for вход раздельной установки триггера (simple):
+	entrance of separate installation of the trigger
+Results for вход сигнала датчика оборотов (simple):
+	RPM meter signal entrance
+Results for вход сканирования (simple):
+	scanning entrance
+Results for вход стробирующих импульсов (simple):
+	entrance of strobiruyushchy impulses
+Results for вход устройства (simple):
+	device entrance
+Results for высокочастотный [ВЧ-] вход (simple):
+	high-frequency [VCh-] entrance
+Results for дифференциальный вход (simple):
+	differential entrance
+Results for запирающий вход (simple):
+	the locking entrance
+Results for многоканальный вход:
+	 multiple input (Техника)
+	 
+Results for незаземлённый вход (simple):
+	ungrounded entrance
+Results for (не)инвертирующий вход (simple):
+	not inverting entrance
+Results for ограниченный вход (simple):
+	limited entrance
+Results for симметричный вход:
+	 balanced input (Компьютеры)
+	 
+	 floating input (Техника)
+	 
+Results for синхронизируемый вход (simple):
+	synchronizable entrance
+Results for тактовый вход (simple):
+	clock entrance
+Results for цифровой вход:
+	 digital input (Техника)
+	 
+	 DI (Техника)
+	 
+Results for экранированный вход (simple):
+	screened entrance
+Results for выбег частоты:
+	 frequency drift (Техника)
+	 
+Results for выбор из двух альтернатив (simple):
+	the choice from two alternatives
+Results for выбор компенсирующей ДН (simple):
+	the choice of the compensating DN
+Results for выбор конфигурации (simple):
+	choice of a configuration
+Results for выбор маршрута (simple):
+	choice of a route
+Results for выбор масштаба (simple):
+	choice of scale
+Results for выбор по умолчанию (simple):
+	choice by default
+Results for временная выборка (simple):
+	temporary selection
+Results for выборка данных:
+	 data sampling (Компьютеры)
+	 
+Results for выборка из «кучи» (simple):
+	selection of "heap"
+Results for выборка команд (simple):
+	selection of teams
+Results for выборка операнда (simple):
+	selection of an operand
+Results for выборка по нескольким ключам (simple):
+	selection on several keys
+Results for выборка по приоритету (simple):
+	selection on a priority
+Results for выборка по совпадению токов (simple):
+	selection on coincidence of currents
+Results for выборка с повторением (simple):
+	selection with repetition
+Results for выборка с помощью узкополосного фильтра (simple):
+	selection by means of the narrow-band filter
+Results for выборка, стробированная по дальности (simple):
+	selection, strobirovanny on range
+Results for выборка с упреждением (simple):
+	selection with anticipation
+Results for контрольная выборка:
+	 control sample (Компьютеры)
+	 
+	 check sample (Техника)
+	 
+Results for мгновенная контрольная выборка (simple):
+	instant control selection
+Results for пространственная мгновенная контрольная выборка (simple):
+	spatial instant control selection
+Results for случайная пространственная мгновенная контрольная выборка (simple):
+	casual spatial instant control selection
+Results for спектральная случайная пространственная мгновенная контрольная выборка (simple):
+	spectral casual spatial instant control selection
+Results for шумовая спектральная случайная пространственная мгновенная контрольная выборка (simple):
+	noise spectral casual spatial instant control selection
+Results for выбрасывание задачи (simple):
+	ejection of a task
+Results for выброс напряжения (simple):
+	emission of tension
+Results for выброс на фронте импульса (simple):
+	emission at the front impulse
+Results for выброс переходного процесса (simple):
+	emission of transition process
+Results for выброс тока:
+	 current surge (Техника)
+	 
+Results for максимальный выброс (simple):
+	maximum emission
+Results for отрицательный выброс перед фронтом импульса (simple):
+	negative emission before the front of an impulse
+Results for положительный выброс:
+	 positive emission (Естественные науки)
+	 
+Results for аксиальный вывод (simple):
+	axial conclusion
+Results for балочный вывод:
+	 beam lead (Компьютеры)
+	 
+Results for внутренний вывод (simple):
+	internal conclusion
+Results for вывод анода (simple):
+	anode conclusion
+Results for вывод в (алфавитно-)цифровой форме (simple):
+	conclusion in (alphabetic) digital form
+Results for вывод в научной статье (simple):
+	conclusion in the scientific article
+Results for вывод графических данных:
+	 graphic data output (Компьютеры)
+	 
+Results for вывод данных в реальном масштабе времени (simple):
+	conclusion of data in real time
+Results for вывод данных на печать (simple):
+	conclusion of data to the press
+Results for вывод затвора:
+	 gate terminal (Компьютеры)
+	 
+Results for вывод информации:
+	 information output 
+Results for вывод канала (simple):
+	conclusion of the channel
+Results for вывод контрольных точек (simple):
+	conclusion of control points
+Results for вывод микросхемы (simple):
+	chip conclusion
+Results for вывод оборванного провода (simple):
+	conclusion of the torn-off wire
+Results for вывод питания (simple):
+	food conclusion
+Results for вывод пучка:
+	 extraction of particles (Техника)
+	 
+Results for вывод результатов измерения (simple):
+	conclusion of results of measurement
+Results for вывод сети (simple):
+	conclusion of network
+Results for вывод сетки лампы (simple):
+	lamp grid conclusion
+Results for вывод управляющего электрода (simple):
+	conclusion of the operating electrode
+Results for вывод частиц (simple):
+	conclusion of particles
+Results for вывод экрана (simple):
+	screen conclusion
+Results for вывод энергии (simple):
+	energy conclusion
+Results for дистанционный вывод (simple):
+	remote conclusion
+Results for контрольный вывод:
+	 test lead (Компьютеры)
+	 
+Results for напылённый вывод (simple):
+	the raised dust conclusion
+Results for наружный вывод (simple):
+	external conclusion
+Results for отрицательный вывод (simple):
+	negative conclusion
+Results for положительный вывод (simple):
+	positive conclusion
+Results for проволочный вывод (simple):
+	wire conclusion
+Results for радиальный вывод:
+	 radial lead (Компьютеры)
+	 
+Results for речевой вывод:
+	 speech output (Компьютеры)
+	 
+Results for столбиковый вывод:
+	 lead finger (Компьютеры)
+	 
+Results for штыреобразный вывод (simple):
+	shtyreobrazny conclusion
+Results for выгорание экрана:
+	 screen burning 
+	 screen born-out (Техника)
+	 
+Results for выдача результатов (simple):
+	delivery of results
+Results for выделение адреса (simple):
+	allocation of the address
+Results for выделение импульсной помехи (simple):
+	allocation of a pulse hindrance
+Results for выделение контуров (simple):
+	allocation of contours
+Results for выделение переменной (постоянной) составляющей (simple):
+	allocation of a variable (constant) component
+Results for выделение признаков (simple):
+	allocation of signs
+Results for выделение ресурсов (simple):
+	allocation of resources
+Results for выделение сигнала из шума (simple):
+	allocation of a signal from noise
+Results for выделение сигнала цветности (simple):
+	allocation of a signal of chromaticity
+Results for выделение формант (simple):
+	allocation formant
+Results for выделение частот:
+	 allotment of frequencies (Техника)
+	 
+Results for выдержка времени:
+	 dwell time (Техника)
+	 
+	 delay time (Техника)
+	 
+Results for выжигание предохранителя (simple):
+	burning out of the safety lock
+Results for автоматический вызов:
+	 autocall (Техника)
+	 
+Results for взаимный вызов (simple):
+	mutual call
+Results for входящий вызов:
+	 incoming call (Компьютеры)
+	 
+Results for вызов абонента (simple):
+	subscriber's call
+Results for вызов кнопочным номеронабирателем (simple):
+	call push-button dialing unit
+Results for вызов монитора (simple):
+	monitor call
+Results for вызов параметров (simple):
+	call of parameters
+Results for вызов по адресу (simple):
+	call to the address
+Results for вызов (под)программы (simple):
+	call (under) programs
+Results for вызов по значению (simple):
+	call on value
+Results for вызов по имени (simple):
+	call by name
+Results for вызов поискового сигнала (simple):
+	call of a search signal
+Results for вызов по назначению (simple):
+	call to destination
+Results for вызов по номеру (simple):
+	call according to number
+Results for вызов по телефону:
+	 telephone call 
+	 ringing-up (Техника)
+	 
+Results for вызов страниц по запросу (simple):
+	call of pages on demand
+Results for зуммерный вызов (simple):
+	zummerny call
+Results for избирательный зуммерный вызов (simple):
+	selective zummerny call
+Results for исходящий избирательный зуммерный вызов (simple):
+	the proceeding selective zummerny call
+Results for межстанционный исходящий избирательный зуммерный вызов (simple):
+	the interexchange proceeding selective zummerny call
+Results for повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the repeated interexchange proceeding selective zummerny call
+Results for поисковый повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the search repeated interexchange proceeding selective zummerny call
+Results for полуизбирательный поисковый повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the semi-selective search repeated interexchange proceeding selective zummerny call
+Results for потерянный полуизбирательный поисковый повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the proceeding selective zummerny call lost semi-selective search repeated interexchange
+Results for приоритетный потерянный полуизбирательный поисковый повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the priority proceeding selective zummerny call lost semi-selective search repeated interexchange
+Results for прямой приоритетный потерянный полуизбирательный поисковый повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the direct priority proceeding selective zummerny call lost semi-selective search repeated interexchange
+Results for срочный прямой приоритетный потерянный полуизбирательный поисковый повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the urgent direct priority proceeding selective zummerny call lost semi-selective search repeated interexchange
+Results for тональный срочный прямой приоритетный потерянный полуизбирательный поисковый повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the voice-frequency urgent direct priority proceeding selective zummerny call lost semi-selective search repeated interexchange
+Results for циркулярный тональный срочный прямой приоритетный потерянный полуизбирательный поисковый повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the circular voice-frequency urgent direct priority proceeding selective zummerny call lost semi-selective search repeated interexchange
+Results for экстренный циркулярный тональный срочный прямой приоритетный потерянный полуизбирательный поисковый повторный межстанционный исходящий избирательный зуммерный вызов (simple):
+	the emergency circular voice-frequency urgent direct priority proceeding selective zummerny call lost semi-selective search repeated interexchange
+Results for выигрыш в отношении сигнал/шум (simple):
+	prize in the relation signal/noise
+Results for аварийный выключатель:
+	 emergency shut-down (Естественные науки)
+	 
+	 emergency switch (Техника)
+	 
+Results for автоматический выключатель:
+	 automatic cut (Естественные науки)
+	 
+	 time cut-out (Компьютеры)
+	 
+	 automatic circuit breaker (Техника)
+	 
+Results for воздушный выключатель:
+	 air switch (Техника)
+	 
+	 air circuit-breaker (Техника)
+	 
+Results for выключатель антенны (simple):
+	antenna switch
+Results for выключатель мгновенного действия:
+	 snap switch (Техника)
+	 
+Results for выключатель поворотного устройства антенны (simple):
+	switch of the rotary device of the antenna
+Results for выключатель прибора (simple):
+	device switch
+Results for выключатель-разъединитель (simple):
+	switch disconnector
+Results for выключатель с автоматическим повторным включением:
+	 autoreclose circuit-breaker (Техника)
+	 
+Results for выключатель с двойным (многократным) размыканием (simple):
+	the switch with double (repeated) disconnection
+Results for выключатель сети (питания) (simple):
+	switch of network (food)
+Results for выключатель с замедлителем (simple):
+	the switch with the delay mechanism
+Results for выключатель с пружинным возвратом:
+	 spring-return switch (Техника)
+	 
+Results for выключатель с речевым управлением (simple):
+	the switch with speech management
+Results for выключатель с самовозвратом (simple):
+	the switch with self-return
+Results for выключатель строк (simple):
+	switch of lines
+Results for выключатель устройства (блокировки) (simple):
+	switch of the device (blocking)
+Results for выключатель цветности (simple):
+	switch of chromaticity
+Results for двухпозиционный выключатель (simple):
+	on-off switch
+Results for двухполюсный выключатель:
+	 double-pole switch (Техника)
+	 
+Results for замкнутый выключатель (simple):
+	the closed switch
+Results for линейный выключатель:
+	 line circuit-breaker (Техника)
+	 
+	 line breaker (Техника)
+	 
+Results for магнитный выключатель:
+	 magnetic switch (Техника)
+	 
+Results for максимальный выключатель:
+	 limit switch (Техника)
+	 
+Results for масляный выключатель:
+	 oil circuit-breaker (Техника)
+	 
+Results for мембранный выключатель:
+	 pressure electric switch (Техника)
+	 
+Results for минимальный выключатель:
+	 minimum circuit breaker (Техника)
+	 
+Results for поплавковый выключатель:
+	 float switch (Техника)
+	 
+Results for ртутный выключатель:
+	 mercury circuit-breaker (Техника)
+	 
+Results for тепловой выключатель:
+	 heat switch (Естественные науки)
+	 
+	 thermal circuit-breaker (Техника)
+	 
+Results for токоограничивающий выключатель:
+	 current-limiting circuit-breaker (Техника)
+	 
+Results for электромагнитный выключатель:
+	 electromagnetic switch (Техника)
+	 
+Results for вылетание частиц (simple):
+	vyletaniye of particles
+Results for вымораживание носителей (simple):
+	vymorazhivaniye of carriers
+Results for выпадание из синхронизма (simple):
+	drop-out of synchronism
+Results for выпадение сигнала (simple):
+	loss of a signal
+Results for выполнение задания:
+	 task performance (Бизнес)
+	 
+	 task execution (Техника)
+	 
+Results for выполнение команды:
+	 command execution 
+	 execution of the command 
+Results for выполнение программы на компьютере (simple):
+	program execution on the computer
+Results for быстродействующий выпрямитель (simple):
+	high-speed rectifier
+Results for вибрационный выпрямитель:
+	 pendulum rectifier (Техника)
+	 
+Results for выпрямитель для зарядки аккумуляторов (simple):
+	the rectifier for accumulator charging
+Results for выпрямитель для питания цепей смещения:
+	 bias rectifier (Техника)
+	 
+Results for выпрямитель на газотроне тлеющего разряда (simple):
+	the rectifier on the gasotron of the smoldering category
+Results for выпрямитель на диодном мостике (simple):
+	the rectifier on the diode bridge
+Results for выпрямитель на электровакуумной лампе (simple):
+	the rectifier on an electrovacuum lamp
+Results for выпрямитель на эффекте лавинного пробоя (simple):
+	the rectifier on effect of avalanche breakdown
+Results for выпрямитель переменного тока (simple):
+	rectifier of alternating current
+Results for выпрямитель с полупроводником р-типа (simple):
+	the rectifier with the r-type semiconductor
+Results for выпрямитель с резистивной нагрузкой (simple):
+	the rectifier with resistive loading
+Results for выпрямитель с удвоением (умножением) напряжения (simple):
+	the rectifier with doubling (multiplication) of tension
+Results for высоковольтный выпрямитель:
+	 high-voltage rectifier (Техника)
+	 
+Results for двух(одно)полупериодный выпрямитель (simple):
+	two (one) half-period rectifiers
+Results for диодный выпрямитель:
+	 diode rectifier (Техника)
+	 
+Results for игнитронный выпрямитель (simple):
+	ignitron rectifier
+Results for кремниевый выпрямитель:
+	 silicon rectifier (Техника)
+	 
+Results for мостовой выпрямитель (simple):
+	bridge rectifier
+Results for мощный выпрямитель:
+	 heavy-duty rectifier (Техника)
+	 
+Results for одно(трёх)фазный выпрямитель (simple):
+	one (three) phase rectifier
+Results for поликристаллический выпрямитель (simple):
+	polycrystalline rectifier
+Results for селеновый выпрямитель:
+	 selenium rectifier (Естественные науки)
+	 
+Results for танталовый выпрямитель (simple):
+	tantalic rectifier
+Results for тиратронный выпрямитель:
+	 thyratron rectifier (Техника)
+	 
+Results for управляемый выпрямитель:
+	 controlled rectifier (Компьютеры)
+	 
+Results for электролитический выпрямитель (simple):
+	electrolytic rectifier
+Results for электронный выпрямитель (simple):
+	electronic rectifier
+Results for электрохимический выпрямитель (simple):
+	electrochemical rectifier
+Results for выпрямление на запирающем (обеднённом) слое (simple):
+	straightening on the locking (impoverished) layer
+Results for двух(одно)полупериодное выпрямление (simple):
+	two (one) half-period straightenings
+Results for выпуклость экрана (simple):
+	camber of the screen
+Results for выпучивание характеристики (simple):
+	vypuchivany characteristics
+Results for выравнивание фона изображения (simple):
+	alignment of a background of the image
+Results for выражение в скобках (simple):
+	expression in brackets
+Results for выражение в языках программирования (simple):
+	expression in programming languages
+Results for выражение с индексами (simple):
+	expression with indexes
+Results for вырастание кристалла (simple):
+	growth of a crystal
+Results for выращивание из газовой фазы (simple):
+	cultivation from a gas phase
+Results for выращивание из легированного расплава (simple):
+	cultivation from the alloyed fusion
+Results for выращивание из раствора (simple):
+	cultivation from solution
+Results for выращивание кристалла:
+	 crystals growth (Компьютеры)
+	 
+Results for вырезка изображения (simple):
+	image cutting
+Results for вырождение моды (simple):
+	degeneration of fashion
+Results for вырождение по частоте (simple):
+	degeneration on frequency
+Results for вырождение по энергии (simple):
+	degeneration on energy
+Results for вырождение спектра (simple):
+	degeneration of a range
+Results for крамерсово вырождение (simple):
+	крамерсово degeneration
+Results for n-кратное вырождение (simple):
+	n-fold degeneration
+Results for обменное вырождение:
+	 exchange degeneracy (Естественные науки)
+	 
+Results for орбитальное вырождение:
+	 orbital degeneracy (Естественные науки)
+	 
+Results for пространственное вырождение (simple):
+	spatial degeneration
+Results for спиновое вырождение (simple):
+	spin degeneration
+Results for выскакивание отдельных выбросов (simple):
+	vyskakivaniye of separate emissions
+Results for высота звука:
+	 pitch[pɪtʃ] (Музыка)
+	 
+	 pitch of a tone (Естественные науки)
+	 
+Results for высота тона:
+	 pitch of tone (Техника)
+	 
+Results for высота уровня напряжения (simple):
+	tension level height
+Results for выступ ВЧ-головки (simple):
+	VCh-head ledge
+Results for выталкивание импульсной последовательности (simple):
+	pushing out of the pulse sequence
+Results for вытеснение эмиттера:
+	 emitter push (Компьютеры)
+	 
+Results for вытягивание кристалла:
+	 crystal pulling (Компьютеры)
+	 
+Results for аналоговий выход (simple):
+	analogovy exit
+Results for выход без регистрации (simple):
+	exit without registration
+Results for выход годного изделия (simple):
+	exit of effective article
+Results for выход за границы массива (simple):
+	exit for massif borders
+Results for выход за пределы (simple):
+	exit out of limits
+Results for выход из-под контроля:
+	 run out of control 
+	 runaway[ˈrʌnəweɪ] (Техника)
+	 
+Results for выход из строя:
+	 failure[ˈfeɪljə] 
+	 outage[ˈautɪdʒ] (Техника)
+	 
+Results for выход сети (simple):
+	exit of network
+Results for выход устройства (simple):
+	device exit
+Results for выход фотоэлектронов (simple):
+	exit of photoelectrons
+Results for динамический выход (simple):
+	dynamic exit
+Results for квантовый выход:
+	 quantum yield (Естественные науки)
+	 
+	 photon yield (Естественные науки)
+	 
+Results for многоканальный выход (simple):
+	multichannel exit
+Results for (не)заземлённый выход (simple):
+	not grounded exit
+Results for (не)симметричный выход (simple):
+	(not) symmetric exit
+Results for световой выход:
+	 light yield 
+Results for синфазный выход (simple):
+	inphase exit
+Results for цифровой выход:
+	 digital output 
+Results for вычет по модулю (simple):
+	deduction on the module
+Results for вычет функции комплексного переменного (simple):
+	deduction of function of complex variable
+Results for вычет целого числа (simple):
+	integer deduction
+Results for вычисление в пакетном режиме (simple):
+	calculation in batch mode
+Results for вычисление в реальном масштабе времени (simple):
+	calculation in real time
+Results for вычисление в темпе поступления данных:
+	 on-line computing (Техника)
+	 
+Results for вычисление по формуле (simple):
+	calculation on a formula
+Results for вычисление приближённых чисел (simple):
+	calculation of approximate numbers
+Results for вычисление смешанного типа (simple):
+	calculation of the mixed type
+Results for вычисление с обычной точностью (simple):
+	calculation with a usual accuracy
+Results for вычисление с плавающей (фиксированной) запятой (simple):
+	calculation from the floating (fixed) comma
+Results for вычисление с удвоенной точностью (simple):
+	calculation with the doubled accuracy
+Results for вычислимость по Тьюрингу (simple):
+	vychislimost according to Turing
+Results for вычислитель вероятности (simple):
+	calculator of probability
+Results for вычислитель воздушной скорости (simple):
+	calculator of air speed
+Results for вычислитель дальности (simple):
+	calculator of range
+Results for вычислитель индукционного типа (simple):
+	calculator of induction type
+Results for вычислитель курса (и высоты полёта) (simple):
+	calculator of a course (and flight altitude)
+Results for вычислитель скорости изменения азимута (simple):
+	calculator of speed of change of an azimuth
+Results for навигационный вычислитель (simple):
+	navigation calculator
+Results for выявление цели (simple):
+	identification of the purpose
+Results for вязкость магнитного материала (simple):
+	viscosity of magnetic material
+Results for вязкость межгранульной среды (simple):
+	viscosity of the mezhgranulny environment
+Results for газотрон высокого давления (simple):
+	gasotron of high pressure
+Results for газотрон с подготовительным разрядом (simple):
+	the gasotron with the preparatory category
+Results for газотрон с термокатодом (simple):
+	the gasotron with the thermocathode
+Results for газотрон с управлением внешним магнитным полем (simple):
+	the gasotron with management of external magnetic field
+Results for астатический гальванометр (simple):
+	astatic galvanometer
+Results for баллистический гальванометр:
+	 ballistic galvanometer (Естественные науки)
+	 
+Results for вибрационный гальванометр:
+	 vibrating galvanometer (Техника)
+	 
+Results for гальванометр со световым отсчётом (simple):
+	galvanometer with light counting
+Results for гальванометр со световым указателем (simple):
+	galvanometer with the light index
+Results for дифференциальный гальванометр:
+	 differential galvanometer (Естественные науки)
+	 
+Results for зеркальный гальванометр:
+	 reflecting galvanometer (Естественные науки)
+	 
+Results for прямозаписывающий гальванометр (simple):
+	pryamozapisyvayushchy galvanometer
+Results for сверхпроводящий низкоиндуктивный гальванометр (simple):
+	superconducting low-inductive galvanometer
+Results for струнный гальванометр:
+	 string galvanometer (Техника)
+	 
+Results for гамма-активность:
+	 gamma-ray activity (Естественные науки)
+	 
+Results for гамма-коррекция (simple):
+	gamma correction
+Results for гамма-лазер (simple):
+	gamma laser
+Results for гамма-показатель (simple):
+	gamma indicator
+Results for гамма-постоянная:
+	 intensities millicurie (Естественные науки)
+	 
+Results for гамма-спектр (simple):
+	gamma range
+Results for гамма-спектрометр с подавлением комптоновского распределения (simple):
+	gamma spectrometer with suppression of the Compton distribution
+Results for гамма телепередачи (simple):
+	telecast scale
+Results for гамма-функция:
+	 gamma-function (Естественные науки)
+	 
+Results for внеполосная гармоника (simple):
+	extra band harmonica
+Results for вторая гармоника:
+	 second harmonic (Техника)
+	 
+Results for высшая гармоника:
+	 upper harmonic (Естественные науки)
+	 
+	 higher harmonic (Компьютеры)
+	 
+Results for гармоника несущей (simple):
+	harmonica of bearing
+Results for дробная гармоника:
+	 fractional harmonic (Естественные науки)
+	 
+Results for комбинационная гармоника (simple):
+	combinational harmonica
+Results for (не)четная гармоника (simple):
+	(not) even harmonica
+Results for обратная (прямая) пространственная гармоника (simple):
+	return (direct) spatial harmonica
+Results for основная гармоника:
+	 first harmonic (Естественные науки)
+	 
+Results for первая гармоника:
+	 first harmonic (Естественные науки)
+	 
+Results for пространственно-временная гармоника (simple):
+	existential harmonica
+Results for гаситель вибраций (simple):
+	quencher of vibrations
+Results for гаситель колебаний:
+	 vibration suppressor (Естественные науки)
+	 
+	 vibration damper (Естественные науки)
+	 
+	 shock absorber (Техника)
+	 
+Results for гашение дуги:
+	 arc extinction (Естественные науки)
+	 
+	 arc blow (Техника)
+	 
+Results for гашение знаков (simple):
+	clearing of signs
+Results for гашение изображения:
+	 display suppression (Компьютеры)
+	 
+Results for гашение луча:
+	 beam cancellation (Компьютеры)
+	 
+Results for гашение магнитного поля (simple):
+	clearing of magnetic field
+Results for гашение обратного хода по кадру (строке) (simple):
+	clearing of reverse motion on a shot (line)
+Results for гашение памяти (simple):
+	memory clearing
+Results for гашение разряда:
+	 extinction of discharge (Техника)
+	 
+Results for асинхронный генератор (simple):
+	asynchronous generator
+Results for балансный генератор:
+	 balanced oscillator (Техника)
+	 
+Results for блокинг-генератор:
+	 blocking oscillator 
+Results for вырожденный параметрический генератор (simple):
+	degenerate parametrical generator
+Results for высокочастотний генератор (simple):
+	vysokochastotny generator
+Results for генератор белого шума:
+	 white noise generator (Компьютеры)
+	 
+Results for генератор буквенно-цифровых знаков (simple):
+	generator of alphanumeric signs
+Results for генератор векторов:
+	 vector generator (Компьютеры)
+	 
+Results for генератор вертикальной развёртки (simple):
+	generator of vertical development
+Results for генератор верхней боковой полосы (simple):
+	generator of the top side strip
+Results for генератор видеосигналов (simple):
+	generator of video signals
+Results for генератор временных (масштабных) меток (simple):
+	generator of temporary (large-scale) tags
+Results for генератор гармонических (модулированных) колебаний (simple):
+	the generator of the harmonic (modulated) oscillations
+Results for генератор гиперзвука (simple):
+	hyper sound generator
+Results for генератор данных (simple):
+	generator of data
+Results for генератор дифракционного излучения (simple):
+	generator of diffraction radiation
+Results for генератор документов (simple):
+	generator of documents
+Results for генератор задающих импульсов (simple):
+	the generator of the setting impulses
+Results for генератор задержки (simple):
+	delay generator
+Results for генератор звуковой частоты:
+	 audio-frequency generator (Техника)
+	 
+Results for генератор знаков:
+	 symbol generator (Техника)
+	 
+Results for генератор изображения (simple):
+	image generator
+Results for генератор импульсных токов (simple):
+	generator of pulse currents
+Results for генератор ионов (simple):
+	generator of ions
+Results for генератор испытательных сигналов:
+	 test signal generator (Компьютеры)
+	 
+Results for генератор кадровой (строчной) развёртки (simple):
+	generator of vertical (lower case) sweep
+Results for генератор качающейся частоты:
+	 sweep generator (Естественные науки)
+	 
+	 alignment oscillator (Компьютеры)
+	 
+Results for генератор кода (simple):
+	code generator
+Results for генератор кодовых комбинаций (simple):
+	generator of code combinations
+Results for генератор компилятора (simple):
+	compiler generator
+Results for генератор контрольного сигнала (simple):
+	generator of a control signal
+Results for генератор кривых:
+	 curve generator (Компьютеры)
+	 
+Results for генератор линейно изменяющегося напряжения (simple):
+	the generator of linearly changing tension
+Results for генератор машинных слов (simple):
+	generator of machine words
+Results for генератор М-последовательности (simple):
+	M-sequence generator
+Results for генератор на диоде Ганна:
+	 gunn diode oscillator (Техника)
+	 
+Results for генератор на ЛПД (simple):
+	the generator on LPD
+Results for генератор на туннельном диоде с перестройкой резонатора (simple):
+	the generator on the tunnel diode with reorganization of the resonator
+Results for генератор накачки:
+	 pump oscillator (Естественные науки)
+	 
+Results for генератор напряжения:
+	 voltage source (Естественные науки)
+	 
+	 voltage generator (Техника)
+	 
+Results for генератор (не)докомпаундированного возбуждения (simple):
+	generator (not) of dokompaundirovanny excitement
+Results for генератор (не)синусоидальных колебаний (simple):
+	generator (not) of sinusoidal fluctuations
+Results for генератор низкой частоты (simple):
+	generator of low frequency
+Results for генератор одиночных (парных) импульсов (simple):
+	generator of single (pair) impulses
+Results for генератор опорного напряжения (simple):
+	generator of basic tension
+Results for генератор опорной частоты (simple):
+	generator of basic frequency
+Results for генератор переменной функции (simple):
+	generator of variable function
+Results for генератор пилообразного напряжения:
+	 sawtooth generator (Естественные науки)
+	 
+Results for генератор пилот-сигнала (simple):
+	generator pilot signal
+Results for генератор (под)несущей (simple):
+	the generator (under) bearing
+Results for генератор полос (simple):
+	generator of strips
+Results for генератор помех:
+	 jamming generator (Техника)
+	 
+Results for генератор программных средств (simple):
+	generator of software
+Results for генератор произвольной функции (simple):
+	generator of any function
+Results for генератор прямоугольных импульсов:
+	 square wave-form oscillator (Естественные науки)
+	 
+	 square waveform oscillator (Компьютеры)
+	 
+Results for генератор псевдослучайных последовательностей (simple):
+	generator of the pseudorandom sequences
+Results for генератор развёртки (simple):
+	development generator
+Results for генератор растра (simple):
+	raster generator
+Results for генератор речевых сигналов (simple):
+	generator of speech signals
+Results for генератор речи (simple):
+	speech generator
+Results for генератор с анодным резонансным контуром (simple):
+	the generator with an anode resonant contour
+Results for генератор СВЧ-диапазона (simple):
+	microwave range generator
+Results for генератор с жёстким возбуждением (simple):
+	the generator with rigid excitement
+Results for генератор с кварцевой стабилизацией частоты:
+	 crystal-controlled oscillator (Техника)
+	 
+Results for генератор с отрицательным сопротивлением (simple):
+	the generator with a negative resistance
+Results for генератор с (положительной) обратной связью (simple):
+	the generator with (positive) feedback
+Results for генератор с последовательным питанием (simple):
+	the generator with consecutive food
+Results for генератор с резонансным контуром:
+	 inductance capacitance oscillator (Компьютеры)
+	 
+Results for генератор с самовозбуждением:
+	 exciterless generator (Компьютеры)
+	 
+	 dynamo[ˈdaɪnəməu] (Техника)
+	 
+Results for генератор с температурной компенсацией (simple):
+	the generator with temperature compensation
+Results for генератор с цифровым управлением (simple):
+	the generator with digital control
+Results for генератор сигнала компенсации чёрного пятна (simple):
+	generator of a signal of compensation of a black spot
+Results for генератор синхронизирующих импульсов:
+	 clock pulse generator (Техника)
+	 
+Results for генератор (случайных) чисел (simple):
+	generator (casual) numbers
+Results for генератор стандартных сигналов [ГСС] (simple):
+	generator of standard signals [GSS]
+Results for генератор стробирующих импульсов (simple):
+	generator of strobiruyushchy impulses
+Results for генератор с тормозящим полем (simple):
+	the generator with the braking field
+Results for генератор строк текста (simple):
+	generator of lines of the text
+Results for генератор ступенчатого пилообразного напряжения (simple):
+	generator of step sawtooth tension
+Results for генератор (суб)миллиметрового диапазона (simple):
+	generator (sub) millimetric range
+Results for генератор тактовых импульсов:
+	 clock pulse oscillator (Компьютеры)
+	 
+Results for генератор телевизионной развёртки (simple):
+	generator of television development
+Results for генератор тестовых наборов (simple):
+	generator of test sets
+Results for генератор тонального вызова:
+	 voice frequency ringing set (Компьютеры)
+	 
+Results for генератор точечных знаков (simple):
+	generator of dot signs
+Results for генератор ударного возбуждения:
+	 shock excited oscillator (Компьютеры)
+	 
+	 shock-excited oscillator (Техника)
+	 
+Results for генератор управляющих импульсов (simple):
+	the generator of the operating impulses
+Results for генератор фиксированной частоты (simple):
+	the generator of the fixed frequency
+Results for генератор флуктационного шума (simple):
+	generator of fluktatsionny noise
+Results for генератор хаотических импульсов (simple):
+	generator of chaotic impulses
+Results for генератор Холла:
+	 hall generator (Компьютеры)
+	 
+	 Hall generator (Техника)
+	 
+Results for генератор цветной рирпроекции (simple):
+	generator of a color back projection
+Results for генератор ЦМД (simple):
+	TsMD generator
+Results for генератор частоты следования битов (simple):
+	generator of frequency of following of bits
+Results for генератор шаблонов (simple):
+	generator of templates
+Results for генератор шума:
+	 noise generator (Компьютеры)
+	 
+Results for генератор шумового тока (simple):
+	generator of noise current
+Results for генератор электрических колебаний (simple):
+	generator of electric fluctuations
+Results for генератор эталонной частоты (simple):
+	generator of reference frequency
+Results for двухкаскадный генератор (simple):
+	two-cascade generator
+Results for двухконтурный генератор (simple):
+	double-circuit generator
+Results for двухтактный генератор:
+	 push-pull oscillator (Техника)
+	 
+Results for двухчастотный генератор (simple):
+	two-frequency generator
+Results for джозефсоновский генератор (simple):
+	Josephson generator
+Results for динатронный генератор (simple):
+	dynatron generator
+Results for дуговой генератор:
+	 arc generator (Техника)
+	 
+Results for ждущий блокинг-генератор:
+	 triggered blocking oscillator (Техника)
+	 
+Results for задающий генератор:
+	 master oscillator (Естественные науки)
+	 
+Results for звуковой генератор:
+	 audio-signal generator (Естественные науки)
+	 
+Results for измерительный генератор:
+	 signal generator (Естественные науки)
+	 
+Results for имитирующий генератор (simple):
+	the imitating generator
+Results for импульсный генератор:
+	 pulse generator (Естественные науки)
+	 
+	 pulse oscillator (Компьютеры)
+	 
+	 impulse generator (Техника)
+	 
+Results for индукторный генератор:
+	 inductor generator (Техника)
+	 
+Results for индукционный генератор:
+	 induction generator (Техника)
+	 
+Results for инфразвуковой генератор (simple):
+	infrasonic generator
+Results for искровой генератор (simple):
+	spark generator
+Results for испытательный генератор:
+	 test oscillator (Компьютеры)
+	 
+Results for камертонный генератор:
+	 fork generator (Естественные науки)
+	 
+Results for квантовый генератор (simple):
+	quantum generator
+Results for кварцевый генератор:
+	 quartz resonator (Естественные науки)
+	 
+	 crystal oscillator (Компьютеры)
+	 
+Results for лазерный генератор изображения (simple):
+	laser generator of the image
+Results for ламповый генератор:
+	 valve oscillator (Естественные науки)
+	 
+Results for МГД-генератор (simple):
+	Moscow City Duma generator
+Results for многополюсный генератор (simple):
+	multi-polar generator
+Results for многочастотный генератор (simple):
+	multifrequency generator
+Results for молекулярный генератор (simple):
+	molecular generator
+Results for монотронный генератор (simple):
+	monothrone generator
+Results for (не)синхронизируемый генератор (simple):
+	(not) the synchronizable generator
+Results for одномодовый генератор (simple):
+	single-mode generator
+Results for параметрический генератор:
+	 parametric oscillator (Компьютеры)
+	 
+Results for перестраиваемый генератор (simple):
+	the reconstructed generator
+Results for плазменный генератор:
+	 plasma generator (Техника)
+	 
+Results for регенеративный генератор (simple):
+	regenerative generator
+Results for релаксационный генератор:
+	 relaxation oscillator (Компьютеры)
+	 
+	 relaxation generator (Техника)
+	 
+Results for СВЧ-генератор (simple):
+	Microwave generator
+Results for сельсин-генератор:
+	 selsyn generator (Техника)
+	 
+Results for синхронный генератор:
+	 synchronous generator (Техника)
+	 
+Results for спиновый генератор:
+	 spin oscillator (Компьютеры)
+	 
+Results for тепловой генератор шума (simple):
+	thermal generator of noise
+Results for транзисторный генератор:
+	 transistor oscillator (Компьютеры)
+	 
+Results for транзитронный генератор:
+	 transistron oscillator (Техника)
+	 
+Results for трёхточечный ёмкостный генератор с последовательным (параллельным) питанием (simple):
+	the three-point capacitor generator with consecutive (parallel) food
+Results for ультразвуковой генератор:
+	 supersonic generator (Естественные науки)
+	 
+	 ultrasonic oscillator (Компьютеры)
+	 
+Results for униполярный генератор:
+	 homopolar generator (Техника)
+	 
+Results for циклический генератор адресов:
+	 cyclic address generator (Компьютеры)
+	 
+Results for цифровой генератор задержки (simple):
+	digital generator of a delay
+Results for широкоспектральный генератор импульсных помех (simple):
+	shirokospektralny generator of pulse hindrances
+Results for электрический генератор с добавочными полюсами (simple):
+	the electric generator with additional poles
+Results for электронно-лучевой генератор фотошаблона (simple):
+	electron beam generator of a photo mask
+Results for электростатический генератор (simple):
+	electrostatic generator
+Results for внутрирезонаторная генерация (simple):
+	vnutrirezonatorny generation
+Results for генерация (высших, оптических) гармоник (simple):
+	generation (the highest, optical) harmonicas
+Results for генерация гигантского импульса (simple):
+	generation of a huge impulse
+Results for генерация испытательных сигналов (simple):
+	generation of test signals
+Results for генерация модулей (simple):
+	generation of modules
+Results for генерация моноимпульса (simple):
+	generation of a monopulse
+Results for генерация несущей (simple):
+	generation of bearing
+Results for генерация носителей (simple):
+	generation of carriers
+Results for генерация оригиналов [шаблонов] (simple):
+	generation of originals [templates]
+Results for генерация помех (simple):
+	generation of hindrances
+Results for генерация символов (simple):
+	generation of symbols
+Results for генерация систем на основе описаний (simple):
+	generation of systems on the basis of descriptions
+Results for генерация системы:
+	 system generation (Компьютеры)
+	 
+Results for генерация тестов:
+	 test generation (Компьютеры)
+	 
+Results for генерация электронно-дырочных пар:
+	 electron hole pairs generation (Компьютеры)
+	 
+Results for лазерная генерация (simple):
+	laser generation
+Results for молекулярная генерация (simple):
+	molecular generation
+Results for параметрическая генерация (simple):
+	parametrical generation
+Results for процедурная генерация (simple):
+	procedural generation
+Results for фоновая генерация (simple):
+	background generation
+Results for фотоэлектрическая генерация (simple):
+	photo-electric generation
+Results for генерирование импульсов:
+	 impulsing (Техника)
+	 
+Results for генерирование колебаний (simple):
+	generation of fluctuations
+Results for генерирование помех (simple):
+	generation of hindrances
+Results for геометрия антенной решётки (simple):
+	geometry of an antenna lattice
+Results for геометрия интегральной схемы с элементами (суб)микронных размеров (simple):
+	geometry of the integrated circuit with elements (sub) micron sizes
+Results for геометрия луча (simple):
+	beam geometry
+Results for герметизация активным веществом (simple):
+	sealing by active agent
+Results for герметизация методом компрессии (погружения) (simple):
+	sealing by method of a compression (immersion)
+Results for герметизация пассивным веществом (simple):
+	sealing by passive substance
+Results for герметизация пластмассой (simple):
+	sealing by plastic
+Results for жидкостная герметизация:
+	 liquid encapsulation (Техника)
+	 
+Results for металлическая герметизация (simple):
+	metal sealing
+Results for гетеродин-смеситель (simple):
+	heterodyne mixer
+Results for гетеродин фазовой автоподстройки частоты (simple):
+	heterodyne of a phase auto-adjust of frequency
+Results for когерентный гетеродин:
+	 coherent oscillator (Техника)
+	 
+Results for стабилизированный гетеродин (simple):
+	the stabilized heterodyne
+Results for гетеродинирование на фоторезисторе (simple):
+	heterodyning on the photoresistor
+Results for гетеродинирование с повышением (понижением) частоты (simple):
+	heterodyning with increase (decrease) in frequency
+Results for двойное гетеродинирование (simple):
+	double heterodyning
+Results for коллинеарное гетеродинирование (simple):
+	collinear heterodyning
+Results for лазерное гетеродинирование (simple):
+	laser heterodyning
+Results for оптическое гетеродинирование (simple):
+	optical heterodyning
+Results for светоизлучающий гетеродиод (simple):
+	light-emitting heterodiode
+Results for (ан)изотипный гетеропереход (simple):
+	(An) izotipny heterojunction
+Results for гетеропереход без ловушек (simple):
+	heterojunction without traps
+Results for гетеропереход, освещаемый перпендикулярно поверхности раздела (simple):
+	the heterojunction lit perpendicular to an interface
+Results for гетеропереход с двусторонним обеднением зарядов (simple):
+	heterojunction with bilateral impoverishment of charges
+Results for двойной гетеропереход (simple):
+	double heterojunction
+Results for монокристаллический гетеропереход (simple):
+	single-crystal heterojunction
+Results for обратно(прямо)смещённый гетеропереход (simple):
+	back (directly) displaced heterojunction
+Results for плавный гетеропереход:
+	 soft heterojunction (Компьютеры)
+	 
+Results for полупроводниковый гетеропереход:
+	 semiconductor heterojunction (Компьютеры)
+	 
+Results for резкий гетеропереход:
+	 abrupt heterojunction (Компьютеры)
+	 
+Results for сплавной гетеропереход:
+	 fused heterojunction (Компьютеры)
+	 
+Results for тонкоплёночный гетеропереход (simple):
+	thin-film heterojunction
+Results for эпитаксиальный гетеропереход:
+	 epitaxially grown heterojunction (Компьютеры)
+	 
+Results for гетероструктура с раздельным ограничением (simple):
+	heterostructure with separate restriction
+Results for двойная гетероструктура (simple):
+	double heterostructure
+Results for многослойная гетероструктура (simple):
+	multilayered heterostructure
+Results for светоизлучающая гетероструктура (simple):
+	light-emitting heterostructure
+Results for скрытая гетероструктура (simple):
+	hidden heterostructure
+Results for биполярный гетеротранзистор:
+	 bipolar heterotransistor (Компьютеры)
+	 
+	 heterojunction bipolar transistor (Техника)
+	 
+Results for геттерирование путём диспергирования (simple):
+	gettering by dispergating
+Results for контактное геттерирование (simple):
+	contact gettering
+Results for боковая гибкость (simple):
+	side flexibility
+Results for вертикальная гибкость (simple):
+	vertical flexibility
+Results for горизонтальная гибкость (simple):
+	horizontal flexibility
+Results for гибкость звукоснимателя (simple):
+	flexibility of the sound pickup
+Results for гибкость тонарма (simple):
+	flexibility of a tonarm
+Results for гибрид-соединитель (simple):
+	hybrid connector
+Results for гидролокатор с переменной глубиной погружения (simple):
+	the sonar with a variable depth of immersion
+Results for гидрофон-приёмник (градиента) давления (simple):
+	hydrophone receiver (gradient) of pressure
+Results for гидрофон с подвижной катушкой (simple):
+	the hydrophone with the mobile coil
+Results for всенаправленный гидрофон:
+	 omnidirectional hydrophone (Техника)
+	 
+Results for ленточный гидрофон (simple):
+	tape hydrophone
+Results for линейный гидрофон:
+	 line hydrophone (Техника)
+	 
+Results for магнитострикционный гидрофон (simple):
+	magnetostriction hydrophone
+Results for (одно)направленный гидрофон (simple):
+	(one) the directed hydrophone
+Results for пьезоэлектрический гидрофон (simple):
+	piezoelectric hydrophone
+Results for тепловой гидрофон (simple):
+	thermal hydrophone
+Results for акустический гиратор (simple):
+	acoustic gyrator
+Results for гиратор на (гибридной) интегральной схеме (simple):
+	gyrator on (hybrid) integrated circuit
+Results for гиратор на эффекте Фарадея (Холла) (simple):
+	gyrator on Faraday (Hall's) effect
+Results for гиратор со связями по постоянному току (simple):
+	gyrator with communications on a direct current
+Results for гиратор с потерями (simple):
+	gyrator with losses
+Results for двухплечий гиратор (simple):
+	dvukhplechy gyrator
+Results for конденсаторно-трансформаторный гиратор (simple):
+	condenser and transformer gyrator
+Results for криотронный гиратор (simple):
+	cryotron gyrator
+Results for многополюсный гиратор (simple):
+	multi-polar gyrator
+Results for незаземлённый гиратор (simple):
+	ungrounded gyrator
+Results for СВЧ-гиратор (simple):
+	Microwave gyrator
+Results for транзисторный гиратор (simple):
+	transistor gyrator
+Results for гироскоп на эффекте ядерного магнитного резонанса (simple):
+	gyroscope on effect of nuclear magnetic resonance
+Results for вибрационный гироскоп:
+	 vibratory gyroscope (Техника)
+	 
+Results for волоконно-оптический гироскоп:
+	 fiber optic gyroscope (Техника)
+	 
+Results for интегрирующий гироскоп:
+	 integrating gyroscope (Техника)
+	 
+Results for криогенный гироскоп:
+	 cryogenic gyro (Техника)
+	 
+Results for лазерный гироскоп:
+	 laser gyroscope (Техника)
+	 
+Results for свободный гироскоп:
+	 free gyroscope (Техника)
+	 
+Results for гиротрон бегущей волны (simple):
+	the gyrotron of the running wave
+Results for гистерезиграф на эффекте Керра (simple):
+	gisterezigraf on Kerr's effect
+Results for гистерезис динамической вольт-амперной характеристики дугового разряда (simple):
+	hysteresis of the dynamic volt-ampere characteristics of the arc category
+Results for гистерезис магнитного материала (simple):
+	hysteresis of magnetic material
+Results for гистерезис частоты (автоколебаний) (simple):
+	hysteresis of the frequency (self-oscillations)
+Results for магнитный гистерезис:
+	 magnetic hysteresis (Техника)
+	 
+	 magnetic hystoresis (Техника)
+	 
+Results for сегнетоэлектрический гистерезис (simple):
+	segnetoelektrichesky hysteresis
+Results for глубина детализации (simple):
+	specification depth
+Results for глубина канавки (simple):
+	flute depth
+Results for глубина модуляции:
+	 depth of modulation (Естественные науки)
+	 
+	 modulation depth (Компьютеры)
+	 
+Results for глубина обратной связи (simple):
+	feedback depth
+Results for глубина памяти (simple):
+	memory depth
+Results for глубина проникновения:
+	 depth of penetration (Естественные науки)
+	 
+	 penetration depth (Бизнес)
+	 
+Results for глубина процедуры (simple):
+	procedure depth
+Results for глубина резко изображаемого пространства (simple):
+	depth of sharply represented space
+Results for глубина резкости:
+	 depth of focus (Техника)
+	 
+Results for глубина тестирования (simple):
+	testing depth
+Results for глубина фокусировки (simple):
+	focusing depth
+Results for глушение радиостанции (simple):
+	muffling of radio station
+Results for глушитель звука:
+	 exhaust silencer (Естественные науки)
+	 
+	 sound damper (Техника)
+	 
+Results for антенное гнездо (simple):
+	antenna nest
+Results for вспомагательное гнездо (simple):
+	auxiliary nest
+Results for вызывное гнездо:
+	 calling jack (Техника)
+	 
+Results for гнездо блокировки (simple):
+	blocking nest
+Results for гнездо в объединительной плате (simple):
+	nest in a unifying payment
+Results for гнездо в панели прибора (simple):
+	nest in the device panel
+Results for гнездо для БИС (simple):
+	nest for ENCORE
+Results for гнездо для внешних соединений (simple):
+	nest for external connections
+Results for гнездо для интегральной схемы (simple):
+	nest for the integrated circuit
+Results for гнездо для кристаллодержателя (simple):
+	nest for a kristalloderzhatel
+Results for гнездо для монтажной платы (simple):
+	nest for an assembly payment
+Results for гнездо для подключения внешнего источника (simple):
+	nest for connection of an external source
+Results for гнездо для подключения радиотрансляционной линии (simple):
+	nest for connection of the broadcasting line
+Results for гнездо для расширительных модулей (simple):
+	nest for broad modules
+Results for гнездо ламповой панели:
+	 valve-pin jack (Техника)
+	 
+Results for гнездо переключателя (simple):
+	switch nest
+Results for гнездо прослушивания (simple):
+	listening nest
+Results for гнездо разомкнутого типа (simple):
+	nest of the opened type
+Results for гнездо с контактной пружиной (simple):
+	nest with a contact spring
+Results for гнездо транзитной связи (simple):
+	nest of transit communication
+Results for гнездо штепсельного разъёма (simple):
+	nest of the plug socket
+Results for коммутационное гнездо (simple):
+	switching nest
+Results for контрольное гнездо:
+	 monitoring jack (Техника)
+	 
+Results for линейное гнездо:
+	 line jack (Техника)
+	 
+Results for однополюсное гнездо (simple):
+	unipolar nest
+Results for параллельное гнездо:
+	 branching jack (Техника)
+	 
+Results for передаточное гнездо:
+	 transfer jack (Техника)
+	 
+Results for разделительное гнездо (simple):
+	dividing nest
+Results for годограф Найквиста (simple):
+	Nyquist's godograf
+Results for годограф полного сопротивления (simple):
+	godograf of full resistance
+Results for годограф полной проводимости (simple):
+	admittance godograf
+Results for годограф системы регулирования (simple):
+	godograf of system of regulation
+Results for болометрическая головка (simple):
+	bolometrichesky head
+Results for волноводная головка (simple):
+	the waveguide head
+Results for вращающаяся головка:
+	 rotating head (Техника)
+	 
+Results for головка воспроизведения:
+	 reproducing head (Естественные науки)
+	 
+Results for головка высоковольтного щупа (simple):
+	head of the high-voltage probe
+Results for головка графопостроителя (simple):
+	graph plotter head
+Results for головка для магнитной ленты (simple):
+	head for a magnetic tape
+Results for головка для многодорожечной записи (simple):
+	head for multitrack record
+Results for головка для создания искусственного эха (simple):
+	head for creation of an artificial echo
+Results for головка записи (звукового канала) (simple):
+	record head (sound channel)
+Results for головка звукоснимателя (simple):
+	sound pickup head
+Results for головка канала управления (simple):
+	control path head
+Results for головка магнитного диска (simple):
+	head of a magnetic disk
+Results for головка манипулятора (simple):
+	manipulator head
+Results for головка подмагничивания (simple):
+	podmagnichivaniye head
+Results for головка радиотеплолокационного наведения (simple):
+	head of radio heatlocational targeting
+Results for головка рупорного громкоговорителя (simple):
+	head of the ruporny loudspeaker
+Results for головка самонаведения:
+	 homing head (Техника)
+	 
+Results for головка сообщения (simple):
+	message head
+Results for головка с переменным усилием прижима (simple):
+	head with variable effort of a clip
+Results for головка стирания переменным током (simple):
+	deleting head alternating current
+Results for головка считывания (simple):
+	reading head
+Results for головка съёмного типа (simple):
+	head of removable type
+Results for головка чтения-записи (simple):
+	reading record head
+Results for диодная головка:
+	 diode mount (Техника)
+	 
+Results for ёмкостная головка (simple):
+	capacitor head
+Results for изношенная головка (simple):
+	worn-out head
+Results for кольцевая магнитная головка (simple):
+	ring magnetic head
+Results for комбинированная головка:
+	 read/write head (Компьютеры)
+	 
+Results for контрольная головка (simple):
+	control head
+Results for лазерная головка:
+	 laser head (Компьютеры)
+	 
+Results for магнитная головка:
+	 magnetic head (Техника)
+	 
+Results for монофоническая головка (simple):
+	monophonic head
+Results for основная головка стирания (simple):
+	main head of deleting
+Results for панорамная головка (simple):
+	panoramic head
+Results for плавающая головка:
+	 air-floating head (Техника)
+	 
+Results for полупроводниковая головка (simple):
+	semiconductor head
+Results for рабочая головка манипулятора (simple):
+	working head of the manipulator
+Results for радиолокационная головка (simple):
+	radar head
+Results for сканирующая головка (simple):
+	the scanning head
+Results for смесительная головка (simple):
+	mixing head
+Results for съёмная головка (simple):
+	removable head
+Results for терморезисторная головка (simple):
+	thermistor head
+Results for тонкоплёночная головка (simple):
+	thin-film head
+Results for ультразвуковая сварочная головка (simple):
+	ultrasonic welding head
+Results for универсальная головка записи-воспроизведения (simple):
+	universal head of record reproduction
+Results for установочная монтажная головка (simple):
+	adjusting assembly head
+Results for фотометрическая головка:
+	 photometer head (Техника)
+	 
+Results for фотоэлектрическая головка (simple):
+	photo-electric head
+Results for электрооптическая головка (simple):
+	electrooptical head
+Results for акустическая голограмма:
+	 acoustical hologram (Техника)
+	 
+Results for амплитудная голограмма:
+	 absorption hologram (Техника)
+	 
+Results for амплитудно-контрастная голограмма:
+	 amplitude-contrast hologram (Техника)
+	 
+Results for амплитудно-фазовая голограмма:
+	 absorption-phase hologram (Техника)
+	 
+Results for безлинзовая голограмма:
+	 lensless hologram (Техника)
+	 
+Results for бинарная голограмма:
+	 binary hologram (Техника)
+	 
+Results for восстановленная голограмма (simple):
+	the restored hologram
+Results for галогенидсеребряная голограмма [голограмма на галогенидсеребряном носителе] (simple):
+	the galogenidserebryany hologram [the hologram on the galogenidserebryany carrier]
+Results for голограмма в реальном масштабе времени (simple):
+	hologram in real time
+Results for голограмма Гобара (Лейта, Фраунгофера, Френеля, Фурье) (simple):
+	Gobar's hologram (Leith, Fraunhofer, Fresnel, Fourier)
+Results for голограмма , записанная на толстослойной эмульсии (simple):
+	the hologram which is written down on a thick-layer emulsion
+Results for голограмма-копия(-оригинал) (simple):
+	the hologram copy (-the original)
+Results for голограмма неподвижных объектов (simple):
+	hologram of motionless objects
+Results for голограмма пространственного изображения:
+	 aerial image hologram (Техника)
+	 
+Results for голограмма распределения интенсивности (simple):
+	hologram of distribution of intensity
+Results for голограмма с высоким разрешением (simple):
+	the hologram with high resolution
+Results for голограмма с высокой дифракционной эффективностью (simple):
+	the hologram with high diffraction efficiency
+Results for голограмма с высокой избыточностью:
+	 highly redundant hologram (Техника)
+	 
+Results for голограмма с низким уровнем шума (simple):
+	the hologram with low noise level
+Results for голограмма с переменной прозрачностью (simple):
+	the hologram with variable transparency
+Results for голограмма с переменным затуханием (simple):
+	the hologram with variable attenuation
+Results for голограмма сфокусированного изображения:
+	 focused-image hologram (Техника)
+	 
+Results for голограмма удалённых объектов (simple):
+	hologram of remote objects
+Results for голограмма, формируемая методом частотного сканирования (simple):
+	the hologram formed by method of frequency scanning
+Results for двумерная голограмма (simple):
+	two-dimensional hologram
+Results for двухлучевая голограмма [голограмма Лейта] (simple):
+	dual-beam hologram [Leith's hologram]
+Results for десенсибилизированная голограмма (simple):
+	desensibilizirovanny hologram
+Results for дискриминирующая голограмма (simple):
+	the discriminating hologram
+Results for дополнительная голограмма (simple):
+	additional hologram
+Results for жидкокристаллическая голограмма [голограмма на жидкокристаллическом носителе] (simple):
+	the liquid crystal hologram [the hologram on the liquid crystal carrier]
+Results for жидкостная голограмма:
+	 liquid hologram (Техника)
+	 
+Results for интермодуляционная голограмма (simple):
+	intermodulation hologram
+Results for интерферометрическая голограмма (simple):
+	interferometrichesky hologram
+Results for инфракрасная голограмма (simple):
+	infrared hologram
+Results for кинематическая голограмма (simple):
+	kinematic hologram
+Results for кодированная голограмма (simple):
+	the coded hologram
+Results for контрольная голограмма (simple):
+	control hologram
+Results for ксерографическая голограмма [голограмма на ксерографическом носителе] (simple):
+	the xerographic hologram [the hologram on the xerographic carrier]
+Results for лазерная голограмма:
+	 laser hologram (Техника)
+	 
+Results for магнитная голограмма (simple):
+	magnetic hologram
+Results for магнитооптическая голограмма [голограмма на магнитооптическом носителе] (simple):
+	the magnetooptical hologram [the hologram on the magnetooptical carrier]
+Results for многоракурсная голограмма (simple):
+	mnogorakursny hologram
+Results for монохромная [одноцветная] голограмма (simple):
+	monochrome [one-color] hologram
+Results for (не)когерентная голограмма (simple):
+	(not) the coherent hologram
+Results for нелинейно записанная голограмма (simple):
+	not linearly written down hologram
+Results for (не)отбеленная голограмма (simple):
+	not bleached hologram
+Results for окулярная голограмма (simple):
+	okulyarny hologram
+Results for оптическая голограмма (simple):
+	optical hologram
+Results for отражательная рельефно-фазовая голограмма (simple):
+	reflective relief and phase hologram
+Results for полутоновая голограмма:
+	 gray hologram (Техника)
+	 
+Results for пропускающая голограмма:
+	 transmission hologram (Техника)
+	 
+Results for разностная голограмма (simple):
+	differential hologram
+Results for сдвоенная голограмма (simple):
+	dual hologram
+Results for синтезированная голограмма:
+	 synthesized hologram (Техника)
+	 
+Results for совмещённая голограмма (simple):
+	the combined hologram
+Results for составная голограмма (simple):
+	compound hologram
+Results for стираемая голограмма:
+	 erasable hologram (Техника)
+	 
+Results for твердотельная голограмма [голограмма на твердотельном носителе] (simple):
+	the solid-state hologram [the hologram on the solid-state carrier]
+Results for трёхмерная голограмма (simple):
+	three-dimensional hologram
+Results for ультразвуковая голограмма (simple):
+	ultrasonic hologram
+Results for ультрафиолетовая голограмма (simple):
+	ultra-violet hologram
+Results for усреднённая во времени голограмма (simple):
+	the hologram average in time
+Results for фазовая голограмма (simple):
+	phase hologram
+Results for фазоконтрастная голограмма (simple):
+	fazokontrastny hologram
+Results for фотополимерная голограмма [голограмма на фотополимерном носителе] (simple):
+	the photopolymeric hologram [the hologram on the photopolymeric carrier]
+Results for фототермопластическая голограмма [голограмма на фототермопластическом носителе] (simple):
+	the photothermoplastic hologram [the hologram on the photothermoplastic carrier]
+Results for фотохромная голограмма (simple):
+	fotokhromny hologram
+Results for цветная голограмма (simple):
+	color hologram
+Results for цифровая голограмма (simple):
+	digital hologram
+Results for чёрно-белая голограмма (simple):
+	black-and-white hologram
+Results for чистофазовая голограмма:
+	 pure phase hologram (Техника)
+	 
+Results for широкоугольная голограмма (simple):
+	wide-angle hologram
+Results for экспоненциальная голограмма (simple):
+	exponential hologram
+Results for голография удалённых объектов (simple):
+	holography of remote objects
+Results for аддитивная голография (simple):
+	additive holography
+Results for акустическая голография:
+	 acoustic holography (Техника)
+	 
+Results for безлинзовая голография (simple):
+	bezlinzovy holography
+Results for импульсная голография:
+	 pulse holography (Техника)
+	 
+Results for интерферометрическая голография:
+	 interferometric holography (Техника)
+	 
+Results for инфракрасная голография (simple):
+	infrared holography
+Results for кинематическая голография (simple):
+	kinematic holography
+Results for лазерная голография:
+	 laser holography (Техника)
+	 
+Results for магнитная голография (simple):
+	magnetic holography
+Results for магнитооптическая голография (simple):
+	magnetooptical holography
+Results for оптическая голография:
+	 optical holography (Техника)
+	 
+Results for панорамная голография (simple):
+	panoramic holography
+Results for поляризационная голография:
+	 polarization holography (Техника)
+	 
+Results for пространственно-инвариантная голография (simple):
+	spatial and invariant holography
+Results for рентгеновская голография:
+	 X-ray holography (Техника)
+	 
+Results for СВЧ-голография (simple):
+	Microwave holography
+Results for сейсмическая голография (simple):
+	seismic holography
+Results for субтрактивная голография (simple):
+	subtractive holography
+Results for ультразвуковая голография:
+	 ultrasonic holography (Техника)
+	 
+Results for ультрафиолетовая голография (simple):
+	ultra-violet holography
+Results for цветная голография (simple):
+	color holography
+Results for цифровая голография (simple):
+	digital holography
+Results for чёрно-белая голография (simple):
+	black-and-white holography
+Results for широкоугольная голография:
+	 wide-angle holography (Техника)
+	 
+Results for гомогенность зарядов (simple):
+	homogeneity of charges
+Results for гомогенность поля (simple):
+	homogeneity of the field
+Results for «гонки» фронтов цифровых сигналов (simple):
+	"races" of fronts of digital signals
+Results for горловина баллона (simple):
+	cylinder mouth
+Results for горловина рупора:
+	 throat[θrəut] (Техника)
+	 
+Results for горловина сосуда (simple):
+	vessel mouth
+Results for оперативная готовность:
+	 operational availability (Техника)
+	 
+Results for градация контрастности (simple):
+	gradation of contrast
+Results for градация цветности (simple):
+	gradation of chromaticity
+Results for градация яркости (simple):
+	gradation of brightness
+Results for градиент вращательного момента (simple):
+	gradient of the rotary moment
+Results for градиент контраста (simple):
+	contrast gradient
+Results for градиент концентрации примеси:
+	 impurity gradient (Техника)
+	 
+Results for градиент концентрации электронов (дырок) (simple):
+	gradient of concentration of electrons (holes)
+Results for градиент (магнитного, электрического) поля (simple):
+	gradient (magnetic, electric) fields
+Results for градиент напряжения:
+	 potential gradient (Техника)
+	 
+Results for градиент плотности (вихревых нитей) (simple):
+	density gradient (vortex threads)
+Results for градиент поля подмагничивания (simple):
+	gradient of the field of a podmagnichivaniye
+Results for градиент потенциала:
+	 potential gradient (Естественные науки)
+	 
+Results for градиент скалярного поля (simple):
+	gradient of the scalar field
+Results for градиент температуры:
+	 temperature gradient (Компьютеры)
+	 
+Results for градиент удельного сопротивления (simple):
+	gradient of specific resistance
+Results for знакопеременный градиент:
+	 alternating gradient (Естественные науки)
+	 
+Results for градуирование приёмника (simple):
+	graduation of the receiver
+Results for градуирование шкалы (simple):
+	graduation of a scale
+Results for грамм-атом:
+	 gram atom 
+Results for грамм-молекула:
+	 gram-molecule (Естественные науки)
+	 
+Results for грамм-моль:
+	 gram-mole 
+	 gram-mol (Естественные науки)
+	 
+Results for грамм-эквивалент:
+	 gram-equivalent (Естественные науки)
+	 
+Results for грамматика непосредственных составляющих:
+	 immediate constituent grammar (Компьютеры)
+	 
+Results for грамматика ограниченного контекста (simple):
+	grammar of a limited context
+Results for грамматика с предшествованием (simple):
+	grammar with precedence
+Results for дискретная квадрафоническая грампластинка (simple):
+	discrete quadraphonic phonograph record
+Results for долгоиграющая грампластинка (simple):
+	long-playing phonograph record
+Results for многослойная грампластинка (simple):
+	multilayered phonograph record
+Results for монофоническая грампластинка (simple):
+	monophonic phonograph record
+Results for стереофоническая грампластинка (simple):
+	stereophonic phonograph record
+Results for цифровая грампластинка (simple):
+	digital phonograph record
+Results for эталонная испытательная грампластинка (simple):
+	reference test phonograph record
+Results for большеугловая граница:
+	 high-angle boundary (Естественные науки)
+	 
+Results for верхняя (нижняя) граница диапазона (simple):
+	upper (lower) bound of range
+Results for граница байта (simple):
+	byte border
+Results for граница видимости (simple):
+	limit of visibility
+Results for граница деления чисел (simple):
+	border of division of numbers
+Results for граница доменов (simple):
+	border of domains
+Results for граница знака (simple):
+	limit of the sign
+Results for граница зон (simple):
+	border of zones
+Results for граница зоны Бриллюэна (simple):
+	border of a zone of Brillouin
+Results for граница интегрирования (simple):
+	integration border
+Results for граница обеднённого слоя (simple):
+	border of the impoverished layer
+Results for граница области отражения (тени) (simple):
+	border of area of reflection (shadow)
+Results for граница рабочего режима (simple):
+	border of an operating mode
+Results for граница раздела между нормальной и сверхпроводящей фазами (simple):
+	the border has undressed between normal and superconducting phases
+Results for граница раздела фаз:
+	 phase boundary (Естественные науки)
+	 
+	 interphase boundary (Естественные науки)
+	 
+Results for граница распространения волн (simple):
+	border of distribution of waves
+Results for двойниковая граница (simple):
+	twinning border
+Results for длинноволновая граница (simple):
+	long-wave border
+Results for доверительная граница:
+	 confidence limit (Техника)
+	 
+	 confidence bound (Техника)
+	 
+Results for доменная граница (simple):
+	domain border
+Results for коротковолновая граница (simple):
+	short-wave border
+Results for малоугловая граница:
+	 low-angle boundary (Естественные науки)
+	 
+Results for межзёренная граница (simple):
+	mezhzyorenny border
+Results for наклонная граница (simple):
+	inclined border
+Results for плазменная граница (simple):
+	plasma border
+Results for целочисленная граница:
+	 integral boundary (Компьютеры)
+	 
+Results for границы рабочего режима (simple):
+	borders of an operating mode
+Results for большая (малая) околовершинная грань (simple):
+	big (small) okolovershinny side
+Results for вицинальная грань (simple):
+	vitsinalny side
+Results for грань доменов (simple):
+	side of domains
+Results for грань кристалла:
+	 crystal face (Естественные науки)
+	 
+	 face of a crystal (Техника)
+	 
+Results for грань лазерного диода (simple):
+	side of the laser diode
+Results for плоская грань:
+	 plane face (Техника)
+	 
+Results for развитая грань (simple):
+	the developed side
+Results for альтернирующий граф (simple):
+	alternating count
+Results for атомический граф (simple):
+	atomic count
+Results for ациклический граф (simple):
+	acyclic count
+Results for базисный граф (simple):
+	basic count
+Results for балансированный помеченный граф (simple):
+	the balansirovanny marked count
+Results for (бес)конечный граф (simple):
+	(demon) final count
+Results for бисвязный граф (simple):
+	biconnected count
+Results for вводящий граф (simple):
+	the entering count
+Results for вершинно-критический граф (simple):
+	topmost and critical count
+Results for вершинно-симметрический граф (simple):
+	topmost and symmetric count
+Results for гамильтонов граф (simple):
+	Hamilton count
+Results for граф без цикла (simple):
+	the count without cycle
+Results for граф блоков (simple):
+	count of blocks
+Results for граф взаимодействия (simple):
+	columns of interaction
+Results for граф воспроизведения:
+	 reproduction graph 
+Results for граф Дезарга (Паппа, Петерсена) (simple):
+	Desargues's columns (Pappus, Petersen)
+Results for граф интервалов (simple):
+	count of intervals
+Results for граф исключения:
+	 exclusion graph 
+Results for граф клик:
+	 clique graph 
+Results for граф операций:
+	 activity graph 
+Results for граф ориентаций (simple):
+	columns of orientations
+Results for граф переходов:
+	 transition graph 
+Results for граф подразбиения (simple):
+	columns of subdivision
+Results for граф потока данных:
+	 dataflow graph 
+Results for граф потомства (simple):
+	count of posterity
+Results for граф сигнала:
+	 signal-flow graph (Техника)
+	 
+Results for граф смежности рёбер [смежностный граф] (simple):
+	adjacency graph of edges [the smezhnostny count]
+Results for граф смежных каналов (simple):
+	count of adjacent channels
+Results for граф соседства областей (simple):
+	count of the neighbourhood of areas
+Results for граф состояний:
+	 state graph 
+Results for граф с петлями связи (simple):
+	communication graph with loops
+Results for граф строго частичного упорядочения (simple):
+	columns of strictly partial streamlining
+Results for граф транзакций:
+	 transaction graph (Компьютеры)
+	 
+Results for граф узла [узловой граф] (simple):
+	count of knot [the nodal count]
+Results for граф чередующейся композиции:
+	 alternating composition graph 
+Results for двудольный [бихроматический] граф (simple):
+	two-submultiple [bichromatic] count
+Results for двумерный решётчатый граф (simple):
+	two-dimensional trellised count
+Results for двураскрашенный граф (simple):
+	two-painted columns
+Results for двураскрашиваемый граф (simple):
+	two-painted columns
+Results for замкнутый граф (simple):
+	closed columns
+Results for звёздный граф (simple):
+	star count
+Results for знаковый помеченный граф (simple):
+	the sign marked count
+Results for изоморфный граф (simple):
+	isomorphic count
+Results for корневой граф (simple):
+	root count
+Results for локально конечный (ограниченный) граф (simple):
+	locally final (narrow) count
+Results for максимальный сильносингулярный граф (simple):
+	maximum silnosingulyarny count
+Results for многомерный граф (simple):
+	multidimensional count
+Results for (не)ориентированный граф (simple):
+	not focused count
+Results for неразложимый граф (simple):
+	indecomposable count
+Results for нумерованный граф (simple):
+	enumerated count
+Results for обратный граф (simple):
+	return count
+Results for общий граф (simple):
+	general count
+Results for однонаправленный граф (simple):
+	unidirectional count
+Results for однородный граф степени п (simple):
+	uniform count of degree п
+Results for плоский [планарный] граф (simple):
+	flat [planar] count
+Results for полный граф:
+	 complete graph (Техника)
+	 
+Results for помеченный граф (simple):
+	the marked count
+Results for приведенный [приведённый] граф (simple):
+	the brought [brought] count
+Results for ранжированный граф (simple):
+	the ranged count
+Results for раскрашенный граф (simple):
+	painted columns
+Results for рёберно-симметрический граф (simple):
+	costal and symmetric count
+Results for рёберный граф (simple):
+	costal count
+Results for рекурсивно структурированный граф (simple):
+	recursively structured columns
+Results for самодополнительный граф (simple):
+	self-additional count
+Results for самонегативный граф (simple):
+	self-negative count
+Results for связный граф:
+	 connected graph (Естественные науки)
+	 
+Results for сигнальный граф (simple):
+	alarm count
+Results for сильно ориентированно-циклический граф (simple):
+	strongly oriyentirovanno-cyclic count
+Results for симметрический граф (simple):
+	symmetric count
+Results for смешанный граф (simple):
+	mixed columns
+Results for совершенный граф (simple):
+	perfect count
+Results for соединяющий граф (simple):
+	the connecting count
+Results for соотнесённый граф (simple):
+	the correlated count
+Results for тождественный граф (simple):
+	identical count
+Results for тотальный граф (simple):
+	total count
+Results for транзитивный граф (simple):
+	transitive count
+Results for унициклический граф (simple):
+	unicyclic count
+Results for усечённый граф (simple):
+	truncated columns
+Results for фонетический граф (simple):
+	phonetic count
+Results for хроматический граф (simple):
+	chromatic count
+Results for цветной граф Кэли (simple):
+	color Caley graph
+Results for циклически жёсткий (замкнутый) граф (simple):
+	cyclically rigid (closed) columns
+Results for циклический граф:
+	 cyclic graph (Техника)
+	 
+Results for чётный граф (simple):
+	even count
+Results for эйлеров граф (simple):
+	Euler count
+Results for т-дольный граф (simple):
+	t - the submultiple count
+Results for график Аррениуса (simple):
+	Arrhenius's schedule
+Results for график в двойном логарифмическом масштабе (simple):
+	the schedule in double logarithmic scale
+Results for график запуска (simple):
+	schedule of start
+Results for график нагрузки:
+	 production schedule 
+	 load graph (Бизнес)
+	 
+	 generation schedule (Техника)
+	 
+Results for график работы компьютера (simple):
+	schedule of operation of the computer
+Results for график функции:
+	 function graph 
+Results for график цветности (simple):
+	schedule of chromaticity
+Results for векторная графика:
+	 vector graphics 
+Results for графика высокого разрешения (simple):
+	graphics of high resolution
+Results for графика изображения (simple):
+	graphics of the image
+Results for графика монолитных тел (simple):
+	graphics of monolithic bodies
+Results for графика начертания символов (simple):
+	schedule of tracing of symbols
+Results for графика с побитовым отображением (simple):
+	graphics with bit-by-bit display
+Results for графика с поэлементным выводом изображения (simple):
+	graphics with a step-by-step conclusion of the image
+Results for графика с точечной адресацией (simple):
+	graphics with pointed addressing
+Results for графика со световым пером (simple):
+	graphics with a light feather
+Results for демонстрационная графика (simple):
+	demonstration graphics
+Results for интерактивная графика (simple):
+	interactive graphics
+Results for координатная графика:
+	 coordinate graphics (Компьютеры)
+	 
+Results for машинная [компьютерная] графика (simple):
+	machine [computer] graphics
+Results for растровая графика:
+	 raster graphics 
+	 bitmap graphics (Компьютеры)
+	 
+Results for символьная графика:
+	 character graphics (Компьютеры)
+	 
+Results for цветная графика (simple):
+	color graphics
+Results for автоматический графопостроитель:
+	 automatic plotter (Техника)
+	 
+Results for аналоговый графопостроитель (simple):
+	analog graph plotter

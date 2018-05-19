@@ -1,0 +1,2282 @@
+Results for предел чувствительности:
+	 detection limit (Естественные науки)
+	 
+	 sensibility limit (Кулинария)
+	 
+Results for пределы допуска:
+	 limit of tolerance (Естественные науки)
+	 
+	 tolerance limit (Бизнес)
+	 
+Results for пределы изменения (simple):
+	change limits
+Results for пределы измерений:
+	 measurement range (Естественные науки)
+	 
+Results for пределы интегрирования (simple):
+	integration limits
+Results for пределы исследования (simple):
+	research limits
+Results for пределы суммирования (simple):
+	summation limits
+Results for предоставление каналов (simple):
+	granting channels
+Results for внутри(меж)кадровое предсказание (simple):
+	in (boundaries) personnel prediction
+Results for контурное предсказание (simple):
+	planimetric prediction
+Results for предсказание по методу наименьших квадратов (simple):
+	prediction by a method of the smallest squares
+Results for предсказание с компенсацией движения (simple):
+	prediction with compensation of the movement
+Results for предсказание случайных процессов (simple):
+	prediction of casual processes
+Results for внутри(меж)кадровый предсказатель (simple):
+	in (boundaries) personnel predictor
+Results for внутри(меж)полевой предсказатель (simple):
+	in (boundaries) field predictor
+Results for лестничный предсказатель (simple):
+	ladder predictor
+Results for многошаговый предсказатель (simple):
+	multistep predictor
+Results for многоэлементный предсказатель (simple):
+	multielement predictor
+Results for предсказатель по входному воздействию (simple):
+	the predictor on entrance influence
+Results for предсказатель по критерию максимального правдоподобия (simple):
+	the predictor by criterion of maximum likelihood
+Results for предсказатель по одному элементу изображения (simple):
+	the predictor on one element of the image
+Results for решётчатый предсказатель (simple):
+	trellised predictor
+Results for предсказывание сбоя аппаратуры (simple):
+	predicting of failure of the equipment
+Results for аналоговое представление:
+	 analog representation (Компьютеры)
+	 
+	 analog display (Техника)
+	 
+Results for двоичное представление:
+	 binary representation (Естественные науки)
+	 
+Results for диаграммное представление (simple):
+	chart representation
+Results for квантово-механическое представление (simple):
+	quantum-mechanical representation
+Results for кодированное представление (simple):
+	the coded representation
+Results for представление во временной области (simple):
+	representation in a time domain
+Results for представление в частотной области (simple):
+	representation in frequency area
+Results for представление выражения (simple):
+	expression representation
+Results for представление данных:
+	 data presentation 
+	 data representation (Компьютеры)
+	 
+	 data display (Техника)
+	 
+Results for представление документов (simple):
+	submission of documents
+Results for представление знаний (simple):
+	representation of knowledge
+Results for представление информации:
+	 information representation (Компьютеры)
+	 
+Results for представление по формуле (simple):
+	representation on a formula
+Results for представление со скользящим усреднением (simple):
+	representation with the sliding averaging
+Results for представление с плавающей (фиксированной) запятой (simple):
+	representation from the floating (fixed) comma
+Results for проблемно-ориентированное представление (simple):
+	problem-oriented representation
+Results for спектральное представление (simple):
+	spectral representation
+Results for цифровое представление:
+	 digital representation (Компьютеры)
+	 
+Results for антенный предусилитель (simple):
+	antenna preamplifier
+Results for линейно-логарифмический предусилитель (simple):
+	linearly - the logarithmic preamplifier
+Results for микрофонный предусилитель:
+	 microphone preamplifier (Компьютеры)
+	 
+Results for предусилитель видеосигнала (simple):
+	video signal preamplifier
+Results for предусилитель воспроизведения (simple):
+	reproduction preamplifier
+Results for предусилитель записи (simple):
+	record preamplifier
+Results for предусилитель ПЧ (simple):
+	PCh preamplifier
+Results for предусилитель считывания (simple):
+	reading preamplifier
+Results for предусмотритель сигналов (simple):
+	predusmotritel of signals
+Results for предустановка триггера (simple):
+	preset of the trigger
+Results for предызбиратель данных (simple):
+	predyzbiratel of data
+Results for предыскажения видеосигнала (simple):
+	video signal predyskazheniye
+Results for предыскатель связи (simple):
+	communication preselector
+Results for предыстория исследований (simple):
+	background of researches
+Results for предыстория состояния (simple):
+	background of a state
+Results for преимущество радиотехнической системы (simple):
+	advantage of radio engineering system
+Results for преимущество схемы (simple):
+	advantage of the scheme
+Results for преимущество устройства (simple):
+	advantage of the device
+Results for прекращение испытаний (simple):
+	termination of tests
+Results for прекращение обслуживания (simple):
+	service termination
+Results for прекращение подачи напряжения (simple):
+	interruption in supply of tension
+Results for прекращение радиосвязи:
+	 blackout[ˈblækaut] (Техника)
+	 
+Results for прекращение сообщения (simple):
+	termination of the message
+Results for преобладание бестоковых посылок (simple):
+	prevalence of bestokovy parcels
+Results for преобладание цифрового сигнала данных (simple):
+	prevalence of a digital signal of data
+Results for амплитудно-фазовое преобразование (simple):
+	the amplitude-phase transformation
+Results for аналого-цифровое преобразование:
+	 analog digital conversion (Компьютеры)
+	 
+	 analog-to-digital convertion (Техника)
+	 
+Results for градиентное преобразование (simple):
+	gradient transformation
+Results for дескрипторно-управляемое преобразование (simple):
+	the descriptor operated transformation
+Results for динамическое преобразование (simple):
+	dynamic transformation
+Results for интегральное преобразование (simple):
+	integrated transformation
+Results for конформное преобразование:
+	 isogonal transformation (Естественные науки)
+	 
+Results for логарифмическое преобразование (simple):
+	logarithmic transformation
+Results for магнитооптическое преобразование (simple):
+	magnetooptical transformation
+Results for непрерывное преобразование (simple):
+	continuous transformation
+Results for непрямое [сложное] преобразование (simple):
+	indirect [difficult] transformation
+Results for обратимое преобразование (simple):
+	reversible transformation
+Results for обратное преобразование:
+	 inverse transformation (Естественные науки)
+	 
+Results for однозначное преобразование (simple):
+	unambiguous transformation
+Results for оптоэлектронное преобразование (simple):
+	optoelectronic transformation
+Results for ортогональное преобразование (simple):
+	orthogonal transformation
+Results for параллельно-последовательное преобразование (simple):
+	parallel-serial transformation
+Results for параметрическое преобразование (simple):
+	parametrical transformation
+Results for последовательно-параллельное преобразование (simple):
+	serial-parallel transformation
+Results for преобразование амплитудной модуляции в фазовую (simple):
+	transformation of amplitude modulation to phase
+Results for преобразование биполярных сигналов в униполярные (simple):
+	transformation of bipolar signals to unipolar
+Results for преобразование временных интервалов в код (simple):
+	transformation of time intervals to a code
+Results for преобразование Гильберта (simple):
+	Gilbert's transformation
+Results for преобразование голограмм (simple):
+	transformation of holograms
+Results for преобразование данных:
+	 data conversion (Естественные науки)
+	 
+	 data transformation (Компьютеры)
+	 
+Results for преобразование замещением (simple):
+	transformation by replacement
+Results for преобразование звезда-треугольник (simple):
+	transformation star triangle
+Results for преобразование звезды в многоугольник (simple):
+	transformation of a star to a polygon
+Results for преобразование из двоичного представления в десятичное (simple):
+	transformation from binary representation to decimal
+Results for преобразование из десятичной системы (счисления) в двоичную (simple):
+	transformation from decimal system (notation) to binary
+Results for преобразование изображения в кодированные данные (simple):
+	transformation of the image to the coded data
+Results for преобразование каналов (simple):
+	transformation of channels
+Results for преобразование кода:
+	 code conversion (Естественные науки)
+	 
+Results for преобразование координат цветности (simple):
+	transformation of coordinates of chromaticity
+Results for преобразование Лапласа:
+	 Laplace transformation (Естественные науки)
+	 
+	 Laplace transform (Компьютеры)
+	 
+Results for преобразование мод (simple):
+	transformation of fashion
+Results for преобразование некогерентного изображения в когерентное (simple):
+	transformation of the incoherent image to coherent
+Results for преобразование «окно(поле) индикации» (simple):
+	"window (field) of indication" transformation
+Results for преобразование подобия:
+	 homothetic transformation (Естественные науки)
+	 
+	 similitude[sɪˈmɪlɪtju:d] (Техника)
+	 
+Results for преобразование полного сопротивления:
+	 impedance conversion (Техника)
+	 
+Results for преобразование поляризации (simple):
+	polarization transformation
+Results for преобразование П(Т)-образной схемы в Т(П)-образную (simple):
+	P(T) transformation of the-shaped scheme to T(P)-shaped
+Results for преобразование развёртки (simple):
+	development transformation
+Results for преобразование речевых данных в цифровую форму (simple):
+	transformation of speech data to a digital form
+Results for преобразование симметрии (simple):
+	transformation of symmetry
+Results for преобразование с одно(равно)временным сравнением (simple):
+	transformation with one (equally) temporary comparison
+Results for преобразование с повышением (понижением) частоты (simple):
+	transformation with increase (decrease) in frequency
+Results for преобразование стандарта развёртки (simple):
+	transformation of the standard of development
+Results for преобразование структуры доменной границы (simple):
+	transformation of structure of domain border
+Results for преобразование типов волн (simple):
+	transformation of types of waves
+Results for преобразование треугольник-звезда (simple):
+	transformation triangle star
+Results for преобразование Фурье (Ханкеля) (simple):
+	Fourier (Hankelya's) transformation
+Results for преобразование цифрового кода в изображение (simple):
+	transformation of a digital code to the image
+Results for преобразование электрической энергии (simple):
+	transformation of electric energy
+Results for проективное преобразование:
+	 collineation (Естественные науки)
+	 
+Results for прямое преобразование (simple):
+	direct transformation
+Results for сегментное преобразование (simple):
+	segment transformation
+Results for страничное преобразование (simple):
+	page transformation
+Results for термофотогальваническое преобразование (simple):
+	thermophotovoltaic transformation
+Results for термоэлектронное преобразование (simple):
+	thermionic transformation
+Results for тождественное преобразование (simple):
+	identical transformation
+Results for точечное преобразование (simple):
+	pointed transformation
+Results for (тройное) преобразование частоты (simple):
+	(threefold) transformation of frequency
+Results for узкополосное преобразование (simple):
+	narrow-band transformation
+Results for унитарное преобразование (simple):
+	unitary transformation
+Results for фотогальваническое преобразование (simple):
+	photovoltaic transformation
+Results for цифро-аналоговое преобразование:
+	 digital-to-analog conversion (Компьютеры)
+	 
+Results for четверично-аналоговое преобразование (simple):
+	quaternary and analog transformation
+Results for элементарное преобразование (simple):
+	elementary transformation
+Results for активный преобразователь (simple):
+	active converter
+Results for акустический преобразователь (simple):
+	acoustic converter
+Results for акустоэлектрический преобразователь:
+	 acoustoelectric transducer (Техника)
+	 
+Results for амплитудно-временной преобразователь:
+	 amplitude-time converter (Компьютеры)
+	 
+Results for аналого-цифровой преобразователь:
+	 analog-to-digitial converter (Естественные науки)
+	 
+	 analog-to-digital converter (Компьютеры)
+	 
+Results for (а)симметричный преобразователь (simple):
+	(a) symmetric converter
+Results for биоэлектрический преобразователь:
+	 bioelectric transducer (Естественные науки)
+	 
+Results for волоконно-оптический преобразователь (simple):
+	fiber-optical converter
+Results for встречно-штыревой преобразователь (simple):
+	counter and pin converter
+Results for гетеродинный преобразователь:
+	 heterodyne conversion transducer (Компьютеры)
+	 
+Results for гидроакустический преобразователь:
+	 sonar transducer (Техника)
+	 
+Results for гироскопический преобразователь (simple):
+	gyroscopic converter
+Results for двигатель-преобразователь (simple):
+	engine converter
+Results for дву(одно)направленный преобразователь (simple):
+	two-(one) the directed converter
+Results for двуплечий преобразователь (simple):
+	dvuplechy converter
+Results for двухтактный преобразователь (simple):
+	duple converter
+Results for динамометрический преобразователь (simple):
+	dynamometer converter
+Results for дифференциальный преобразователь (simple):
+	differential converter
+Results for ёмкостный преобразователь (simple):
+	capacitor converter
+Results for измерительный преобразователь:
+	 measuring transducer (Компьютеры)
+	 
+Results for имплантируемый преобразователь (simple):
+	the implanted converter
+Results for индуктивный преобразователь (simple):
+	inductive converter
+Results for интегральный преобразователь (simple):
+	integrated converter
+Results for искровой преобразователь (simple):
+	spark converter
+Results for камертонный преобразователь (simple):
+	kamertonny converter
+Results for квантовый преобразователь (simple):
+	quantum converter
+Results for керамический преобразователь (simple):
+	ceramic converter
+Results for клиновидный преобразователь (simple):
+	wedge-shaped converter
+Results for коллекторный преобразователь (simple):
+	collector converter
+Results for (кольцевой) магнитострикционный преобразователь (simple):
+	(ring) magnetostriction converter
+Results for линейный преобразователь (simple):
+	linear converter
+Results for логарифмический преобразователь (simple):
+	logarithmic converter
+Results for логопериодический преобразователь (simple):
+	the log-periodic converter
+Results for магнитный преобразователь (simple):
+	magnetic converter
+Results for магнитооптический преобразователь (simple):
+	magnetooptical converter
+Results for магниторезистивный преобразователь (simple):
+	magneto-resistive converter
+Results for механический преобразователь (simple):
+	mechanical converter
+Results for многоплечий преобразователь (simple):
+	mnogoplechy converter
+Results for многополюсный преобразователь (simple):
+	multi-polar converter
+Results for мозаичный преобразователь (simple):
+	mosaic converter
+Results for (не)аподизованный преобразователь (simple):
+	(not) the apodizovanny converter
+Results for (не)взаимный преобразователь (simple):
+	(not) the mutual converter
+Results for несимметричный преобразователь (simple):
+	asymmetrical converter
+Results for обратимый преобразователь:
+	 reciprocal transducer (Техника)
+	 
+Results for параллельно-последовательный преобразователь:
+	 parallel-to-serial converter (Компьютеры)
+	 
+Results for параметрический преобразователь:
+	 parametric converter (Компьютеры)
+	 
+Results for пассивный преобразователь (simple):
+	passive converter
+Results for плазменный преобразователь (simple):
+	plasma converter
+Results for пластинчатый преобразователь (simple):
+	lamellar converter
+Results for повышающий преобразователь:
+	 step-up converter (Техника)
+	 
+Results for полупроводниковый преобразователь (simple):
+	semiconductor converter
+Results for полу(четверть)волновый преобразователь (simple):
+	to floor (quarter) volnovy converter
+Results for понижающий преобразователь:
+	 buck converter (Техника)
+	 
+Results for последовательно-параллельный преобразователь (simple):
+	serial-parallel converter
+Results for потенциометрический преобразователь (simple):
+	electrometric converter
+Results for преобразователь время-амплитуда (-код) (simple):
+	the converter time amplitude (-a code)
+Results for преобразователь давления:
+	 sensator (Естественные науки)
+	 
+Results for преобразователь дальности:
+	 range converter (Техника)
+	 
+Results for преобразователь данных:
+	 data converter (Естественные науки)
+	 
+	 reducer (Кулинария)
+	 
+Results for преобразователь для возбуждения ортогональных мод (simple):
+	the converter for arousing orthogonal fashion
+Results for преобразователь для записи (воспроизведения) (simple):
+	the converter for record (reproduction)
+Results for преобразователь из аналоговой формы в двоичную (simple):
+	the converter from an analog form in binary
+Results for преобразователь из двоичной формы в аналоговую (simple):
+	the converter from a binary form in analog
+Results for преобразователь изображения:
+	 image converter (Компьютеры)
+	 
+Results for преобразователь кода:
+	 code translator (Компьютеры)
+	 
+Results for преобразователь код-время (-напряжение, -частота) (simple):
+	the converter a code time (-tension, - frequency)
+Results for преобразователь линейных и угловых перемещений (simple):
+	converter of linear and angular movements
+Results for преобразователь мод:
+	 mode transducer (Техника)
+	 
+Results for преобразователь на волоконно-оптических световодах (simple):
+	the converter on fiber-optical light guides
+Results for преобразователь на оптоэлектронном элементе (simple):
+	the converter on an optoelectronic element
+Results for преобразователь напряжение-цифровой код (-частота) (simple):
+	the converter tension - a digital code (-frequency)
+Results for преобразователь на р-n-переходе (simple):
+	the converter on р - n - transition
+Results for преобразователь некогерентного оптического изображения в когерентное (simple):
+	the converter of the incoherent optical image in coherent
+Results for преобразователь объёмных волн в объёмные (поверхностные) (simple):
+	the converter of volume waves in volume (superficial)
+Results for преобразователь отрицательных иммитансов (сопротивлений) (simple):
+	converter of negative immitances (resistance)
+Results for преобразователь поверхностных волн в объёмные (поверхностные) (simple):
+	the converter of superficial waves in volume (superficial)
+Results for преобразователь положение-код (simple):
+	converter situation code
+Results for преобразователь поляризации (simple):
+	polarization converter
+Results for преобразователь постоянного напряжения (тока) (simple):
+	converter of the constant tension (current)
+Results for преобразователь прямоугольной системы координат в полярную (simple):
+	the converter of rectangular system of coordinates in polar
+Results for преобразователь с аналоговой свёрткой (simple):
+	the converter with analog convolution
+Results for преобразователь с взвешиванием фазы (simple):
+	the converter with weighing of a phase
+Results for преобразователь с вогнутой излучающей поверхностью (simple):
+	the converter with the concave radiating surface
+Results for преобразователь сдвиговых мод (simple):
+	converter of shift fashion
+Results for преобразователь спорадического (стохастического) кодирования (simple):
+	converter of sporadic (stochastic) coding
+Results for преобразователь (стандарта) развёртки (simple):
+	converter (standard) of development
+Results for преобразователь телевизионных стандартов:
+	 television standard converter (Техника)
+	 
+Results for преобразователь температура-напряжение (simple):
+	converter temperature tension
+Results for преобразователь тепловых воздействий (simple):
+	converter of thermal influences
+Results for преобразователь ток-частота (simple):
+	converter current frequency
+Results for преобразователь угловых координат (simple):
+	converter of angular coordinates
+Results for преобразователь ультразвукового изображения (simple):
+	converter of the ultrasonic image
+Results for преобразователь ускорения (simple):
+	acceleration converter
+Results for преобразователь устройства сопряжения с каналом передачи данных (simple):
+	converter of the device of interface to a data transmission channel
+Results for преобразователь фаз:
+	 phase converter (Техника)
+	 
+Results for преобразователь формы информации с обработкой данных (simple):
+	information form converter with data processing
+Results for преобразователь частота-напряжение:
+	 frequency-to-voltage converter (Техника)
+	 
+Results for преобразователь частоты кадровой развёртки (числа строк) (simple):
+	converter of frequency of a vertical sweep (number of lines)
+Results for преобразователь частоты лазерного излучения (simple):
+	converter of frequency of laser radiation
+Results for преобразователь частоты супергетеродинного приёмника (simple):
+	converter of frequency of the superheterodyne receiver
+Results for преобразователь чисел:
+	 number converter (Компьютеры)
+	 
+Results for промежуточный преобразователь (simple):
+	intermediate converter
+Results for пьезоэлектрический преобразователь:
+	 piezoelectric transducer (Естественные науки)
+	 
+Results for слоистый преобразователь (simple):
+	layered converter
+Results for термофотогальванический преобразователь (simple):
+	thermophotovoltaic converter
+Results for термоэлектрический преобразователь:
+	 thermoelectric temperature transducer (Техника)
+	 
+Results for термоэлектронный преобразователь энергии (simple):
+	thermionic converter of energy
+Results for (тонко)плёночный преобразователь (simple):
+	(thinly) film converter
+Results for торцевой преобразователь (simple):
+	face converter
+Results for трёхслойный преобразователь (simple):
+	three-layer converter
+Results for ультразвуковой преобразователь (simple):
+	ultrasonic converter
+Results for фотогальванический преобразователь:
+	 photovoltaic converter (Техника)
+	 
+Results for фотоэлектрический преобразователь (simple):
+	photo-electric converter
+Results for цифровой преобразователь:
+	 digitizer 
+Results for электретный преобразователь (simple):
+	electret converter
+Results for электрический преобразователь (simple):
+	electric converter
+Results for электроакустический преобразователь:
+	 electroacoustic transducer (Техника)
+	 
+Results for электромеханический преобразователь (simple):
+	electromechanical converter
+Results for электронно-оптический преобразователь:
+	 electrooptical transducer (Техника)
+	 
+Results for электрооптический преобразователь (simple):
+	electrooptical converter
+Results for электростатический преобразователь (simple):
+	electrostatic converter
+Results for электрохимический преобразователь (simple):
+	electrochemical converter
+Results for внешнее прерывание:
+	 external interrupt (Техника)
+	 
+Results for внутреннее прерывание:
+	 interrupt trap (Компьютеры)
+	 
+Results for временное прерывание (simple):
+	temporary interruption
+Results for заблокированное прерывание:
+	 disabled interrupt (Компьютеры)
+	 
+Results for прерывание ввода-вывода:
+	 input-output interrupt (Компьютеры)
+	 
+	 input/output interrupt (Техника)
+	 
+Results for прерывание в результате ошибки (simple):
+	interruption as a result of a mistake
+Results for прерывание для обращения к операционной системе (simple):
+	interruption for the appeal to an operating system
+Results for прерывание зуммера (simple):
+	interruption of a buzzer
+Results for прерывание из-за отсутствия страницы (simple):
+	interruption due to the lack of the page
+Results for прерывание из-за ошибки в программе (simple):
+	interruption because of a mistake in the program
+Results for прерывание клавишей «внимание» (simple):
+	interruption by the attention key
+Results for прерывание команды (simple):
+	interruption of team
+Results for прерывание от внешнего (периферийного) устройства (simple):
+	interruption from the external (peripheral) device
+Results for прерывание от пользователя (simple):
+	interruption from the user
+Results for прерывание по вводу-выводу (simple):
+	interruption on input-output
+Results for прерывание по защите памяти:
+	 memory protection interrupt (Компьютеры)
+	 
+Results for прерывание по нарушению чётности (simple):
+	interruption on violation of parity
+Results for прерывание по неисправности в системе питания (simple):
+	interruption on malfunction in a power supply system
+Results for прерывание по обнаружению особой ситуации (simple):
+	interruption on detection of a special situation
+Results for прерывание по освобождению (simple):
+	interruption on release
+Results for прерывание по ошибке:
+	 error interrupt (Компьютеры)
+	 
+Results for прерывание по сбою электропитания (simple):
+	interruption on failure of power supply
+Results for прерывание по сигналу аппаратного контроля ЭВМ (simple):
+	interruption on a signal of hardware control of the COMPUTER
+Results for прерывание по сигналу от внешнего источника (simple):
+	interruption on a signal from an external source
+Results for прерывание по таймеру:
+	 timer interrupt (Компьютеры)
+	 
+Results for прерывание программ (simple):
+	interruption of programs
+Results for прерывание процессора (simple):
+	interruption of the processor
+Results for прерывание с изменяемым приоритетом (simple):
+	interruption with a changeable priority
+Results for прерывание синхроимпульсами (simple):
+	interruption in clock pulses
+Results for прерывание с пульта управления (simple):
+	interruption from the control panel
+Results for прерывание супервизором (simple):
+	interruption by the supervisor
+Results for программное прерывание:
+	 software interrupt (Компьютеры)
+	 
+Results for разрешённое прерывание (simple):
+	the allowed interruption
+Results for вакуумный прерыватель:
+	 vacuum breaker (Техника)
+	 
+Results for прерыватель зуммера (simple):
+	buzzer breaker
+Results for прерыватель постоянного тока (simple):
+	breaker of a direct current
+Results for самодействующий прерыватель (simple):
+	automatic breaker
+Results for электролитический прерыватель (simple):
+	electrolytic breaker
+Results for электромеханический прерыватель (simple):
+	electromechanical breaker
+Results for прецессирование магнитных моментов (simple):
+	precessing of the magnetic moments
+Results for прецессирование электронных спинов (simple):
+	precessing of electronic spin
+Results for ларморова прецессия:
+	 Larmor precess (Естественные науки)
+	 
+Results for магнитная прецессия (simple):
+	magnetic precession
+Results for (не)однородная прецессия (simple):
+	(not) uniform precession
+Results for прецессия вектора макроскопической намагниченности вещества (simple):
+	precession of a vector of macroscopic magnetization of substance
+Results for резонансная прецессия (simple):
+	resonant precession
+Results for адиабатическое приближение (simple):
+	adiabatic approach
+Results for асимптотическое приближение (simple):
+	asymptotic approach
+Results for борновское приближение (simple):
+	Born approach
+Results for гидродинамическое приближение (simple):
+	hydrodynamic approach
+Results for квазигармоническое приближение (simple):
+	quasiharmonious approach
+Results for квазиклассическое приближение [приближение Венцеля-Крамерса-Бриллюэна, приближение ВКБ] (simple):
+	quasiclassical approach [approach of Ventselya-Kramersa-Brilluena, approach of VKB]
+Results for кластерное приближение (simple):
+	cluster approach
+Results for конечно-разностное приближение:
+	 finite-difference approximation (Естественные науки)
+	 
+	 finite difference approximation (Компьютеры)
+	 
+Results for кулоновское приближение (simple):
+	Coulomb approach
+Results for много(одно)электронное приближение (simple):
+	many (one) electronic approach
+Results for начальное приближение (simple):
+	initial approach
+Results for нерелятивистское приближение (simple):
+	the nonrelativistic approach
+Results for параксиальное приближение (simple):
+	paraxial approach
+Results for плазменное приближение (simple):
+	plasma approach
+Results for поверхностно-управляемое приближение (simple):
+	the superficial operated approach
+Results for приближение геометрической [лучевой] оптики (simple):
+	approach of geometrical [beam] optics
+Results for приближение молекулярного поля (simple):
+	approach of the molecular field
+Results for приближение плоского спектра (simple):
+	approach of a flat range
+Results for приближение по избытку (недостатку) (simple):
+	approach on surplus (shortcoming)
+Results for приближение самосогласованного поля (simple):
+	approach of the self-coordinated field
+Results for приближение свободных электронов (simple):
+	approach of free electrons
+Results for приближение сильной (слабой) связи (simple):
+	approach of strong (weak) communication
+Results for приближение случайных фаз (simple):
+	approach of casual phases
+Results for приближение тонкой линзы (simple):
+	approach of a thin lens
+Results for приближение Фраунгофера (simple):
+	Fraunhofer's approach
+Results for приближение Френеля (simple):
+	Fresnel's approach
+Results for приближение Хартри-Фока (simple):
+	approach Hartri-Foka
+Results for приближение центрального поля (simple):
+	approach of the central field
+Results for акустооптический прибор (simple):
+	optical-acoustic device
+Results for акусторезистивный прибор (simple):
+	akustorezistivny device
+Results for аналоговый прибор:
+	 analogue instrument (Компьютеры)
+	 
+	 analog instrument (Техника)
+	 
+Results for бескорпусный прибор (simple):
+	beskorpusny device
+Results for биполярный прибор:
+	 bipolar device (Техника)
+	 
+Results for бытовой прибор:
+	 household appliance 
+Results for газоразрядный прибор:
+	 gas-discharge device (Техника)
+	 
+Results for гальваномагнитный прибор (simple):
+	galvanomagnetic device
+Results for (гетеро)эпитаксиальный прибор (simple):
+	(hetero) epitaxial device
+Results for диффузионный прибор (simple):
+	diffusive device
+Results for заказной прибор (simple):
+	custom device
+Results for зондирующий прибор (simple):
+	the probing device
+Results for измерительный прибор:
+	 measuring device (Естественные науки)
+	 
+	 measuring instrument (Техника)
+	 
+Results for имплантированный прибор (simple):
+	the implanted device
+Results for квантовый прибор (simple):
+	quantum device
+Results for комбинированный прибор:
+	 multimeter (Естественные науки)
+	 
+Results for криогенный прибор (simple):
+	cryogenic device
+Results for лавинно-пролётный прибор (simple):
+	avalanche and flying device
+Results for ламповый прибор (simple):
+	lamp device
+Results for магнитострикционный прибор (simple):
+	magnetostriction device
+Results for много(моно)функциональный прибор (simple):
+	much (mono) functional device
+Results for параметрический прибор (simple):
+	parametrical device
+Results for пассивированный прибор (simple):
+	the passivated device
+Results for пишущий прибор (simple):
+	the writing device
+Results for плазменный прибор (simple):
+	plasma device
+Results for планарно-эпитаксиальный прибор (simple):
+	planar and epitaxial device
+Results for планарный прибор (simple):
+	planar device
+Results for полупроводниковый прибор:
+	 semiconductor device 
+Results for потенциальный прибор (simple):
+	potential device
+Results for прибор дискретного типа (simple):
+	device of discrete type
+Results for прибор для дистанционных измерений (simple):
+	the device for remote measurements
+Results for прибор для записи характеристик транзисторов (simple):
+	the device for record of characteristics of transistors
+Results for прибор для измерения ионизирующих излучений (simple):
+	the device for measurement of ionizing radiation
+Results for прибор для измерения магнитных величин (simple):
+	the device for measurement of magnetic sizes
+Results for прибор для измерения параметров электрических величин (simple):
+	the device for measurement of parameters of electrical quantities
+Results for прибор для интегрирования сигналов (simple):
+	the device for integration of signals
+Results for прибор для наблюдения (simple):
+	the device for observation
+Results for прибор для настройки телевизоров (simple):
+	the device for setup of TVs
+Results for прибор для обнаружения неисправностей (simple):
+	the device for detection of malfunctions
+Results for прибор для печатания показаний (simple):
+	the device for printing of indications
+Results for прибор для покаскадной проверки прохождения сигнала (simple):
+	the device for pokaskadny check of passing of a signal
+Results for прибор для преобразования спектрального состава (simple):
+	the device for transformation of spectral structure
+Results for прибор для спектроскопических исследований (simple):
+	the device for spectroscopic researches
+Results for прибор дугового (искрового, тлеющего) разряда (simple):
+	the device arc (spark, smoldering) the category
+Results for прибор измерительного комплекса (simple):
+	device of a measuring complex
+Results for прибор контроля поля антенны в ближней (дальней) зоне (simple):
+	the device of control of the field of the antenna in a near (distant) zone
+Results for прибор косвенного (прямого) преобразования (simple):
+	device of indirect (direct) transformation
+Results for прибор многоканального типа (simple):
+	device of multichannel type
+Results for прибор на акустических (спиновых) волнах (simple):
+	the device on acoustic (spin) waves
+Results for прибор на гарячих (свободных) электронах (simple):
+	the device on hot (free) electrons
+Results for прибор на волнах в активной среде (simple):
+	the device on waves in the active environment
+Results for прибор на (не)основных носителях (simple):
+	the device on (not) the main carriers
+Results for прибор на объёмном эффекте (simple):
+	the device on volume effect
+Results for прибор на эффекте Ганна (Джозефсона, Холла) (simple):
+	the device on Gunn's effect (Josephson, Hall)
+Results for прибор ночного видения:
+	 night vision device (Техника)
+	 
+Results for прибор радиометрического каротажа (simple):
+	device of radiometric logging
+Results for прибор регистрирующего типа (simple):
+	the device of the registering type
+Results for прибор с балочными выводами (simple):
+	the device with frame conclusions
+Results for прибор с барьером Шоттки (simple):
+	the device with Schottky's barrier
+Results for прибор с блокирующим устройством:
+	 instrument with locking device (Естественные науки)
+	 
+Results for прибор с длинным (коротким) каналом (simple):
+	the device with the long (short) channel
+Results for прибор с зарядовой связью:
+	 charge-coupled device 
+	 charge coupled device (Компьютеры)
+	 
+Results for прибор с зарядовым управлением (simple):
+	the device with charging management
+Results for прибор с захватом (инжекцией, накоплением, переносом) заряда (simple):
+	the device with capture (injection, accumulation, transfer) of a charge
+Results for прибор с использованием сверхпроводящего магнита (simple):
+	the device with use of a superconducting magnet
+Results for прибор с незатухающим током (simple):
+	the device with not fading current
+Results for прибор с несколькими устойчивыми состояниями (simple):
+	the device with several steady states
+Results for прибор с низким пороговым напряжением (simple):
+	the device with low threshold voltage
+Results for прибор с оптической накачкой (simple):
+	the device with an optical rating
+Results for прибор с отрицательным сопротивлением (simple):
+	the device with a negative resistance
+Results for прибор с р-n-переходом (simple):
+	the device with р - n - transition
+Results for прибор с подвижным магнитом (simple):
+	the device with a mobile magnet
+Results for прибор с предельно допустимыми отклонениями параметров от оптимальных (simple):
+	the device with maximum permissible deviations of parameters from optimum
+Results for прибор сравнения (simple):
+	comparison device
+Results for прибор с распределённым взаимодействием (simple):
+	the device with the distributed interaction
+Results for прибор с цифровым выходом (simple):
+	the device with a digital output
+Results for пролётный прибор (simple):
+	flying device
+Results for пьезомагнитный прибор (simple):
+	pyezomagnitny device
+Results for пьезоэлектрический прибор (simple):
+	piezoelectric device
+Results for самопишущий измерительный прибор [самописец] (simple):
+	recording measuring device [recorder]
+Results for самореагирующий прибор (simple):
+	the self-reacting device
+Results for сверхвысокочастотный [СВЧ-] прибор (simple):
+	superhigh-frequency [the microwave oven-] the device
+Results for сверхпроводящий прибор (simple):
+	superconducting device
+Results for светоизлучающий прибор (simple):
+	light-emitting device
+Results for сегнетоэлектрический прибор (simple):
+	segnetoelektrichesky device
+Results for сменный [съёмный] прибор (simple):
+	replaceable [removable] device
+Results for твердотельный прибор (simple):
+	solid-state device
+Results for тензоэлектрический прибор (simple):
+	tenzoelektrichesky device
+Results for термоэлектрический прибор:
+	 thermocouple instrument (Естественные науки)
+	 
+Results for токовый прибор [прибор, управляемый током] (simple):
+	the current device [the device operated by current]
+Results for толсто(тонко)плёночный прибор (simple):
+	thickly (thinly) film device
+Results for туннельный прибор (simple):
+	tunnel device
+Results for универсальный прибор:
+	 all-purpose instrument (Естественные науки)
+	 
+Results for ферритовый прибор (simple):
+	ferrite device
+Results for фотогальванический прибор (simple):
+	photovoltaic device
+Results for фоточувствительный прибор (simple):
+	photosensitive device
+Results for фотоэлектрический прибор:
+	 photoelectrical instrument (Естественные науки)
+	 
+Results for цифровой прибор:
+	 digital instrument (Техника)
+	 
+Results for электровакуумный прибор:
+	 electronic device (Техника)
+	 
+Results for электронно-оптический прибор (simple):
+	electron-optical device
+Results for электронный прибор:
+	 electronic device (Естественные науки)
+	 
+Results for электрооптический прибор (simple):
+	electrooptical device
+Results for привод на переменном токе (simple):
+	the drive on alternating current
+Results for привод синхронного вращения (simple):
+	drive of synchronous rotation
+Results for привод фазового подслеживания (simple):
+	drive of phase subcaking
+Results for электрический привод:
+	 electric actuator (Компьютеры)
+	 
+	 electric drive (Естественные науки)
+	 
+Results for электропневматический привод:
+	 electropneumatic actuator (Техника)
+	 
+Results for привязка уровня (simple):
+	level binding
+Results for приглашение к передаче (приему) (simple):
+	the invitation to transfer (reception)
+Results for гомодинный приём (simple):
+	gomodinny reception
+Results for диплексный приём (simple):
+	the diplex reception
+Results for квазикогерентный приём (simple):
+	quasicoherent reception
+Results for корреляционный приём (simple):
+	correlation reception
+Results for многолучевой приём (simple):
+	multibeam reception
+Results for направленный приём (simple):
+	the directed reception
+Results for (не)когерентный приём (simple):
+	(not) coherent reception
+Results for неуверенный приём (simple):
+	uncertain reception
+Results for приём вызовов:
+	 call acceptance 
+Results for приём излучения (simple):
+	reception of radiation
+Results for приём команды (simple):
+	reception of team
+Results for приём оптических сигналов (simple):
+	reception of optical signals
+Results for приём по радиорелейной ТВ-сети (simple):
+	reception on radio relay TV-network
+Results for приём радиотелеметрических данных (simple):
+	reception of radio telemetric data
+Results for приём с восстановлением несущей (simple):
+	reception with restoration of bearing
+Results for приём с двойным преобразованием частоты (simple):
+	reception with double transformation of frequency
+Results for приём с записью (simple):
+	reception with record
+Results for приём сигналов изображения (simple):
+	reception of picture signals
+Results for приём сигналов с обработкой в согласованном фильтре (simple):
+	reception of signals with processing in the coordinated filter
+Results for приём сообщений в сети (simple):
+	reception of messages in network
+Results for приём с поляризационным (пространственным) разнесением (simple):
+	reception with a polarizing (spatial) razneseniye
+Results for приём с постоянной частотой ложных тревог (simple):
+	reception with a constant frequency of false alarms
+Results for приём теплового радиоизлучения (simple):
+	reception of a thermal radio emission
+Results for разнесённый приём (simple):
+	the carried reception
+Results for синхронный приём (simple):
+	synchronous reception
+Results for (супер)гетеродинный приём (simple):
+	(super) heterodyne reception
+Results for телевизионный приём на коллективную антенну (simple):
+	television reception on the collective antenna
+Results for факсимильный приём (simple):
+	facsimile reception
+Results for приёмка продукции (simple):
+	acceptance of production
+Results for бытовой приёмник (simple):
+	household receiver
+Results for видеоимпульсный приёмник (simple):
+	video pulse receiver
+Results for глиссадный приёмник (simple):
+	glissadny receiver
+Results for гомодинный приёмник (simple):
+	gomodinny receiver
+Results for детекторный приёмник (simple):
+	detector receiver
+Results for длинно(коротко, средне)волновый приёмник (simple):
+	long (shortly, so-so) volnovy receiver
+Results for квантовый приёмник (simple):
+	quantum receiver
+Results for когерентный приёмник (simple):
+	coherent receiver
+Results for контрольный приёмник (simple):
+	control receiver
+Results for корреляционный приёмник (simple):
+	correlation receiver
+Results for (линейно-)логарифмический приёмник (simple):
+	(linearly-) the logarithmic receiver
+Results for многодиапазонный приёмник (simple):
+	multirange receiver
+Results for многоканальный приёмник (simple):
+	multichannel receiver
+Results for многочастотный приёмник (simple):
+	multifrequency receiver
+Results for направленный приёмник (simple):
+	the directed receiver
+Results for основной приёмник (simple):
+	main receiver
+Results for панорамный приёмник (simple):
+	panoramic receiver
+Results for пеленгационный приёмник (simple):
+	pelengatsionny receiver
+Results for помехозащищённый приёмник (simple):
+	pomekhozashchishchyonny receiver
+Results for приёмник , адаптивный к искажениям (simple):
+	the receiver, adaptive to distortions
+Results for приёмник амплитудно-модулированных [АМ-] (фазо-модулированных [ФМ-], частотно-модулированных [ЧМ-]) сигналов (simple):
+	receiver of amplitude-modulated [AM-] (phase-modulated [FM-], frequency-modulated [World Cups]) of signals
+Results for приёмник бортовой самолётной системы (simple):
+	receiver of onboard plane system
+Results for приёмник видеосигналов (simple):
+	receiver of video signals
+Results for приёмник групповых (командных) сигналов (simple):
+	receiver of group (command) signals
+Results for приёмник для радиолокационной астрономии (simple):
+	the receiver for radar astronomy
+Results for приёмник для судовой РЛС (simple):
+	the receiver for ship radar station
+Results for приёмник запросчика (simple):
+	requester receiver
+Results for приёмник звука (simple):
+	sound receiver
+Results for приёмник изображения на приборах с инжекцией заряда (simple):
+	the image receiver on devices with injection of a charge
+Results for приёмник инструментальной посадки (simple):
+	receiver of tool landing
+Results for приёмник информации (simple):
+	information receiver
+Results for приёмник моноимпульсной РЛС (simple):
+	receiver of monopulse radar station
+Results for приёмник наземной (оконечной) станции (simple):
+	receiver of the earth-based (terminal) station
+Results for приёмник перфокарт (simple):
+	receiver of punched cards
+Results for приёмник подвижного объекта (simple):
+	receiver of a mobile object
+Results for приёмник поисковой станции (simple):
+	receiver of the search station
+Results for приёмник прямого усиления (simple):
+	receiver of direct strengthening
+Results for приёмник радиорелейной станции (simple):
+	receiver of the radio relay station
+Results for приёмник с автоматической настройкой (simple):
+	the receiver with automatic configuration
+Results for приёмник с аппаратурой разделения сигналов (simple):
+	the receiver with the equipment of division of signals
+Results for приёмник с восстановлением несущей (simple):
+	the receiver with restoration of bearing
+Results for приёмник СВЧ-диапазона (simple):
+	microwave range receiver
+Results for приёмник с высокой верностью воспроизведения (simple):
+	the receiver with high fidelity of reproduction
+Results for приёмник с двойным (тройным) преобразованием частоты (simple):
+	the receiver with double (threefold) transformation of frequency
+Results for приёмник сигналов поискового вызова (simple):
+	receiver of signals of a search call
+Results for приёмник сигналов радиомаяка (simple):
+	receiver of signals of the radio beacon
+Results for приёмник сигналов с внутриимпульсной линейной частотной модуляцией [ЛЧМ] (simple):
+	the receiver of signals with the intra pulse linear frequency modulation [LFM]
+Results for приёмник сигналов с одной боковой полосой (simple):
+	the receiver of signals with one side strip
+Results for приёмник сигналов со скачкообразной перестройкой частоты (simple):
+	the receiver of signals with spasmodic reorganization of frequency
+Results for приёмник сигналов с частично подавленной боковой полосой (simple):
+	the receiver of signals with partially suppressed side strip
+Results for приёмник системы космической связи (simple):
+	receiver of system of space communication
+Results for приёмник системы наведения ракет (simple):
+	receiver of system of targeting of rockets
+Results for приёмник системы перехвата (самонаведения) (simple):
+	receiver of system of interception (homing)
+Results for приёмник системы с пространственным разделением сигналов (simple):
+	the system receiver with spatial division of signals
+Results for приёмник с квадратичным детектором (simple):
+	the receiver with the square detector
+Results for приёмник с лазерным усилителем (simple):
+	the receiver with the laser amplifier
+Results for приёмник с мазером (simple):
+	the receiver with Mather
+Results for приёмник с однократным преобразованием частоты (simple):
+	the receiver with single transformation of frequency
+Results for приёмник сообщений (simple):
+	receiver of messages
+Results for приёмник со сжатием сигнала (simple):
+	the receiver with compression of a signal
+Results for приёмник с подавлением радиопомех от зеркального канала (simple):
+	the receiver with suppression of a radio noise from the mirror channel
+Results for приёмник с преобразованием данных (simple):
+	the receiver with transformation of data
+Results for приёмник с расширенным спектром сигналов (simple):
+	the receiver with an expanded range of signals
+Results for приёмник с решающей обратной связью (simple):
+	the receiver with decisive feedback
+Results for приёмник с устройством поддержания постоянной частоты ложных тревог (simple):
+	the receiver with the device of maintenance of constant frequency of false alarms
+Results for приёмник с электронной настройкой (simple):
+	the receiver with electronic control
+Results for приёмник телеметрических (цифровых) сигналов данных (simple):
+	receiver of telemetric (digital) signals of data
+Results for приёмник теплового излучения (simple):
+	receiver of thermal radiation
+Results for приёмник тонального вызова (simple):
+	receiver of a voice-frequency call
+Results for радиометрический приёмник [радиометр] (simple):
+	radiometric receiver [radiometer]
+Results for резервный приёмник (simple):
+	reserve receiver
+Results for связной приёмник (simple):
+	coherent receiver
+Results for сельсин-приёмник (simple):
+	selsyn receiver
+Results for супергетеродинный приёмник (simple):
+	superheterodyne receiver
+Results for телевизионный приёмник (simple):
+	television receiver
+Results for фотоэлектрический приёмник (simple):
+	photo-electric receiver
+Results for широкополосный приёмник (simple):
+	broadband receiver
+Results for приёмоответчик с разнесёнными антеннами (simple):
+	the transponder with the carried antennas
+Results for приёмопередатчик волоконно-оптической линии связи (simple):
+	transceiver of the fiber-optic communication link
+Results for приёмопередатчик для персональной радиосвязи (simple):
+	the transceiver for a personal radio communication
+Results for приёмопередатчик для радиолюбителей (simple):
+	the transceiver for radio fans
+Results for приёмопередатчик с быстрой перестройкой частоты (simple):
+	the transceiver with fast reorganization of frequency
+Results for универсальный (синхронно-)асинхронный приёмопередатчик (simple):
+	universal (synchronous) asynchronous transceiver
+Results for прижимание контактов (simple):
+	pressing of contacts
+Results for оборачивающая призма (simple):
+	the turning prism
+Results for отражательная призма (simple):
+	reflective prism
+Results for поляризационная призма:
+	 polarization prism (Техника)
+	 
+Results for призма аббе (simple):
+	prism to ABBA
+Results for призма амичи [призма прямого зрения] (simple):
+	prism residents of Omsk [prism of direct sight]
+Results for призма из крона (флинта) (simple):
+	prism from krone (flint)
+Results for призма Корню (simple):
+	Cornu's prism
+Results for призма полного внутреннего отражения (simple):
+	prism of full internal reflection
+Results for призма с крышей (simple):
+	prism with a roof
+Results for прямоугольная (равнобедренная) трёхгранная призма (simple):
+	rectangular (isosceles) trihedral prism
+Results for спектральная [дисперсионная] призма (simple):
+	spectral [dispersive] prism
+Results for электронная призма (simple):
+	electronic prism
+Results for достаточный и необходимый признак существования (simple):
+	sufficient and necessary sign of existence
+Results for признак адреса (simple):
+	sign of the address
+Results for признак активной помехи (simple):
+	sign of an active hindrance
+Results for признак блокировки (simple):
+	sign of blocking
+Results for признак выполняемой команды (simple):
+	sign of the executed command
+Results for признак действия средства измерения (simple):
+	sign of action of a gage
+Results for признак занятости (simple):
+	sign of employment
+Results for признак наличия (simple):
+	sign of existence
+Results for признак наступления события (simple):
+	sign of approach of an event
+Results for признак неисправности или повреждения (simple):
+	sign of malfunction or damage
+Results for признак отказа изделия (simple):
+	sign of refusal of a product
+Results for признак ошибки:
+	 error flag (Техника)
+	 
+Results for признак подобия (simple):
+	sign of similarity
+Results for признак равенства (simple):
+	sign of equality
+Results for признак сравнения (simple):
+	sign of comparison
+Results for признак сходимости:
+	 test of convergence (Естественные науки)
+	 
+Results for прилипание контактов (simple):
+	sticking of contacts
+Results for применение вычислительной техники (simple):
+	application of computer facilities
+Results for применение современных средств измерения (simple):
+	use of modern gages
+Results for акцепторная примесь:
+	 acceptor impurity (Естественные науки)
+	 
+Results for алиовалентная [разновалентная] примесь (simple):
+	aliovalentny [raznovalentny] impurity
+Results for амфотерная примесь (simple):
+	amphoteric impurity
+Results for водородноподобная примесь (simple):
+	vodorodnopodobny impurity
+Results for диффундирующая примесь (simple):
+	diffundiruyushchy impurity
+Results for донорная примесь:
+	 donor impurity (Естественные науки)
+	 
+Results for изовалентная примесь (simple):
+	isovalent impurity
+Results for изоэлектронная примесь:
+	 isoelectronic impurity (Естественные науки)
+	 
+Results for имплантированная примесь:
+	 implanted impurity (Естественные науки)
+	 
+Results for ионизированная примесь:
+	 ionized impurity (Естественные науки)
+	 
+Results for ионизируемая примесь:
+	 ionizable impurity (Естественные науки)
+	 
+Results for ионная примесь:
+	 ionic impurity (Естественные науки)
+	 
+Results for компенсирующая примесь:
+	 compensating impurity (Естественные науки)
+	 
+Results for легирующая примесь:
+	 alloying admixture (Естественные науки)
+	 
+	 dope[dəup] (Естественные науки)
+	 
+	 doping impurity (Естественные науки)
+	 
+Results for лёгкая примесь:
+	 light touch 
+Results for магнитная примесь (simple):
+	magnetic impurity
+Results for некомпенсированная примесь (simple):
+	noncompensated impurity
+Results for (не)основная примесь (simple):
+	(not) the main impurity
+Results for нерастворимая примесь:
+	 insoluble impurity (Естественные науки)
+	 
+	 undissolving impurity (Кулинария)
+	 
+Results for поверхностная примесь (simple):
+	surface impurity
+Results for поляризованная примесь (simple):
+	the polarized impurity
+Results for поляризуемая примесь (simple):
+	polarizable impurity
+Results for примесь внедрения (simple):
+	introduction impurity
+Results for примесь замещения (simple):
+	replacement impurity
+Results for примесь, создающая глубокий (мелкий) уровень (simple):
+	the impurity creating deep (small) level
+Results for радиоактивная примесь (simple):
+	radioactive impurity
+Results for растворимая примесь:
+	 dissolving impurity (Кулинария)
+	 
+Results for сенсибилизирующая примесь (simple):
+	the sensibilizing impurity
+Results for скомпенсированная примесь:
+	 compensated impurity (Естественные науки)
+	 
+Results for стехиометрическая примесь (simple):
+	stoichiometric impurity
+Results for фоновая примесь:
+	 background impurity (Естественные науки)
+	 
+Results for электрически активная примесь (simple):
+	electrically active impurity
+Results for лазерный принтер:
+	 laser printer 
+Results for матрично-игольчатый принтер (simple):
+	matrix and needle printer
+Results for принтер точечного типа (simple):
+	printer of dot type
+Results for блочный принцип (simple):
+	block principle
+Results for гейзенберговский принцип неопределённости (simple):
+	Heisenberg principle of uncertainty
+Results for кулоновский принцип вырождения (simple):
+	Coulomb principle of degeneration
+Results for принцип автофазировки (simple):
+	principle of autophasing
+Results for принцип адекватности (simple):
+	principle of adequacy
+Results for принцип Бабине (simple):
+	principle Babin
+Results for принцип взаимности:
+	 reciprocity theorem (Техника)
+	 
+Results for принцип Гюйгенса-Кирхгофа (simple):
+	Huygens-Kirchhoff's principle
+Results for принцип двойственности:
+	 duality principle (Естественные науки)
+	 
+Results for принцип действия средства измерения (simple):
+	principle of action of a gage
+Results for принцип дополнительности:
+	 complementarity principle (Техника)
+	 
+Results for принцип дуальности:
+	 principle of duality (Техника)
+	 
+Results for принцип звеньевого включения (simple):
+	principle of zvenyevy inclusion
+Results for принцип инвариантности (simple):
+	principle of invariancy
+Results for принцип каскадирования (simple):
+	principle of cascading
+Results for принцип концептуализации (simple):
+	principle of conceptualization
+Results for принцип концептуального единства (simple):
+	principle of conceptual unity
+Results for принцип мажоритарности (simple):
+	principle of a mazhoritarnost
+Results for принцип максимума:
+	 maximum principle (Естественные науки)
+	 
+Results for принцип модульности (simple):
+	principle of modularity
+Results for принцип наименьшего действия:
+	 principle of least action (Естественные науки)
+	 
+	 least action principle (Компьютеры)
+	 
+Results for принцип накопления заряда (simple):
+	principle of accumulation of a charge
+Results for принцип неопределённости (simple):
+	principle of uncertainty
+Results for принцип нормализации (simple):
+	principle of normalization
+Results for принцип обратной связи (simple):
+	principle of feedback
+Results for принцип ортогональности (simple):
+	principle of orthogonality
+Results for принцип Паули:
+	 Pauli's exclusion principle (Естественные науки)
+	 
+Results for принцип полной согласованности (simple):
+	principle of full coherence
+Results for принцип постоянной яркости (simple):
+	principle of constant brightness
+Results for принцип сжатых отображений:
+	 contraction mapping principle (Естественные науки)
+	 
+Results for принцип сильной фокусировки (simple):
+	principle of strong focusing
+Results for принцип стационарной фазы (simple):
+	principle of a stationary phase
+Results for принцип суперпозиции:
+	 principle of superposition (Естественные науки)
+	 
+	 superposition principle (Компьютеры)
+	 
+Results for принцип управления по возмущению (отклонению) (simple):
+	the principle of management on indignation (deviation)
+Results for принцип Ферма:
+	 Fermat's principle (Естественные науки)
+	 
+Results for принятие решения:
+	 decision-making 
+	 making decision 
+Results for диспетчерский приоритет:
+	 dispatching priority (Компьютеры)
+	 
+Results for приоритет задания (simple):
+	task priority
+Results for приоритет записи информации (simple):
+	data recording priority
+Results for приоритет обработки данных (simple):
+	data processing priority
+Results for приоритет оператора (simple):
+	priority of the operator
+Results for приоритет прерывания (simple):
+	interruption priority
+Results for приработка компонента (simple):
+	component extra earnings
+Results for приработка под нагрузкой (simple):
+	extra earnings under loading
+Results for приработка системы (simple):
+	system extra earnings
+Results for бесконечно малое приращение (simple):
+	infinitesimal increment
+Results for конечное приращение:
+	 finite increment (Естественные науки)
+	 
+Results for полное приращение (simple):
+	full increment
+Results for приращение аргумента (simple):
+	argument increment
+Results for приращение величины напряжения (simple):
+	tension size increment
+Results for приращение потерь (simple):
+	increment of losses
+Results for частное приращение:
+	 partial difference (Естественные науки)
+	 
+Results for магнитофонная приставка:
+	 tape deck (Техника)
+	 
+Results for радиолокационный прицел:
+	 radar sight (Техника)
+	 
+Results for проба достаточной представительности (simple):
+	test of sufficient presentability
+Results for проба линии (simple):
+	test of the line
+Results for пробег свободный:
+	 free roll (Техника)
+	 
+Results for пробивка отверстий (simple):
+	punched hole of openings
+Results for проблема континуума:
+	 continuum problem (Естественные науки)
+	 
+Results for проблема контроля (simple):
+	control problem
+Results for проблема локализации неисправностей (simple):
+	problem of localization of malfunctions
+Results for проблема малых выборок (simple):
+	problem of small selections
+Results for проблема отыскания оптимума (simple):
+	problem of search of an optimum
+Results for вынужденный [индуцированный] пробой (simple):
+	the compelled [induced] breakdown
+Results for дуговой пробой (simple):
+	arc breakdown
+Results for импульсный пробой:
+	 pulsed breakdown (Компьютеры)
+	 
+Results for краевой пробой [пробой у кромки перехода] (simple):
+	regional breakdown [breakdown at a transition edge]
+Results for лавинный пробой:
+	 avalanche breakdown (Естественные науки)
+	 
+Results for лазерноиндуцированный пробой (simple):
+	lazernoindutsirovanny breakdown
+Results for магнитный пробой (simple):
+	magnetic breakdown
+Results for мезоплазменный пробой (simple):
+	mesoplasma breakdown
+Results for мультипакторный пробой (simple):
+	multipactor breakdown
+Results for мягкий пп пробой (simple):
+	soft software breakdown
+Results for необратимый пробой (simple):
+	irreversible breakdown
+Results for неразрушающий [недеструктивный] пробой (simple):
+	nondestructive [not destructive] breakdown
+Results for обратный пробой (simple):
+	return breakdown
+Results for первичный пробой (simple):
+	primary breakdown
+Results for поверхностный пробой:
+	 surface breakdown (Естественные науки)
+	 
+Results for поперечный пробой (simple):
+	cross breakdown
+Results for преждевременный пробой (simple):
+	premature breakdown
+Results for пробой барьерного слоя (simple):
+	breakdown of a barrier layer
+Results for пробой в непрерывном режиме (simple):
+	breakdown in the continuous mode
+Results for пробой в результате газового разряда (simple):
+	breakdown as a result of the gas category
+Results for пробой диэлектрика:
+	 dielectric breakdown (Естественные науки)
+	 
+	 dielectric breakthrough (Компьютеры)
+	 
+Results for пробой Зенера [туннельный пробой р-n-перехода] (simple):
+	Zener's breakdown [tunnel breakdown р - n - transition]
+Results for пробой изоляции затвора:
+	 gate insulation breakdown (Компьютеры)
+	 
+Results for пробой красителя (simple):
+	dye breakdown
+Results for пробой между коллектором и эмиттером (simple):
+	breakdown between a collector and the emitter
+Results for пробой между приборами (simple):
+	breakdown between devices
+Results for пробой на корпус (simple):
+	breakdown on the case
+Results for пробой при обратном напряжении (simple):
+	breakdown at the return tension
+Results for разрушающий [деструктивный] пробой (simple):
+	the destroying [destructive] breakdown
+Results for самовосстанавливающийся пробой:
+	 self-healing breakdown (Компьютеры)
+	 
+Results for стримерный пробой (simple):
+	streamer breakdown
+Results for тепловой пробой:
+	 thermal breakdown (Компьютеры)
+	 
+Results for токовый вторичный пробой (simple):
+	current secondary breakdown
+Results for туннельный пробой:
+	 tunnel breakdown (Компьютеры)
+	 
+	 tunnel break-down (Техника)
+	 
+Results for провал в диаграмме направленности антенной решётки (simple):
+	failure in the directional pattern of an antenna lattice
+Results for кольцевая проверка (simple):
+	ring check
+Results for контрольная проверка (simple):
+	control check
+Results for логическая проверка:
+	 logical check (Естественные науки)
+	 
+Results for наземная проверка (simple):
+	land check
+Results for перекрёстная проверка (simple):
+	cross check
+Results for периодическая проверка:
+	 recurring inspection (Бизнес)
+	 
+Results for проверка в контрольных точках (simple):
+	check in control points
+Results for проверка герметизации (simple):
+	sealing check
+Results for проверка гипотезы (simple):
+	check of a hypothesis
+Results for проверка глубины модуляции (simple):
+	check of depth of modulation
+Results for проверка достоверности (simple):
+	check of reliability
+Results for проверка дублирующей системы (simple):
+	check of the duplicating system
+Results for проверка занятости:
+	 employment verification (Бизнес)
+	 
+	 busy test (Техника)
+	 
+Results for проверка исправности изделия (simple):
+	check of serviceability of a product
+Results for проверка комплектности (simple):
+	check of completeness
+Results for проверка линейности развёрток передающей телевизионной камеры (simple):
+	check of linearity of development of the transferring TV camera
+Results for проверка межсоединений (simple):
+	check of interconnections
+Results for проверка надёжности (simple):
+	check of reliability
+Results for проверка на наличие ошибок:
+	 error checking (Бизнес)
+	 
+	 error check (Техника)
+	 
+Results for проверка на (не)чётность (simple):
+	check on (not) parity
+Results for проверка на нулевую разность (simple):
+	check on a zero difference
+Results for проверка на основе сигнатурного анализа (simple):
+	check on the basis of the signature analysis
+Results for проверка паритетности (simple):
+	check of parity
+Results for проверка передачи (simple):
+	transfer check
+Results for проверка по запросам (simple):
+	check by inquiries
+Results for проверка по таблице истинности (simple):
+	check according to the table of the validity
+Results for проверка по тактовой частоте (simple):
+	check on clock frequency
+Results for проверка пригодности:
+	 validation test (Техника)
+	 
+Results for проверка признака (simple):
+	check of sign
+Results for проверка программы (simple):
+	verification of the program
+Results for проверка работоспособности состояния (simple):
+	check of operability of a state
+Results for проверка связности:
+	 connectivity check (Техника)
+	 
+Results for проверка соблюдения проектных норм (simple):
+	check of respect for design norms
+Results for проверка соответствия топологии электрической схеме (simple):
+	check of compliance of topology to the electric circuit
+Results for проверка трактов управления (simple):
+	check of paths of management
+Results for проверка функционирования системы (simple):
+	check of functioning of system
+Results for проверка чередования фаз (simple):
+	check of alternation of phases
+Results for антенный провод:
+	 antenna wire (Техника)
+	 
+Results for биметаллический провод:
+	 bimetallic conductor (Компьютеры)
+	 
+Results for вытравленный провод (simple):
+	the etched wire
+Results for заземлённый провод (simple):
+	the grounded wire
+Results for комбинированный провод (simple):
+	the combined wire
+Results for композитный провод (simple):
+	composite wire
+Results for контрольный провод:
+	 pilot wire (Техника)
+	 
+Results for лужёный провод (simple):
+	tinned wire
+Results for магистральный провод (simple):
+	main wire
+Results for магнитний провод (simple):
+	magnitny wire
+Results for медный провод:
+	 copper wire (Техника)
+	 
+Results for много(одно)жильный провод (simple):
+	many (one) vein wire
+Results for монтажный провод:
+	 connecting wire (Техника)
+	 
+	 equipment wire (Техника)
+	 
+	 hookup wire (Техника)
+	 
+Results for (не)изолированный провод (simple):
+	not isolated wire
+Results for нейтральный провод:
+	 neutral wire (Компьютеры)
+	 
+	 neutral[ˈnju:trəl] (Техника)
+	 
+Results for обесточенный провод (simple):
+	deenergized wire
+Results for обмоточный провод:
+	 magnet wire (Техника)
+	 
+	 winding wire (Техника)
+	 
+Results for ответвляющий провод (simple):
+	the branching-off wire
+Results for плавкий провод (simple):
+	fusible wire
+Results for провод возбуждения (simple):
+	excitement wire
+Results for провод воздушной линии:
+	 aerial wire (Техника)
+	 
+Results for провод в оплётке (simple):
+	wire in a braid
+Results for провод высокого сопротивления (simple):
+	wire of high resistance
+Results for провод для намотки электромагнитов (соленоидов) (simple):
+	wire for winding of electromagnets (solenoids)
+Results for провод заземления:
+	 earth wire (Компьютеры)
+	 
+Results for провод питания:
+	 supply lead (Компьютеры)
+	 
+Results for провод полевого телефона (simple):
+	wire of field phone
+Results for провод с лаковой (резиновой, хлопчатобумажной, шёлковой) изоляцией (simple):
+	wire with varnish (rubber, cotton, silk) isolation
+Results for разрядный провод (simple):
+	digit wire
+Results for сверхпроводящий провод (simple):
+	superconducting wire
+Results for силовой провод:
+	 mains lead (Техника)
+	 
+Results for скрученный провод:
+	 stranded wire (Техника)
+	 
+Results for станционный провод:
+	 office wire (Техника)
+	 
+Results for экранированный провод:
+	 shielded lead (Компьютеры)
+	 
+	 screen connecting lead (Техника)
+	 
+	 shielded wire (Техника)
+	 
+Results for эмалевый провод (simple):
+	enamel wire
+Results for эмалированный провод:
+	 enameled wire (Техника)
+	 
+Results for в(вы)ходная проводимость (simple):
+	in (you) hodny conductivity
+Results for диффузионная проводимость (simple):
+	diffusive conductivity
+Results for до(за)пороговая проводимость (simple):
+	to (for) threshold conductivity
+Results for дырочная проводимость:
+	 hole conductivity (Естественные науки)
+	 
+Results for ионная проводимость:
+	 ionic conductivity (Естественные науки)
+	 
+	 ionic conduction (Естественные науки)
+	 
+Results for комплексная проводимость:
+	 complex admittance (Естественные науки)
+	 
+Results for нестационарная проводимость (simple):
+	non-stationary conductivity
+Results for объёмная проводимость (simple):
+	volume conductivity
+Results for поверхностная проводимость:
+	 surface conductance (Техника)
+	 
+	 surface conduction (Техника)
+	 
+Results for приведённая [нормированная] проводимость (simple):
+	the given [rated] conductivity
+Results for проводимость возбуждения (simple):
+	conductivity of excitement
+Results for проводимость, выраженная скалярной величиной (simple):
+	the conductivity expressed by scalar size
+Results for проводимость истока (simple):
+	conductivity of a source
+Results for проводимость, обусловленная ограниченным пространственным зарядом (simple):
+	the conductivity caused by a limited spatial charge
+Results for проводимость по переменному (постоянному) току (simple):
+	conductivity on alternating (constant) current
+Results for проводимость стока (simple):
+	conductivity of a drain
+Results for (ре)активная проводимость (simple):
+	(ре) active conductivity
+Results for туннельная проводимость (simple):
+	tunnel conductivity
+Results for удельная проводимость:
+	 conductivity[ˌkɔndʌkˈtɪvɪtɪ] (Естественные науки)
+	 
+	 specific conductivity (Компьютеры)
+	 
+Results for эквивалентная шумовая проводимость (simple):
+	equivalent noise conductivity
+Results for электронная проводимость:
+	 n-type conduction (Естественные науки)
+	 
+	 electronic conductivity (Компьютеры)
+	 
+Results for внутренняя проводка:
+	 interior wiring (Компьютеры)
+	 
+Results for заказная проводка (simple):
+	custom conducting
+Results for открытая проводка:
+	 exposed wiring (Техника)
+	 
+Results for скрытая проводка:
+	 blind entry (Бизнес)
+	 
+	 buried wiring (Компьютеры)
+	 
+	 concealed wiring (Техника)
+	 
+Results for внешний (внутренний) проводник (simple):
+	external (internal) conductor
+Results for вытравленный проводник (simple):
+	the etched conductor
+Results for невзаимный проводник (simple):
+	not mutual conductor
+Results for нитевидный проводник:
+	 filamentary conductor (Компьютеры)
+	 
+Results for магнитный проводник (simple):
+	magnetic conductor
+Results for полосковый проводник (simple):
+	strip conductor
+Results for машинный прогон(ка) (simple):
+	machine run
+Results for прогон(ка) бумаги в печатающем устройстве (simple):
+	run of paper in the printer
+Results for прогон(ка) задания (simple):
+	run of a task
+Results for прогон(ка) магнитной ленты (simple):
+	run of a magnetic tape
+Results for прогон(ка) модели (simple):
+	run of model
+Results for прогон(ка) программы (simple):
+	run of the program
+Results for автономная [системнонезависимая] программа (simple):
+	autonomous [system-independent] program
+Results for вещательная программа (simple):
+	broadcasting program
+Results for диагностическая программа:
+	 diagnostic program (Естественные науки)
+	 
+Results for информационная программа:
+	 information program 
+Results for коммерческая программа (simple):
+	commercial program
+Results for компонующая программа [программа сборки] (simple):
+	the packing program [the program of assembly]
+Results for моделирующая программа (simple):
+	the modeling program
+Results for музыкальная программа (simple):
+	musical program
+Results for наборная программа:
+	 plugged program (Естественные науки)
+	 
+Results for опытная программа (simple):
+	skilled program
+Results for повторно используемая программа (simple):
+	reusable program
+Results for прикладная программа:
+	 application program 
+Results for программа автоматизированного проектирования (simple):
+	the program of the automated design
+Results for программа без циклов (simple):
+	the program without cycles
+Results for программа в абсолютных адресах:
+	 absolute program (Компьютеры)
+	 
+Results for программа в двоичном коде (simple):
+	the program in a binary code
+Results for программа в машинном коде (simple):
+	the program in a machine code
+Results for программа ввода (вывода) (simple):
+	program of input (conclusion)
+Results for программа восстановления (simple):
+	program of restoration
+Results for программа выборки (simple):
+	program of selection
+Results for программа выдержек времени (simple):
+	program of excerpts of time
+Results for программа вызова (simple):
+	program of a call
+Results for программа выработки решения (simple):
+	program of development of the decision
+Results for программа динамического распределения памяти (simple):
+	program of dynamic distribution of memory
+Results for программа-диспетчер (simple):
+	program dispatcher
+Results for программа для генерации макропрограмм (simple):
+	program for generation of macroprograms
+Results for программа загрузки:
+	 filling sequence (Техника)
+	 
+Results for программа инициализации:
+	 initialize routine (Компьютеры)
+	 
+Results for программа интерпретации (simple):
+	program of interpretation
+Results for программа испытаний:
+	 test program (Техника)
+	 
+Results for программа исследований:
+	 research program (Бизнес)
+	 
+Results for программа-компилятор (simple):
+	program compiler
+Results for программа контроля:
+	 control program (Естественные науки)
+	 
+Results for программа моделирования (simple):
+	program of modeling
+Results for программа начальной загрузки:
+	 boot loader program (Компьютеры)
+	 
+Results for программа на языке транслятора (simple):
+	the program in translator language
+Results for программа обработки ошибок:
+	 error routine (Компьютеры)
+	 
+Results for программа обслуживания (simple):
+	program of service
+Results for программа обучения:
+	 training program (Бизнес)
+	 
+Results for программа отладки (simple):
+	program of debugging
+Results for программа печати:
+	 print routine 
+Results for программа планировки кристалла (simple):
+	program of planning of a crystal
+Results for программа-планировщик (simple):
+	program scheduler
+Results for программа поиска опечаток (simple):
+	program of search of typos
+Results for программа пользователя (simple):
+	program of the user
+Results for программа предввода (simple):
+	program of preinput
+Results for программа проверки:
+	 check program (Компьютеры)
+	 
+Results for программа проектирования схем на основе пакетной обработки данных (simple):
+	the program of design of schemes on the basis of batch operation of data
+Results for программа просмотра:
+	 browser 
+Results for программа редактирования:
+	 editor program (Бизнес)
+	 
+Results for программа-редактор (simple):
+	program editor
+Results for программа решения (simple):
+	program of the decision
+Results for программа сбора и регистрации информации (simple):
+	program of collecting and registration of information
+Results for программа с высоким (низким) авторитетом (simple):
+	the program with high (low) authority
+Results for программа сжатия данных (simple):
+	program of compression of data
+Results for программа со вспомогательными функциями (simple):
+	the program with support functions
+Results for программа (со)процессора (simple):
+	the program (from) the processor
+Results for программа сортировки:
+	 sorting routine (Компьютеры)
+	 
+Results for программа структурирования (simple):
+	program of structuring
+Results for программа супервизора (simple):
+	program of the supervisor
+Results for программа тестирования:
+	 testing program (Спорт)
+	 
+Results for программа трассировки (simple):
+	program of trace
+Results for программа «троянский конь» (simple):
+	"Trojan Horse" program
+Results for программа управления динамической памятью (объектом, роботом) (simple):
+	program of management of dynamic memory (object, robot)
+Results for программа форматирования (simple):
+	program of formatting
+Results for программа формирования экранных форм:
+	 screen generator (Компьютеры)
+	 
+Results for программа фотографирования (simple):
+	program of photography
+Results for программа чистки памяти (simple):
+	program of cleaning of memory
+Results for программа чтения:
+	 reader program (Компьютеры)
+	 
+Results for развлекательная программа:
+	 entertainment program 
+Results for сервисная программа:
+	 utility program (Бизнес)
+	 
+	 service routine (Техника)
+	 
+Results for управляющая программа:
+	 driver[ˈdraɪvə] (Техника)
+	 
+Results for функциональная программа (simple):
+	functional program
+Results for фукционально ориентированная программа (simple):
+	fuktsionalno the focused program
+Results for программатор импульсного релаксометра (simple):
+	programmator of a pulse relaksometr
+Results for автоматическое программирование:
+	 self-programming (Естественные науки)
+	 
+	 machine programming (Компьютеры)
+	 
+Results for концептуальное программирование (simple):
+	conceptual programming
+Results for линейное программирование:
+	 linear programming (Естественные науки)
+	 
+Results for последовательное программирование:
+	 sequential programming (Компьютеры)
+	 
+Results for потоковое программирование (simple):
+	stream programming
+Results for программирование алгоритма (simple):
+	programming of an algorithm
+Results for программирование в абсолютных (относительных) адресах (simple):
+	programming in absolute (relative) addresses
+Results for программирование в автономном (диалоговом) режиме (simple):
+	programming in the autonomous (dialogue) mode
+Results for программирование в условных обозначениях (simple):
+	programming in symbols
+Results for программирование на языке высокого уровня (simple):
+	programming in language of high level
+Results for программирование на языке машины (simple):
+	programming in car language
+Results for программирование с дублированием (simple):
+	programming with duplication
+Results for программирование с использованием интерпретатора (макрокоманд) (simple):
+	programming with use of the interpreter (macros)
+Results for программирование с минимальной задержкой (simple):
+	programming with the minimum delay
+Results for программирование собственными силами:
+	 in-house programming (Компьютеры)
+	 
+Results for программирование с помощью коммутационной панели:
+	 switchboard programming (Компьютеры)
+	 
+Results for программирование ЭВМ (simple):
+	programming of the COMPUTER
+Results for рекурсивное квадратичное программирование (simple):
+	recursive square programming
+Results for ручное программирование (simple):
+	manual programming
+Results for символическое программирование (simple):
+	symbolical programming
+Results for структурное программирование:
+	 structured programming (Компьютеры)
+	 
+Results for тестовое программирование (simple):
+	test programming
+Results for частично-целочисленное программирование:
+	 mixed integer programming (Компьютеры)
+	 
+Results for арифметическая прогрессия:
+	 arithmetic progression (Техника)
+	 
+Results for бесконечно убывающая прогрессия (simple):
+	infinitely decreasing progression
+Results for возрастающая прогрессия (simple):
+	the increasing progression
+Results for геометрическая прогрессия:
+	 geometrical progression (Естественные науки)
+	 
+Results for аналитическое продолжение:
+	 analytic continuation (Естественные науки)
+	 
+Results for продолжительность интервала времени (simple):
+	time interval duration
+Results for продолжительность сеанса связи (simple):
+	communication session duration
+Results for продолжительность эксплуатации:
+	 running time (Естественные науки)
+	 
+	 in-service (Техника)
+	 
+Results for общественный конечный продукт (simple):
+	public final product
+Results for промежуточный продукт:
+	 intermediate product (Естественные науки)
+	 
+	 intermediate[ˌɪntəˈmi:djət] (Техника)
+	 
+Results for валовая продукция:
+	 gross output 
+Results for конечная продукция отрасли (simple):
+	end products of branch
+Results for чистая продукция:
+	 net production 
+Results for автоматизированное проектирование:
+	 computer-aided design (Техника)
+	 
+	 automated (Естественные науки)
+	 
+Results for групповое проектирование (simple):
+	group design
+Results for дифференциальное проектирование (simple):
+	differential design
+Results for иерархическое проектирование (simple):
+	hierarchical design
+Results for композиционное проектирование (simple):
+	composite design
+Results for концептуальное проектирование:
+	 conceptual design (Бизнес)
+	 
+Results for логическое проектирование:
+	 logic design (Компьютеры)
+	 
+Results for нисходящее проектирование (simple):
+	the descending design
+Results for оперативное проектирование (simple):
+	expeditious design
+Results for оптимальное проектирование (simple):
+	optimum design
+Results for (полу)автоматическое проектирование (simple):
+	(floor) automatic design
+Results for проектирование аппаратного обеспечения (simple):
+	design of the hardware
+Results for проектирование баз (структуры) данных (simple):
+	design of bases (structure) of data
+Results for проектирование методом сканирования при ограниченной чувствительности (simple):
+	design by a scanning method at limited sensitivity
+Results for проектирование на наихудший случай (simple):
+	design on the worst case
+Results for проектирование (на уровне) архитектуры (simple):
+	design (at the level) architecture
+Results for проектирование (на уровне) твердотельных схем (simple):
+	design (at the level) solid-state schemes
+Results for проектирование сетей и коммуникаций (simple):
+	design of networks and communications
+Results for проектирование систем (simple):
+	design of systems
+Results for проектирование схем:
+	 circuits design (Компьютеры)
+	 
+Results for проектирование (топологии) ИС (simple):
+	design (topology) of IS
+Results for процедурное проектирование (simple):
+	procedural design
+Results for специализированное проектирование (simple):
+	specialized design
+Results for структурное проектирование:
+	 structural design (Естественные науки)
+	 
+	 structured design (Компьютеры)
+	 
+Results for техническое проектирование:
+	 engineering design 
+Results for физическое проектирование (simple):
+	physical design
+Results for диаскопический проектор [диапроектор] (simple):
+	diaskopichesky projector [slide projector]
+Results for многоканальный проектор (simple):
+	multichannel projector
+Results for светоклапанный проектор (simple):
+	light-valve projector
+Results for стилоскопический проектор (simple):
+	stiloskopichesky projector
+Results for эпископический проектор (simple):
+	episkopichesky projector
+Results for горизонтальная проекция:
+	 side view (Естественные науки)
+	 
+	 horizontal projection (Естественные науки)
+	 
+Results for наклонная проекция (simple):
+	inclined projection
+Results for ортогональная проекция:
+	 orthogonal projection (Естественные науки)
+	 
+	 orthographic projection (Компьютеры)
+	 
+Results for проекция вектора на ось (simple):
+	vector projection to an axis
+Results for прямоугольная проекция:
+	 orthographic projection (Техника)
+	 
+Results for стереографическая проекция:
+	 stereographic projection (Естественные науки)
+	 
+Results for центральная проекция:
+	 gnomonic projection (Техника)
+	 
+Results for проецирование изображения (simple):
+	projection of the image
+Results for записывающий прожектор (simple):
+	the writing-down searchlight
+Results for «зелёный» прожектор (simple):
+	"green" searchlight
+Results for ионный прожектор (simple):
+	ionic searchlight
+Results for «красный» прожектор (simple):
+	"red" searchlight
+Results for магнетронный инжекционный прожектор (simple):
+	magnetron injection searchlight
+Results for прожектор поддерживающего пучка (simple):
+	searchlight of the supporting bunch
+Results for «синий» прожектор (simple):
+	"blue" searchlight
+Results for стирающий прожектор (simple):
+	the erasing searchlight
+Results for считывающий прожектор (simple):
+	the reading-out searchlight
+Results for электронный прожектор:
+	 electron gun (Естественные науки)
+	 
+Results for прожигание запрограммированных перемычек (simple):
+	burning of the programmed crossing points
+Results for прожигание экрана (simple):
+	burning of the screen
+Results for проигрыватель-автомат (simple):
+	player automatic machine
+Results for проигрыватель видеокассет (simple):
+	player of videotapes
+Results for проигрыватель для граммпластинок (simple):
+	the player for phonograph records
+Results for проигрыватель компактных дисков (simple):
+	player of compact disks
+Results for проигрыватель с автоматическим поиском канавки записи (simple):
+	the player with automatic search of a flute of record
+Results for проигрыватель с быстрым пуском (simple):
+	the player with fast start-up
+Results for проигрыватель с механическим (электронным) управлением (simple):
+	the player with mechanical (electronic) control
+Results for проигрыватель с самовозвратом звукоснимателя (simple):
+	the player with self-return of the sound pickup
+Results for векторное произведение:
+	 vector product (Естественные науки)
+	 
+	 cross product (Техника)
+	 
+Results for произведение времени задержки сигнала на рассеиваемую мощность (simple):
+	the work of time of a delay of a signal for the disseminated power
+Results for произведение длительности импульса на ширину полосы (simple):
+	the work of duration of an impulse on strip width

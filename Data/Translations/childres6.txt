@@ -1,0 +1,2408 @@
+Results for мультиплицированное изображение:
+	 replicated image (Компьютеры)
+	 
+Results for наложенное изображение (simple):
+	the imposed image
+Results for негативное изображение (simple):
+	negative image
+Results for (не)контрастное изображение (simple):
+	(not) the contrast image
+Results for (не)подвижное изображение (simple):
+	(not) the mobile image
+Results for (не)чёткое изображение (simple):
+	(not) the accurate image
+Results for опорное изображение (simple):
+	basic image
+Results for остаточное изображение:
+	 afterimage[ˈɑ:ftərˌɪmɪdʒ] (Естественные науки)
+	 
+Results for отображаемое изображение:
+	 screen image (Компьютеры)
+	 
+Results for паразитное изображение:
+	 spurious image (Техника)
+	 
+Results for перевёрнутое изображение (simple):
+	the turned image
+Results for передаваемое изображение (simple):
+	the transferred image
+Results for повторное изображение (simple):
+	repeated image
+Results for позитивное изображение:
+	 positive image (Техника)
+	 
+Results for полутоновое изображение:
+	 grayscale image 
+	 halftone image (Компьютеры)
+	 
+	 half-tone image (Техника)
+	 
+Results for порошковое изображение (simple):
+	powder image
+Results for построчно напечатанное изображение (simple):
+	postrochno the printed image
+Results for проецируемое изображение (simple):
+	the projected image
+Results for прямое изображение:
+	 upright image (Естественные науки)
+	 
+	 direct image (Техника)
+	 
+Results for псевдоскопическое [обращённое стереоскопическое] изображение (simple):
+	psevdoskopichesky [turned three-dimensional] the image
+Results for радиографическое изображение (simple):
+	radio graphic representation
+Results for радиолокационное изображение:
+	 radar display (Техника)
+	 
+Results for расщеплённое изображение (simple):
+	the split image
+Results for рентгеновское изображение (simple):
+	x-ray image
+Results for синтезированное изображение (simple):
+	the synthesized image
+Results for сканируемое изображение (simple):
+	the scanned image
+Results for скрытое [латентное] изображение (simple):
+	hidden [latent] image
+Results for совместимое изображение (simple):
+	compatible image
+Results for сопряжённое изображение (simple):
+	the interfaced image
+Results for стереоскопическое изображение:
+	 stereoscopic picture (Техника)
+	 
+Results for стойкое изображение (simple):
+	resistant image
+Results for телевизионное изображение:
+	 television picture (Компьютеры)
+	 
+Results for теневое изображение:
+	 shadowgraph[ˈʃædəuɡrɑ:f] (Техника)
+	 
+Results for тепловизионное изображение (simple):
+	thermovision image
+Results for томографическое изображение (simple):
+	tomographic image
+Results for трехмерное [объёмное] изображение (simple):
+	three-dimensional [volume] image
+Results for фоновое изображение (simple):
+	background image
+Results for цветное изображение:
+	 color image (Компьютеры)
+	 
+Results for цифровое изображение (simple):
+	digital image
+Results for чёрно-белое [монохромное] изображение (simple):
+	black-and-white [monochrome] image
+Results for электронное изображение:
+	 electronic image (Техника)
+	 
+Results for изодопа на рассеивающей поверхности (simple):
+	isotope on the disseminating surface
+Results for антенный изолятор (simple):
+	antenna insulator
+Results for изолятор пересечения проводников (simple):
+	insulator of crossing of conductors
+Results for изолятор соединителя (simple):
+	insulator of the connector
+Results for металлический (четвертьволновый) изолятор (simple):
+	metal (quarter wave) insulator
+Results for опорный изолятор:
+	 base insulator (Техника)
+	 
+Results for подвесной изолятор:
+	 suspension insulator (Техника)
+	 
+Results for проходной изолятор:
+	 bush[buʃ] (Техника)
+	 
+Results for штыревой изолятор:
+	 rod insulator (Техника)
+	 
+Results for экситонный изолятор (simple):
+	exciton insulator
+Results for электрический изолятор:
+	 electric insulator 
+Results for асбестовая изоляция:
+	 asbestos insulation (Естественные науки)
+	 
+Results for бумажная изоляция:
+	 impregnated-paper insulation (Естественные науки)
+	 
+Results for воздушная изоляция:
+	 air insulation (Естественные науки)
+	 
+	 air isolation (Естественные науки)
+	 
+Results for волокнистая изоляция:
+	 fibrous insulation (Техника)
+	 
+	 textile insulation (Техника)
+	 
+Results for вощёная изоляция (simple):
+	waxed isolation
+Results for герметизирующая изоляция (simple):
+	the pressurizing isolation
+Results for гибкая изоляция:
+	 flexible insulation (Естественные науки)
+	 
+Results for диэлектрическая изоляция:
+	 dielectric isolation (Компьютеры)
+	 
+Results for защитная изоляция (simple):
+	protective isolation
+Results for изоляция двойным слоем поликристаллического кремния (simple):
+	isolation by a double layer of polycrystalline silicon
+Results for изоляция затвора двухслойным диэлектриком (simple):
+	isolation of a lock two-layer dielectric
+Results for изоляция защитным слоем оксида (simple):
+	isolation by a protective layer of oxide
+Results for изоляция кабеля:
+	 cable insulation (Компьютеры)
+	 
+Results for изоляция методом базовой (коллекторной) диффузии (simple):
+	isolation by method of basic (collector) diffusion
+Results for изоляция методом эпитаксии (simple):
+	isolation by an epitaxy method
+Results for изоляция оксидом (simple):
+	isolation by oxide
+Results for изоляция плазмы:
+	 confinement of plasma (Техника)
+	 
+Results for изоляция пластин (simple):
+	isolation of plates
+Results for изоляция проводки (simple):
+	conducting isolation
+Results for изоляция р-n-перехода (simple):
+	isolation р - n - transition
+Results for изоляция сердечника полюса (simple):
+	isolation of the core of a pole
+Results for керамическая изоляция:
+	 ceramic insulation (Естественные науки)
+	 
+	 ceramic isolation (Естественные науки)
+	 
+Results for междувитковая изоляция:
+	 turn-to-turn insulation (Техника)
+	 
+Results for минеральная изоляция (simple):
+	mineral isolation
+Results for многослойная изоляция (simple):
+	multilayered isolation
+Results for пластмассовая изоляция:
+	 molded insulation (Естественные науки)
+	 
+Results for плёночная изоляция (simple):
+	film isolation
+Results for подрезанная изоляция (simple):
+	the cut isolation
+Results for пропитанная изоляция (simple):
+	the impregnated isolation
+Results for резистивная изоляция (simple):
+	resistive isolation
+Results for слоистая изоляция:
+	 laminated insulation (Естественные науки)
+	 
+Results for слюдяная изоляция (simple):
+	mica isolation
+Results for трубчатая изоляция (simple):
+	tubular isolation
+Results for хлопчатобумажная изоляция:
+	 cotton insulation (Естественные науки)
+	 
+Results for шайбовая изоляция (simple):
+	beaded isolation
+Results for шёлковая изоляция (simple):
+	silk isolation
+Results for электрическая изоляция:
+	 electrical insulation (Техника)
+	 
+Results for эмалевая изоляция (simple):
+	enamel isolation
+Results for изотерма Ленгмюра (simple):
+	Lengmyur's isotherm
+Results for изохазма полярных сияний (simple):
+	izokhazma of a polar light
+Results for изохронность колебаний (simple):
+	isochronism of fluctuations
+Results for иконоскоп с переносом изображения (simple):
+	the iconoscope with transfer of the image
+Results for имитатор (групповой) цели (simple):
+	simulator (group) purpose
+Results for имитатор движущейся цели [доплеровский имитатор] (simple):
+	simulator of a moving target [the Doppler simulator]
+Results for имитатор ошибок (simple):
+	simulator of mistakes
+Results for имитатор помех (simple):
+	simulator of hindrances
+Results for имитатор сигнала (simple):
+	signal simulator
+Results for имитатор тестов (simple):
+	simulator of tests
+Results for имитатор фазового сдвига (simple):
+	simulator of phase shift
+Results for имитатор функции неопределённости (simple):
+	uncertainty function simulator
+Results for имитатор цели радиолокационной станции (simple):
+	simulator of the purpose of radar station
+Results for микропроцессорный имитатор (simple):
+	microprocessor simulator
+Results for в(вы)ходной иммитанс (simple):
+	in (you) hodny immitance
+Results for иммитанс источника (simple):
+	source immitance
+Results for иммитанс короткого замыкания (simple):
+	immitance of short circuit
+Results for иммитанс холостого хода (simple):
+	idling immitance
+Results for в(вы)ходной импеданс (simple):
+	in (you) hodny impedance
+Results for импеданс ветви (simple):
+	branch impedance
+Results for импеданс двухполюсника (simple):
+	two-pole network impedance
+Results for импеданс резонатора (simple):
+	resonator impedance
+Results for импеданс свободного пространства (simple):
+	impedance of free space
+Results for поверхностный импеданс:
+	 surface impedance (Естественные науки)
+	 
+Results for СВЧ-импеданс (simple):
+	Microwave impedance
+Results for характеристический импеданс:
+	 characteristic impedance (Компьютеры)
+	 
+	 characteristic admittance (Техника)
+	 
+Results for имплантация ионов высокой энергии:
+	 high-energy ion implantation (Естественные науки)
+	 
+Results for имплантация ионов донорной (акцепторной) примеси (simple):
+	implantation of ions of donorny (acceptor) impurity
+Results for локальная ионная имплантация (simple):
+	local ionic implantation
+Results for импликация значений цифровых сигналов (simple):
+	implication of values of digital signals
+Results for импрегнация катода (simple):
+	impregnation of the cathode
+Results for блокирующий импульс:
+	 suppressor pulse (Компьютеры)
+	 
+	 blackout pulse (Техника)
+	 
+Results for в(вы)ходной импульс (simple):
+	in (you) hodny impulse
+Results for возбуждающий импульс (simple):
+	exciting impulse
+Results for воспроизводимый кадровый импульс (simple):
+	the reproduced personnel impulse
+Results for гасящий импульс:
+	 blanking pulse (Компьютеры)
+	 
+	 quenching pulse (Техника)
+	 
+Results for гигантский импульс излучения лазера (simple):
+	huge impulse of radiation of the laser
+Results for длинный импульс (simple):
+	long impulse
+Results for единичный импульс:
+	 unit pulse (Техника)
+	 
+	 unit impulse (Компьютеры)
+	 
+	 specific impulse (Техника)
+	 
+Results for запирающий импульс:
+	 disabling pulse (Техника)
+	 
+Results for запрашивающий импульс (simple):
+	the requesting impulse
+Results for запускающий импульс:
+	 trigger pulse (Техника)
+	 
+Results for зондирующий импульс:
+	 sounding pulse (Компьютеры)
+	 
+	 outgoing pulse (Техника)
+	 
+Results for импульс антисовпадения:
+	 anticoincidence impulse (Техника)
+	 
+Results for импульс вывода (simple):
+	conclusion impulse
+Results for импульс вычитания:
+	 subtract pulse (Техника)
+	 
+Results for импульс гашения (simple):
+	clearing impulse
+Results for импульс готовности (simple):
+	readiness impulse
+Results for импульс зажигания:
+	 ignition pulse (Техника)
+	 
+Results for импульс записи при частичной выборке (simple):
+	record impulse at partial selection
+Results for импульс запрета:
+	 inhibit pulse (Техника)
+	 
+Results for импульс заряда (simple):
+	charge impulse
+Results for импульс магнитодвижущей силы (simple):
+	impulse of magnetodriving force
+Results for импульс набора номера:
+	 dialing pulse (Техника)
+	 
+Results for импульс накачки:
+	 pumping pulse (Естественные науки)
+	 
+	 pump pulse (Компьютеры)
+	 
+Results for импульс окончания переноса (simple):
+	impulse of the end of transfer
+Results for импульс опроса:
+	 drive pulse (Техника)
+	 
+Results for импульс оптического излучения (simple):
+	impulse of optical radiation
+Results for импульс останова:
+	 stop pulse (Техника)
+	 
+Results for импульс ошибки (simple):
+	mistake impulse
+Results for импульс переменной длительности (simple):
+	impulse of variable duration
+Results for импульс переноса:
+	 carry pulse (Естественные науки)
+	 
+Results for импульс переполнения (simple):
+	overflow impulse
+Results for импульс подготовки:
+	 priming pulse (Техника)
+	 
+Results for импульс подсветки развёртки (simple):
+	development illumination impulse
+Results for импульс полной (частичной) выборки (simple):
+	impulse of complete (partial) sample
+Results for импульс полувыборки (simple):
+	half-select impulse
+Results for импульс привязки (simple):
+	binding impulse
+Results for импульс развёртки (simple):
+	development impulse
+Results for импульс свёртки (simple):
+	convolution impulse
+Results for импульс сброса:
+	 reset pulse (Техника)
+	 
+Results for импульс с дискретным изменением частоты (simple):
+	impulse with discrete change of frequency
+Results for импульс силы:
+	 impulse of force (Техника)
+	 
+Results for импульс с линейной частотной модуляцией [импульс с ЛЧМ] (simple):
+	impulse with linear frequency modulation [an impulse with LChM]
+Results for импульс с плоской вершиной (simple):
+	impulse with flat top
+Results for импульс стирания (simple):
+	deleting impulse
+Results for импульс стробирования (simple):
+	strobirovaniye impulse
+Results for импульс считывания:
+	 read pulse (Техника)
+	 
+Results for импульс темнового тока (simple):
+	impulse of dark current
+Results for импульс (цветовой) синхронизации (simple):
+	impulse (color) synchronization
+Results for исполнительный импульс:
+	 execute pulse (Техника)
+	 
+Results for колоколообразный импульс:
+	 Gaussian pulse (Техника)
+	 
+Results for короткий импульс:
+	 narrow pulse (Техника)
+	 
+Results for ложный импульс:
+	 spurious pulse (Компьютеры)
+	 
+Results for маркерный импульс:
+	 marker pulse (Компьютеры)
+	 
+	 reference-time mark (Техника)
+	 
+Results for монтажный импульс (simple):
+	assembly impulse
+Results for найквистовский импульс (simple):
+	naykvistovsky impulse
+Results for нано(пико)секундный импульс (simple):
+	nano (peak) second impulse
+Results for опорный импульс:
+	 reference pulse (Компьютеры)
+	 
+	 pedestal impulse (Техника)
+	 
+Results for ответный импульс:
+	 impulse response (Техника)
+	 
+Results for пилообразный импульс (simple):
+	sawtooth impulse
+Results for прямоугольный импульс:
+	 square pulse (Техника)
+	 
+	 square-wave pulse (Естественные науки)
+	 
+	 squared pulse (Компьютеры)
+	 
+	 square wave (Техника)
+	 
+Results for разрешающий импульс (simple):
+	the allowing impulse
+Results for разрушающий импульс:
+	 disturb pulse (Компьютеры)
+	 
+	 disturbing pulse (Техника)
+	 
+Results for селекторный стробирующий импульс (simple):
+	selector strobiruyushchy impulse
+Results for СВЧ-импульс (simple):
+	Microwave impulse
+Results for сжатый импульс (simple):
+	the compressed impulse
+Results for синхронизирующий импульс:
+	 dating pulse (Естественные науки)
+	 
+	 synchronizing pulse (Компьютеры)
+	 
+Results for тактовый импульс:
+	 clock pulse (Компьютеры)
+	 
+Results for (ультра)звуковой импульс (simple):
+	(ultra) sound impulse
+Results for уравнивающий импульс:
+	 equalizing pulse (Компьютеры)
+	 
+Results for фазирующий импульс (simple):
+	the phasing impulse
+Results for фиксирующий импульс (simple):
+	the fixing impulse
+Results for шумовой импульс (simple):
+	noise impulse
+Results for электромагнитный импульс (simple):
+	electromagnetic impulse
+Results for импульсно--доплеровская РЛС (simple):
+	pulsewise - Doppler radar station
+Results for импульсно--кодовая модуляция (simple):
+	pulsewise - code modulation
+Results for импульсно--модулированный (simple):
+	pulsewise - modulated
+Results for импульсно--числовой код (simple):
+	pulsewise - a numerical code
+Results for импульсы переполнения (simple):
+	overflow impulses
+Results for однополярные импульсы (simple):
+	unipolar impulses
+Results for разнесенные во времени импульсы (simple):
+	the impulses carried in time
+Results for имя входа (simple):
+	entrance name
+Results for имя задания (simple):
+	task name
+Results for имя набора данных (simple):
+	data set name
+Results for имя переменной (simple):
+	variable name
+Results for имя устройства:
+	 device name (Компьютеры)
+	 
+Results for имя файла:
+	 file name (Компьютеры)
+	 
+Results for инвариант модуля (simple):
+	module invariant
+Results for инвариант цикла (simple):
+	cycle invariant
+Results for инвариантность данных (simple):
+	invariancy of data
+Results for инвариантность системы автоматического управления (simple):
+	invariancy of system of automatic control
+Results for двух(трёх, четырёх, много)уровневая инверсия (simple):
+	two (three, four, there is a lot of)-level inversion
+Results for импульсная инверсия (simple):
+	pulse inversion
+Results for инверсия времени (simple):
+	inversion of time
+Results for инверсия входного сигнала (simple):
+	inversion of an entrance signal
+Results for инверсия изображения (simple):
+	inversion of the image
+Results for инверсия населённостей (simple):
+	inversion of densities of population
+Results for инверсия полярности (simple):
+	inversion of polarity
+Results for инверсия при адиабатическом быстром прохождении (simple):
+	inversion at adiabatic fast passing
+Results for инверсия при наличии кросс-релаксации (simple):
+	inversion in the presence of a cross-relaxation
+Results for инверсия пространства (simple):
+	inversion of space
+Results for инверсия спектра (simple):
+	inversion of a range
+Results for инверсия суммы (simple):
+	inversion of the sum
+Results for инверсия фазы (simple):
+	inversion of a phase
+Results for инверсия щели (simple):
+	inversion of a crack
+Results for (не)однородная инверсия (simple):
+	(not) uniform inversion
+Results for непрерывная инверсия (simple):
+	continuous inversion
+Results for поверхностная инверсия (simple):
+	superficial inversion
+Results for температурная инверсия:
+	 temperature inversion (Естественные науки)
+	 
+Results for тропосферная инверсия (simple):
+	tropospheric inversion
+Results for инвертор на логическом элементе (simple):
+	the inverter on a logical element
+Results for инвертор на операционном усилителе (simple):
+	the inverter on the operational amplifier
+Results for инвертор на ртутном вентиле (simple):
+	the inverter on the mercury gate
+Results for инвертор на транзисторах (simple):
+	the inverter on transistors
+Results for инвертор полярности (simple):
+	polarity inverter
+Results for инвертор со схемой совпадения (simple):
+	the inverter with the scheme of coincidence
+Results for инвертор спектра (simple):
+	range inverter
+Results for инвертор с релаксационным генератором (simple):
+	the inverter with the relaxation generator
+Results for инвертор фазы сигнала цветности (simple):
+	inverter of a phase of a signal of chromaticity
+Results for многоплечий инвертор (simple):
+	mnogoplechy inverter
+Results for тиратронный инвертор:
+	 thyratron inverter (Техника)
+	 
+Results for усилитель-инвертор (simple):
+	amplifier inverter
+Results for азимутальный индекс (simple):
+	azimuthal index
+Results for главный [первичный] индекс (simple):
+	main [primary] index
+Results for детальный [вторичный] индекс (simple):
+	detailed [secondary] index
+Results for индекс адреса (simple):
+	index of the address
+Results for индекс артикуляции (simple):
+	index of an articulation
+Results for индекс базы данных (simple):
+	index of the database
+Results for индекс взаимодействия:
+	 cooperation index (Техника)
+	 
+Results for индекс дорожки (simple):
+	index of a path
+Results for индекс инерции (simple):
+	index of inertia
+Results for индекс модуляции:
+	 modulation index (Техника)
+	 
+Results for индекс моды:
+	 mode index (Компьютеры)
+	 
+Results for индекс направленности:
+	 directional gain (Естественные науки)
+	 
+Results for индекс помещения (simple):
+	index of the room
+Results for индекс прерываемости (simple):
+	index of interruptibility
+Results for индекс распространения (simple):
+	index of distribution
+Results for индекс-регистр (simple):
+	index register
+Results for индекс рефракции (simple):
+	index of a refraction
+Results for индекс снижения звука (simple):
+	index of decrease in a sound
+Results for индекс цветопередачи:
+	 color rendering index (Техника)
+	 
+Results for индекс числа по модулю N (simple):
+	the index of number on the module N
+Results for общий (частный) индекс (simple):
+	general (private) index
+Results for расширенный индекс состояния задачи (simple):
+	expanded index of a condition of a task
+Results for угловой индекс (simple):
+	angular index
+Results for индексирование адреса (simple):
+	indexing of the address
+Results for индексирование информационно-поискового тезауруса (simple):
+	indexing of the information retrieval thesaurus
+Results for индексы Миллера:
+	 Miller indexes (Естественные науки)
+	 индекс Миллера 
+	 Существительное индекс Миллера / индексы Миллера 
+	 Miller index (Естественные науки)
+	 
+Results for кристаллографические индексы (simple):
+	crystallographic indexes
+Results for алфавитно-цифровой индикатор (simple):
+	alphanumeric indicator
+Results for бортовой индикатор воздушной обстановки (simple):
+	onboard indicator of an air situation
+Results for буквенный индикатор:
+	 alphabet indicator (Техника)
+	 
+Results for визуальный индикатор:
+	 visual indicator (Техника)
+	 
+	 visual cue (Компьютеры)
+	 
+Results for выносной индикатор:
+	 remote indicator (Естественные науки)
+	 
+Results for голографический индикатор:
+	 holographic display (Техника)
+	 
+Results for знаковый индикатор (simple):
+	sign indicator
+Results for знакосинтезирующий индикатор (simple):
+	znakosinteziruyushchy indicator
+Results for индикатор автономной радионавигационной системы летательного аппарата (simple):
+	indicator of autonomous radio navigational system of the aircraft
+Results for индикатор азимута и высоты (simple):
+	indicator of an azimuth and height
+Results for индикатор «азимут-дальность» с прямоугольным растром (simple):
+	the azimuth range indicator with a rectangular raster
+Results for индикатор биений:
+	 beat indicator (Техника)
+	 
+Results for индикатор блокировки (simple):
+	blocking indicator
+Results for индикатор, возбуждаемый постоянным током (simple):
+	the indicator excited by a direct current
+Results for индикатор выхода (simple):
+	exit indicator
+Results for индикатор дальности:
+	 range indicator (Техника)
+	 
+Results for индикатор дальность-скорость (simple):
+	indicator range speed
+Results for индикатор дальность-угол места (simple):
+	indicator place range corner
+Results for индикатор движущихся целей:
+	 moving target indicator (Техника)
+	 
+Results for индикатор дефектов (simple):
+	indicator of defects
+Results for индикатор загрязнённости воздуха (simple):
+	indicator of impurity of air
+Results for индикатор замыкания на землю:
+	 ground indicator (Компьютеры)
+	 
+Results for индикатор захвата цели на автоматическое сопровождение (simple):
+	the indicator of capture of the purpose on automatic maintenance
+Results for индикатор зоны:
+	 zone-position indicator (Техника)
+	 
+Results for индикатор излучения:
+	 radiation indicator (Естественные науки)
+	 
+Results for индикатор, использующий явление катодолюминесценции (simple):
+	the indicator using the katodolyuminestsention phenomenon
+Results for индикатор истинного движения (simple):
+	indicator of the true movement
+Results for индикатор командных сигналов (simple):
+	indicator of command signals
+Results for индикатор контроля сопровождения цели (simple):
+	indicator of control of maintenance of the purpose
+Results for индикатор кругового обзора со смещённым (с открытым) центром (simple):
+	the indicator of the circular review with displaced (with opened) the center
+Results for индикатор курса с прицельным перекрестием (simple):
+	the course indicator with an aim cross hairs
+Results for индикатор курсовой ошибки (simple):
+	indicator of a course mistake
+Results for индикатор мощности:
+	 power-level indicator (Техника)
+	 
+Results for индикатор навигационной системы (simple):
+	indicator of the navigation system
+Results for индикатор на жидких кристаллах (simple):
+	the indicator on liquid crystals
+Results for индикатор на основе волоконного световода (simple):
+	the indicator on the basis of the fiber light guide
+Results for индикатор напряжения:
+	 voltage detector (Техника)
+	 
+Results for индикатор на светодиодах (simple):
+	the indicator on light-emitting diodes
+Results for индикатор настройки:
+	 tuning meter (Компьютеры)
+	 
+	 tuning indicator (Техника)
+	 
+Results for индикатор на твист-эффекте (simple):
+	the indicator on a twist effect
+Results for индикатор на ЭПТ с яркостной отметкой (simple):
+	the indicator on EPT with the brightness mark
+Results for индикатор неправильной установки диапазона (simple):
+	indicator of the wrong installation of range
+Results for индикатор нулевых биений (simple):
+	indicator of zero beats
+Results for индикатор обстановки (simple):
+	situation indicator
+Results for индикатор оператора РЛС (simple):
+	indicator of the operator of radar station
+Results for индикатор отклонения от заданной траектории полёта (simple):
+	the deviation indicator from the set flight trajectory
+Results for индикатор ошибки по глубине (углу наклона) цели (simple):
+	the mistake indicator on depth (tilt angle) of the purpose
+Results for индикатор пеленга:
+	 bearing meter (Техника)
+	 
+Results for индикатор перегрузки:
+	 overload indicator (Естественные науки)
+	 
+Results for индикатор переключения (simple):
+	switching indicator
+Results for индикатор переполнения (simple):
+	overflow indicator
+Results for индикатор повреждений (simple):
+	indicator of damages
+Results for индикатор положения ленты (simple):
+	indicator of provision of a tape
+Results for индикатор положения оси диаграммы направленности антенны (simple):
+	indicator of provision of an axis of the directional pattern of the antenna
+Results for индикатор положения самолёта относительно земли (simple):
+	the indicator of position of the plane concerning the earth
+Results for индикатор посадочного курса (simple):
+	indicator of a landing course
+Results for индикатор предельных значений (simple):
+	indicator of extreme values
+Results for индикатор предупредительной сигнализации (simple):
+	indicator of the precautionary alarm system
+Results for индикатор прямого наблюдения (simple):
+	indicator of direct observation
+Results for индикатор рассогласования:
+	 mismatch indicator (Техника)
+	 
+Results for индикатор резонанса:
+	 resonance indicator (Естественные науки)
+	 
+Results for индикатор сегментного типа (simple):
+	indicator of segment type
+Results for индикатор секторного обзора (simple):
+	indicator of the sector review
+Results for индикатор системы инструментальной посадки с перекрестием (simple):
+	the indicator of system of tool landing with a cross hairs
+Results for индикатор системы предупреждения столкновений (simple):
+	indicator of system of prevention of collisions
+Results for индикатор скорости сканирования (simple):
+	scanning speed indicator
+Results for индикатор скорость-азимут (simple):
+	indicator speed azimuth
+Results for индикатор с лазерной (матричной, электронно-лучевой) адресацией (simple):
+	the indicator with laser (matrix, electron beam) addressing
+Results for индикатор с непрерывным отсчётом (simple):
+	the indicator with continuous counting
+Results for индикатор с непосредственным отсчётом (управлением) (simple):
+	the indicator with direct counting (management)
+Results for индикатор совпадений напряжений (simple):
+	indicator of coincidence of tension
+Results for индикатор сообщений:
+	 message indicator (Техника)
+	 
+Results for индикатор состояния аппаратуры (simple):
+	indicator of a condition of the equipment
+Results for индикатор с отметкой отклонения (simple):
+	the indicator with a deviation mark
+Results for индикатор со шкалой:
+	 scale indicator (Техника)
+	 
+Results for индикатор судовой РЛС (simple):
+	indicator of ship radar station
+Results for индикатор с растянутой развёрткой (simple):
+	the indicator with the dragged-out development
+Results for индикатор с фиксированным излучением (simple):
+	the indicator with the fixed radiation
+Results for индикатор тарифа:
+	 tariff indicator (Техника)
+	 
+Results for индикатор типа «крылья» (simple):
+	"wings" indicator
+Results for индикатор тлеющего разряда (simple):
+	the indicator of the smoldering category
+Results for индикатор «угол места-высота» (дальность) (simple):
+	"place height corner" indicator (range)
+Results for индикатор уровня записи (громкости звукового сигнала) (simple):
+	record level indicator (loudness of a sound signal)
+Results for индикатор цветовой настройки (simple):
+	indicator of color control
+Results for индикатор часового типа (simple):
+	indicator of hour type
+Results for индикатор частичных разрядов (simple):
+	indicator of partial categories
+Results for индикатор частоты:
+	 frequency indicator (Техника)
+	 
+Results for индикатор электромагнитного поля (simple):
+	indicator of the electromagnetic field
+Results for индикатор электронных часов (simple):
+	indicator of the electronic clock
+Results for мнемонический индикатор (simple):
+	mnemonic indicator
+Results for многошкальный индикатор (simple):
+	mnogoshkalny indicator
+Results for многоэкранный индикатор (simple):
+	multidisplay indicator
+Results for модифицированный индикатор кругового обзора (simple):
+	the modified indicator of the circular review
+Results for настенный индикатор (simple):
+	wall indicator
+Results for нуль-индикатор:
+	 null indicator 
+Results for однознаковый индикатор (simple):
+	one-sign indicator
+Results for оптический индикатор расположения дорожек записи (simple):
+	optical indicator of an arrangement of recording tracks
+Results for панорамный индикатор (simple):
+	panoramic indicator
+Results for плоский индикатор (simple):
+	flat indicator
+Results for радиолокационный индикатор:
+	 radar indicator (Техника)
+	 
+Results for светодиодный индикатор:
+	 LED display (Техника)
+	 
+Results for стрелочный индикатор:
+	 pointer indicator (Естественные науки)
+	 
+	 needle indicator (Техника)
+	 
+Results for фотоэлектрический индикатор точки росы (simple):
+	photo-electric indicator of a dew point
+Results for цифровой индикатор:
+	 digital indicator (Техника)
+	 
+Results for (электро)люминесцентный индикатор (simple):
+	(electro) luminescent indicator
+Results for электронно-лучевой (-световой) индикатор (simple):
+	electron beam (-light) the indicator
+Results for электронный индикатор (simple):
+	electronic indicator
+Results for электрооптический индикатор:
+	 electro-optic display (Компьютеры)
+	 
+	 electrooptic display (Техника)
+	 
+Results for индикатрисса рассеяния (simple):
+	indikatrissa of dispersion
+Results for оптическая индикатрисса (simple):
+	optical indikatrissa
+Results for визуальная индикация (simple):
+	visual indication
+Results for звуковая индикация:
+	 audible indication (Техника)
+	 
+Results for индикация истинного движения цели (simple):
+	indication of the true movement of the purpose
+Results for индикация ложной синхронизации (simple):
+	indication of false synchronization
+Results for индикация на дисплее (simple):
+	indication on the display
+Results for индикация неисправностей:
+	 display of faults 
+	 alarm indication (Техника)
+	 
+Results for индикация неподвижных целей (simple):
+	indication of fixed targets
+Results for индикация состояния аппаратуры (simple):
+	indication of a condition of the equipment
+Results for индикация срыва автоматического сопровождения (simple):
+	indication of failure of automatic maintenance
+Results for индикация уровня сигнала (simple):
+	indication of level of a signal
+Results for цифровая индикация (simple):
+	digital indication
+Results for взаимная индуктивность:
+	 mutual inductance (Техника)
+	 
+Results for индуктивность антенны (simple):
+	inductance of the antenna
+Results for индуктивность внутренних межсоединений (simple):
+	inductance of internal interconnections
+Results for индуктивность вторичной (первичной) обмотки (simple):
+	inductance of secondary (primary) winding
+Results for индуктивность выводов (simple):
+	inductance of conclusions
+Results for индуктивность дросселя (simple):
+	inductance of a throttle
+Results for индуктивность катушки (simple):
+	inductance of the coil
+Results for индуктивность колебательного контура:
+	 tuned-circuit inductance (Техника)
+	 
+Results for индуктивность настройки (simple):
+	inductance of control
+Results for индуктивность насыщения (simple):
+	inductance of saturation
+Results for индуктивность обмотки управления (simple):
+	inductance of a winding of management
+Results for индуктивность плазмы (simple):
+	inductance of plasma
+Results for индуктивность при бесконечно малом изменении потокосцепления (simple):
+	inductance at infinitesimal change of flux linkage
+Results for индуктивность рассеяния:
+	 leakage inductance (Естественные науки)
+	 
+Results for индуктивность торцевых витков (simple):
+	inductance of face rounds
+Results for кинетическая индуктивность (simple):
+	kinetic inductance
+Results for критическая индуктивность (simple):
+	critical inductance
+Results for паразитная индуктивность (simple):
+	parasitic inductance
+Results for переменная индуктивность:
+	 variable inductance (Естественные науки)
+	 
+Results for погонная индуктивность (simple):
+	running inductance
+Results for подстроечная индуктивность:
+	 trimming inductance (Естественные науки)
+	 
+Results for распределённая индуктивность (simple):
+	the distributed inductance
+Results for собственная индуктивность:
+	 internal inductance (Техника)
+	 
+Results for сосредоточенная индуктивность:
+	 lumped inductance (Техника)
+	 
+Results for быстрая индукция флу[ю]оресценции (simple):
+	fast induction to a fl [yu] of an orestsention
+Results for взаимная индукция:
+	 common reactance (Естественные науки)
+	 
+Results for дифференциальная индукция (simple):
+	differential induction
+Results for (магнитная) индукция насыщения (simple):
+	(magnetic) induction of saturation
+Results for отрицательная (положительная) остаточная магнитная индукция (simple):
+	negative (positive) residual magnetic induction
+Results for собственная индукция (simple):
+	own induction
+Results for униполярная индукция (simple):
+	unipolar induction
+Results for электрическая индукция:
+	 dielectric flux density (Естественные науки)
+	 
+Results for электромагнитная индукция:
+	 electromagnetic induction (Техника)
+	 
+Results for электростатическая индукция:
+	 dielectric flux density (Естественные науки)
+	 
+	 electrostatic induction (Техника)
+	 
+Results for индустрия игровых автоматов (simple):
+	industry of gaming machines
+Results for индустрия информатики (simple):
+	informatics industry
+Results for инерционность коммутации (simple):
+	lag effect of switching
+Results for инерционность преобразователя (simple):
+	lag effect of the converter
+Results for инерционность электронно-лучевой трубки (simple):
+	lag effect of an electron beam tube
+Results for инерция носителей заряда (simple):
+	inertia of carriers of a charge
+Results for электромагнитная инерция:
+	 electromagnetic inertia (Естественные науки)
+	 
+Results for гироскопическая инерция (simple):
+	gyroscopic inertia
+Results for вертикальный инжектор (simple):
+	vertical injector
+Results for горизонтальный инжектор (simple):
+	horizontal injector
+Results for инжектор дырок (simple):
+	injector of holes
+Results for инжектор, изготовленный методом двойной диффузии (simple):
+	the injector made by method of double diffusion
+Results for инжектор логической ИС (simple):
+	injector of logical IS
+Results for инжектор нейтральных атомов (simple):
+	injector of neutral atoms
+Results for инжектор спейсистора (simple):
+	speysistor injector
+Results for инжектор электронов (simple):
+	injector of electrons
+Results for самосовмещённый инжектор (simple):
+	the self-combined injector
+Results for антипараллельная инжекция (simple):
+	anti-parallel injection
+Results for биполярная инжекция (simple):
+	bipolar injection
+Results for внешняя инжекция (simple):
+	external injection
+Results for динамическая инжекция заряда (simple):
+	dynamic injection of a charge
+Results for инжекция дырок:
+	 hole injection (Техника)
+	 
+Results for инжекция избыточных (неосновных) носителей заряда (simple):
+	injection of excess (nonbasic) carriers of a charge
+Results for инжекция нейтральных атомов (simple):
+	injection of neutral atoms
+Results for инжекция способом заливки и сброса (simple):
+	injection in the way of filling and dumping
+Results for инжекция электронов (simple):
+	injection of electrons
+Results for контактная инжекция (simple):
+	contact injection
+Results for краевая инжекция (simple):
+	regional injection
+Results for лавинная инжекция:
+	 avalenche injection (Техника)
+	 
+Results for монополярная инжекция (simple):
+	monopolar injection
+Results for однонаправленная инжекция (simple):
+	unidirectional injection
+Results for параллельная инжекция (simple):
+	parallel injection
+Results for прямая инжекция:
+	 in-line injection (Техника)
+	 
+Results for радиальная инжекция (simple):
+	radial injection
+Results for слабая инжекция (simple):
+	weak injection
+Results for стационарная инжекция (simple):
+	stationary injection
+Results for тангенциальная инжекция (simple):
+	tangential injection
+Results for туннельная инжекция (simple):
+	tunnel injection
+Results for электрическая инжекция (simple):
+	electric injection
+Results for инициатор-терминатор:
+	 initiator terminator (Компьютеры)
+	 
+Results for (импульсное) фотолитическое инициирование (simple):
+	(pulse) photolytic initiation
+Results for инициирование лазера (simple):
+	initiation of the laser
+Results for инициирование люминесценции (simple):
+	initiation of a luminescence
+Results for инициирование переключения биполярной инжекцией (simple):
+	switching initiation by bipolar injection
+Results for инициирование программы (simple):
+	initiation of the program
+Results for инициирование разряда (simple):
+	initiation of the category
+Results for электрическое инициирование (simple):
+	electric initiation
+Results for электротермическое инициирование (simple):
+	electrothermal initiation
+Results for инкремент адресации (simple):
+	addressing increment
+Results for инкремент волны (simple):
+	wave increment
+Results for инкремент колебания (simple):
+	fluctuation increment
+Results for научно-исследовательский институт:
+	 research institute 
+	 research institution (Бизнес)
+	 
+Results for инструкция к применению (simple):
+	the instruction to application
+Results for инструкция отображения (simple):
+	instruction of display
+Results for инструкция по техническому обслуживанию:
+	 maintenance manual 
+	 maintenance instructions (Техника)
+	 
+Results for алмазный инструмент:
+	 diamond tool (Естественные науки)
+	 
+Results for инструмент для демонтажа:
+	 dismantling tool (Техника)
+	 
+Results for контрольно-измерительный инструмент (simple):
+	control and measuring tool
+Results for дифракционный интеграл (simple):
+	diffraction integral
+Results for интеграл вероятности:
+	 probability integral (Естественные науки)
+	 
+Results for интеграл ионизации (simple):
+	ionization integral
+Results for интеграл Кирхгофа-Гюйгенса (simple):
+	Kirchhoff-Huygens's integral
+Results for интеграл перекрытия:
+	 overlapping integral (Естественные науки)
+	 
+Results for интеграл свёртки (simple):
+	convolution integral
+Results for интеграл столкновений:
+	 collision integral (Естественные науки)
+	 
+Results for интеграл Френеля (Фурье) (simple):
+	Fresnel (Fourier's) integral
+Results for интеграл Эйри (simple):
+	Airey's integral
+Results for комплексный интеграл (simple):
+	complex integral
+Results for фазовый интеграл:
+	 phase integral (Естественные науки)
+	 
+Results for интегратор Миллера (simple):
+	Miller's integrator
+Results for интегратор световых импульсов (simple):
+	integrator of light impulses
+Results for интегратор с компенсационной обратной связью (simple):
+	the integrator with compensation feedback
+Results for интегратор со скользящим окном (simple):
+	the integrator with the sliding window
+Results for интегратор с параллельным (последовательным) переносом (simple):
+	the integrator with parallel (consecutive) translation
+Results for интегратор с положительной обратной связью:
+	 regenerative integrator (Техника)
+	 
+Results for интегратор с предсказанием (simple):
+	the integrator with prediction
+Results for интегратор с узкополосным фильтром (simple):
+	the integrator with the narrow-band filter
+Results for интегратор тока:
+	 current integrator (Техника)
+	 
+Results for солионный [электрохимический] интегратор (simple):
+	solionny [electrochemical] integrator
+Results for стробируемый интегратор (simple):
+	strobiruyemy integrator
+Results for цифровой интегратор:
+	 digital integrator (Техника)
+	 
+Results for вертикальная интеграция:
+	 vertical integration (Бизнес)
+	 
+Results for горизонтальная интеграция:
+	 horizontal integration (Бизнес)
+	 
+Results for интеграция автоматизированной системы (simple):
+	integration of the automated system
+Results for интеграция баз данных (simple):
+	integration of databases
+Results for интеграция малого ((сверх)высокого, среднего) уровня (simple):
+	integration small ((over) high, average) level
+Results for интеграция на уровне компонентов (кристаллов, пластин) (simple):
+	integration at the level of components (crystals, plates)
+Results for интеграция на уровне приборов (схем, цепей, систем) (simple):
+	integration at the level of devices (schemes, chains, systems)
+Results for интеграция на целой пластине (simple):
+	integration at the whole plate
+Results for интеграция представлений (simple):
+	integration of representations
+Results for полная интеграция (simple):
+	full integration
+Results for графическое интегрирование:
+	 graphic integration (Техника)
+	 
+Results for (двойное) интегрирование с предсказанием (simple):
+	(double) integration with prediction
+Results for интегрирование в дискретных системах (simple):
+	integration in discrete systems
+Results for интегрирование видеосигналов (simple):
+	integration of video signals
+Results for интегрирование импульсов (simple):
+	integration of impulses
+Results for интегрирование методом подстановки (simple):
+	integration by a substitution method
+Results for интегрирование по частям:
+	 integration by parts (Естественные науки)
+	 
+Results for интегрирование разложением в ряд (simple):
+	integration by decomposition in a row
+Results for интегрирование цифрового сигнала данных (simple):
+	integration of a digital signal of data
+Results for неявное интегрирование (simple):
+	implicit integration
+Results for искусственный интеллект:
+	 artificial intelligence 
+Results for интенсивность воздействия (simple):
+	intensity of influence
+Results for интенсивность входного потока (simple):
+	intensity of an entrance stream
+Results for интенсивность звука (света) (simple):
+	intensity of a sound (light)
+Results for интенсивность излучения лазера в режиме свободной генерации (simple):
+	intensity of radiation of the laser in the mode of free generation
+Results for интенсивность ионизирующего излучения (simple):
+	intensity of ionizing radiation
+Results for интенсивность накачки (simple):
+	intensity of a rating
+Results for интенсивность обмена (simple):
+	intensity of exchange
+Results for интенсивность отказов:
+	 failure rate 
+	 failure density (Компьютеры)
+	 
+	 rate of failure (Техника)
+	 
+Results for интенсивность ошибок (simple):
+	intensity of mistakes
+Results for интенсивность поглощения:
+	 absorption intensity (Естественные науки)
+	 
+Results for интенсивность потока информации:
+	 information density 
+Results for интенсивность пучка:
+	 beam intensity (Естественные науки)
+	 
+Results for интенсивность рассеяния (simple):
+	intensity of dispersion
+Results for интенсивность реверберации (simple):
+	intensity of reverberation
+Results for интенсивность спектральной линии:
+	 spectral line intensity (Естественные науки)
+	 
+Results for интенсивность фона (simple):
+	intensity of a background
+Results for интенсивность электромагнитного излучения (simple):
+	intensity of electromagnetic radiation
+Results for начальная (экстраполированная) интенсивность (simple):
+	the initial (extrapolated) intensity
+Results for пороговая интенсивность:
+	 threshold intensity (Естественные науки)
+	 
+Results for временной интервал:
+	 time interval 
+	 time frame (Бизнес)
+	 
+	 time slot (Компьютеры)
+	 
+	 time window (Техника)
+	 
+Results for выделенный интервал (simple):
+	the allocated interval
+Results for доверительный интервал:
+	 confidence interval (Техника)
+	 
+	 credible interval (Компьютеры)
+	 
+Results for единичный интервал:
+	 unit interval (Компьютеры)
+	 
+Results for занятый интервал (simple):
+	the occupied interval
+Results for защитный интервал:
+	 guard interval (Техника)
+	 
+Results for значащий интервал (simple):
+	the meaning interval
+Results for интервал доступа:
+	 access interval (Компьютеры)
+	 
+Results for интервал закрытого состояния ключа (simple):
+	interval of the closed condition of a key
+Results for интервал между импульсами:
+	 pulse-to-pulse spacing (Компьютеры)
+	 
+Results for интервал между строками (simple):
+	interval between lines
+Results for интервал молчания (simple):
+	silence interval
+Results for интервал Найквиста [интервал дискретизации] (simple):
+	Nyquist's interval [sampling interval]
+Results for интервал обратного [непроводящего] состояния (simple):
+	interval of the return [nonconducting] state
+Results for интервал рабочих температур (simple):
+	interval of working temperatures
+Results for интервал регулирования:
+	 control interval (Техника)
+	 
+Results for интервал строк (simple):
+	interval of lines
+Results for интервал сходимости степенного ряда (simple):
+	interval of convergence of power series
+Results for интервал циклового синхросигнала (simple):
+	interval of a cyclic sinkhrosignal
+Results for информационный интервал (simple):
+	information interval
+Results for маркировочный интервал (simple):
+	marking interval
+Results for свободный [незанятый] интервал (simple):
+	free [unoccupied] interval
+Results for температурный интервал:
+	 temperature band (Естественные науки)
+	 
+Results for фотохромный интервал (simple):
+	fotokhromny interval
+Results for частотный интервал:
+	 frequency spacing (Техника)
+	 
+Results for энергетический интервал:
+	 energy interval (Естественные науки)
+	 
+Results for двумерная интерполяция:
+	 bivariate interpolation (Техника)
+	 
+Results for интерполяция отрезками прямых линий (simple):
+	interpolation by pieces of straight lines
+Results for интерполяция по ближайшим соседним элементам (simple):
+	interpolation on the next next elements
+Results for интерполяция сигнала (речи) (simple):
+	interpolation of a signal (speech)
+Results for интерполяция цифровых сигналов (simple):
+	interpolation of digital signals
+Results for кадровая интерполяция с адаптацией к движению (simple):
+	personnel interpolation with adaptation to the movement
+Results for односторонняя интерполяция (simple):
+	unilateral interpolation
+Results for интерпретатор импульсов набора (simple):
+	interpreter of impulses of set
+Results for интерпретатор командного языка (simple):
+	interpreter of command language
+Results for перфокарточный интерпретатор (simple):
+	punched card interpreter
+Results for интерпретация изображений (simple):
+	interpretation of images
+Results for интерпретация команд (simple):
+	interpretation of teams
+Results for внешний интерфейс:
+	 external interface (Компьютеры)
+	 
+Results for интеллектуальный интерфейс:
+	 intelligent interface (Компьютеры)
+	 
+Results for интерактивный интерфейс (simple):
+	interactive interface
+Results for интерфейс ввода-вывода данных (simple):
+	interface of input-output of data
+Results for интерфейс для межсетевых соединений (simple):
+	the interface for gateway connections
+Results for интерфейс для нормально разомкнутого датчика (simple):
+	the interface for normally opened sensor
+Results for интерфейс ЗУ (simple):
+	STORAGE interface
+Results for интерфейс канала прямого доступа (simple):
+	interface of the channel of direct access
+Results for интерфейс канала связи (simple):
+	communication channel interface
+Results for интерфейс командного типа (simple):
+	interface of command type
+Results for интерфейс магистрали (simple):
+	highway interface
+Results for интерфейс массового применения (simple):
+	interface of mass application
+Results for интерфейс между программами (simple):
+	the interface between programs
+Results for интерфейс на основе меню (simple):
+	the interface on the basis of the menu
+Results for интерфейс пакетного уровня (simple):
+	interface of package level
+Results for интерфейс параллельного (последовательного) типа (simple):
+	interface of parallel (consecutive) type
+Results for интерфейс подстанций (simple):
+	interface of substations
+Results for интерфейс пользователя (simple):
+	user's interface
+Results for интерфейс процессора:
+	 processor interface (Компьютеры)
+	 
+Results for интерфейс системы обмена данными (simple):
+	interface of system of data exchange
+Results for интерфейс с пользователем (simple):
+	the interface with the user
+Results for интерфейс с расширенным набором команд (simple):
+	the interface with an expanded set of teams
+Results for интерфейс телетайпа (simple):
+	teletype interface
+Results for интерфейс типа «главный-подчинённый» («токовая петля») (simple):
+	the " interface main - subordinated" ("a current loop")
+Results for интерфейс шины (simple):
+	tire interface
+Results for логический интерфейс:
+	 logical interface (Компьютеры)
+	 
+Results for межсетевой интерфейс:
+	 gateway[ˈɡeɪtweɪ] 
+	 inter-network interface (Компьютеры)
+	 
+Results for периферийный интерфейс:
+	 peripheral interface (Компьютеры)
+	 
+Results for приёмо-передающий интерфейс (simple):
+	send-receive interface
+Results for программируемый интерфейс:
+	 programmable interface (Компьютеры)
+	 
+Results for программный интерфейс:
+	 program interface (Компьютеры)
+	 
+Results for связной интерфейс (simple):
+	coherent interface
+Results for терминальный интерфейс:
+	 terminal interface (Компьютеры)
+	 
+Results for человеко-машинный интерфейс:
+	 human machine interface (Компьютеры)
+	 
+Results for анизотропная интерференция (simple):
+	anisotropic interference
+Results for двухлучевая интерференция (simple):
+	dual-beam interference
+Results for деструктивная интерференция:
+	 destructive interference (Техника)
+	 
+Results for интерференция волн (мод) (simple):
+	interference of waves (fashion)
+Results for интерференция волновых функций (simple):
+	interference of wave functions
+Results for интерференция в переходном режиме (simple):
+	interference in the transitional mode
+Results for конструктивная интерференция:
+	 constructive interference (Техника)
+	 
+Results for межсимвольная интерференция:
+	 intersymbol interference (Техника)
+	 
+Results for многолучевая интерференция:
+	 multibeam interference (Техника)
+	 
+Results for оптическая интерференция (simple):
+	optical interference
+Results for голографическая интерферограмма:
+	 holographic interferogram (Техника)
+	 
+Results for многолучевая интерферограмма:
+	 multibeam interferogram (Техника)
+	 
+Results for активный интерферометр:
+	 active interferometer (Техника)
+	 
+Results for акустический интерферометр:
+	 acoustic interferometer (Техника)
+	 
+Results for амплитудный интерферометр:
+	 intensity interferometer (Техника)
+	 
+Results for антирезонансный кольцевой интерферометр (simple):
+	anti-resonant ring interferometer
+Results for волоконно-оптический интерферометр (simple):
+	fiber-optical interferometer
+Results for газовый интерферометр:
+	 gas interferometer (Техника)
+	 
+Results for голографический интерферометр:
+	 holographic interferometer (Техника)
+	 
+Results for дифракционный интерферометр:
+	 diffraction interferometer (Техника)
+	 
+Results for звёздный интерферометр (simple):
+	star interferometer
+Results for интерферометр Майкельсона (Маха-Цендера, Рэлея, Фабри-Перо, Физо) (simple):
+	Michelson's interferometer (Makha-Tsendera, Rayleigh, Fabri-Perot, Fizo)
+Results for интерферометр с автоматическим подсчётом числа полос (simple):
+	the interferometer with automatic calculation of number of strips
+Results for интерферометр с вертикальными антеннами (simple):
+	the interferometer with vertical antennas
+Results for интерферометр с высоким разрешением (simple):
+	the interferometer with high resolution
+Results for интерферометр с длинной (со сверхдлинной, с переменной) базой (simple):
+	the interferometer with long (with superlong, from a variable) base
+Results for интерферометр с искривлёнными (плоскопараллельными, сферическими) зеркалами (simple):
+	the interferometer with bent (plane-parallel, spherical) mirrors
+Results for интерферометр с качающейся диаграммой направленности антенны (simple):
+	the interferometer with the shaking directional pattern of the antenna
+Results for интерферометр с магнитострикционным сканированием:
+	 magnitostrictively scanned interferometer (Техника)
+	 
+Results for интерферометр с несколькими антеннами (simple):
+	the interferometer with several antennas
+Results for интерферометр со сверхдлинной базой (simple):
+	the interferometer with superlong base
+Results for интерферометр со слежением за фазой:
+	 phase-tracking interferometer (Техника)
+	 
+Results for интерферометр с разделением волновых фронтов (simple):
+	the interferometer with division of wave fronts
+Results for интерферометр с разделением спеклов (simple):
+	the interferometer with division of spekl
+Results for коммутационный интерферометр (simple):
+	switching interferometer
+Results for конфокальный интерферометр (simple):
+	confocal interferometer
+Results for лазерный (мазерный) интерферометр (simple):
+	laser (mazerny) interferometer
+Results for многолучевой интерферометр:
+	 multi-beam interferometer (Техника)
+	 
+Results for оптический интерферометр:
+	 optic interferometer (Техника)
+	 
+Results for пассивный интерферометр:
+	 passive interferometer (Техника)
+	 
+Results for перестраиваемый интерферометр (simple):
+	the reconstructed interferometer
+Results for полуконфокальный интерферометр (simple):
+	semi-confocal interferometer
+Results for поляризационный интерферометр (simple):
+	polarizing interferometer
+Results for рентгеновский интерферометр (simple):
+	x-ray interferometer
+Results for сверхпроводящий квантовый интерферометр (simple):
+	superconducting quantum interferometer
+Results for СВЧ-интерферометр (simple):
+	Microwave interferometer
+Results for сканирующий интерферометр:
+	 scanning interferometer (Техника)
+	 
+Results for тонкоплёночный интерферометр (simple):
+	thin-film interferometer
+Results for фазовый интерферометр (simple):
+	phase interferometer
+Results for фазочувствительный интерферометр (simple):
+	phase-sensitive interferometer
+Results for щелевой интерферометр:
+	 cliff interferometer (Техника)
+	 
+Results for амплитудная интерферометрия:
+	 intensity interferometry (Техника)
+	 
+Results for голографическая интерферометрия:
+	 interferometric holography (Естественные науки)
+	 
+Results for двух(много)лучевая интерферометрия (simple):
+	two (many) beam interferometry
+Results for двумерная интерферометрия (simple):
+	two-dimensional interferometry
+Results for информативность признаков (simple):
+	informational content of signs
+Results for информационно- вычислительный (simple):
+	information computing
+Results for информационно- логический (simple):
+	information logical
+Results for информационно- поисковый (simple):
+	information search
+Results for информационно- справочный (simple):
+	information help
+Results for информационно- телеметрический (simple):
+	information telemetric
+Results for информационно- управляющая система телеобработки данных (simple):
+	the information operating system of teleprocessing of data
+Results for аналоговая информация (simple):
+	analog information
+Results for вводимая информация (simple):
+	the entered information
+Results for визуальная информация (simple):
+	visual information
+Results for входная информация:
+	 input information (Бизнес)
+	 
+Results for выборочная информация:
+	 sampled information (Техника)
+	 
+	 sample information (Бизнес)
+	 
+Results for выходная информация:
+	 output information (Бизнес)
+	 
+Results for голографическая информация (simple):
+	holographic information
+Results for графическая информация:
+	 graphic information (Компьютеры)
+	 
+Results for двоичная информация:
+	 binary information (Техника)
+	 
+Results for (де)кодированная информация (simple):
+	the coded information
+Results for (де)шифрованная информация (simple):
+	encoded information
+Results for дополнительная информация:
+	 additional information (Бизнес)
+	 
+Results for достоверная информация:
+	 reliable information 
+Results for избыточная информация:
+	 surplus information 
+	 redundant information (Естественные науки)
+	 
+Results for информация аутентификации (simple):
+	information of authentication
+Results for информация в машинном представлении (simple):
+	information in machine representation
+Results for информация о состоянии (simple):
+	information on a state
+Results for информация о цветности (simple):
+	information on chromaticity
+Results for информация, поступающая в реальном масштабе времени (simple):
+	information arriving in real time
+Results for информация радиолокатора (simple):
+	information of the radar
+Results for информация управления:
+	 management information (Компьютеры)
+	 
+Results for накопленная информация:
+	 accumulated information (Бизнес)
+	 
+Results for обработанная информация (simple):
+	the processed information
+Results for оперативно-управленческая информация (simple):
+	quick and administrative information
+Results for проектно-конструкторская информация (simple):
+	design information
+Results for производственная информация (simple):
+	production information
+Results for служебная информация:
+	 service information (Компьютеры)
+	 
+	 control footing (Техника)
+	 
+Results for суммарная информация (simple):
+	total information
+Results for текстовая информация (simple):
+	text information
+Results for текущая информация (simple):
+	current information
+Results for телеметрическая информация (simple):
+	telemetric information
+Results for хранимая информация (simple):
+	the stored information
+Results for цветовая информация (simple):
+	color information
+Results for цифровая информация (simple):
+	digital information
+Results for двухзарядный ион (simple):
+	two-charging ion
+Results for захваченный ион:
+	 trapped ion (Естественные науки)
+	 
+Results for избыточный ион:
+	 excess ion (Естественные науки)
+	 
+Results for имплантированный ион (simple):
+	the implanted ion
+Results for ион активного вещества лазера (мазера) (simple):
+	ion of active agent of the laser (Mather)
+Results for ион высокой энергии (simple):
+	ion of high energy
+Results for ион плазмы:
+	 plasma ion (Техника)
+	 
+Results for лёгкий ион (simple):
+	easy ion
+Results for однозарядный ион:
+	 singly charged ion (Техника)
+	 
+Results for отрицательный ион [анион] (simple):
+	negative ion [anion]
+Results for падающий ион (simple):
+	the falling ion
+Results for положительный ион [катион] (simple):
+	positive ion [cation]
+Results for тяжёлый ион (simple):
+	heavy ion
+Results for фоновый ион (simple):
+	background ion
+Results for химически активный ион (simple):
+	chemically active ion
+Results for авроральная ионизация (simple):
+	avroralny ionization
+Results for вторичная ионизация (simple):
+	secondary ionization
+Results for диссоциативная ионизация:
+	 dissociative ionisation (Техника)
+	 
+Results for ионизация газа (simple):
+	gas ionization
+Results for ионизация Пеннинга (simple):
+	Penning's ionization
+Results for ионизация примеси:
+	 impurity ionization (Естественные науки)
+	 
+Results for ионизация рентгеновским излучением (simple):
+	ionization by x-ray radiation
+Results for искусственная ионизация верхних слоёв атмосферы (simple):
+	artificial ionization of an upper atmosphere
+Results for лавинная ионизация:
+	 avalanche ionization (Естественные науки)
+	 
+Results for линейная ионизация (simple):
+	linear ionization
+Results for лоренцева ионизация (simple):
+	lorentseva ionization
+Results for метеорная ионизация (simple):
+	meteoric ionization
+Results for объёмная ионизация (simple):
+	volume ionization
+Results for оже-ионизация (simple):
+	ozhe-ionization
+Results for остаточная ионизация:
+	 residual ionization (Техника)
+	 
+Results for поверхностная ионизация:
+	 surface ionisation (Техника)
+	 
+Results for полевая ионизация (simple):
+	field ionization
+Results for первичная ионизация (simple):
+	primary ionization
+Results for спонтанная ионизация:
+	 spontaneous ionisation (Техника)
+	 
+Results for спорадическая ионизация (simple):
+	sporadic ionization
+Results for термическая ионизация (simple):
+	thermal ionization
+Results for ударная ионизация:
+	 ionization by collision (Естественные науки)
+	 
+Results for удельная ионизация (simple):
+	specific ionization
+Results for фоновая ионизация (simple):
+	background ionization
+Results for цепная ионизация (simple):
+	chain ionization
+Results for электронная ионизация (simple):
+	electronic ionization
+Results for ионно- имплантированный (simple):
+	ion-implanted
+Results for ионно- селективный (simple):
+	ion-selective
+Results for ионограмма наземного зондирования (simple):
+	ionogramma of land sounding
+Results for ионограмма вертикального (наклонного) зондирования (simple):
+	ionogramma of vertical (inclined) sounding
+Results for ионограмма внешнего зондирования (simple):
+	ionogramma of external sounding
+Results for цифровой ионозонд (simple):
+	digital ионозонд
+Results for внешняя ионосфера (simple):
+	external ionosphere
+Results for внутренняя ионосфера (simple):
+	internal ionosphere
+Results for высоко(низко)широтная ионосфера (simple):
+	highly (low) the width ionosphere
+Results for (не)возмущённая ионосфера (simple):
+	(not) the indignant ionosphere
+Results for несжимаемая ионосфера (simple):
+	incompressible ionosphere
+Results for плоскослоистая ионосфера:
+	 plane-stratified ionosphere (Техника)
+	 
+Results for стационарная ионосфера (simple):
+	stationary ionosphere
+Results for сферически-слоистая ионосфера (simple):
+	spherically - a layered ionosphere
+Results for (сверх)большая ИС (интегральная схема) (simple):
+	(over) big IS (integrated circuit)
+Results for гибридная ИС (интегральная схема) (simple):
+	hybrid IS (integrated circuit)
+Results for апертурное искажение:
+	 aperture effect (Естественные науки)
+	 
+Results for бочкообразное искажение:
+	 barrel distortion (Естественные науки)
+	 
+Results for искажение границ (цветных) переходов (simple):
+	distortion of borders (color) transitions
+Results for искажение изображения:
+	 image deformation (Естественные науки)
+	 
+Results for искажение импульса:
+	 pulse distortion (Техника)
+	 
+Results for искажение информации (simple):
+	distortion of information
+Results for искажение сигнала:
+	 signal distortion (Компьютеры)
+	 
+Results for искажение спектра (simple):
+	distortion of a range
+Results for искажение (структуры) поля (simple):
+	distortion (structures) of the field
+Results for искажение (формы) растра (simple):
+	distortion (forms) of a raster
+Results for искажение цифрового сигнала данных (simple):
+	distortion of a digital signal of data
+Results for трапецеидальное искажение:
+	 keystone distortion (Техника)
+	 
+Results for фазовое искажение:
+	 phase distortion (Компьютеры)
+	 
+Results for амплитудные искажения:
+	 amplitude distortion (Естественные науки)
+	 
+Results for асимметричные искажения (simple):
+	asymmetric distortions
+Results for бочкообразные искажения:
+	 barrel distortion (Естественные науки)
+	 
+Results for внутриполосные искажения (simple):
+	in-band distortions
+Results for геометрические искажения (simple):
+	geometrical distortions
+Results for дифференциальные искажения (simple):
+	differential distortions
+Results for зигзагообразные искажения (simple):
+	zigzag distortions
+Results for изохронные искажения:
+	 isochronous distortion (Компьютеры)
+	 
+Results for (интер)модуляционные искажения (simple):
+	(Inter) modulation distortions
+Results for искажения волнового фронта (simple):
+	distortions of the wave front
+Results for искажения в переходном режиме (simple):
+	distortions in the transitional mode
+Results for искажения временных параметров (simple):
+	distortions of temporary parameters
+Results for искажения в усилителе (simple):
+	distortions in the amplifier
+Results for искажения задержки (simple):
+	distortions of a delay
+Results for искажения (кристаллической) решётки (simple):
+	distortions (crystal) lattice
+Results for искажения огибания:
+	 tracing distortion (Техника)
+	 
+Results for искажения преобладания (simple):
+	distortions of prevalence
+Results for искажения при приёме ЧМ-сигналов (simple):
+	distortions at reception of World Cup of signals
+Results for искажения пятна (simple):
+	distortions of a spot
+Results for искажения цвета:
+	 color aberration (Естественные науки)
+	 
+	 color distortion (Компьютеры)
+	 
+Results for краевые искажения:
+	 arrival curve distortion (Техника)
+	 
+Results for критические искажения (simple):
+	critical distortions
+Results for максимальные общие искажения (simple):
+	maximum general distortions
+Results for (не)линейные искажения (simple):
+	(not) linear distortions
+Results for оптические искажения:
+	 optical distortion (Естественные науки)
+	 
+Results for относительные искажения (simple):
+	relative distortions
+Results for подушкообразные искажения:
+	 pin-cushion distortion (Техника)
+	 
+Results for радиочастотные искажения (simple):
+	radio-frequency distortions
+Results for случайные искажения:
+	 fortuitous distortion (Компьютеры)
+	 
+Results for стартстопные искажения:
+	 start-stop distortion (Компьютеры)
+	 
+Results for телеграфные искажения:
+	 telegraph distortion (Компьютеры)
+	 
+Results for фазочастотные искажения:
+	 phase frequency distortion (Компьютеры)
+	 
+	 phase-frequency distortion (Техника)
+	 
+Results for характеристические искажения:
+	 characteristic distortion (Техника)
+	 
+Results for эллиптические искажения (формы) ЦМД (simple):
+	elliptic distortions (forms) of TsMD
+Results for групповое искание:
+	 group hunting (Компьютеры)
+	 
+Results for искание вызовов (simple):
+	search of calls
+Results for искание индуктивным способом (simple):
+	search in the inductive way
+Results for искание при (клавиатурном) наборе (simple):
+	search at (keyboard) set
+Results for искание при наборе по международной (местной) линии (simple):
+	search at set on the international (local) line
+Results for многочастотное искание:
+	 multifrequency keying (Техника)
+	 
+Results for прямое искание:
+	 direct keying (Компьютеры)
+	 
+	 direct selection (Техника)
+	 
+Results for свободное искание:
+	 point-to-any selection (Компьютеры)
+	 
+	 non-numerical action (Техника)
+	 
+Results for транзитное искание:
+	 tandem selection (Техника)
+	 
+Results for быстродействующий искатель (simple):
+	high-speed seeker
+Results for групповой искатель:
+	 group selector (Компьютеры)
+	 
+	 district selector (Техника)
+	 
+Results for искатель в телефонии и телеграфии (simple):
+	the seeker in telephony and telegraphy
+Results for искатель вызова (simple):
+	seeker of a call
+Results for искатель повреждений:
+	 fault detector (Естественные науки)
+	 
+	 trouble finder (Компьютеры)
+	 
+Results for искатель строки (simple):
+	seeker of a line
+Results for искатель трансмиттера (simple):
+	finder of the transmitter
+Results for линейный искатель:
+	 final selector (Техника)
+	 
+	 line finder (Компьютеры)
+	 
+	 line selector (Техника)
+	 
+Results for универсальный искатель (simple):
+	universal seeker
+Results for шаговый искатель:
+	 stepping finder (Техника)
+	 
+Results for исключение записи (simple):
+	record exception
+Results for исключение из правил:
+	 exception to the rules 
+Results for исключение из рассмотрения (simple):
+	exception of consideration
+Results for исключение по значимости (simple):
+	exception on the importance
+Results for исключение погрешности (simple):
+	error exception
+Results for исключение символов (simple):
+	exception of symbols
+Results for вакуумная искра (simple):
+	vacuum spark
+Results for длинная искра (simple):
+	long spark
+Results for пробивная искра (simple):
+	penetrative spark
+Results for разрядная искра (simple):
+	digit spark
+Results for электрическая искра (simple):
+	electric spark
+Results for беспорядочное искрение (simple):
+	chaotic sparking
+Results for искрение контактов (simple):
+	sparking of contacts
+Results for искрение магнетрона (simple):
+	sparking of the magnetron
+Results for коммутационное искрение (simple):
+	switching sparking
+Results for электрическое искрение (simple):
+	electric sparking
+Results for искривление изображения:
+	 curvature of the image field (Техника)
+	 
+Results for искривление радиолуча в атмосфере (simple):
+	radio beam curvature in the atmosphere
+Results for искривление траектории радиоволны за счёт тропосферной рефракции (simple):
+	radio wave trajectory curvature at the expense of a tropospheric refraction
+Results for искривление траектории электронного пучка (simple):
+	curvature of a trajectory of an electron beam
+Results for резистивно-ёмкостный искрогаситель (simple):
+	the resistance-capacitance spark arrester
+Results for взрывное испарение:
+	 flash evaporation (Техника)
+	 
+Results for испарение лазерным лучом (simple):
+	evaporation by a laser beam
+Results for испарение легирующей примеси (simple):
+	evaporation of the alloying impurity
+Results for испарение расплава (simple):
+	fusion evaporation
+Results for испарение растворителя (simple):
+	solvent evaporation
+Results for испарение с нити накала (simple):
+	evaporation from filament
+Results for испарение с помощью электронного прожектора (simple):
+	evaporation by means of an electronic searchlight
+Results for реактивное испарение (simple):
+	jet evaporation
+Results for термическое испарение в вакууме (simple):
+	thermal evaporation in a vacuum
+Results for герметическое исполнение (simple):
+	hermetic execution
+Results for исполнение запросов (simple):
+	execution of inquiries
+Results for использование результатов (simple):
+	use of results
+Results for использование ресурсов:
+	 resources use (Техника)
+	 
+Results for исправление (многократных) ошибок (simple):
+	correction (repeated) mistakes
+Results for исправление ошибок без введения избыточности (simple):
+	correction of mistakes without introduction of redundancy
+Results for исправление повреждений (simple):
+	correction of damages
+Results for исправление программы (simple):
+	correction of the program
+Results for прямое исправление (simple):
+	direct correction
+Results for исправность приборов (simple):
+	serviceability of devices
+Results for государственное испытание:
+	 official test (Естественные науки)
+	 
+Results for испытание изделия (simple):
+	test of a product
+Results for испытание изоляции:
+	 insulation test (Техника)
+	 
+Results for испытание линии (simple):
+	test of the line
+Results for испытание на нагревание (simple):
+	test for heating
+Results for испытание на обрыв (simple):
+	test for break
+Results for испытание на пробой:
+	 breakdown test (Естественные науки)
+	 
+	 arcing test (Техника)
+	 
+Results for испытание на удар:
+	 impact test (Естественные науки)
+	 
+Results for ускоренное испытание:
+	 accelerated test (Естественные науки)
+	 
+Results for выборочные испытания:
+	 selective testing 
+	 percent test (Техника)
+	 
+	 odd test (Техника)
+	 
+Results for диагностические функциональные испытания (simple):
+	diagnostic functional tests
+Results for динамические испытания:
+	 dynamic test (Естественные науки)
+	 
+Results for доводочные испытания:
+	 development test (Техника)
+	 
+Results for долговременные испытания (simple):
+	long-term tests
+Results for испытания без восстановления (simple):
+	tests without restoration
+Results for испытания в период монтажа оборудования (simple):
+	tests during installation of equipment
+Results for испытания в производственных (реальных) условиях (simple):
+	tests in working (real) conditions
+Results for испытания в условиях космического пространства (simple):
+	tests in the conditions of space
+Results for испытания диэлектриков (simple):
+	tests of dielectrics
+Results for испытания замкнутой системы (simple):
+	tests of the closed system
+Results for испытания методом сравнения (simple):
+	tests by a comparison method
+Results for испытания на безопасность:
+	 safety test (Техника)
+	 
+Results for испытания на вибро(влаго)стойкость (simple):
+	tests on вибро (moisture) firmness
+Results for испытания на воздействие ускорений:
+	 acceleration test (Техника)
+	 
+Results for испытания на выносливость:
+	 endurance test (Естественные науки)
+	 
+Results for испытания на герметичность:
+	 leak test (Естественные науки)
+	 
+	 leak proving (Компьютеры)
+	 
+	 pressure leakage test (Техника)
+	 
+	 leakage test (Кулинария)
+	 
+Results for испытания на долговечность в условиях эксплуатации (simple):
+	tests for durability under operating conditions
+Results for испытания на изнашивание (simple):
+	tests for wear
+Results for испытания на интенсивность отказов:
+	 failure-rate test (Техника)
+	 
+Results for испытания на надёжность:
+	 fail-safe test 
+Results for испытания на принудительный отказ:
+	 forced-failure test (Техника)
+	 
+Results for испытания на прочность:
+	 strength test (Естественные науки)
+	 
+	 mechanical strength test (Техника)
+	 
+Results for испытания на скорость деградации параметров (simple):
+	tests for the speed of degradation of parameters
+Results for испытания на сохраняемость (simple):
+	tests for storageability
+Results for испытания на старение:
+	 ageing test (Естественные науки)
+	 
+	 aging test (Техника)
+	 
+Results for испытания на стойкость к изгибу (ударам) (simple):
+	tests for resistance to a bend (blows)
+Results for испытания на термическую усталость:
+	 thermal-fatigue test (Техника)
+	 
+Results for испытания на тропикостойкость (simple):
+	tests on a tropikostoykost
+Results for испытания на устойчивость к одиночным ударам (постоянному ускорению) (simple):
+	tests for resistance to single blows (continuous acceleration)
+Results for испытания на электрическую прочность (simple):
+	tests for electric durability
+Results for испытания опытного образца (прибора) (simple):
+	tests of a prototype (device)
+Results for испытания под воздействием поля (simple):
+	tests under the influence of the field
+Results for испытания по способу тарирования (simple):
+	tests on a way of a tarirovaniye
+Results for испытания при прослушивании (simple):
+	tests when listening
+Results for испытания при постепенном увеличении нагрузки (simple):
+	tests at gradual increase in loading
+Results for испытания при постоянной (статической) нагрузке (simple):
+	tests at constant (static) loading
+Results for испытания программы (simple):
+	tests of the program
+Results for испытания разомкнутой системы (simple):
+	tests of the opened system
+Results for испытания с восстановлением (simple):
+	tests with restoration
+Results for испытания с принудительным продолжением (simple):
+	tests with compulsory continuation
+Results for квалификационные испытания:
+	 qualification test (Техника)
+	 
+Results for климатические испытания:
+	 environmental test (Техника)
+	 
+Results for комплексные испытания:
+	 integrated test (Естественные науки)
+	 
+	 comprehensive test (Техника)
+	 
+Results for контрольные испытания:
+	 check test (Естественные науки)
+	 
+	 monitoring test (Бизнес)
+	 
+Results for кратковременные испытания:
+	 short-run test (Естественные науки)
+	 
+	 short-term test (Техника)
+	 
+Results for лабораторные испытания:
+	 laboratory research 
+	 bench test (Естественные науки)
+	 
+	 laboratory test (Техника)
+	 
+Results for модельные испытания:
+	 model trial (Естественные науки)
+	 
+	 dummy test (Техника)
+	 
+Results for (не)автономные испытания (simple):
+	(not) autonomous tests
+Results for (не)разрушающие испытания (simple):
+	not destroying tests
+Results for отбраковочные испытания:
+	 burn-in testing (Компьютеры)
+	 
+Results for предварительные испытания:
+	 trial test (Естественные науки)
+	 
+	 preliminary test (Техника)
+	 
+Results for приёмо-сдаточные испытания (simple):
+	acceptance tests
+Results for сравнительные испытания:
+	 comparison testing (Техника)
+	 
+	 comparative trial (Кулинария)
+	 
+	 cross-validation testing (Компьютеры)
+	 
+	 comparison test (Техника)
+	 
+Results for стендовые испытания:
+	 bench test (Естественные науки)
+	 
+Results for субъективные испытания (simple):
+	subjective tests
+Results for технические испытания:
+	 engineering test (Техника)
+	 
+Results for типовые [стандартные] испытания (simple):
+	standard [standard] tests
+Results for ускоренные испытания на долговечность (simple):
+	the accelerated tests for durability
+Results for форсированные испытания:
+	 accelerated test (Техника)
+	 
+Results for эксплуатационные испытания:
+	 service test (Естественные науки)
+	 
+	 operating test (Бизнес)
+	 
+Results for испытатель заземлений (simple):
+	tester of grounding
+Results for испытатель изоляции:
+	 insulation tester (Техника)
+	 
+Results for испытатель кабеля (simple):
+	tester of a cable
+Results for испытатель ламп (simple):
+	tester of lamps
+Results for испытатель приёмников (simple):
+	tester of receivers
+Results for испытатель транзисторов (simple):
+	tester of transistors
+Results for исследование операций:
+	 operations research (Естественные науки)
+	 
+	 operational research (Естественные науки)
+	 
+Results for полное исследование (simple):
+	full research
+Results for предварительное исследование:
+	 pilot survey (Техника)
+	 
+Results for визит-исследователь (simple):
+	visit researcher
+Results for истечение времени ожидания события (simple):
+	expiration of waiting time of an event
+Results for истечение срока выполнения (действия) (simple):
+	expiration of performance (action)
+Results for истечение тока (simple):
+	expiration of current
+Results for исток полевого транзистора (simple):
+	source of the field transistor
+Results for автономный источник питания (simple):
+	independent power supply
+Results for внегалактический источник радиоизлучения (simple):
+	extragalactic source of a radio emission
+Results for восстанавливающий источник (simple):
+	the restoring source
+Results for вторичный источник света (simple):
+	secondary light source
+Results for вторичный (первичный) источник питания (simple):
+	secondary (primary) power supply
+Results for газообразный (жидкий, твёрдый) источник примеси (simple):
+	gaseous (liquid, firm) impurity source
+Results for источник анодного питания (simple):
+	source of anode food
+Results for источник без памяти (simple):
+	source without memory
+Results for источник возбуждения спектров (simple):
+	source of excitement of ranges
+Results for источник гармоник напряжения (simple):
+	source of harmonicas of tension
+Results for источник (гармонических) помех (simple):
+	source (harmonious) hindrances
+Results for источник Гюйгенса (simple):
+	Huygens's source
+Results for источник данных:
+	 data source 
+	 source of data 
+Results for источник диффузанта (simple):
+	diffuzant source
+Results for источник информации:
+	 information generator (Техника)
+	 
+Results for источник инфракрасного излучения:
+	 bowl-fire (Естественные науки)
+	 
+	 infrared light source (Компьютеры)
+	 
+Results for источник ионизирующего излучения:
+	 ionizing radiation source (Естественные науки)
+	 
+Results for источник ионов (примеси) (simple):
+	source of ions (impurity)
+Results for источник когерентного света (simple):
+	source of coherent light
+Results for источник легирующей примеси (simple):
+	source of the alloying impurity
+Results for источник мешающих напряжений (simple):
+	source of the disturbing tension
+Results for источник накачки:
+	 pump source (Техника)
+	 
+Results for источник напряжения, управляемого напряжением (simple):
+	source of tension operated by tension
+Results for источник неизменяющегося постоянного тока (simple):
+	source of not changing direct current
+Results for источник напряжения накала (смещения на сетке) (simple):
+	heat tension source (shifts on a grid)
+Results for источник опорного напряжения:
+	 reference supply source (Компьютеры)
+	 
+	 voltage reference (Техника)
+	 
+Results for источник ошибок:
+	 error source (Техника)
+	 
+Results for источник питания с двухполупериодным выпрямителем (simple):
+	the power supply with the two-half-period rectifier
+Results for источник питания с цифровым программным управлением (simple):
+	the power supply with digital program control
+Results for источник плазмы (simple):
+	plasma source
+Results for источник поляризующего напряжения (simple):
+	source of the polarizing tension
+Results for источник помех:
+	 interference source (Техника)
+	 
+Results for источник радиосигнала (simple):
+	radio signal source
+Results for источник света:
+	 light source 
+	 luminous source (Техника)
+	 
+Results for источник СВЧ-излучения (simple):
+	microwave radiation source
+Results for источник с малой степенью когерентности (simple):
+	source with small degree of coherence
+Results for источник сообщения (simple):
+	message source
+Results for источник со стандартной температурой (simple):
+	source with a standard temperature
+Results for источник с памятью (simple):
+	source with memory

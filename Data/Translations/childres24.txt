@@ -1,0 +1,2461 @@
+Results for указатель направления полёта относительно радиомаяка (simple):
+	flight direction sign concerning the radio beacon
+Results for указатель начала (конца) рабочего поля (simple):
+	index of the beginning (end) of the working field
+Results for указатель (не)соответствия (simple):
+	index (not) of compliance
+Results for указатель нуля (simple):
+	index of zero
+Results for указатель отказов (simple):
+	index of refusals
+Results for указатель пеленга:
+	 bearing indicator (Техника)
+	 
+Results for указатель перегрузки:
+	 g-load indicator (Техника)
+	 
+Results for указатель положения:
+	 position indicator (Техника)
+	 
+Results for указатель полярности:
+	 polarity indicator (Естественные науки)
+	 
+Results for указатель посадочного курса (simple):
+	index of a landing course
+Results for указатель свободной линии:
+	 clearing indicator (Компьютеры)
+	 
+	 supervisory indicator (Техника)
+	 
+Results for указатель состояния (simple):
+	index of a state
+Results for указатель текущей строки (simple):
+	index of the current line
+Results for указатель утечки тока (simple):
+	index of leakage of current
+Results for указатель функции:
+	 function pointer (Компьютеры)
+	 
+Results for укладка графа (simple):
+	laying of the count
+Results for укладка перфокарт (simple):
+	laying of punched cards
+Results for улавливание пыли:
+	 dust recovery (Техника)
+	 
+Results for ближний ультрафиолет (simple):
+	near ultraviolet
+Results for вакуумный ультрафиолет (simple):
+	vacuum ultraviolet
+Results for дальний ультрафиолет (simple):
+	distant ultraviolet
+Results for уменьшение глубины модуляции (simple):
+	reduction of depth of modulation
+Results for уменьшение изображения (simple):
+	reduction of the image
+Results for уменьшение контраста (simple):
+	reduction of contrast
+Results for уменьшение связи (simple):
+	communication reduction
+Results for уменьшение частоты вращения:
+	 driving down (Естественные науки)
+	 
+Results for вторично-эмиссионное умножение (simple):
+	secondary and issue multiplication
+Results for коллекторное умножение:
+	 collector multiplication (Техника)
+	 
+Results for лавинное умножение:
+	 avalanche multiplication (Техника)
+	 
+Results for логическое умножение (simple):
+	logical multiplication
+Results for умножение в обратном порядке:
+	 premultiplication (Техника)
+	 
+Results for умножение добротности (simple):
+	multiplication of good quality
+Results for умножение напряжений (simple):
+	multiplication of tension
+Results for умножение носителей (simple):
+	multiplication of carriers
+Results for умножение частоты на варакторном диоде (simple):
+	multiplication of frequency on the varaktorny diode
+Results for акустооптический умножитель (simple):
+	optical-acoustic multiplier
+Results for варакторный (квантовый, клистронный, магнитный, параметрический) умножитель частоты (simple):
+	varaktorny (quantum, klistronny, magnetic, parametrical) frequency multiplier
+Results for вторично-электронный умножитель:
+	 secondary emission electron multiplier (Естественные науки)
+	 
+Results for высокочастотный умножитель (simple):
+	high-frequency multiplier
+Results for каскадный умножитель (simple):
+	cascade multiplier
+Results for потенциометрический умножитель (simple):
+	electrometric multiplier
+Results for тензометрический умножитель:
+	 strain-gauge multiplier (Техника)
+	 
+Results for терморезисторный умножитель (simple):
+	thermistor multiplier
+Results for трансверсальный умножитель матрицы на вектор (simple):
+	the transversal multiplier of a matrix on a vector
+Results for умножитель-аккумулятор (simple):
+	multiplier accumulator
+Results for умножитель действительных (мнимых) чисел (simple):
+	multiplier of the real (imaginary) numbers
+Results for умножитель добротности (simple):
+	good quality multiplier
+Results for умножитель матриц (simple):
+	multiplier of matrixes
+Results for умножитель напряжения:
+	 voltage multiplier (Техника)
+	 
+Results for умножитель с регулируемым коэффициентом усиления (simple):
+	the multiplier with adjustable coefficient of strengthening
+Results for умножитель-сумматор (simple):
+	multiplier adder
+Results for умножитель частоты на эффекте циклотронного резонанса (simple):
+	the frequency multiplier on effect of a cyclotron resonance
+Results for умножитель частоты с дробным коэффициентом умножения (simple):
+	the frequency multiplier with fractional coefficient of multiplication
+Results for усредняющий стробирующий умножитель (simple):
+	the averaging strobiruyushchy multiplier
+Results for фотоэлектронный умножитель:
+	 photomultiplier tube (Техника)
+	 
+Results for холловский умножитель [умножитель Холла] (simple):
+	Hall multiplier [Hall's multiplier]
+Results for унификация терминологии (simple):
+	unification of terminology
+Results for взаимное уничтожение (simple):
+	mutual destruction
+Results for попарное уничтожение (simple):
+	paired destruction
+Results for уничтожение иррациональности (simple):
+	destruction of irrationality
+Results for уничтожение степени свободы (simple):
+	destruction of degree of freedom
+Results for интегральная упаковка (simple):
+	integrated packing
+Results for модульная упаковка (simple):
+	modular packing
+Results for планарная упаковка (simple):
+	planar packing
+Results for плотная (гексагональная) упаковка (simple):
+	dense (hexagonal) packing
+Results for упаковка данных (simple):
+	packing of data
+Results for упаковка полос люминофоров (simple):
+	packing of strips of phosphors
+Results for упаковка электронных схем (simple):
+	packing of electronic schemes
+Results for упаковка N-го уровня (simple):
+	packing of N-go of level
+Results for функциональная упаковка (simple):
+	functional packing
+Results for асинхронное уплотнение (simple):
+	asynchronous consolidation
+Results for вакуумное уплотнение:
+	 vacuum seal (Естественные науки)
+	 
+Results for временное уплотнение (по импульсным последовательностям) (simple):
+	temporary consolidation (on the pulse sequences)
+Results for временное уплотнение с импульсной модуляцией (simple):
+	temporary consolidation with pulse modulation
+Results for кодовое уплотнение (simple):
+	code consolidation
+Results for компрессионное уплотнение:
+	 compression seal (Техника)
+	 
+Results for уплотнение аппаратуры (simple):
+	consolidation of the equipment
+Results for уплотнение байтов (simple):
+	consolidation of bytes
+Results for уплотнение данных:
+	 data compaction (Компьютеры)
+	 
+Results for уплотнение кабеля:
+	 cable superimposing (Техника)
+	 
+Results for уплотнение каналов (телеграфных линий) связи (simple):
+	consolidation of channels (cable lines) of communication
+Results for уплотнение команд (simple):
+	consolidation of teams
+Results for уплотнение памяти (simple):
+	memory consolidation
+Results for частотное уплотнение:
+	 frequency division multiplex (Техника)
+	 
+Results for уплощение амплитудно-частотной характеристики (simple):
+	flattening of the amplitude-frequency characteristic
+Results for упорядочение по возрастанию (приоритетам, убыванию) (simple):
+	streamlining on increase (priorities, decrease)
+Results for автоматическое управление (полётом) (simple):
+	automatic control (flight)
+Results for автономное управление:
+	 off-line control 
+	 self-contained control (Техника)
+	 
+Results for адаптивное управление:
+	 adaptive control (Естественные науки)
+	 
+Results for безынерционное управление:
+	 infinitely fast control (Техника)
+	 
+Results for внешнее (внутреннее) управление (simple):
+	external (internal) management
+Results for высокоуровневое управление каналом передачи данных:
+	 high-level data link control (Компьютеры)
+	 
+Results for двойное управление:
+	 dual operation (Естественные науки)
+	 
+	 double control (Бизнес)
+	 
+Results for двухпозиционное управление:
+	 on-off control (Компьютеры)
+	 
+Results for диспетчерское управление:
+	 supervisory control (Компьютеры)
+	 
+	 dispatcher control (Техника)
+	 
+Results for дистанционное управление:
+	 remote control 
+	 distance control (Естественные науки)
+	 
+	 distance steering (Естественные науки)
+	 
+	 distant control (Техника)
+	 
+Results for иерархическое управление:
+	 hierarchical control (Техника)
+	 
+Results for интеллектуальное управление верхнего (нижнего) уровня (simple):
+	intellectual management of the top (lower) level
+Results for каскадное управление (simple):
+	cascade management
+Results for (квази)оптимальное управление (simple):
+	(quasi) optimum control
+Results for клавишное управление:
+	 piano-key control 
+Results for кнопочное управление:
+	 button control (Компьютеры)
+	 
+	 finger-tip control (Естественные науки)
+	 
+	 pressbutton control (Техника)
+	 
+Results for командное управление:
+	 command control (Техника)
+	 
+Results for коммутационное управление (simple):
+	switching management
+Results for контурное управление (simple):
+	planimetric management
+Results for машинное управление (simple):
+	machine management
+Results for механическое управление регулятором уровня (simple):
+	mechanical control by the level regulator
+Results for микропрограммное управление (simple):
+	microprogram management
+Results for микропроцессорное управление:
+	 microprocessor control (Естественные науки)
+	 
+Results for многокоординатное управление (simple):
+	multicoordinate management
+Results for многомерное управление (simple):
+	multidimensional management
+Results for непосредственное управление:
+	 direct manipulation (Компьютеры)
+	 
+	 direct operation (Техника)
+	 
+Results for непрерывное (прерывистое) управление (simple):
+	continuous (faltering) management
+Results for нервно-мышечное управление (simple):
+	neuromuscular management
+Results for обучающееся управление (simple):
+	the studying management
+Results for общесистемное управление (simple):
+	system-wide management
+Results for отказоустойчивое управление (simple):
+	failure-safe management
+Results for параметрическое управление:
+	 parametric control (Компьютеры)
+	 
+Results for позиционное управление (simple):
+	position management
+Results for последовательное управление (simple):
+	consecutive management
+Results for приоритетное управление:
+	 priority control (Техника)
+	 
+Results for радиолокационное управление:
+	 beam approach beacon (Техника)
+	 
+Results for рефлексивное управление (simple):
+	reflexive management
+Results for речевое управление (simple):
+	speech management
+Results for ручное управление:
+	 manual control 
+	 hand operation (Техника)
+	 
+Results for самоорганизующееся управление (simple):
+	the self-organized management
+Results for сенсорное управление:
+	 touch control (Компьютеры)
+	 
+Results for сеточное управление (simple):
+	net management
+Results for сквозное управление (simple):
+	through management
+Results for следящее управление (simple):
+	the watching management
+Results for стабилизирующее управление (simple):
+	the stabilizing management
+Results for столбцовое (строчное) управление положением (simple):
+	column (lower case) management of situation
+Results for управление базой (потоком) данных (simple):
+	management of base (stream) of data
+Results for управление без искажения (simple):
+	management without distortion
+Results for управление без обратной связи (simple):
+	management without feedback
+Results for управление в автономном (интерактивном, оперативном) режиме (simple):
+	management in autonomous (interactive, quick) the mode
+Results for управление (виртуальной) памятью (simple):
+	management (virtual) memory
+Results for управление воздушным (наземным) движением (simple):
+	management of the air (land) traffic
+Results for управление в реальном масштабе времени (simple):
+	management in real time
+Results for управление доступом:
+	 access control (Компьютеры)
+	 
+	 control of access (Техника)
+	 
+Results for управление заданиями:
+	 job control (Компьютеры)
+	 
+Results for управление зарядом (simple):
+	management of a charge
+Results for управление заходом на посадку:
+	 control approach (Техника)
+	 
+Results for управление каналом (simple):
+	control of the channel
+Results for управление камерой (simple):
+	control of the camera
+Results for управление качеством продукции:
+	 product quality control 
+Results for управление конечным автоматом (состоянием) (simple):
+	control of the finite-state machine (state)
+Results for управление курсором:
+	 cursor control (Компьютеры)
+	 
+Results for управление линией передачи данных (simple):
+	management of a data line
+Results for управление лучом:
+	 beam control (Компьютеры)
+	 
+Results for управление нагрузкой:
+	 load control (Компьютеры)
+	 
+Results for управление обработкой ошибок:
+	 error management (Компьютеры)
+	 
+Results for управление операциями (simple):
+	management of operations
+Results for управление периферийным оборудованием (simple):
+	control of the peripheral equipment
+Results for управление печатью (simple):
+	management of the press
+Results for управление по дальности (крену, тангажу) (simple):
+	management on the range (a list, pitch)
+Results for управление по заданным значениям (simple):
+	management on preset values
+Results for управление по командам с Земли (simple):
+	management according to teams from Earth
+Results for управление положением антенны (пучка) (simple):
+	management of position of the antenna (bunch)
+Results for управление потоком информации (simple):
+	management of a flow of information
+Results for управление прерываниями (simple):
+	management of interruptions
+Results for управление процессами:
+	 process management (Бизнес)
+	 
+Results for управление разработкой и сопровождением программ (simple):
+	management of development and support of programs
+Results for управление распределением сообщений в сети связи (simple):
+	management of distribution of messages in a communication network
+Results for управление с выносного пульта (simple):
+	management from the portable panel
+Results for управление сетью:
+	 network management (Компьютеры)
+	 
+Results for управление с иерархической организацией интеллекта (simple):
+	management with the hierarchical organization of intelligence
+Results for управление скоростью электронов (simple):
+	speed control of electrons
+Results for управление с обратной связью:
+	 feedback control 
+Results for управление с прогнозированием (simple):
+	management with forecasting
+Results for управление структурой доменной границы (simple):
+	management of domain border of structure
+Results for управление уровнем (видео)сигнала (simple):
+	management of the level (video) of a signal
+Results for управление центральным процессором (simple):
+	control of the central processing unit
+Results for управление частотой:
+	 frequency management (Техника)
+	 
+Results for финитное управление (simple):
+	finite management
+Results for цифровое управление:
+	 digital control 
+	 numerical control (Естественные науки)
+	 
+Results for числовое программное управление:
+	 numerical control (Компьютеры)
+	 
+Results for электрическое управление:
+	 electrical control (Техника)
+	 
+Results for электронное управление:
+	 electronic control 
+Results for буквенное уравнение (simple):
+	alphabetic equation
+Results for булево уравнение (simple):
+	Boolean equation
+Results for векторное уравнение:
+	 vector equation (Техника)
+	 
+Results for возвратное уравнение:
+	 reciprocal equation (Естественные науки)
+	 
+Results for возмущённое уравнение (simple):
+	indignant equation
+Results for волновое уравнение:
+	 wave equation (Естественные науки)
+	 
+Results for выводное уравнение (simple):
+	output equation
+Results for гидродинамическое [жидкостное] уравнение (simple):
+	hydrodynamic [liquid] equation
+Results for дискретизованное уравнение (simple):
+	diskretizovanny equation
+Results for микромагнитное уравнение (simple):
+	micromagnetic equation
+Results for (не)линейное уравнение (simple):
+	(not) the linear equation
+Results for неопределённое уравнение (simple):
+	uncertain equation
+Results for определяющее уравнение:
+	 indicial equation (Естественные науки)
+	 
+Results for приближённое уравнение (simple):
+	approximate equation
+Results for приведённое уравнение (simple):
+	the given equation
+Results for синусоидальное уравнение Гордона (simple):
+	sinusoidal equation of Gordon
+Results for сопряжённое уравнение (simple):
+	the interfaced equation
+Results for телеграфное уравнение:
+	 telegraph equation (Естественные науки)
+	 
+Results for уравнение Больцмана:
+	 Boltzmann equation (Техника)
+	 
+Results for уравнение в конечных разностях:
+	 difference equation (Естественные науки)
+	 
+Results for уравнение в полных дифференциалах:
+	 exact differential equation (Естественные науки)
+	 
+Results for уравнение в частных производных:
+	 partial equation (Естественные науки)
+	 
+Results for уравнение Джозефсона (simple):
+	Josephson's equation
+Results for уравнение диода (simple):
+	diode equation
+Results for уравнение Дирака (simple):
+	Dirac's equation
+Results for уравнение диффузии:
+	 diffusion equation (Естественные науки)
+	 
+Results for уравнение для максимальной дальности действия РЛС (simple):
+	the equation for the maximum range of radar station
+Results for уравнение для энергии радиолокационного сигнала в свободном пространстве (simple):
+	the equation for energy of a radar signal in free space
+Results for уравнение колебаний (simple):
+	equation of fluctuations
+Results for уравнение контурных токов (simple):
+	equation of planimetric currents
+Results for уравнение Кортевега-де Фриза [КдФ] (simple):
+	equation of Kortevega of the Frieze [KDF]
+Results for уравнение кривой:
+	 equation of a curve (Естественные науки)
+	 
+Results for уравнение Ландау-Лифшица (simple):
+	Landau-Lifshitsa's equation
+Results for уравнение межрегистровой передачи (simple):
+	equation of interregister transfer
+Results for уравнение мощности РЛС (simple):
+	equation of power of radar station
+Results for уравнение непрерывности:
+	 continuity equation (Техника)
+	 
+Results for уравнение неразрывности:
+	 equation of continuity (Естественные науки)
+	 
+	 continuity equation (Компьютеры)
+	 
+Results for уравнение одножидкостной теории (simple):
+	equation of the one-liquid theory
+Results for уравнение переноса заряда (simple):
+	equation of transfer of a charge
+Results for уравнение полезной мощности (simple):
+	equation of useful power
+Results for уравнение потенциалов (simple):
+	equation of potentials
+Results for уравнение правдоподобия:
+	 likelihood equation (Техника)
+	 
+Results for уравнение прямой (simple):
+	straight line equation
+Results for уравнение Пуассона:
+	 Poisson equation (Естественные науки)
+	 
+Results for уравнение смешанного типа (simple):
+	the equation of the mixed type
+Results for уравнение сообщения (simple):
+	message equation
+Results for уравнение состояния динамической системы (simple):
+	equation of a condition of dynamic system
+Results for уравнение с разделяющимися переменными (simple):
+	the equation with the divided variables
+Results for уравнение узловых напряжений (simple):
+	equation of nodal tension
+Results for уравнение Фоккера-Планка (simple):
+	Fokkera-Planck's equation
+Results for уравнение хода луча (simple):
+	beam course equation
+Results for уравнение четырёхполюсника (simple):
+	two-port network equation
+Results for уравнение Шредингера:
+	 Schrodinger equation (Естественные науки)
+	 уравнение Шрёдингера 
+	 Существительное уравнение Шрёдингера / уравнения Шрёдингера 
+	 Schrödinger equation 
+Results for уравнение эйконала:
+	 eikonal equation (Естественные науки)
+	 
+Results for характеристическое уравнение:
+	 secular equation (Естественные науки)
+	 
+	 characteristic equation (Компьютеры)
+	 
+	 period equation (Техника)
+	 
+Results for цветовое уравнение (simple):
+	color equation
+Results for акцепторный уровень:
+	 acceptor level (Естественные науки)
+	 
+Results for алгоритмический уровень (simple):
+	algorithmic level
+Results for алфавитно-геометрический (-мозаичный) уровень представления (simple):
+	alphabetic and geometrical (-mosaic) representation level
+Results for верхний (виртуальный, возбуждённый, возмущённый, вращательный, зеемановский, колебательный, нижний, орбитальный, примесный, промежуточный, разрешённый, свободный, (частично) заполненный) энергетический уровень (simple):
+	top (virtual, excited, indignant, rotary, zeemanovsky, oscillatory, lower, orbital, impurity, intermediate, resolved, free, (partially) filled) power level
+Results for вырожденный уровень:
+	 degenerate level (Естественные науки)
+	 
+Results for глубокий уровень:
+	 deep level (Компьютеры)
+	 
+Results for дискретный уровень:
+	 discrete level (Компьютеры)
+	 
+Results for доверительный уровень:
+	 confidence level (Естественные науки)
+	 
+Results for донорный уровень:
+	 donor level (Естественные науки)
+	 
+Results for дополнительный уровень (simple):
+	additional level
+Results for допустимый уровень:
+	 allowed level (Компьютеры)
+	 
+	 tolerance level (Естественные науки)
+	 
+	 allowable level (Естественные науки)
+	 
+Results for испытательный уровень (simple):
+	test level
+Results for коммутационный уровень (simple):
+	switching level
+Results for контрольный уровень:
+	 reference level 
+	 master level (Естественные науки)
+	 
+Results for логический уровень:
+	 logic level (Компьютеры)
+	 
+Results for локальный уровень:
+	 local level (Бизнес)
+	 
+Results for метастабильный уровень:
+	 metastable level (Естественные науки)
+	 
+Results for мультиплетный уровень (simple):
+	multiplet level
+Results for нейтральный уровень (simple):
+	neutral level
+Results for нулевой уровень:
+	 zero level 
+	 zerolevel (Естественные науки)
+	 
+Results for общий уровень:
+	 overall level (Компьютеры)
+	 
+Results for опорный уровень (белого, чёрного) (simple):
+	basic level (white, black)
+Results for поведенческий уровень (simple):
+	behavioural level
+Results for поверхностный уровень:
+	 surface-level (Техника)
+	 
+Results for пороговый уровень:
+	 trigger level (Компьютеры)
+	 
+	 threshold level (Техника)
+	 
+Results for равновесный уровень:
+	 equilibrium level (Естественные науки)
+	 
+Results for резонансный уровень (simple):
+	resonant level
+Results for синг(трип)летный уровень (simple):
+	sing (трип) flight level
+Results for собственный уровень (simple):
+	own level
+Results for топологический уровень (simple):
+	topological level
+Results for уровень адресации:
+	 addressing level (Компьютеры)
+	 
+Results for уровень битов (simple):
+	level of bits
+Results for уровень вакуума (simple):
+	vacuum level
+Results for уровень в запрещённой (энергетической) зоне (simple):
+	level in the forbidden (power) zone
+Results for уровень влажности (simple):
+	humidity level
+Results for уровень внешней засветки (simple):
+	level of an external flare
+Results for уровень (внешних) шумов (simple):
+	level (external) noise
+Results for уровень входного сигнала (simple):
+	level of an entrance signal
+Results for уровень гашения:
+	 blnking level (Техника)
+	 
+Results for уровень громкости:
+	 loudness level (Естественные науки)
+	 
+	 volume level (Компьютеры)
+	 
+Results for уровень дефектности (simple):
+	deficiency level
+Results for уровень задних боковых лепестков (simple):
+	level of back side petals
+Results for уровень запирания изображения (simple):
+	level of locking of the image
+Results for уровень записи (simple):
+	record level
+Results for уровень звукового давления:
+	 noise level (Естественные науки)
+	 
+	 sound pressure level (Компьютеры)
+	 
+	 sound power (Естественные науки)
+	 
+Results for уровень значимости:
+	 significance value 
+	 significance level (Естественные науки)
+	 
+	 level of significance (Естественные науки)
+	 
+Results for уровень излучения:
+	 radiation level (Естественные науки)
+	 
+Results for уровень инжекции (simple):
+	injection level
+Results for уровень интенсивности звука (simple):
+	level of intensity of a sound
+Results for уровень информационной части изображения (simple):
+	level of information part of the image
+Results for уровень информационных потоков (simple):
+	level of information streams
+Results for уровень квантования (simple):
+	quantization level
+Results for уровень комбинационных составляющих (simple):
+	level of combinational components
+Results for уровень косвенности (simple):
+	indirection level
+Results for уровень ловушек (simple):
+	level of traps
+Results for уровень логических элементов (simple):
+	level of logical elements
+Results for уровень логического нуля (simple):
+	level of logical zero
+Results for уровень логической единицы (simple):
+	level of logical unit
+Results for уровень масок:
+	 photomask level (Компьютеры)
+	 
+Results for уровень (меж)регистровых передач (simple):
+	level (boundaries) of register transfers
+Results for уровень мощности:
+	 power level 
+Results for уровень надёжности (simple):
+	reliability level
+Results for уровень накачки:
+	 pumping level (Техника)
+	 
+Results for уровень напряжения:
+	 voltage level (Техника)
+	 
+Results for уровень насыщения:
+	 saturation level (Компьютеры)
+	 
+Results for уровень несущей:
+	 carrier level (Компьютеры)
+	 
+Results for уровень ограничения (simple):
+	restriction level
+Results for уровень освещённости (simple):
+	illumination level
+Results for уровень отсечки:
+	 cutoff level (Естественные науки)
+	 
+Results for уровень отсчёта (simple):
+	counting level
+Results for уровень перегрузки:
+	 full sinusoidal level (Компьютеры)
+	 
+	 overload level (Техника)
+	 
+Results for уровень плотности потока (simple):
+	stream density level
+Results for уровень (полного) телевизионного сигнала (simple):
+	level (full) television signal
+Results for уровень помех:
+	 interference level (Естественные науки)
+	 
+Results for уровень постоянной составляющей (simple):
+	level of a constant component
+Results for уровень прерывания (simple):
+	interruption level
+Results for уровень приоритета (simple):
+	priority level
+Results for уровень радиоактивного загрязнения (simple):
+	level of radioactive pollution
+Results for уровень развития (тонких технологий) (simple):
+	level of development (thin technologies)
+Results for уровень резервирования (simple):
+	reservation level
+Results for уровень сверхтонкого расщепления (simple):
+	level of superthin splitting
+Results for уровень серого:
+	 gray level (Компьютеры)
+	 
+Results for уровень сигнала звукового сопровождения (simple):
+	soundtrack signal level
+Results for уровень сигнала изображения (simple):
+	picture signal level
+Results for уровень с инвертированной населённостью (simple):
+	level with the inverted density of population
+Results for уровень синхроимпульсов (simple):
+	level of clock pulses
+Results for уровень спектральной плотности (simple):
+	level of spectral density
+Results for уровень среднего звучания (simple):
+	level of average sounding
+Results for уровень управления:
+	 level of the hierarchy (Техника)
+	 
+Results for уровень усиления сигнала (simple):
+	level of strengthening of a signal
+Results for уровень факсимильного сигнала (simple):
+	level of a facsimile signal
+Results for уровень Ферми:
+	 Fermi level (Естественные науки)
+	 
+Results for уровень фона:
+	 hum level (Естественные науки)
+	 
+Results for уровень (чернее) чёрного (simple):
+	level (is more black) than black
+Results for уровень чувствительности (simple):
+	sensitivity level
+Results for уровень шумов:
+	 hum level (Естественные науки)
+	 
+Results for уровень яркости:
+	 brightness level (Компьютеры)
+	 
+	 intensity level (Техника)
+	 
+Results for фононный уровень (simple):
+	phonon level
+Results for функциональный уровень:
+	 function level (Компьютеры)
+	 
+Results for экситонный уровень (simple):
+	exciton level
+Results for энергетический уровень:
+	 energy level (Естественные науки)
+	 
+Results for акустоэлектрическое усиление (simple):
+	acoustoelectric strengthening
+Results for вносимое усиление:
+	 insertion gain (Техника)
+	 
+Results for дифференциальное усиление:
+	 differential gain (Компьютеры)
+	 
+Results for (до, за, около)пороговое усиление (simple):
+	(to, for, near) threshold strengthening
+Results for зарядовое усиление (simple):
+	charging strengthening
+Results for каскадное усиление (simple):
+	cascade strengthening
+Results for квантовое усиление (simple):
+	quantum strengthening
+Results for когерентное усиление:
+	 coherent amplification (Компьютеры)
+	 
+Results for лазерное усиление (simple):
+	laser strengthening
+Results for линейное усиление:
+	 linear amplification (Естественные науки)
+	 
+Results for мазерное усиление (simple):
+	mazerny strengthening
+Results for молекулярное усиление (simple):
+	molecular strengthening
+Results for (не)взаимное усиление (simple):
+	(not) mutual strengthening
+Results for оптимальное усиление (simple):
+	optimum strengthening
+Results for оптическое усиление:
+	 photon amplification (Естественные науки)
+	 
+Results for параметрическое усиление:
+	 parametric amplification (Техника)
+	 
+Results for полное усиление (simple):
+	full strengthening
+Results for пьезоэлектрическое усиление (simple):
+	piezoelectric strengthening
+Results for распределённое усиление (simple):
+	the distributed strengthening
+Results for (сверх)регенеративное усиление (simple):
+	(over) regenerative strengthening
+Results for усиление акустических волн (simple):
+	strengthening of acoustic waves
+Results for усиление бегущей волны (simple):
+	strengthening of the running wave
+Results for усиление волной пространственного заряда (simple):
+	strengthening by a wave of a spatial charge
+Results for усиление в импульсном режиме (simple):
+	strengthening in the pulse mode
+Results for усиление в режиме «на отражение» («на проход») (simple):
+	strengthening in the mode "on reflection" ("on pass")
+Results for усиление в СВЧ- (радиочастотном) диапазоне (simple):
+	strengthening in the microwave oven - (radio-frequency) range
+Results for усиление за проход:
+	 single-pass gain (Компьютеры)
+	 
+Results for усиление малых сигналов (simple):
+	strengthening of small signals
+Results for усиление мощности:
+	 energy amplification (Естественные науки)
+	 
+Results for усиление на несущей (промежуточной) частоте (simple):
+	strengthening at the bearing (intermediate) frequency
+Results for усиление (переменного) тока (simple):
+	strengthening (variable) current
+Results for усиление по мощности (напряжению) (simple):
+	strengthening on the power (tension)
+Results for усиление света:
+	 light amplification (Техника)
+	 
+Results for фоторезистивное усиление (simple):
+	photoresistive strengthening
+Results for электронное усиление (simple):
+	electronic strengthening
+Results for акустоэлектронный усилитель (simple):
+	akustoelektronny amplifier
+Results for апериодический усилитель:
+	 aperiodic amplifier (Естественные науки)
+	 
+	 aperiodical amplifier (Компьютеры)
+	 
+Results for балансный усилитель (simple):
+	balance amplifier
+Results for буферный усилитель:
+	 buffer amplifier (Компьютеры)
+	 
+Results for в(вы)ходной усилитель (simple):
+	in (you) hodny amplifier
+Results for вокальный усилитель (simple):
+	vocal amplifier
+Results for гибридный усилитель:
+	 hybrid amplifier (Компьютеры)
+	 
+Results for групповой усилитель (simple):
+	group amplifier
+Results for дву(одно)направленный усилитель (simple):
+	two-(one) the directed amplifier
+Results for двухкаскадный усилитель:
+	 two-stage amplifier (Естественные науки)
+	 
+Results for двух(одно)канальный усилитель (simple):
+	two (one) channel amplifiers
+Results for двухполосный усилитель:
+	 double sideband amplifier (Компьютеры)
+	 
+Results for двухпотоковый усилитель:
+	 double stream amplifier (Компьютеры)
+	 
+	 double-stream amplifier (Техника)
+	 
+Results for двухтактный усилитель:
+	 push-pull amplifier (Компьютеры)
+	 
+Results for джозефсоновский усилитель (simple):
+	Josephson amplifier
+Results for дифференциальный усилитель:
+	 differential amplifier (Компьютеры)
+	 
+Results for дифференцирующий усилитель (simple):
+	the differentiating amplifier
+Results for диэлектрический усилитель:
+	 dielectric amplifier (Компьютеры)
+	 
+Results for дуплексный усилитель:
+	 duplex repeater (Техника)
+	 
+Results for измерительный усилитель:
+	 instrument amplifier (Компьютеры)
+	 
+Results for импульсный усилитель і (simple):
+	pulse amplifier і
+Results for интегральный усилитель:
+	 ic amplifier (Техника)
+	 
+Results for интегрирующий усилитель:
+	 integrating amplifier (Компьютеры)
+	 
+Results for итерационный усилитель (simple):
+	iterative amplifier
+Results for каскадный усилитель:
+	 cascade amplifier (Естественные науки)
+	 
+Results for каскодный усилитель:
+	 cascode amplifier (Техника)
+	 
+Results for квадратичный усилитель (simple):
+	square amplifier
+Results for квадратурный усилитель:
+	 quadrature amplifier (Компьютеры)
+	 
+Results for квантовый (парамагнитный) усилитель (simple):
+	quantum (paramagnetic) amplifier
+Results for клистронный усилитель:
+	 klystron amplifier (Компьютеры)
+	 
+	 klystrone amplifier (Техника)
+	 
+Results for кольцевой усилитель:
+	 annular amplifier (Компьютеры)
+	 
+Results for коммутирующий усилитель (simple):
+	the switching amplifier
+Results for компенсационный усилитель (simple):
+	compensation amplifier
+Results for криогенный усилитель (simple):
+	cryogenic amplifier
+Results for лазерный усилитель:
+	 laser amplifier (Естественные науки)
+	 
+Results for ламповый усилитель:
+	 thermionic amplifier (Естественные науки)
+	 
+	 tube amplifier (Компьютеры)
+	 
+Results for линейный усилитель:
+	 line amplifier (Компьютеры)
+	 
+	 program amplifier (Техника)
+	 
+Results for магистральный усилитель (simple):
+	main amplifier
+Results for магнетронный усилитель (simple):
+	magnetron amplifier
+Results for магнитный усилитель:
+	 magnetic amplifier (Естественные науки)
+	 
+Results for малошумящий усилитель:
+	 low-noise amplifier (Компьютеры)
+	 
+Results for многокаскадный усилитель:
+	 multistage amplifier (Компьютеры)
+	 
+Results for накапливающий усилитель (simple):
+	the accumulating amplifier
+Results for (не)взаимный усилитель (simple):
+	(not) the mutual amplifier
+Results for (не)вырожденный усилитель (simple):
+	(not) the degenerate amplifier
+Results for (не)инвертирующий усилитель (simple):
+	not inverting amplifier
+Results for обращённый усилитель (simple):
+	the turned amplifier
+Results for оконечный усилитель:
+	 output amplifier (Компьютеры)
+	 
+	 terminal repeater (Техника)
+	 
+Results for операционный усилитель:
+	 operational amplifier (Естественные науки)
+	 
+Results for оптоэлектронный усилитель:
+	 optoelectronic amplifier (Компьютеры)
+	 
+Results for отражательный усилитель (simple):
+	reflective amplifier
+Results for охлаждаемый усилитель (simple):
+	the cooled amplifier
+Results for параметрический усилитель:
+	 parametric amplifier (Естественные науки)
+	 
+Results for парафазный усилитель:
+	 paraphase amplifier (Компьютеры)
+	 
+Results for плазменно-пучковый усилитель (simple):
+	plasma пучковый amplifier
+Results for полосовой усилитель:
+	 band-pass amplifier (Естественные науки)
+	 
+	 bandpass amplifier (Компьютеры)
+	 
+Results for полупроводниковый усилитель:
+	 semiconductor amplifier (Естественные науки)
+	 
+	 crystal amplifier (Естественные науки)
+	 
+Results for пороговый импульсный усилитель (simple):
+	threshold pulse amplifier
+Results for потенциальный усилитель:
+	 level amplifier 
+Results for промежуточный усилитель:
+	 intermediate amplifier (Компьютеры)
+	 
+	 line repeater (Техника)
+	 
+Results for проходной усилитель:
+	 transmission amplifier (Компьютеры)
+	 
+Results for развязывающий усилитель:
+	 isolation amplifier (Техника)
+	 
+Results for резонансный усилитель:
+	 tuned amplifier (Техника)
+	 
+	 resonance amplifier (Естественные науки)
+	 
+Results for резонаторный усилитель (simple):
+	rezonatorny amplifier
+Results for (сверх)регенеративный усилитель (simple):
+	(over) the regenerative amplifier
+Results for синхронный усилитель (simple):
+	synchronous amplifier
+Results for согласованный усилитель:
+	 matched amplifier (Компьютеры)
+	 
+Results for согласующий усилитель (simple):
+	the coordinating amplifier
+Results for стабилизирущий усилитель (simple):
+	stabilizirushchy amplifier
+Results for стробируемый усилитель (simple):
+	strobiruyemy amplifier
+Results for стробирующий усилитель:
+	 gate amplifier (Компьютеры)
+	 
+Results for суммирующий усилитель:
+	 summing amplifier (Компьютеры)
+	 
+Results for твёрдотельный усилитель (simple):
+	solid-state amplifier
+Results for термоэлектронный усилитель (simple):
+	thermionic amplifier
+Results for транзисторный усилитель (simple):
+	transistor amplifier
+Results for триодный усилитель (simple):
+	triode amplifier
+Results for узко(широко)полосный усилитель (simple):
+	narrowly (widely) band amplifier
+Results for универсальный усилитель (simple):
+	universal amplifier
+Results for управляющий усилитель:
+	 control amplifier (Техника)
+	 
+Results for усилитель акустических волн (simple):
+	amplifier of acoustic waves
+Results for усилитель антисовпадений (simple):
+	amplifier of anti-coincidence
+Results for усилитель бегущей (отражённой) волны (simple):
+	the amplifier of the running (reflected) wave
+Results for усилитель вертикального отклонения (simple):
+	amplifier of a vertical deviation
+Results for усилитель верхних (нижних) частот (simple):
+	amplifier of the top (lower) frequencies
+Results for усилитель выборки и хранения (simple):
+	amplifier of selection and storage
+Results for усилитель высокой (низкой, промежуточной, фиксированной) частоты (simple):
+	the amplifier high (low, intermediate, fixed) frequencies
+Results for усилитель группового сигнала (simple):
+	amplifier of a group signal
+Results for усилитель дискретной сетки частот (simple):
+	amplifier of a discrete grid of frequencies
+Results for усилитель заряда:
+	 charge amplifier (Компьютеры)
+	 
+Results for усилитель звуковой частоты:
+	 note amplifier (Естественные науки)
+	 
+	 audio amplifier (Компьютеры)
+	 
+Results for усилитель-инвертор (simple):
+	amplifier inverter
+Results for усилитель мощности:
+	 power amplifier (Естественные науки)
+	 
+Results for усилитель на комплементарных транзисторах (туннельном диоде) (simple):
+	the amplifier on complementary transistors (the tunnel diode)
+Results for усилитель на криотронах (сверхпроводниках) (simple):
+	the amplifier on cryotrons (superconductors)
+Results for усилитель на ЛОВ (simple):
+	the amplifier on FISHING
+Results for усилитель обратной волны:
+	 backward wave amplifier (Компьютеры)
+	 
+Results for усилитель объёмных (поверхностных) волн (simple):
+	amplifier of volume (superficial) waves
+Results for усилитель-ограничитель:
+	 limiter amplifier (Компьютеры)
+	 
+	 amplifier-limiter (Техника)
+	 
+Results for усилитель опорного (фазирующего) сигнала (simple):
+	the amplifier of the basic (phasing) signal
+Results for усилитель-ответчик (simple):
+	defendant amplifier
+Results for усилитель ПАВ (simple):
+	surfactant amplifier
+Results for усилитель переменного (постоянного) тока (simple):
+	amplifier of alternating (constant) current
+Results for усилитель-преобразователь:
+	 amplifier-convertor (Естественные науки)
+	 
+Results for усилитель прямого усиления (simple):
+	amplifier of direct strengthening
+Results for усилитель-распределитель (simple):
+	amplifier distributor
+Results for усилитель с автоматической (покаскадной) регулировкой усиления (simple):
+	the amplifier with automatic (pokaskadny) adjustment of strengthening
+Results for усилитель с биполярным выходом (simple):
+	the amplifier with a bipolar exit
+Results for усилитель с большим входным сопротивлением (simple):
+	the amplifier with a big entrance resistance
+Results for усилитель СВЧ-диапазона (simple):
+	amplifier of microwave range
+Results for усилитель с дроссельной (ёмкостной, катодной, непосредственной) связью (simple):
+	the amplifier with throttle (capacitor, cathodic, direct) communication
+Results for усилитель селекторных импульсов (simple):
+	amplifier of selector impulses
+Results for усилитель сигнала ошибки:
+	 error amplifier (Техника)
+	 
+Results for усилитель сигналов цветности (цветовой синхронизации) (simple):
+	amplifier of signals of chromaticity (color synchronization)
+Results for усилитель с интерферометром (simple):
+	the amplifier with the interferometer
+Results for усилитель системы кабельного телевидения (simple):
+	amplifier of system of cable television
+Results for усилитель с коаксиальным шлейфом (simple):
+	the amplifier with a coaxial loop
+Results for усилитель с коррекцией дрейфа (simple):
+	the amplifier with drift correction
+Results for усилитель с общей базой:
+	 common base amplifier (Компьютеры)
+	 
+Results for усилитель с общим затвором (истоком, коллектором, стоком, эмиттером) (simple):
+	the amplifier with the general lock (a source, a collector, a drain, the emitter)
+Results for усилитель совпадений:
+	 coincidence amplifier (Естественные науки)
+	 
+Results for усилитель со скрещёнными полями (simple):
+	the amplifier with skreshchyonny fields
+Results for усилитель со стабилизацией дрейфа (simple):
+	the amplifier with drift stabilization
+Results for усилитель спиновых волн (simple):
+	amplifier of spin waves
+Results for усилитель с программным управлением (simple):
+	the amplifier with program control
+Results for усилитель с распределённым усилением (simple):
+	the amplifier with the distributed strengthening
+Results for усилитель с регулируемым коэффициентом усиления (simple):
+	the amplifier with adjustable coefficient of strengthening
+Results for усилитель с сильно нелинейной характеристикой (simple):
+	the amplifier with strongly nonlinear characteristic
+Results for усилитель с электронной настройкой (simple):
+	the amplifier with electronic control
+Results for усилитель-умножитель частоты (simple):
+	the amplifier - the frequency multiplier
+Results for усилитель упругих волн (simple):
+	amplifier of elastic waves
+Results for усилитель-фиксатор (simple):
+	amplifier clamp
+Results for усилитель-формирователь (simple):
+	amplifier shaper
+Results for усилитель яркости изображения (simple):
+	amplifier of brightness of the image
+Results for фазорасщепляющий усилитель (simple):
+	fazorasshcheplyayushchy amplifier
+Results for фазочувствительный усилитель:
+	 phase sensitive amplifier (Компьютеры)
+	 
+Results for функциональный усилитель (simple):
+	functional amplifier
+Results for химический усилитель (simple):
+	chemical amplifier
+Results for частотно-избирательный усилитель (simple):
+	frequency-selective amplifier
+Results for широкополосный усилитель:
+	 wideband amplifier (Компьютеры)
+	 
+	 wide-band amplifier (Техника)
+	 
+	 fast amplifier (Естественные науки)
+	 
+Results for экспоненциальный усилитель:
+	 exponential amplifier (Естественные науки)
+	 
+Results for электромашинный усилитель:
+	 dynamoelectric amplifier (Естественные науки)
+	 
+	 direct current machine amplifier (Компьютеры)
+	 
+Results for электрометрический усилитель:
+	 electrometric amplifier (Естественные науки)
+	 
+Results for электронно-лучевой усилитель (simple):
+	electron beam amplifier
+Results for электронный усилитель:
+	 electronic amplifier (Естественные науки)
+	 
+Results for электрохимический усилитель (simple):
+	electrochemical amplifier
+Results for ионное ускорение (simple):
+	ionic acceleration
+Results for многократное ускорение (simple):
+	repeated acceleration
+Results for поперечное ускорение:
+	 sway acceleration (Техника)
+	 
+	 lateral acceleration (Техника)
+	 
+Results for продольное ускорение:
+	 longitudinal acceleration (Естественные науки)
+	 
+Results for стохастическое ускорение (simple):
+	stochastic acceleration
+Results for трансверсальное ускорение (simple):
+	transversal acceleration
+Results for ускорение плазмы (simple):
+	plasma acceleration
+Results for ускорение по углу вращения (крена, рыскания, тангажа) (simple):
+	acceleration on an angle of rotation (a list, roving, pitch)
+Results for ускорение сходимости (simple):
+	acceleration of convergence
+Results for ускорение тонарма (simple):
+	acceleration of a tonarm
+Results for ускорение Ферми (simple):
+	Fermi's acceleration
+Results for циклотронное ускорение (simple):
+	cyclotron acceleration
+Results for электростатическое ускорение (simple):
+	electrostatic acceleration
+Results for ракетный ускоритель:
+	 rocket booster (Техника)
+	 
+Results for граничное условие:
+	 boundary condition (Естественные науки)
+	 
+Results for достаточное условие:
+	 sufficient condition (Естественные науки)
+	 
+Results for краевое условие (simple):
+	regional condition
+Results for начальное условие:
+	 entry condition 
+	 initial condition (Компьютеры)
+	 
+Results for необходимое условие:
+	 necessary condition (Техника)
+	 
+Results for приближённое условие (simple):
+	approximate condition
+Results for совместное условие (simple):
+	joint condition
+Results for условие выполнения программы (simple):
+	condition of program execution
+Results for условие генерации (simple):
+	generation condition
+Results for условие дифференцируемости (интегрируемости) (simple):
+	condition of differentiability (integrability)
+Results for условие коллинеарности (simple):
+	collinearity condition
+Results for условие молчания накала (simple):
+	condition of silence of heat
+Results for условие непрерывности:
+	 continuity condition (Техника)
+	 
+Results for условие (не)совместности (simple):
+	condition (not) of compatibility
+Results for условие отсечки (simple):
+	cut-off condition
+Results for условие перегрузки (simple):
+	overload condition
+Results for условие появления (усиления) сигнала (simple):
+	condition of emergence (strengthening) of a signal
+Results for условие работы:
+	 working condition 
+	 operating condition 
+Results for условие разрешимости (simple):
+	resolvability condition
+Results for условие резонанса:
+	 resonance condition (Естественные науки)
+	 
+Results for условие согласования полных сопротивлений в линиях передачи (simple):
+	condition of coordination of full resistance in transmission lines
+Results for утечки заряда условие (simple):
+	leakages of a charge condition
+Results for эксплуатации условие:
+	 external environment (Естественные науки)
+	 
+	 service conditions (Техника)
+	 
+Results for аварийные условия:
+	 emergency[ɪˈmə:dʒənsɪ] 
+Results for нормальные условия:
+	 normal conditions (Компьютеры)
+	 нормальные условие 
+	 Существительное нормальные условие / нормальные условия 
+	 normal conditions (Техника)
+	 
+	 standard conditions (Естественные науки)
+	 нормальное условие 
+	 Существительное нормальное условие / нормальные условия 
+	 standard condition (Кулинария)
+	 
+	 normal condition (Естественные науки)
+	 
+Results for технические условия:
+	 specification[ˌspesɪfɪˈkeɪʃən] 
+	 technical specification (Естественные науки)
+	 
+	 quality requirements (Техника)
+	 
+Results for условия получения стереоэффекта при прослушивании (simple):
+	conditions of obtaining stereoeffect when listening
+Results for условия самовозбуждения (simple):
+	self-excitation conditions
+Results for усталость диэлектрика (simple):
+	fatigue of dielectric
+Results for вакуумная установка:
+	 vacuum unit (Техника)
+	 
+Results for высоковольтная установка (simple):
+	high-voltage installation
+Results for проекционная установка:
+	 projection apparatus (Естественные науки)
+	 
+Results for рентгеновская установка:
+	 X-ray equipment (Естественные науки)
+	 
+	 radiological apparatus (Техника)
+	 
+Results for сборочно-монтажная установка (simple):
+	assembly and assembly installation
+Results for установка в исходное состояние (simple):
+	installation in an initial state
+Results for установка в состояние «единица» (simple):
+	installation in a state "unit"
+Results for установка выдержки времени (simple):
+	installation of endurance of time
+Results for установка высокого напряжения:
+	 high-voltage unit (Техника)
+	 
+Results for установка для выращивания (вытягивания) кристаллов (simple):
+	installation for cultivation (pulling) of crystals
+Results for установка для записи голограмм (simple):
+	installation for record of holograms
+Results for установка для испытания (simple):
+	installation for test
+Results for установка для катодного напыления (simple):
+	installation for cathodic dusting
+Results for установка для монтажа компонентов (simple):
+	installation for installation of components
+Results for установка для подгонки (simple):
+	installation for adjustment
+Results for установка для распыления (simple):
+	installation for dispersion
+Results for установка для резки на пластины (simple):
+	installation for cutting on plates
+Results for установка для удаления резиста (simple):
+	installation for removal of the rezist
+Results for установка для фотографирования шлирен-методом (simple):
+	installation for photography by shliren-method
+Results for установка интервалов печати (simple):
+	installation of intervals of the press
+Results for установка ионного травления:
+	 ion etching unit (Естественные науки)
+	 
+Results for установка ионной имплантации:
+	 ion implantation apparatus (Естественные науки)
+	 
+Results for установка коллективного пользования (simple):
+	installation of collective use
+Results for установка на нуль:
+	 zeroing 
+	 zero adjustment (Естественные науки)
+	 
+	 zero adjusting (Техника)
+	 
+Results for установка на цветовую температуру (simple):
+	installation on color temperature
+Results for установка нуля:
+	 zero set (Естественные науки)
+	 
+	 zero setting (Компьютеры)
+	 
+Results for установка положения головок (simple):
+	installation of provision of heads
+Results for установка регулятора уровня сигнала (simple):
+	installation of the regulator of level of a signal
+Results for установка системы в начальное состояние (simple):
+	installation of system in an initial state
+Results for установка уровня (simple):
+	installation of level
+Results for установка (фото)литографии (simple):
+	installation (photo) of a lithograph
+Results for установка частоты:
+	 frequency setting (Техника)
+	 
+Results for установка экспонирования (simple):
+	exhibiting installation
+Results for экспериментальная установка:
+	 pilot unit (Естественные науки)
+	 
+	 trial type (Техника)
+	 
+Results for энергетическая установка:
+	 power station 
+	 engine installation (Естественные науки)
+	 
+	 power plant (Бизнес)
+	 
+	 energy unit (Техника)
+	 
+Results for установление междугородного соединения (simple):
+	establishment of long-distance connection
+Results for установление синхронизма (simple):
+	establishment of synchronism
+Results for абсолютная (динамическая) устойчивость (simple):
+	absolute (dynamic) stability
+Results for антикоррозионная устойчивость (simple):
+	anticorrosive stability
+Results for асимптотическая устойчивость:
+	 asymptotic stability (Естественные науки)
+	 
+	 asimptotical stability (Естественные науки)
+	 
+Results for (без)условная устойчивость (simple):
+	(without) conditional stability
+Results for долго(кратко)временная устойчивость (simple):
+	long (briefly) temporary stability
+Results for морфологическая устойчивость (simple):
+	morphological stability
+Results for ограниченная устойчивость (simple):
+	limited stability
+Results for пространственно-временная устойчивость (simple):
+	existential stability
+Results for робастная устойчивость (simple):
+	robastny stability
+Results for статическая устойчивость:
+	 static stability (Естественные науки)
+	 
+Results for топологическая устойчивость (simple):
+	topological stability
+Results for устойчивость в малом (simple):
+	stability in small
+Results for устойчивость в переходном режиме (simple):
+	stability in the transitional mode
+Results for устойчивость вычислений (simple):
+	stability of calculations
+Results for устойчивость движения:
+	 dynamic stability (Естественные науки)
+	 
+Results for устойчивость дуги (simple):
+	stability of an arch
+Results for устойчивость к воздействию окружающей среды (simple):
+	resistance to influence of the environment
+Results for устойчивость к отказам (simple):
+	resistance to refusals
+Results for устойчивость нагрузки (simple):
+	stability of loading
+Results for устойчивость по в(вы)ходу (simple):
+	stability on in (you) to the course
+Results for устойчивость по Ляпунову (simple):
+	stability across Lyapunov
+Results for устойчивость по скольжению (simple):
+	stability on sliding
+Results for устойчивость по фазе (simple):
+	stability on a phase
+Results for устойчивость работы устройства (simple):
+	stability of operation of the device
+Results for устойчивость системы без обратной связи (с обратной связью) (simple):
+	stability of system without feedback (with feedback)
+Results for устойчивость стохастической системы (simple):
+	stability of stochastic system
+Results for устойчивость усилителя (simple):
+	stability of the amplifier
+Results for устойчивость устройства (simple):
+	stability of the device
+Results for устойчивость фазы (simple):
+	stability of a phase
+Results for устойчивость формы роста (simple):
+	stability of a form of growth
+Results for устойчивость цепи (simple):
+	stability of a chain
+Results for устойчивость чересстрочной развёртки (simple):
+	stability of cheresstrochny development
+Results for фотохимическая устойчивость (simple):
+	photochemical stability
+Results for электрохимическая устойчивость (simple):
+	electrochemical stability
+Results for автономное устройство:
+	 self-contained unit 
+	 self-contained device (Техника)
+	 
+Results for адаптивное устройство:
+	 adaptive circuit (Компьютеры)
+	 
+Results for активное (пассивное) устройство (simple):
+	active (passive) device
+Results for анализирующее устройство (simple):
+	the analyzing device
+Results for антистатическое устройство:
+	 static eliminator (Техника)
+	 
+Results for антенное устройство:
+	 antenna arrangement 
+	 antenna assembly (Техника)
+	 
+Results for антенно-фидерное устройство:
+	 antenna feeder device (Компьютеры)
+	 
+Results for арифметико-логическое устройство:
+	 arithmetic and logic unit (Компьютеры)
+	 
+Results for бистабильное оптическое устройство (simple):
+	bistable optical device
+Results for блокировочное устройство:
+	 interlocking device (Техника)
+	 
+Results for буферное устройство:
+	 buffer gear (Компьютеры)
+	 
+	 buffer[ˈbʌfə] (Техника)
+	 
+Results for видеоконтрольное устройство:
+	 video monitor 
+	 monitor[ˈmɔnɪtə] (Техника)
+	 
+Results for внешнее устройство управления (simple):
+	external control unit
+Results for в(вы)ходное устройство (simple):
+	in (you) hodny device
+Results for вызывное устройство:
+	 alerting device (Компьютеры)
+	 
+	 calling equipment (Техника)
+	 
+Results for гибридное устройство (simple):
+	hybrid device
+Results for дифференцирующее устройство:
+	 differential analyser (Техника)
+	 
+Results for дроссельное устройство (simple):
+	throttle device
+Results for дугогасительное устройство:
+	 arc control device (Техника)
+	 
+Results for задающее устройство:
+	 driver unit (Естественные науки)
+	 
+	 setting device (Компьютеры)
+	 
+Results for зажигающее устройство (simple):
+	the lighting device
+Results for запоминающее устройство:
+	 memory device 
+	 tape recorder (Естественные науки)
+	 
+	 storage device (Техника)
+	 
+Results for запускающее устройство (simple):
+	the starting device
+Results for зарядное устройство:
+	 charger[ˈtʃɑ:dʒə] 
+	 battery charger (Техника)
+	 
+Results for захватное устройство:
+	 gripper (Естественные науки)
+	 
+	 gripping device (Техника)
+	 
+Results for имитирующее устройство (simple):
+	the imitating device
+Results for интегрально-оптическое устройство (simple):
+	integrated and optical device
+Results for интегрирующее устройство:
+	 integrator[ˈɪntɪɡreɪtə] (Естественные науки)
+	 
+	 integrating device (Компьютеры)
+	 
+Results for исполнительное устройство:
+	 actuation mechanism 
+	 actuating device (Техника)
+	 
+Results for квазиоптическое устройство (simple):
+	quasioptical device
+Results for коммутационное устройство:
+	 switch[swɪtʃ] 
+	 switching arrangement (Техника)
+	 
+Results for контрольно-измерительное устройство (simple):
+	control and measuring device
+Results for логическое устройство:
+	 logic device 
+Results for магнитное устройство (simple):
+	magnetic device
+Results for микроэлектронное устройство:
+	 microelectronic device (Компьютеры)
+	 
+Results for множительное устройство:
+	 multiplier unit (Техника)
+	 
+Results for навигационное устройство:
+	 navigator[ˈnævɪɡeɪtə] (Техника)
+	 
+Results for настроечное устройство:
+	 tuner[ˈtju:nə] (Техника)
+	 
+Results for (не)взаимное устройство (simple):
+	(not) the mutual device
+Results for (не)монопольное устройство (simple):
+	(not) the exclusive device
+Results for опрашивающее устройство:
+	 interrogating unit (Компьютеры)
+	 
+Results for оптоэлектронное устройство (simple):
+	optoelectronic device
+Results for переговорное устройство:
+	 intercom[ˈɪntəkɔm] 
+	 chatter box (Компьютеры)
+	 
+	 crew intercommunication equipment (Техника)
+	 
+Results for переключающее устройство:
+	 timing device (Естественные науки)
+	 
+	 switch gear (Техника)
+	 
+Results for пересчётное устройство (simple):
+	recalculating device
+Results for периферийное устройство:
+	 peripheral device 
+	 peripheral unit (Техника)
+	 
+Results for печатающее устройство:
+	 printer[ˈprɪntə] 
+	 printing station (Естественные науки)
+	 
+	 printing device (Компьютеры)
+	 
+Results for подключённое устройство (simple):
+	the connected device
+Results for подслушивающее устройство:
+	 listening device 
+Results for предохранительное устройство:
+	 safety device 
+	 guard[ɡɑ:d] (Техника)
+	 
+Results for преобразующее устройство:
+	 converter display (Техника)
+	 
+Results for приводное устройство:
+	 actuating unit 
+	 drive[draɪv] (Техника)
+	 
+Results for (радио)передающее устройство (simple):
+	(radio) sending device
+Results for (радио)приёмное устройство (simple):
+	(radio) intake
+Results for радиотехническое устройство:
+	 radiotehnical device (Техника)
+	 
+Results for развязывающее устройство (simple):
+	the untying device
+Results for размагничивающее устройство:
+	 bulk eraser (Техника)
+	 
+Results for резервное устройство:
+	 backup device 
+	 standby device (Компьютеры)
+	 
+Results for решающее устройство:
+	 resolver (Естественные науки)
+	 
+	 decision making device (Компьютеры)
+	 
+Results for симметрирующее устройство:
+	 balancing device (Компьютеры)
+	 
+Results for следящее устройство:
+	 follow-up system (Естественные науки)
+	 
+Results for согласующее устройство:
+	 balancing unit (Естественные науки)
+	 
+	 matching device (Компьютеры)
+	 
+	 signal conditioning unit (Техника)
+	 
+Results for стабилизирующее [демпфирующее] устройство (simple):
+	the stabilizing [damping] device
+Results for стирающее устройство (simple):
+	the erasing device
+Results for устройство автоматического ввода резерва (simple):
+	device of automatic input of a reserve
+Results for устройство автоматической фокусировки (simple):
+	device of automatic focusing
+Results for устройство бесконтактной (графической) печати (simple):
+	device of the contactless (graphic) press
+Results for устройство блокировки от повторного включения (simple):
+	the blocking device from repeated inclusion
+Results for устройство бокового смещения синего пучка (simple):
+	device of side shift of a blue bunch
+Results for устройство ввода-вывода:
+	 input/output device (Компьютеры)
+	 
+	 input-output device (Техника)
+	 
+Results for устройство визуализации изображения (simple):
+	device of visualization of the image
+Results for устройство включения резерва (simple):
+	device of inclusion of a reserve
+Results for устройство возбуждения катушки (simple):
+	device of excitement of the coil
+Results for устройство возврата каретки (simple):
+	device of return of the carriage
+Results for устройство воспроизведения записи (simple):
+	record reproduction device
+Results for устройство восстановления изображения (simple):
+	device of recovery of the image
+Results for устройство выбора альтернативы (simple):
+	device of the choice of an alternative
+Results for устройство выборки и запоминания (simple):
+	device of selection and storing
+Results for устройство вызова:
+	 ringing circuit (Компьютеры)
+	 
+Results for устройство горизонтального сведения (simple):
+	device of horizontal data
+Results for устройство графического ввода (simple):
+	device of graphic input
+Results for устройство громкоговорящей связи:
+	 amplified telephone (Компьютеры)
+	 
+Results for устройство декодирования (simple):
+	decoding device
+Results for устройство для лазерной сварки (simple):
+	the device for laser welding
+Results for устройство для обнаружения повреждений (simple):
+	the device for detection of damages
+Results for устройство для обработки видеосигнала (simple):
+	the device for processing of video signal
+Results for устройство для обработки лазерным лучом (simple):
+	the device for processing by a laser beam
+Results for устройство для определения модуля (simple):
+	the device for definition of the module
+Results for устройство для сжатия полосы частот (simple):
+	the device for compression of a strip of frequencies
+Results for устройство задания последовательности (simple):
+	sequence task device
+Results for устройство записи аналоговой информации (simple):
+	device of record of analog information
+Results for устройство запоминания (simple):
+	storing device
+Results for устройство захвата цели (simple):
+	device of capture of the purpose
+Results for устройство защиты от активных преднамеренных радиопомех (simple):
+	device of protection against an active deliberate radio noise
+Results for устройство защиты от ошибок (противотока) (simple):
+	device of protection against mistakes (countercurrent)
+Results for устройство звукового вывода (simple):
+	device of a sound conclusion
+Results for устройство (звуковой) сигнализации (simple):
+	device (sound) alarm system
+Results for устройство идентификации:
+	 identification device (Техника)
+	 
+Results for устройство имитирования (simple):
+	simulating device
+Results for устройство индикации:
+	 indicating device (Техника)
+	 
+Results for устройство канального типа (simple):
+	device of channel type
+Results for устройство контроля:
+	 control unit 
+	 monitoring device (Компьютеры)
+	 
+Results for устройство копирования с дисплея (simple):
+	device of copying from the display
+Results for устройство микроуправления (simple):
+	micro-management device
+Results for устройство на волоконно-оптическом лазере (simple):
+	the device on the fiber-optical laser
+Results for устройство на движущихся магнитных доменах (simple):
+	the device on moving magnetic domains
+Results for устройство на эффекте Фарадея (simple):
+	the device on Faraday's effect
+Results for устройство обмена данными (simple):
+	data exchange device
+Results for устройство обработки сигналов в реальном масштабе времени (simple):
+	processing device of signals in real time
+Results for устройство опознавания цвета (simple):
+	device of identification of color
+Results for устройство опроса (simple):
+	poll device
+Results for устройство ответа (simple):
+	answer device
+Results for устройство отображения визуальной информации (simple):
+	device of display of visual information
+Results for устройство оценки (simple):
+	assessment device
+Results for устройство первичной обработки (simple):
+	preprocessing device
+Results for устройство перезаписи (simple):
+	rewriting device
+Results for устройство повторного включения (simple):
+	device of repeated inclusion
+Results for устройство подавления шума (simple):
+	noise suppression device
+Results for устройство подготовки данных (simple):
+	device of preparation of data
+Results for устройство поперечной фокусировки (simple):
+	device of cross focusing
+Results for устройство пошагового управления (simple):
+	structure of step-by-step management
+Results for устройство преобразования энергии (simple):
+	energy transformation device
+Results for устройство принятия решения (simple):
+	decision-making device
+Results for устройство размагничивания (simple):
+	demagnetization device
+Results for устройство распознавания образов:
+	 pattern recognition machine (Техника)
+	 
+Results for устройство регистрации информации (simple):
+	device of registration of information
+Results for устройство резервирования (simple):
+	reservation device
+Results for устройство речевого ввода (simple):
+	device of speech input
+Results for устройство сбора (обработки) данных (simple):
+	device of collecting (processing) of data
+Results for устройство свёртки (simple):
+	convolution device
+Results for устройство световой сигнализации (simple):
+	device of the light alarm system
+Results for устройство связи с объектами (simple):
+	the communication device with objects
+Results for устройство с голосовым (микропрограммным) управлением (simple):
+	the device with voice-activated (microprogram) control
+Results for устройство с дискретными элементами (simple):
+	the device with discrete elements
+Results for устройство сжатия (simple):
+	compression device
+Results for устройство синхронизации:
+	 synchronizing device (Компьютеры)
+	 
+	 timing device (Техника)
+	 
+Results for устройство сканирования (simple):
+	scanning device
+Results for устройство слежения-запоминания (simple):
+	tracking storing device
+Results for устройство с номеронабирателем (simple):
+	the device with the dialing unit
+Results for устройство сопряжения каналов связи (simple):
+	device of interface of communication channels
+Results for устройство сопряжения с терминалами (simple):
+	device of interface to terminals
+Results for устройство с произвольной выборкой (simple):
+	the device with any selection
+Results for устройство с прямым доступом:
+	 direct access device (Компьютеры)
+	 
+Results for устройство сравнения (simple):
+	comparison device
+Results for устройство с распределённым взаимодействием (simple):
+	the device with the distributed interaction
+Results for устройство с сохранением изображения (simple):
+	the device with saving the image
+Results for устройство с тремя состояниями свёртки (simple):
+	the device with three conditions of convolution
+Results for устройство сужения пучка (simple):
+	device of narrowing of a bunch
+Results for устройство считывания (магнитных знаков) (simple):
+	reading device (magnetic signs)
+Results for устройство телемеханики (simple):
+	telemechanics device
+Results for устройство телесигнализации (simple):
+	telealarm system device
+Results for устройство телеуправления (simple):
+	telecontrol device
+Results for устройство термопечати:
+	 thermal printer (Естественные науки)
+	 
+Results for устройство управления лучом (пучком) (simple):
+	control unit beam (bunch)
+Results for устройство управления памятью (simple):
+	control unit memory
+Results for устройство управления роботом (терминалами) (simple):
+	control unit robot (terminals)
+Results for устройство уширения (simple):
+	broadening device
+Results for устройство формирования пучка (simple):
+	device of formation of a bunch
+Results for фазирующее устройство:
+	 phasing device (Компьютеры)
+	 
+Results for фокусирующее устройство:
+	 focusing device (Компьютеры)
+	 
+Results for формирующее устройство (simple):
+	the forming device
+Results for функциональное устройство:
+	 functional device (Компьютеры)
+	 
+Results for хронирующее устройство:
+	 timer[ˈtaɪmə] (Естественные науки)
+	 
+Results for цифровое устройство:
+	 digital device (Техника)
+	 
+Results for читающее устройство:
+	 reader[ˈri:də] (Техника)
+	 
+Results for электропроигрывающее устройство (simple):
+	the electrolosing device
+Results for диффузионная утечка (simple):
+	diffusive leak
+Results for межэлектродная утечка:
+	 interelectrode leakage (Компьютеры)
+	 
+Results for поверхностная утечка:
+	 surface leak (Техника)
+	 
+Results for утечка излучения:
+	 radiation leakage (Техника)
+	 
+Results for утечка информации:
+	 information leakage 
+Results for утечка сети (simple):
+	leakage of network
+Results for утечка через переход (simple):
+	leak through transition
+Results for уход настройки (simple):
+	control leaving
+Results for уход от резонанса (simple):
+	leaving from a resonance
+Results for уход частоты:
+	 oscillator drift (Естественные науки)
+	 
+	 frequency drift (Компьютеры)
+	 
+Results for участок линейности (simple):
+	site of linearity
+Results for участок насыщения (simple):
+	site of saturation
+Results for участок радиорелейной линии:
+	 hop of a radio-relay link (Техника)
+	 
+Results for участок пробоя (simple):
+	site of breakdown
+Results for участок цепи:
+	 circuit portion (Техника)
+	 
+Results for уширение импульса:
+	 pulse broadening (Компьютеры)
+	 
+Results for аморфная фаза:
+	 amorphous material (Техника)
+	 
+Results for анизотропная фаза (simple):
+	anisotropic phase
+Results for (анти)сегнетоэлектрическая фаза (simple):
+	(anti-) segnetoelektrichesky phase
+Results for (анти)ферромагнитная фаза (simple):
+	(anti-) ferromagnetic phase
+Results for газовая фаза:
+	 gas phase (Естественные науки)
+	 
+Results for гексагональная фаза (simple):
+	hexagonal phase
+Results for голубая фаза (simple):
+	blue phase
+Results for дифференциальная фаза (simple):
+	differential phase
+Results for жидкая фаза:
+	 liquid phase (Кулинария)
+	 
+	 fluid phase (Техника)
+	 
+Results for запаздывающая фаза (simple):
+	the late phase
+Results for исполнительная фаза (simple):
+	executive phase
+Results for кубическая фаза (simple):
+	cubic phase
+Results for мартенситная фаза:
+	 martensite phase (Техника)
+	 
+Results for мгновенная фаза (simple):
+	instant phase
+Results for моноклинная фаза (simple):
+	monoklinny phase
+Results for (не)коллинеарная фаза (simple):
+	(not) collinear phase
+Results for нематическая фаза (simple):
+	nematic phase
+Results for (не)соизмеримая фаза (simple):
+	(not) commensurable phase
+Results for (не)упорядоченная фаза (simple):
+	(not) ordered phase
+Results for нормальная фаза (simple):
+	normal phase
+Results for опережающая фаза (simple):
+	the advancing phase
+Results for опорная фаза (simple):
+	basic phase
+Results for относительная фаза (simple):
+	relative phase
+Results for парамагнитная фаза (simple):
+	paramagnetic phase
+Results for параэлектрическая фаза (simple):
+	para-electric phase
+Results for паровая фаза:
+	 vapour phase (Естественные науки)
+	 
+	 vapor phase (Естественные науки)
+	 
+Results for полярная фаза (simple):
+	polar phase
+Results for развёрнутая фаза (simple):
+	the developed phase
+Results for расщеплённая фаза (simple):
+	the split phase
+Results for ромбическая фаза (simple):
+	rhombic phase
+Results for сверхпроводящая фаза (simple):
+	superconducting phase
+Results for сверхтекучая фаза (simple):
+	superfluid phase
+Results for смектическая фаза (simple):
+	smektichesky phase
+Results for соосаждаемая фаза (simple):
+	soosazhdayemy phase
+Results for твёрдая фаза (simple):
+	firm phase
+Results for dasd:
+	 запоминающее устройство прямого доступа (Компьютеры)
+	 
+Results for тетра(три)гональная фаза (simple):
+	tetra (three) gonalny phase
+Results for фаза вектора напряжённости (simple):
+	tension vector phase
+Results for фаза возбуждения плоской антенной решётки (simple):
+	phase of excitement of a flat antenna lattice
+Results for фаза волновой функции (simple):
+	phase of wave function
+Results for фаза выборки команды (simple):
+	phase of selection of team
+Results for фаза гармоники (simple):
+	harmonica phase
+Results for фаза (гармонических) колебаний (simple):
+	phase (harmonious) fluctuations
+Results for фаза движения (simple):
+	phase of the movement
+Results for фаза заряженной [заряжённой] частицы (simple):
+	phase of the loaded [zaryazhyonny] particle
+Results for фаза захвата (simple):
+	capture phase
+Results for фаза захватывания (simple):
+	grab phase
+Results for фаза исполнения (simple):
+	execution phase
+Results for фаза компиляции:
+	 compile phase (Компьютеры)
+	 
+Results for фаза комплексного числа (simple):
+	phase of complex number
+Results for фаза компоновки программы (simple):
+	phase of configuration of the program
+Results for фаза огибающей (simple):
+	phase of bending around
+Results for фаза полного телевизионного сигнала при негативной (позитивной) модуляции (simple):
+	phase of a full television signal at negative (positive) modulation
+Results for фаза прецессии (simple):
+	precession phase
+Results for фаза распределения (simple):
+	distribution phase
+Results for фаза сигнала развёртки (цветности) (simple):
+	phase of a signal of development (chromaticity)
+Results for фаза синхронизации:
+	 locking phase (Компьютеры)
+	 
+Results for фаза трансляции (simple):
+	broadcasting phase
+Results for фаза управления (simple):
+	phase of management
+Results for фаза установления вызова (simple):
+	phase of establishment of a call
+Results for ферримагнитная фаза (simple):
+	ferrimagnitny phase
+Results for холестерическая фаза (simple):
+	cholesteric phase
+Results for автоматическое (ручное) фазирование факсимильных аппаратов (simple):
+	automatic (manual) phasing of fax machines
+Results for дискретное фазирование (simple):
+	discrete phasing
+Results for квадратурное фазирование:
+	 quadrature phasing (Компьютеры)
+	 
+Results for фазирование в режиме воспроизведения (записи) (simple):
+	phasing in the mode of reproduction (record)
+Results for фазирование импульсов (simple):
+	phasing of impulses
+Results for фазирование каналов:
+	 channel phasing (Компьютеры)
+	 
+Results for фазирование по циклам (simple):
+	phasing on cycles
+Results for волноводный фазовращатель (simple):
+	the waveguide phase shifter
+Results for калиброванный фазовращатель (simple):
+	the calibrated phase shifter
+Results for коаксиальный фазовращатель (simple):
+	coaxial phase shifter
+Results for (не)взаимный фазовращатель (simple):
+	(not) the mutual phase shifter
+Results for отражательный фазовращатель (simple):
+	reflective phase shifter
+Results for плавный фазовращатель (simple):
+	smooth phase shifter
+Results for планарный фазовращатель (simple):
+	planar phase shifter
+Results for подстроечный фазовращатель (simple):
+	tuning phase shifter
+Results for полосковый фазовращатель (simple):
+	strip phase shifter
+Results for поляризационно-чувствительный фазовращатель (simple):
+	polarizing and sensitive phase shifter
+Results for проходной фазовращатель (simple):
+	phase shifter through passage
+Results for регулируемый фазовращатель:
+	 variable phase shifter (Компьютеры)
+	 
+Results for СВЧ-фазовращатель (simple):
+	Microwave phase shifter
+Results for ступенчатый фазовращатель (simple):
+	step phase shifter
+Results for фазовращатель на объёмных элементах (simple):
+	the phase shifter on volume elements
+Results for фазовращатель с фиксацией состояния (simple):
+	the phase shifter with fixing of a state
+Results for фазовращатель с цифровым управлением (simple):
+	the phase shifter with digital control
+Results for фарадеевский фазовращатель (simple):
+	Faraday phase shifter
+Results for ферритовый фазовращатель (simple):
+	ferrite phase shifter
+Results for фиксированный фазовращатель (simple):
+	the fixed phase shifter
+Results for фазометр косвенного (прямого) преобразования (simple):
+	phasemeter of indirect (direct) transformation
+Results for сосуществующие фазы (simple):
+	the coexisting phases
+Results for в(вы)ходной файл (simple):
+	in (you) hodny file
+Results for дисплейный файл:
+	 display file (Компьютеры)
+	 
+Results for дистанционный файл (simple):
+	remote file
+Results for индексный файл:
+	 index file (Компьютеры)
+	 
+Results for кассетный файл (simple):
+	cassette file
+Results for многотомный файл (simple):
+	multivolume file
+Results for обновляемый файл (simple):
+	the updated file
+Results for основной файл:
+	 master file (Техника)
+	 
+Results for открытый файл (simple):
+	open file
+Results for постоянный файл (simple):
+	constant file
+Results for речевой файл (simple):
+	speech file
+Results for файл без меток (simple):
+	the file without tags
+Results for файл диапозитивов (simple):
+	file of slides
+Results for файл задания (simple):
+	file of a task
+Results for файл изменений (simple):
+	file of changes
+Results for файл исходных (рабочих) данных (simple):
+	file of initial (workers) data
+Results for файл ключей:
+	 key file (Компьютеры)
+	 
+Results for файл на диске (ленте) (simple):
+	the file on a disk (tape)
+Results for файл паролей (simple):
+	file of passwords
+Results for файл прямого (совместного) доступа (simple):
+	file of direct (joint) access
+Results for файл связей:
+	 link file (Компьютеры)
+	 
+Results for файл сегментов:
+	 segment file (Компьютеры)
+	 
+Results for файл системной регистрации (simple):
+	file of system registration
+Results for файл с произвольной выборкой (simple):
+	the file with any selection
+Results for файл текста (simple):
+	file of the text
+Results for файл тестовых векторов (simple):
+	file of test vectors
+Results for файл трассировки:
+	 trace file (Компьютеры)
+	 
+Results for файл хранения данных (simple):
+	file of data storage
+Results for цепочечный файл:
+	 threaded file (Компьютеры)
+	 
+Results for эталонный файл (simple):
+	reference file
+Results for катодный факел (simple):
+	cathodic torch
+Results for краевой факел (simple):
+	regional torch
+Results for лазерный факел (simple):
+	laser torch
+Results for нижний факел (simple):
+	lower torch
+Results for плазменный факел (simple):
+	plasma torch
+Results for цветной факел (simple):
+	color torch
+Results for вакуум-фактор (simple):
+	vacuum factor
+Results for геометрический (оптический) фактор пучка (simple):
+	geometrical (optical) factor of a bunch
+Results for деполяризующий фактор (simple):
+	the depolarizing factor
+Results for Келл-фактор:
+	 kell factor (Техника)
+	 
+Results for пик-фактор:
+	 peak-factor 
+Results for размагничивающий фактор:
+	 dimagnetization factor (Естественные науки)
+	 
+Results for структурный фактор:
+	 geometrical factor (Естественные науки)
+	 
+	 structure factor (Техника)
+	 
+Results for фактор активной массы (simple):
+	factor of active weight
+Results for фактор Больцмана (simple):
+	Boltzmann's factor
+Results for фактор времени:
+	 time factor (Естественные науки)
+	 
+Results for фактор дезаккомодации (simple):
+	dezakkomodation factor
+Results for фактор индуктивности (simple):
+	inductance factor
+Results for фактор качества (simple):
+	quality factor
+Results for фактор риска:
+	 risk factor 
+	 health risk (Техника)
+	 
+Results for фактор стабилизации (simple):
+	stabilization factor
+Results for человеческий фактор (simple):
+	human factor
+Results for фантастрон с катодной (эмиттерной) связью (simple):
+	фантастрон with cathodic (emitter) communication
+Results for фантастрон со связью по экранирующей сетке (simple):
+	фантастрон with communication on the shielding grid
+Results for тяжёлый фермион (simple):
+	heavy fermion
+Results for замещённый феррит (simple):
+	the replaced ferrite
+Results for моно(поли)кристаллический феррит (simple):
+	mono (weed) crystal ferrite
+Results for редкоземельный феррит (simple):
+	rare-earth ferrite
+Results for СВЧ-феррит (simple):
+	Microwave ferrite
+Results for слоистый феррит:
+	 laminated ferrite (Техника)
+	 
+Results for смешанный феррит (simple):
+	the mixed ferrite
+Results for феррит-гранат:
+	 garnet ferrite 
+Results for феррит, изготовленный методом спекания (simple):
+	the ferrite made by an agglomeration method
+Results for феррит с прямоугольной петлёй гистерезиса (simple):
+	ferrite with a rectangular loop of a hysteresis
+Results for феррит с узкой шириной линии ферромагнитного резонанса (simple):
+	ferrite with a narrow width of the line of a ferromagnetic resonance
+Results for феррит-шпинель (simple):
+	ferrite-spinel
+Results for ферромагнетизм коллективизированных электронов:
+	 itinerant ferromagnetism (Естественные науки)
+	 
+Results for двумерный ферромагнетик (simple):
+	two-dimensional ferromagnetic
+Results for металлический ферромагнетик (simple):
+	metal ferromagnetic
+Results for насыщенный ферромагнетик (simple):
+	saturated ferromagnetic
+Results for слабый ферромагнетик (simple):
+	weak ferromagnetic
+Results for интерферренционная фигура (simple):
+	interferential figure
+Results for коноскопическая фигура (simple):
+	konoskopichesky figure
+Results for порошковые фигуры:
+	 magnetic character figures (Естественные науки)
+	 
+Results for фигуры Лиссажу:
+	 Lissajous figure (Естественные науки)
+	 
+	 Lissajous figures (Техника)
+	 
+Results for фигуры травления:
+	 etch figure (Естественные науки)
+	 
+	 etching figure (Естественные науки)
+	 
+Results for антенный фидер (simple):
+	antenna feeder
+Results for квантовая физика:
+	 quantum physics (Естественные науки)
+	 
+Results for классическая физика (simple):
+	classical physics
+Results for математическая физика:
+	 mathematical physics (Техника)
+	 
+Results for статистическая физика:
+	 statistical physics (Естественные науки)
+	 
+Results for физика кристаллов (simple):
+	physics of crystals
+Results for физика низких температур (simple):
+	physics of low temperatures
+Results for физика полу(сверх)проводников (simple):
+	physics to a floor (over) conductors
+Results for физика твёрдого тела (simple):
+	physics of a solid body
+Results for экспериментальная физика (simple):
+	experimental physics
+Results for фиксатор постоянной составляющей (simple):
+	clamp of a constant component
+Results for фиксатор тонарма (simple):
+	clamp of a tonarm
+Results for фиксатор уровня (simple):
+	level clamp
+Results for фиксация воздействия (simple):
+	influence fixing
+Results for фиксация колебаний (simple):
+	fixing of fluctuations
+Results for фиксация положения пучка (simple):
+	fixing of provision of a bunch
+Results for фиксация состояния (simple):
+	fixing of a state
+Results for фиксация страницы:
+	 page locking (Компьютеры)
+	 
+Results for фиксация уровня гашения (simple):
+	fixing of level of clearing
+Results for адаптивный фильтр (simple):
+	adaptive filter
+Results for активный (пассивный) фильтр (simple):
+	active (passive) filter

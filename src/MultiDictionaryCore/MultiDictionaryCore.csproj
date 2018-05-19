@@ -53,17 +53,34 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DBEntities\Term.cs" />
+    <Compile Include="DBEntities\TermTranslation.cs" />
+    <Compile Include="Core\Interfaces\IMultiLingualDictionary.cs" />
+    <Compile Include="Core\MultiLingualDictionary.cs" />
     <Compile Include="DatabaseHelper.cs" />
+    <Compile Include="DataLayer\Interfaces\IDataSource.cs" />
+    <Compile Include="DataLayer\Interfaces\ITermFactory.cs" />
+    <Compile Include="DataLayer\SQLCEDataSource.cs" />
+    <Compile Include="DataLayer\TermFactory.cs" />
     <Compile Include="EntityTranslation.cs" />
     <Compile Include="ITranslation.cs" />
     <Compile Include="MultiLingDictionary.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Entities.cs" />
     <Compile Include="SemanticTranslation.cs" />
+    <Compile Include="TermTranslation.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Enums\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="TrilingualDictionary.sdf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

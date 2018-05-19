@@ -1,0 +1,2396 @@
+Results for источник ступеней роста (simple):
+	source of steps of growth
+Results for источник тока, управляемый напряжением (током) (simple):
+	the current source operated by tension (current)
+Results for источник тормозного излучения (simple):
+	source of brake radiation
+Results for источник флуктуаций (simple):
+	source of fluctuations
+Results for источник шума:
+	 noise maker (Компьютеры)
+	 
+	 noise origin (Естественные науки)
+	 
+	 noise source (Техника)
+	 
+Results for источник электрического тока (simple):
+	source of electric current
+Results for источник электродвижущей силы (simple):
+	source of the electromotive force
+Results for источник электропитания:
+	 electric power supply (Компьютеры)
+	 
+Results for источник энергии:
+	 power source 
+	 energy source 
+Results for источник ядерного излучения:
+	 nuclear radiation source (Техника)
+	 
+Results for ламбертовский источник (simple):
+	Lambert source
+Results for ленточный источник света (simple):
+	tape light source
+Results for линейный источник излучения (simple):
+	linear source of radiation
+Results for многодиапазонный источник помех (simple):
+	multirange source of hindrances
+Results for многофазный источник питания (simple):
+	multiphase power supply
+Results for монохроматический источник:
+	 monochromatic source (Техника)
+	 
+Results for опорный источник:
+	 reference source (Компьютеры)
+	 
+Results for первичный источник питания:
+	 primary power supply (Компьютеры)
+	 
+Results for портативный источник питания (simple):
+	portable power supply
+Results for равноэнергетический источник излучения (simple):
+	equal-energy source of radiation
+Results for сильноточный источник ионов (simple):
+	silnotochny source of ions
+Results for стабилизированный источник напряжения (тока) (simple):
+	the stabilized source of tension (current)
+Results for точечный источник излучения (simple):
+	dot source of radiation
+Results for управляемый источник напряжения (тока) (simple):
+	the operated source of tension (current)
+Results for химический источник тока (simple):
+	chemical source of current
+Results for возможный исход (simple):
+	possible outcome
+Results for исход испытания (simple):
+	result of test
+Results for исчезновение зарядов (simple):
+	disappearance of charges
+Results for исчезновение ионизации (simple):
+	ionization disappearance
+Results for исчезновение магнитного потока (simple):
+	disappearance of a magnetic flux
+Results for исчезновение порядка числа (simple):
+	disappearance of an exponent
+Results for исчезновение сигнала дальней радиостанции (simple):
+	disappearance of a signal of distant radio station
+Results for исчезновение разрядов порядка (simple):
+	disappearance of categories of an order
+Results for ассоциативное исчисление (simple):
+	associative calculation
+Results for вариационное исчисление:
+	 calculus of variations 
+	 variational calculus (Техника)
+	 
+Results for векторное исчисление:
+	 vector calculus (Естественные науки)
+	 
+	 calculus of vectors (Техника)
+	 
+Results for дифференциальное исчисление:
+	 differential calculus 
+Results for интегральное исчисление:
+	 integral calculus 
+Results for исчисление бесконечно малых:
+	 infinitesimal calculus (Естественные науки)
+	 
+Results for исчисление высказываний:
+	 propositional calculus (Естественные науки)
+	 
+Results for исчисление конечных разностей:
+	 calculus of finite differences (Естественные науки)
+	 
+Results for исчисление предикатов:
+	 predicate calculus (Естественные науки)
+	 
+Results for матричное исчисление:
+	 matrix analysis (Естественные науки)
+	 
+Results for операционное исчисление:
+	 operational calculus (Естественные науки)
+	 
+Results for пропозициональное исчисление:
+	 propositional calculus (Техника)
+	 
+Results for тензорное исчисление:
+	 calculus of tensors (Естественные науки)
+	 
+Results for итог исследований (simple):
+	result of researches
+Results for итог опытно-конструкторской работы (simple):
+	result of developmental work
+Results for абонентский кабель:
+	 subscriber's cable (Компьютеры)
+	 
+Results for антенный кабель (simple):
+	antenna cable
+Results for береговой кабель:
+	 shore end cable (Компьютеры)
+	 
+Results for бронированный кабель:
+	 armored cable (Компьютеры)
+	 
+	 armor cable (Естественные науки)
+	 
+	 sheathed cable (Техника)
+	 
+Results for вводной кабель (simple):
+	introduction cable
+Results for воздушный кабель:
+	 air layable cable (Компьютеры)
+	 
+	 aerial cable (Техника)
+	 
+Results for волоконно-оптический кабель:
+	 optical fiber cable (Компьютеры)
+	 
+	 fiber cable (Техника)
+	 
+Results for высоковольтный кабель:
+	 high-voltage cable (Техника)
+	 
+Results for высокочастотный [ВЧ-] кабель (simple):
+	high-frequency [VCh-] cable
+Results for газонаполненный кабель:
+	 gas-filled cable (Техника)
+	 
+	 gas pressure cable (Техника)
+	 
+Results for гибкий кабель:
+	 flexible cable (Техника)
+	 
+	 soft cable (Компьютеры)
+	 
+Results for дву(одно, много)жильный кабель (simple):
+	two-(one, is a lot of) a vein cable
+Results for запасной кабель:
+	 reserve cable (Компьютеры)
+	 
+Results for изолированный кабель:
+	 insulated cable (Компьютеры)
+	 
+Results for исправный кабель (simple):
+	serviceable cable
+Results for кабель в свинцовой оболочке:
+	 lead-covered cable (Компьютеры)
+	 
+Results for кабель в стальной гофрированной оболочке (simple):
+	cable in a steel corrugated cover
+Results for кабель (дальней) связи (simple):
+	cable (distant) communication
+Results for кабель задержки:
+	 delay cable (Техника)
+	 
+Results for кабель парной (четвёрочной) скрутки (simple):
+	cable of pair (chetvyorochny) twist
+Results for кабель питания:
+	 feed cable (Компьютеры)
+	 
+	 feeder cable (Техника)
+	 
+Results for кабель с высококачественным защитным покрытием (simple):
+	cable with a high-quality sheeting
+Results for кабель снижения (simple):
+	decrease cable
+Results for кабель с пластмассовой изоляцией:
+	 plastic insulated cable (Компьютеры)
+	 
+	 plastic-insulated cable (Техника)
+	 
+Results for кабель с расщеплёнными жилами (simple):
+	cable with the split veins
+Results for кабель управления:
+	 control cable (Техника)
+	 
+Results for кабинный кабель (simple):
+	kabinny cable
+Results for камерный кабель (simple):
+	chamber cable
+Results for коаксиальный кабель:
+	 coaxial cable (Компьютеры)
+	 
+Results for комбинированный кабель:
+	 composite cable (Компьютеры)
+	 
+	 hybrid cable (Техника)
+	 
+Results for композитный кабель (simple):
+	composite cable
+Results for крарупизированный кабель:
+	 krarup cable (Техника)
+	 
+Results for магистральный кабель:
+	 main cable (Компьютеры)
+	 
+Results for маслонаполненный кабель:
+	 oil-filled cable (Естественные науки)
+	 
+Results for междугородный кабель:
+	 interurban cable (Компьютеры)
+	 
+	 trunk cable (Техника)
+	 
+Results for микрофонный кабель:
+	 microphone cable (Компьютеры)
+	 
+Results for направляющий [ведущий] кабель (simple):
+	the directing [leading] cable
+Results for (не)симметричный кабель (simple):
+	(not) symmetric cable
+Results for однородный кабель (simple):
+	uniform cable
+Results for плоский кабель:
+	 flat cable (Техника)
+	 
+Results for подвесной кабель:
+	 suspension cable (Компьютеры)
+	 
+Results for подводный кабель:
+	 submarine cable (Компьютеры)
+	 
+Results for подземный кабель:
+	 underground cable (Компьютеры)
+	 
+Results for полевой кабель:
+	 field cable (Компьютеры)
+	 
+Results for (полу)жёсткий кабель (simple):
+	(floor) rigid cable
+Results for помехоподавляющий кабель системы зажигания (simple):
+	noise suppressing cable of system of ignition
+Results for пуппинизированный кабель (simple):
+	the pupinized cable
+Results for радиочастотный кабель:
+	 radiofrequency cable (Компьютеры)
+	 
+	 radio-frequency cable (Техника)
+	 
+Results for распределительный кабель:
+	 distribution cable (Компьютеры)
+	 
+	 cable leg (Техника)
+	 
+Results for резервный кабель:
+	 emergency cable (Компьютеры)
+	 
+Results for сверхвысокочастотный [СВЧ-] кабель (simple):
+	superhigh-frequency [the microwave oven-] a cable
+Results for сверхпроводящий кабель:
+	 supercunducting cable (Техника)
+	 
+Results for секторный двухжильный кабель (simple):
+	sector twin-core cable
+Results for силовой кабель:
+	 power cable 
+Results for симметричный кабель:
+	 balanced cable (Естественные науки)
+	 
+Results for соединительный кабель:
+	 connection cable (Компьютеры)
+	 
+	 connecting cable (Техника)
+	 
+Results for телевизионный кабель:
+	 vision cable (Техника)
+	 
+Results for телеграфный кабель:
+	 telegraph cable (Компьютеры)
+	 
+Results for телефонный кабель:
+	 telephone cable (Техника)
+	 
+Results for трансокеанский кабель (simple):
+	transoceanic cable
+Results for триаксиальный кабель (simple):
+	triax cable
+Results for широкополосный кабель (simple):
+	broadband cable
+Results for экранированный кабель:
+	 shielded cable (Компьютеры)
+	 
+Results for эталонный кабель (simple):
+	reference cable
+Results for дикторская кабина:
+	 announce booth (Компьютеры)
+	 
+Results for индексный кадр (simple):
+	index shot
+Results for кадр данных:
+	 data frame (Компьютеры)
+	 
+Results for кадр запроса (simple):
+	inquiry shot
+Results for развёртываемый [сканируемый] кадр (simple):
+	the developed [scanned] shot
+Results for стоп-кадр:
+	 freeze frame 
+Results for телеметрический кадр (simple):
+	telemetric shot
+Results for цветовой кадр (simple):
+	color shot
+Results for калибратор длительности (simple):
+	duration calibrator
+Results for калибратор мощности (simple):
+	power calibrator
+Results for калибратор напряжения (simple):
+	tension calibrator
+Results for калибратор тока (simple):
+	current calibrator
+Results for калибратор уровня (simple):
+	level calibrator
+Results for калибратор частоты (simple):
+	frequency calibrator
+Results for кварцевый калибратор:
+	 crystal calibrator (Естественные науки)
+	 
+Results for «муаровый» калибратор (simple):
+	"moire" calibrator
+Results for акустическая калибровка микрофонов с помощью стальных шариков (simple):
+	acoustic calibration of microphones by means of steel balls
+Results for калибровка дальности (simple):
+	calibration of range
+Results for калибровка длительности (simple):
+	calibration of duration
+Results for калибровка осциллографа (simple):
+	calibration of an oscillograph
+Results for калибровка радиолокационной станции (simple):
+	calibration of radar station
+Results for калибровка фазы (частоты) (simple):
+	calibration of a phase (frequency)
+Results for относительная калибровка (simple):
+	relative calibration
+Results for прецизионная калибровка (simple):
+	precision calibration
+Results for ступенчатая калибровка (simple):
+	step calibration
+Results for адиабатический калориметр:
+	 vacuum-coated adiabatic calorimeter (Естественные науки)
+	 
+	 adiabatic calorimeter (Техника)
+	 
+Results for балансный калориметр (simple):
+	balance calorimeter
+Results for волноводный калориметр (simple):
+	the waveguide calorimeter
+Results for дифференциальный калориметр:
+	 differential calorimeter (Техника)
+	 
+Results for калориметр, работающий на принципе замещения (simple):
+	the calorimeter working at the principle of replacement
+Results for коаксиальный калориметр (simple):
+	coaxial calorimeter
+Results for лазерный калориметр (simple):
+	laser calorimeter
+Results for проточный калориметр:
+	 flow calorimeter (Техника)
+	 
+Results for СВЧ-калориметр (simple):
+	Microwave calorimeter
+Results for широкополосный калориметр (simple):
+	broadband calorimeter
+Results for лазерная калориметрия:
+	 laser calorimetry (Естественные науки)
+	 
+Results for СВЧ-калориметрия (simple):
+	Microwave calorimetry
+Results for калькулятор с автоматическим управлением последовательностью выполнения операций (simple):
+	computer-controlled calculator sequence of performance of operations
+Results for калькулятор с выводом на печать (simple):
+	the calculator with printing
+Results for калькулятор с дисплеем (simple):
+	the calculator with the display
+Results for карманный калькулятор (simple):
+	pocket calculator
+Results for настольный калькулятор:
+	 desktop calculator (Компьютеры)
+	 
+Results for программируемый калькулятор (simple):
+	programmable calculator
+Results for электронный калькулятор (simple):
+	electronic calculator
+Results for акустическая камера:
+	 acoustic camera (Естественные науки)
+	 
+	 sound chamber (Техника)
+	 
+Results for альфа(гамма)-камера (simple):
+	alpha (scale) - the camera
+Results for безэховая камера (simple):
+	anechoic camera
+Results for бесстеночная камера (simple):
+	besstenochny camera
+Results for вакуумная камера:
+	 vacuum chamber 
+Results for воздухоэквивалентная камера (simple):
+	airequivalent camera
+Results for голографическая камера (simple):
+	holographic camera
+Results for дифференциальная камера (simple):
+	differential camera
+Results for диффузная камера (simple):
+	diffusion camera
+Results for жидкостенная камера (simple):
+	zhidkostenny camera
+Results for импульсная камера (simple):
+	pulse camera
+Results for ионизационная камера:
+	 ionization chamber 
+Results for искровая камера (simple):
+	spark camera
+Results for камера Брэгга-Грея (simple):
+	Bragg-Gray's camera
+Results for камера видеомагнитофона (simple):
+	camera of the videorecorder
+Results for камера Вильсона:
+	 expansion chamber (Естественные науки)
+	 
+Results for камера (высокого) давления (simple):
+	camera (high) pressure
+Results for камера для видеозаписи (simple):
+	the camera for a video
+Results for камера для высокоскоростной киносъёмки (simple):
+	the camera for high-speed filming
+Results for камера для ионной имплантации:
+	 ion implantation chamber (Естественные науки)
+	 
+Results for камера для климатических испытаний:
+	 climatic test chamber (Техника)
+	 
+Results for камера для лазерной сварки (simple):
+	the camera for laser welding
+Results for камера для осаждения (напыления) плёнок (simple):
+	the camera for sedimentation (dusting) of films
+Results for камера для отмывки щётками (simple):
+	the camera for washing brushes
+Results for камера для передачи крупным планом (simple):
+	the camera for transfer close up
+Results for камера для проведения испытаний (simple):
+	the camera for carrying out tests
+Results for камера для промышленного телевидения (simple):
+	the camera for industrial television
+Results for камера для прямой (студийной) передачи (simple):
+	the camera for direct (studio) transfer
+Results for камера для распыления резиста (simple):
+	the camera for dispersion of the rezist
+Results for камера замкнутой телевизионной системы (simple):
+	the camera of the closed television system
+Results for камера кругового обзора [панорамная камера] (simple):
+	camera of the circular review [the panoramic camera]
+Results for камера на трубке типа супериконоскоп (simple):
+	the camera on a tube like supericonoscope
+Results for камера-обскура:
+	 camera obscura 
+	 pinhole camera (Естественные науки)
+	 
+Results for камера охлаждения:
+	 cooling chamber (Техника)
+	 
+Results for камера с бегущим лучом (simple):
+	the camera with the running beam
+Results for камера со строчно-кадровой развёрткой (simple):
+	the camera with a lower case vertical sweep
+Results for камера цветного изображения (simple):
+	camera of the color image
+Results for камера цветного (чёрно-белого) телевидения (simple):
+	camera of color (black-and-white) television
+Results for компенсационная камера:
+	 compensation chamber (Техника)
+	 
+Results for напылительная камера (simple):
+	napylitelny camera
+Results for обзорная камера (simple):
+	survey camera
+Results for передающая тепловизионная камера (simple):
+	the transferring thermal imaging camera
+Results for прецессионная камера:
+	 precession camera (Естественные науки)
+	 
+Results for позитронная камера (simple):
+	positron camera
+Results for порошковая рентгеновская камера (simple):
+	powder x-ray camera
+Results for пропорциональная камера (simple):
+	proportional camera
+Results for пузырьковая камера:
+	 bubble cell (Компьютеры)
+	 
+	 bubble chamber (Техника)
+	 
+Results for реверберационная камера:
+	 reverberation chamber (Техника)
+	 
+Results for редукционная камера:
+	 reducting chamber (Техника)
+	 
+Results for рентгеновская камера:
+	 powder camera (Естественные науки)
+	 
+Results for сдвоенная камера (simple):
+	dual camera
+Results for смесительная камера:
+	 mixing chamber (Естественные науки)
+	 
+	 blending chamber (Техника)
+	 
+Results for сортирующая камера:
+	 settling column (Естественные науки)
+	 
+	 sorting chamber (Техника)
+	 
+Results for стримерная камера (simple):
+	streamer camera
+Results for сцинтилляционная камера (simple):
+	scintillation camera
+Results for телевизионная передающая камера (simple):
+	the TV transferring camera
+Results for тканеэквивалентная камера (simple):
+	tkaneekvivalentny camera
+Results for тороидальная камера:
+	 doughnut[ˈdəunʌt] (Техника)
+	 
+	 toroidal chamber (Техника)
+	 
+Results for трековая искровая камера (simple):
+	track spark camera
+Results for ускорительная камера (simple):
+	accelerating camera
+Results for фотографическая камера:
+	 photographic camera 
+Results for экстраполяционная камера (simple):
+	extrapolation camera
+Results for эхо-камера:
+	 echo-chamber (Естественные науки)
+	 
+Results for в(вы)водная канавка записи (simple):
+	in (you) water flute of record
+Results for дроссельная канавка:
+	 choke groove (Техника)
+	 
+Results for канавка термического травления (simple):
+	flute of thermal etching
+Results for заключительная концентрическая (эксцентрическая) канавка записи (simple):
+	final concentric (eccentric) flute of record
+Results for защитная концентрическая канавка записи (simple):
+	protective concentric flute of record
+Results for канавка записи:
+	 record groove (Музыка)
+	 
+Results for канавка записи переменной глубины (simple):
+	flute of record of variable depth
+Results for канавка записи с большим (переменным) шагом (simple):
+	record flute with a big (variable) step
+Results for (не)модулированная канавка записи (simple):
+	not modulated record flute
+Results for соединительная канавка записи (simple):
+	connecting flute of record
+Results for узкая (широкая) канавка записи (simple):
+	narrow (wide) flute of record
+Results for V-образная канавка (simple):
+	V-shaped flute
+Results for активный канал (simple):
+	active channel
+Results for аналоговый канал передачи данных (simple):
+	analog data transmission channel
+Results for арендованный канал (simple):
+	leased channel
+Results for арифметический канал (simple):
+	arithmetic channel
+Results for (байт, блок)-мультиплексный канал (simple):
+	(byte, the block) - the multiplex channel
+Results for быстродействующий канал (simple):
+	high-speed channel
+Results for вертикальный (горизонтальный) канал (simple):
+	vertical (horizontal) channel
+Results for воздушный [вентиляционный] канал (simple):
+	air [ventilating] channel
+Results for волноводный канал:
+	 waveguide channel (Компьютеры)
+	 
+Results for волоконно-оптический канал связи (simple):
+	fiber-optical communication channel
+Results for вспомогательный канал (simple):
+	auxiliary channel
+Results for выделенный канал:
+	 allocated channel (Компьютеры)
+	 
+	 dedicated channel (Техника)
+	 
+Results for гауссовский канал (simple):
+	Gaussian channel
+Results for герметизированный канал (simple):
+	the pressurized channel
+Results for двоичный канал (simple):
+	binary channel
+Results for двух(четырёх)проводный канал (simple):
+	two (four) provodny channel
+Results for дискретный канал (simple):
+	discrete channel
+Results for диффузный оптический канал:
+	 diffuse optical channel (Компьютеры)
+	 
+Results for занятый канал (simple):
+	the occupied channel
+Results for защитный канал (simple):
+	protective channel
+Results for изолирующий канал (simple):
+	the isolating channel
+Results for инверсионный канал (simple):
+	inversion channel
+Results for индуцированный канал (simple):
+	the induced channel
+Results for ионно-имплантированный канал:
+	 ion-implanted channel (Естественные науки)
+	 
+Results for ионосферный канал (simple):
+	ionospheric channel
+Results for информационный канал:
+	 information channel 
+Results for камерный канал (simple):
+	chamber channel
+Results for канал асинхронной передачи данных (simple):
+	channel of asynchronous data transmission
+Results for канал без памяти:
+	 memoryless channel (Компьютеры)
+	 
+Results for канал без помех:
+	 noiseless channel (Компьютеры)
+	 
+Results for канал блокировки (simple):
+	channel of blocking
+Results for канал ввода-вывода:
+	 input-output channel (Компьютеры)
+	 
+Results for канал вещательного телевидения (simple):
+	channel of broadcasting television
+Results for канал воспроизведения (simple):
+	channel of reproduction
+Results for канал восстановления поднесущей (simple):
+	channel of restoration of subbearing
+Results for канал вторичного уплотнения (simple):
+	channel of secondary consolidation
+Results for канал выдачи команд (simple):
+	channel of issue of commands
+Results for канал высокочастотной [ВЧ-] связи (simple):
+	channel of high-frequency [VCh-] communication
+Results for канал демодулятора:
+	 demodulator channel (Техника)
+	 
+Results for канал для подслушивания (simple):
+	the channel for interception
+Results for канал записи-воспроизведения (simple):
+	channel of record reproduction
+Results for канал записи-считывания (simple):
+	channel of record reading
+Results for канал звукового сопровождения (simple):
+	channel of a soundtrack
+Results for канал звуковых частот (simple):
+	channel of sound frequencies
+Results for канал изображения:
+	 video channel (Техника)
+	 
+Results for канал коллективного (общего) пользования (simple):
+	channel of collective (general) use
+Results for канал командного радиоуправления (simple):
+	channel of team radio control
+Results for канал местного (регионального) радиовещания (simple):
+	channel of local (regional) broadcasting
+Results for канал общего вызова (simple):
+	channel of the general call
+Results for канал ответчика (simple):
+	channel of the defendant
+Results for канал передачи двоичных данных (simple):
+	channel of transfer of binary data
+Results for канал передачи с частично подавленной боковой полосой (simple):
+	the channel of transfer with partially suppressed side strip
+Results for канал пилот-сигнала (simple):
+	channel pilot signal
+Results for канал подавления сигналов, принимаемых по боковым лепесткам (simple):
+	the channel of suppression of the signals accepted on side petals
+Results for канал поднесущей стереосигнала (simple):
+	the channel subbearing a stereosignal
+Results for канал полевого транзистора:
+	 field effect transistor channel (Компьютеры)
+	 
+Results for канал предупреждения (simple):
+	channel of prevention
+Results for канал приёма (simple):
+	channel of reception
+Results for канал прямого доступа к радиолокационной информации (simple):
+	channel of direct access to radar information
+Results for канал радиовещания (simple):
+	channel of broadcasting
+Results for канал радиорелейной линии (simple):
+	channel of the radio relay line
+Results for канал разнесённого приёма (simple):
+	the channel of the carried reception
+Results for канал распространения волн (simple):
+	channel of distribution of waves
+Results for канал с аддитивным шумом (simple):
+	the channel with additive noise
+Results for канал с (буферной) памятью (simple):
+	the channel with (buffer) memory
+Results for канал с взаимно ортогональной поляризацией (simple):
+	the channel with mutually orthogonal polarization
+Results for канал с временным разделением (уплотнением) (simple):
+	the channel with temporary division (consolidation)
+Results for канал с дискретным входом:
+	 discrete input channel (Компьютеры)
+	 
+Results for канал с доплеровским сдвигом частоты (simple):
+	the channel with Doppler shift of frequency
+Results for канал с жёстким ограничением (simple):
+	the channel with a tight restriction
+Results for канал с замираниями:
+	 fading channel (Техника)
+	 
+Results for канал сигнала зелёного (красного, синего) (simple):
+	channel of a signal green (red, blue)
+Results for канал сигнала основного цвета (simple):
+	channel of a signal of primary color
+Results for канал сигнала цветности (яркости) (simple):
+	channel of a signal of chromaticity (brightness)
+Results for канал (сигнала цветовой) синхронизации (simple):
+	channel (signal color) synchronization
+Results for канал с компандированием (simple):
+	the channel with companding
+Results for канал с многолучевым распространением (simple):
+	the channel with multibeam distribution
+Results for канал с многостанционным доступом (simple):
+	the channel with multistation access
+Results for канал с пакетами ошибок (simple):
+	the channel with packages of mistakes
+Results for канал с помехами:
+	 noisy channel (Компьютеры)
+	 
+Results for канал спутниковой системы радиосвязи (simple):
+	channel of satellite system of a radio communication
+Results for канал с рассеянием (simple):
+	the channel with dispersion
+Results for канал с фиксированной настройкой (simple):
+	the channel with the fixed control
+Results for канал телеграфной связи (simple):
+	channel of cable communication
+Results for канал тепловыделения (simple):
+	channel of thermal emission
+Results for канал тональной сигнализации (simple):
+	channel of the voice-frequency alarm system
+Results for канал утечки по поверхности диэлектрика (simple):
+	the channel of leak on the surface of dielectric
+Results for канал цветоразностного сигнала (simple):
+	channel of a color-difference signal
+Results for канал ЧМ-радиовещания (simple):
+	World Cup channel of broadcasting
+Results for канал электросвязи [телекоммуникации] (simple):
+	channel of telecommunication [telecommunication]
+Results for камерный канал (simple):
+	chamber channel
+Results for квадратурный канал (simple):
+	quadrature channel
+Results for когерентный канал (simple):
+	coherent channel
+Results for коленчатый канал (simple):
+	cranked channel
+Results for контрольный канал:
+	 pilot channel (Техника)
+	 
+Results for логический канал:
+	 logical link (Компьютеры)
+	 
+Results for магнитогидродинамический [МГД-] канал (simple):
+	magnetohydrodynamic [the Moscow City Duma-] the channel
+Results for метеорный канал (simple):
+	meteoric channel
+Results for незакреплённый [предоставляемый по требованию] канал (simple):
+	loose [provided on demand] the channel
+Results for (не)коммутируемый канал (simple):
+	not switched channel
+Results for нестационарный канал (simple):
+	non-stationary channel
+Results for низкочастотный [НЧ-] канал (simple):
+	low-frequency [LF-] the channel
+Results for обеднённый канал (simple):
+	the impoverished channel
+Results for обратный канал:
+	 reverse channel 
+	 backward channel (Компьютеры)
+	 
+Results for объёмный канал (simple):
+	volume channel
+Results for опорный канал (simple):
+	basic channel
+Results for оптический канал с рассеянием (simple):
+	the optical channel with dispersion
+Results for перегруженный канал (simple):
+	the overloaded channel
+Results for перколяционный канал (simple):
+	perkolyatsionny channel
+Results for плазменный канал (simple):
+	plasma channel
+Results for поверхностный канал (simple):
+	superficial channel
+Results for (полу)дуплексный канал (simple):
+	(floor) duplex channel
+Results for проводящий канал (simple):
+	the carrying-out channel
+Results for программируемый канал (simple):
+	programmable channel
+Results for прямой канал:
+	 forward channel (Компьютеры)
+	 
+	 private line (Техника)
+	 
+Results for радиовещательный канал (simple):
+	broadcasting channel
+Results for радиорелейный канал:
+	 radio-relay channel (Техника)
+	 
+Results for радиочастотный канал:
+	 radio-frequency channel (Техника)
+	 
+Results for разностный канал (simple):
+	differential channel
+Results for реверберационный канал (simple):
+	reverberation channel
+Results for рэлеевский канал (simple):
+	Rayleigh channel
+Results for сверхпроводящий канал (simple):
+	superconducting channel
+Results for симметричный канал (simple):
+	symmetric channel
+Results for симплексный канал (simple):
+	simplex channel
+Results for скрытый канал:
+	 covert channel (Компьютеры)
+	 
+Results for служебный канал:
+	 service channel (Компьютеры)
+	 
+Results for соседний канал:
+	 adjacent channel (Компьютеры)
+	 
+Results for стандартный канал радиовещания (simple):
+	standard channel of broadcasting
+Results for суммирующий канал (simple):
+	the summarizing channel
+Results for телевизионный канал:
+	 television channel 
+Results for телеграфный канал:
+	 telegraph channel (Компьютеры)
+	 
+Results for телеметрический канал (simple):
+	telemetric channel
+Results for телефонный канал:
+	 express speaker circuit (Компьютеры)
+	 
+	 telephone channel (Техника)
+	 
+Results for тропосферный канал (simple):
+	tropospheric channel
+Results for узкополосный канал (simple):
+	narrow-band channel
+Results for цифровой канал:
+	 digital channel 
+	 digital link (Компьютеры)
+	 
+Results for широкополосный канал:
+	 broadband channel 
+Results for каналирование энергии (simple):
+	energy channeling
+Results for капля жидкости (simple):
+	liquid drop
+Results for капля припоя (simple):
+	solder drop
+Results for капля расплава (simple):
+	fusion drop
+Results for капсула датчика (simple):
+	sensor capsule
+Results for капсула приёмника (simple):
+	receiver capsule
+Results for капсуль угольного микрофона (simple):
+	капсуль coal microphone
+Results for телефонный капсуль (simple):
+	telephone капсуль
+Results for карандаш для маркировки (simple):
+	pencil for marking
+Results for карандаш системы отображения (simple):
+	pencil of system of display
+Results for каретка печатающего устройства (simple):
+	printer carriage
+Results for каретка с управлением (simple):
+	the carriage with management
+Results for лентопротяжная каретка (simple):
+	tape drive carriage
+Results for каркас для монтажа печатных плат (simple):
+	framework for installation of printed circuit boards
+Results for каркас катушки индуктивности:
+	 coil form (Техника)
+	 
+Results for каркас устройств (simple):
+	framework of devices
+Results for картонный каркас (simple):
+	cardboard framework
+Results for плоский каркас (simple):
+	flat framework
+Results for разъёмный каркас (simple):
+	demountable framework
+Results for ребристый каркас (simple):
+	ridge framework
+Results for сборный каркас (simple):
+	combined framework
+Results for трубчатый каркас:
+	 roll bar (Техника)
+	 
+Results for цельный каркас (simple):
+	integral framework
+Results for вытравленный карман (simple):
+	the etched pocket
+Results for дырочный карман (simple):
+	hole pocket
+Results for карман, заполненный эпитаксиальным слоем (simple):
+	the pocket filled with an epitaxial layer
+Results for электронный карман (simple):
+	electronic pocket
+Results for (аэро)навигационная карта (simple):
+	(aero) navigation chart
+Results for карта бокового обзора (simple):
+	card of the side review
+Results for карта источников космического радиоизлучения (simple):
+	card of sources of a space radio emission
+Results for карта Карно (simple):
+	Carnot's card
+Results for карта пережигания плавких перемычек (simple):
+	card of a perezhiganiye of fusible crossing points
+Results for карта поглощения (simple):
+	card of absorption
+Results for карта поразрядного отображения информации (simple):
+	card of digit-by-digit display of information
+Results for карта профиля трассы (simple):
+	card of a profile of the route
+Results for карта радиопомех (simple):
+	card of a radio noise
+Results for карта (распределения) памяти (simple):
+	card (distributions) of memory
+Results for контрольная карта:
+	 check card (Компьютеры)
+	 
+	 check list (Техника)
+	 
+Results for перфорационная карта [перфокарта] (simple):
+	punched card [punched card]
+Results for радиолокационная карта:
+	 radar map (Техника)
+	 
+Results for радиопеленгационная карта (simple):
+	radiopelengatsionny card
+Results for технологическая карта:
+	 flow chart 
+	 procedure sheet (Естественные науки)
+	 
+	 process chart (Компьютеры)
+	 
+	 instruction card (Техника)
+	 
+Results for дифракционная картина:
+	 diffraction pattern (Естественные науки)
+	 
+Results for интерференционная картина:
+	 interference figure (Естественные науки)
+	 
+	 interference pattern (Естественные науки)
+	 
+Results for картина сведения (simple):
+	data picture
+Results for картографирование в радиолокационной астрономии (simple):
+	mapping in radar astronomy
+Results for лазерное картографирование (simple):
+	laser mapping
+Results for радиометрическое картографирование (simple):
+	radiometric mapping
+Results for картотека предприятия (simple):
+	card file of the enterprise
+Results for картотека электронных изделий (simple):
+	card file of electronic products
+Results for касание контактов (simple):
+	contact of contacts
+Results for касание проводов:
+	 contact between two wires (Техника)
+	 
+Results for буферный каскад:
+	 buffer stage (Естественные науки)
+	 
+Results for входной каскад с низким уровнем шумов (simple):
+	the entrance cascade with the low level of noise
+Results for высоко(низко)частотный каскад (simple):
+	highly (low) frequency cascade
+Results for выходной каскад блока кадровой (строчной) развёртки (simple):
+	output cascade of the block of vertical (lower case) sweep
+Results for двухтактный каскад:
+	 push-pull circuit (Компьютеры)
+	 
+	 push-pull cascade (Техника)
+	 
+Results for каскад гашения обратного хода луча (simple):
+	cascade of clearing of reverse motion of a beam
+Results for каскад квантований (simple):
+	cascade of quantizations
+Results for каскад на дифференциальном усилителе (simple):
+	the cascade on the differential amplifier
+Results for каскад на комплементарных транзисторах (simple):
+	the cascade on complementary transistors
+Results for каскад на паре Дарлингтона (simple):
+	the cascade on couple of Darlington
+Results for каскад предварительной селекции [преселектор] (simple):
+	cascade of preliminary selection [preselector]
+Results for каскад преобразования частот (simple):
+	cascade of transformation of frequencies
+Results for каскад промежуточной частоты (simple):
+	cascade of intermediate frequency
+Results for каскад с компенсацией дрейфа (simple):
+	the cascade with drift compensation
+Results for каскад с незаземлёнными входом и выходом (simple):
+	the cascade with an ungrounded entrance and an exit
+Results for каскад согласования (simple):
+	coordination cascade
+Results for каскад с разделённой нагрузкой (simple):
+	the cascade with the shared burden
+Results for каскад умножения частоты (simple):
+	cascade of multiplication of frequency
+Results for каскад усиления:
+	 stage of amplification (Техника)
+	 
+Results for конечный каскад (simple):
+	final cascade
+Results for корректирующий каскад (simple):
+	the correcting cascade
+Results for модуляторный каскад (simple):
+	modulator cascade
+Results for оконечный каскад:
+	 final stage (Техника)
+	 
+Results for парафазный каскад (simple):
+	paraphase cascade
+Results for предоконечный каскад усилителя мощности (simple):
+	preterminal cascade of the amplifier of power
+Results for пушпульный каскад (simple):
+	pushpulny cascade
+Results for разделительный каскад (simple):
+	dividing cascade
+Results for смесительный каскад (simple):
+	mixing cascade
+Results for усилительный каскад:
+	 amplifying stage (Компьютеры)
+	 
+	 amplifier cascade (Техника)
+	 
+Results for формирующий каскад (simple):
+	the forming cascade
+Results for каскадирование устройств (simple):
+	cascading of devices
+Results for видеомагнитофонная кассета [видеокассета] (simple):
+	video recorder cartridge [videotape]
+Results for восьмидорожечная кассета (simple):
+	vosmidorozhechny cartridge
+Results for двух(одно)катушечная кассета (simple):
+	two (one) bobbin cartridges
+Results for кассета для бытовых магнитофонов (simple):
+	the cartridge for household tape recorders
+Results for кассета для цифровой записи (simple):
+	the cartridge for digital record
+Results for кассета с бесконечным рулоном ленты (simple):
+	the cartridge with an infinite roll of a tape
+Results for копланарная кассета (simple):
+	co-planar cartridge
+Results for магнитофонная кассета:
+	 tape spool (Техника)
+	 
+Results for каталог изделий:
+	 product catalog (Бизнес)
+	 
+Results for каталог пользователя (simple):
+	catalog of the user
+Results for каталог программного обеспечения (simple):
+	catalog of the software
+Results for каталог стандартных цветов (simple):
+	catalog of standard flowers
+Results for каталог файлов (simple):
+	catalog of files
+Results for каталог электронной продукции (simple):
+	catalog of electronic production
+Results for категория пользователей (simple):
+	category of users
+Results for категория средств измерений (simple):
+	category of measuring instruments
+Results for активированный катод:
+	 activated cathode (Естественные науки)
+	 
+Results for бариевый катод:
+	 barium cathode (Естественные науки)
+	 
+Results for барированный катод (simple):
+	barirovanny cathode
+Results for бипотенциальный катод (simple):
+	bipotential cathode
+Results for булавочный катод (simple):
+	pin cathode
+Results for виртуальный катод:
+	 virtual cathode (Естественные науки)
+	 
+Results for гребенчатый катод (simple):
+	edge cathode
+Results for дисперсный катод (simple):
+	disperse cathode
+Results for диффузионный катод:
+	 diffusion cathode (Естественные науки)
+	 
+Results for жидкометаллический катод:
+	 pool cathode (Естественные науки)
+	 
+Results for импрегнированный катод (simple):
+	impregnirovanny cathode
+Results for ионно-нагревательный катод (simple):
+	ion-heating cathode
+Results for карбидированный катод:
+	 tungsten-carbide cathode (Техника)
+	 
+	 carbonized cathode (Естественные науки)
+	 
+Results for катод возврата (simple):
+	return cathode
+Results for катод воспроизводящего (записывающего) прожектора (simple):
+	the cathode of the reproducing (writing-down) searchlight
+Results for катод газоразрядного выпрямительного прибора (simple):
+	cathode of the gas-discharge vypryamitelny device
+Results for катод дугового разряда:
+	 arc cathode (Естественные науки)
+	 
+Results for катод косвенного (прямого) накала (simple):
+	cathode of indirect (direct) heat
+Results for катод с матрицей из никеля (simple):
+	the cathode with a matrix from nickel
+Results for катод с ограниченной инжекцией (simple):
+	the cathode with limited injection
+Results for катод тлеющего разряда:
+	 glow-discharge cathode (Естественные науки)
+	 
+Results for катод химического источника тока (simple):
+	cathode of a chemical source of current
+Results for катод электронного прожектора (simple):
+	cathode of an electronic searchlight
+Results for ленточный катод:
+	 ribbon-type cathode (Техника)
+	 
+Results for лучевой катод:
+	 beam cathode (Естественные науки)
+	 
+Results for лучеобразующий катод:
+	 beam-forming cathode (Естественные науки)
+	 
+Results for массивный катод (simple):
+	massive cathode
+Results for мнимый катод (simple):
+	imaginary cathode
+Results for многослойный катод (simple):
+	multilayered cathode
+Results for мощный катод (simple):
+	powerful cathode
+Results for накалённый катод (simple):
+	the heated cathode
+Results for общий катод (simple):
+	general cathode
+Results for однородный катод (simple):
+	uniform cathode
+Results for оксидированный катод (simple):
+	the oxidized cathode
+Results for оксидный катод:
+	 oxide-coated cathode (Естественные науки)
+	 
+	 oxide cathode (Компьютеры)
+	 
+Results for плазменный катод:
+	 plasma cathode (Компьютеры)
+	 
+Results for плёночный лазерный катод (simple):
+	film laser cathode
+Results for плоский катод:
+	 flat cathode (Естественные науки)
+	 
+Results for подогревный катод:
+	 heater cathode (Естественные науки)
+	 
+Results for полупрозрачный катод:
+	 translucent cathode (Техника)
+	 
+Results for полый катод:
+	 hollow cathode (Компьютеры)
+	 
+Results for прессованный катод (simple):
+	the pressed cathode
+Results for прямонакальный катод (simple):
+	pryamonakalny cathode
+Results for радиационный катод (simple):
+	radiation cathode
+Results for распределительный катод (simple):
+	distributive cathode
+Results for ртутный катод:
+	 mercury-pool cathode (Естественные науки)
+	 
+	 mercury cathode (Компьютеры)
+	 
+Results for самонакаливающийся катод (simple):
+	the self-heated cathode
+Results for светочувствительный катод (simple):
+	photosensitive cathode
+Results for термоэлектронный катод:
+	 thermionic cathode (Компьютеры)
+	 
+Results for ториевый катод:
+	 thoria cathode (Естественные науки)
+	 
+Results for торированный катод:
+	 thoriated cathode (Естественные науки)
+	 
+	 thoriated-tungsten cathode (Техника)
+	 
+Results for туннельный катод:
+	 tunnel cathode (Техника)
+	 
+Results for угольный катод (simple):
+	coal cathode
+Results for холодный катод:
+	 cold cathode (Естественные науки)
+	 
+Results for цезиевый катод:
+	 caesium-activated cathode (Естественные науки)
+	 
+Results for эквипотенциальный катод:
+	 equipotential cathode (Техника)
+	 
+Results for эмитирующий катод (simple):
+	the emitting cathode
+Results for ячеистый катод (simple):
+	cellular cathode
+Results for антенная катушка:
+	 antenna coil (Компьютеры)
+	 
+Results for бескаркасная катушка (simple):
+	beskarkasny coil
+Results for вибрирующая катушка (simple):
+	the vibrating coil
+Results for вращающаяся катушка (simple):
+	the rotating coil
+Results for вторичная катушка (simple):
+	secondary coil
+Results for высокочастотная катушка:
+	 high-frequency coil (Естественные науки)
+	 
+	 high frequency coil (Компьютеры)
+	 
+	 radio-frequency coil (Техника)
+	 
+Results for замыкающая катушка:
+	 closing coil (Техника)
+	 
+Results for звуковая катушка громкоговорителя (simple):
+	sound coil of the loudspeaker
+Results for измерительная катушка:
+	 measuring coil (Техника)
+	 
+Results for кадровая (строчная) отклоняющая катушка (simple):
+	the personnel (lower case) rejecting coil
+Results for катушка возбуждения:
+	 exciting coil (Естественные науки)
+	 
+Results for катушка вертикального (горизонтального) отклонения (simple):
+	coil of a vertical (horizontal) deviation
+Results for катушка Гельмгольца (simple):
+	Helmholtz's coil
+Results for катушка для создания магнитного поля (simple):
+	the coil for creation of magnetic field
+Results for катушка зажигания:
+	 ignition coil (Техника)
+	 
+Results for катушка записи (simple):
+	record coil
+Results for катушка коммутирующего каскада (simple):
+	the coil of the switching cascade
+Results for катушка компенсации поворота (simple):
+	turn compensation coil
+Results for катушка магнитного дутья:
+	 magnetic blow-out coil (Техника)
+	 
+Results for катушка магнитной головки (ленты) (simple):
+	coil of a magnetic head (tape)
+Results for катушка обратной связи:
+	 feedback coil (Естественные науки)
+	 
+Results for катушка отклонения луча (simple):
+	beam deviation coil
+Results for катушка (переменной) индуктивности (simple):
+	coil (variable) inductance
+Results for катушка подмагничивания (simple):
+	podmagnichivaniye coil
+Results for катушка регулировки фазы (simple):
+	coil of adjustment of a phase
+Results for катушка реле:
+	 relay coil (Техника)
+	 
+Results for катушка тонкой регулировки (simple):
+	coil of thin adjustment
+Results for катушка цепи регулирования чистоты цвета (simple):
+	coil of a chain of regulation of purity of color
+Results for катушка сведения лучей (simple):
+	coil of the data of beams
+Results for катушка связи:
+	 coupling coil (Естественные науки)
+	 
+Results for катушка с железным сердечником:
+	 iron core coil (Компьютеры)
+	 
+Results for катушка с закруглёнными (изогнутыми, прямоугольными) торцами (simple):
+	the coil with rounded off (curved, rectangular) end faces
+Results for катушка симметрии поля (simple):
+	coil of symmetry of the field
+Results for катушка с намоткой в навал (simple):
+	the coil with winding in a pile
+Results for катушка с насыщением:
+	 saturable inductor (Техника)
+	 
+Results for катушка сопротивления:
+	 resistance coil (Компьютеры)
+	 
+Results for катушка с отводами:
+	 tapped coil (Естественные науки)
+	 
+	 bleeding coil (Компьютеры)
+	 
+Results for катушка с самозаправкой ленты (simple):
+	the coil with self-gas station of a tape
+Results for катушка с шаговой обмоткой (simple):
+	the coil with a step winding
+Results for катушка электромагнита:
+	 magnet coil (Естественные науки)
+	 
+Results for катушка якоря:
+	 armature coil (Техника)
+	 
+Results for кольцевая катушка:
+	 doughnut coil (Техника)
+	 
+Results for коммутирующая катушка:
+	 commutating coil (Техника)
+	 
+Results for компаундная катушка (simple):
+	compound coil
+Results for компаундирующая катушка (simple):
+	the compounding coil
+Results for компенсационная катушка:
+	 compensating coil (Естественные науки)
+	 
+Results for корректирующая катушка:
+	 correcting coil (Техника)
+	 
+Results for круглая катушка (simple):
+	round coil
+Results for ленточная дисковая катушка (simple):
+	tape disk coil
+Results for многосекционная катушка (simple):
+	multisection coil
+Results for многослойная катушка:
+	 multi-layer coil (Техника)
+	 
+Results for мультипольная катушка (simple):
+	multipolar coil
+Results for накопительная катушка (simple):
+	accumulative coil
+Results for направляющая катушка (simple):
+	the directing coil
+Results for настроечная катушка:
+	 tuning coil (Компьютеры)
+	 
+Results for (не)подвижная катушка (simple):
+	(not) the mobile coil
+Results for образцовая катушка индуктивности (сопротивления) (simple):
+	model coil of inductance (resistance)
+Results for одновитковая катушка:
+	 single-turn coil (Техника)
+	 
+Results for осесимметричная катушка (simple):
+	axisymmetric coil
+Results for отводная катушка (simple):
+	by-pass coil
+Results for отклоняющая катушка:
+	 deflecting coil (Техника)
+	 
+Results for первичная катушка:
+	 primary coil (Естественные науки)
+	 
+Results for печатная катушка (simple):
+	printing coil
+Results for подстроечная катушка (simple):
+	tuning coil
+Results for последовательная [сериесная] катушка (simple):
+	consecutive [seriyesny] coil
+Results for приёмная катушка (simple):
+	reception coil
+Results for противофоновая катушка (simple):
+	antibackground coil
+Results for пупиновская катушка:
+	 pupin coil (Техника)
+	 
+Results for размагничивающая катушка (simple):
+	the degaussing coil
+Results for разрядная катушка:
+	 discharge coil (Техника)
+	 
+Results for расцепляющая катушка:
+	 trip coil (Техника)
+	 
+Results for ромбическая катушка (simple):
+	rhombic coil
+Results for сверхпроводящая катушка:
+	 super-conducting coil (Техника)
+	 
+Results for секционированная катушка:
+	 graduated coil (Техника)
+	 
+Results for симметрирующая катушка:
+	 balancing coil (Техника)
+	 
+Results for сменная катушка:
+	 plug-in coil (Естественные науки)
+	 
+	 unit coil (Компьютеры)
+	 
+	 replaceable coil (Техника)
+	 
+Results for спиральная катушка (simple):
+	spiral coil
+Results for удлинительная катушка:
+	 loading coil (Компьютеры)
+	 
+	 lengthening coil (Техника)
+	 
+Results for уравновешивающая катушка (simple):
+	the counterbalancing coil
+Results for усечённая квадрупольная катушка (simple):
+	the truncated kvadrupolny coil
+Results for фокусирующая катушка:
+	 focussing coil (Естественные науки)
+	 
+	 focusing coil (Техника)
+	 
+Results for центрирующая катушка (simple):
+	the aligning coil
+Results for шаблонная катушка:
+	 form-wound coil (Техника)
+	 
+Results for шунтирующая катушка:
+	 bridging coil (Естественные науки)
+	 
+Results for экранированная катушка:
+	 shielded coil (Техника)
+	 
+Results for эталонная катушка (simple):
+	reference coil
+Results for аксиальная каустика (simple):
+	axial caustic
+Results for параболическая каустика (simple):
+	parabolic caustic
+Results for эллиптическая каустика (simple):
+	elliptic caustic
+Results for качание изображения (simple):
+	swing of the image
+Results for качание мачты антенны (simple):
+	swing of a mast of the antenna
+Results for качание маятника (simple):
+	swing of the pendulum
+Results for качание проводов (simple):
+	swing of wires
+Results for качание развёртывающего элемента факсимильного аппарата (simple):
+	swing of the developing element of the fax machine
+Results for качание частоты:
+	 frequency sweeping (Компьютеры)
+	 
+	 frequency sweep (Техника)
+	 
+Results for качество видеоприёма (simple):
+	quality of video reception
+Results for качество воспроизведения:
+	 reproduction quality (Техника)
+	 
+Results for качество записи (simple):
+	quality of record
+Results for качество звукового сопровождения (simple):
+	quality of a soundtrack
+Results for качество изображения:
+	 image quality (Компьютеры)
+	 
+	 picture quality (Техника)
+	 
+Results for качество обслуживания:
+	 service quality (Бизнес)
+	 
+	 quality of service (Техника)
+	 
+Results for качество (передачи) изображения (simple):
+	quality (transfers) of the image
+Results for качество печати:
+	 printing quality (Компьютеры)
+	 
+Results for качество поверхности:
+	 surface quality (Техника)
+	 
+Results for качество радиосвязи (simple):
+	quality of a radio communication
+Results for качество стереобаланса (simple):
+	quality of stereobalance
+Results for качество телепередачи (simple):
+	quality of the telecast
+Results for качество функционирования (simple):
+	quality of functioning
+Results for качество цветопередачи (simple):
+	quality of a color rendition
+Results for качество чёткости (simple):
+	quality of clearness
+Results for качество электронных приборов (simple):
+	quality of electronic devices
+Results for спектроскопическое качество (simple):
+	spectroscopic quality
+Results for квадрант круга (simple):
+	circle quadrant
+Results for (не)переключающий квадрант (simple):
+	not switching quadrant
+Results for квадратура круга:
+	 squaring the circle 
+	 quadrature the circle (Естественные науки)
+	 
+Results for пространственно-временная квадратура (simple):
+	existential quadrature
+Results for виртуальный квант (simple):
+	virtual quantum
+Results for квант времени (simple):
+	time quantum
+Results for квант действия:
+	 quantum of action (Естественные науки)
+	 
+Results for квант магнитного потока (simple):
+	quantum of a magnetic flux
+Results for квант напряжения (simple):
+	tension quantum
+Results for квант света:
+	 light quantum (Естественные науки)
+	 
+Results for квант электромагнитного поля (simple):
+	quantum of the electromagnetic field
+Results for квант энергии:
+	 energy quantum (Техника)
+	 
+Results for адаптивное квантование (simple):
+	adaptive quantization
+Results for блочное квантование (simple):
+	block quantization
+Results for векторное квантование (simple):
+	vector quantization
+Results for вторичное квантование (simple):
+	secondary quantization
+Results for грубое квантование (simple):
+	rough quantization
+Results for квантование вихрей магнитного потока (simple):
+	quantization of whirlwinds of a magnetic flux
+Results for квантование во времени (simple):
+	quantization in time
+Results for квантование излучения (simple):
+	quantization of radiation
+Results for квантование изображения (simple):
+	quantization of the image
+Results for квантование по времени (simple):
+	quantization on time
+Results for квантование речевых сигналов (simple):
+	quantization of speech signals
+Results for квантование сигнала (по уровню) (simple):
+	quantization of a signal (on level)
+Results for квантование с мягким решением (simple):
+	quantization with the soft decision
+Results for квантование телевизионного сигнала (simple):
+	quantization of a television signal
+Results for квантование фазы по апертуре ФАР (simple):
+	quantization of a phase on an aperture of HEADLIGHTS
+Results for квантование электромагнитного поля (simple):
+	quantization of the electromagnetic field
+Results for (не)равномерное квантование (simple):
+	(not) uniform quantization
+Results for адаптивный квантователь (simple):
+	adaptive quantizer
+Results for безынерционный квантователь (simple):
+	inertialess quantizer
+Results for квантователь, максимизирующий отношение сигнал-шум (simple):
+	the quantizer maximizing the relation a signal noise
+Results for квантователь с компандированием (simple):
+	the quantizer with companding
+Results for квантователь с линейным предсказанием (simple):
+	the quantizer with linear prediction
+Results for квантователь с (не)нулевой ступенью (simple):
+	the quantizer with (not) a zero step
+Results for квантователь с (не)равномерным (фиксированным) шагом (simple):
+	the quantizer with (not) the uniform (fixed) step
+Results for квантователь с управлением по входному (выходному) сигналу (simple):
+	the quantizer with management on an entrance (day off) signal
+Results for логарифмический квантователь (simple):
+	logarithmic quantizer
+Results for многоразрядный квантователь (simple):
+	multidigit quantizer
+Results for многоуровневый квантователь (simple):
+	multilevel quantizer
+Results for цифровой квантователь (simple):
+	digital quantizer
+Results for акустический кварц (simple):
+	acoustic quartz
+Results for искусственный кварц (simple):
+	artificial quartz
+Results for кварц АС-среза (simple):
+	quartz EXPERT cut
+Results for кристаллический кварц:
+	 crystalline quartz (Компьютеры)
+	 
+Results for лево(право)вращающий кварц (simple):
+	left (right) the rotating quartz
+Results for плавленый кварц:
+	 fused silica (Естественные науки)
+	 
+Results for природный кварц (simple):
+	natural quartz
+Results for квитирование установления связи с отправителем (получателем) данных (simple):
+	kvitirovany establishments of communication with the sender (recipient) of data
+Results for газонаполненный кенотрон (simple):
+	gas-filled vacuum rectifying tube
+Results for двуханодный кенотрон (simple):
+	two-anode vacuum rectifying tube
+Results for одноанодный кенотрон (simple):
+	one-anode vacuum rectifying tube
+Results for кепстр мощности (simple):
+	кепстр capacities
+Results for корундовая керамика (simple):
+	corundum ceramics
+Results for магнитная керамика (simple):
+	magnetic ceramics
+Results for металлооксидная керамика (simple):
+	metal-oxide ceramics
+Results for низкотемпературная керамика (simple):
+	low-temperature ceramics
+Results for радиотехническая керамика:
+	 radio ceramics (Техника)
+	 
+Results for сверхпроводящая керамика (simple):
+	superconducting ceramics
+Results for электрооптическая керамика (simple):
+	electrooptical ceramics
+Results for керн катода:
+	 cathode base (Техника)
+	 
+Results for керн сердечника (simple):
+	core core
+Results for техническая кибернетика:
+	 engineering cybernetics (Естественные науки)
+	 
+Results for индексный кинескоп (simple):
+	index kinescope
+Results for кинескоп с автоматической фокусировкой (simple):
+	kinescope with automatic focusing
+Results for кинескоп с алюминированным экраном (simple):
+	kinescope with the aluminized screen
+Results for кинескоп с тремя горловинами (simple):
+	kinescope with three mouths
+Results for контрольный кинескоп:
+	 monitor kinescope (Техника)
+	 
+Results for масочный кинескоп (simple):
+	mask kinescope
+Results for монохромный кинескоп (simple):
+	monochrome kinescope
+Results for одно(трёх)прожекторный кинескоп (simple):
+	one (three) projector kinescope
+Results for сеточный кинескоп (simple):
+	net kinescope
+Results for цветной кинескоп:
+	 colour picture tube (Техника)
+	 
+Results for алфавитно-цифровая клавиатура:
+	 alphameric keyboard (Техника)
+	 
+Results for встроенная клавиатура (simple):
+	built-in keyboard
+Results for выносная клавиатура (simple):
+	portable keyboard
+Results for клавиатура откидного типа (simple):
+	keyboard of folding type
+Results for клавиатура печатающего устройства:
+	 printer keyboard (Техника)
+	 
+Results for клавиатура с механическим приводом (simple):
+	the keyboard with the mechanical drive
+Results for клавиатура со встроенным микропроцессором (simple):
+	the keyboard with the built-in microprocessor
+Results for клавиатура терминала (simple):
+	terminal keyboard
+Results for клавиатура типа пишущей машинки (simple):
+	the keyboard like the typewriter
+Results for мембранная клавиатура (simple):
+	membrane keyboard
+Results for клавиша верхнего (нижнего) регистра (simple):
+	key of the upper (lower) case
+Results for клавиша возврата в исходное состояние (simple):
+	key of return to an initial state
+Results for клавиша возврата на одну позицию (simple):
+	return key on one position
+Results for клавиша выхода:
+	 escape key (Компьютеры)
+	 
+Results for клавиша гашения (simple):
+	clearing key
+Results for клавиша извлечения (simple):
+	extraction key
+Results for клавиша коромыслового типа (simple):
+	key of koromyslovy type
+Results for клавиша освобождения устройства (simple):
+	key of release of the device
+Results for клавиша останова (simple):
+	stop key
+Results for клавиша переключения регистра (simple):
+	key of switching of the register
+Results for клавиша повторного вызова абонента (simple):
+	key of a repeated call of the subscriber
+Results for клавиша подлистывания страниц (simple):
+	key of a podlistyvaniye of pages
+Results for клавиша прерывания (simple):
+	interruption key
+Results for клавиша пробела (simple):
+	gap key
+Results for клавиша пуска (simple):
+	start-up key
+Results for клавиша расширения (формата) страницы (simple):
+	key of expansion (format) of the page
+Results for клавиша редактирования (simple):
+	editing key
+Results for клавиша с заданием функции через меню (simple):
+	key with a function task through the menu
+Results for клавиша смены режима (simple):
+	key of change of the mode
+Results for клавиша с функциями, определёнными пользователем (simple):
+	key with the functions determined by the user
+Results for клавиша табуляции:
+	 tabulator key (Компьютеры)
+	 
+Results for клавиша управления курсором:
+	 cursor arrow 
+	 cursor control key (Компьютеры)
+	 
+Results for спаренная клавиша (simple):
+	the coupled key
+Results for функциональная клавиша:
+	 function key 
+	 function button (Техника)
+	 
+Results for цифровая клавиша:
+	 number key (Компьютеры)
+	 
+Results for вызывной клапан:
+	 call disc (Техника)
+	 
+Results for клапан микрофона (simple):
+	microphone valve
+Results for клапан управления:
+	 pilot valve (Естественные науки)
+	 
+	 operating valve (Техника)
+	 
+	 pilot-controlled valve (Техника)
+	 
+Results for предохранительный клапан:
+	 safety valve 
+	 pressure-relief valve (Техника)
+	 
+	 relief valve (Техника)
+	 
+Results for сигнальный клапан:
+	 alarm valve (Техника)
+	 
+Results for класс задания (simple):
+	task class
+Results for класс идентификатора:
+	 naming class (Компьютеры)
+	 
+Results for класс привилегий (simple):
+	class of privileges
+Results for класс симметрии:
+	 symmetry class (Естественные науки)
+	 
+Results for класс точности:
+	 accuracy rating (Техника)
+	 
+Results for класс языков высшего уровня (simple):
+	class of languages of the highest level
+Results for кристаллографический класс (simple):
+	crystallographic class
+Results for классификатор ближайшего соседа (simple):
+	qualifier of the closest neighbor
+Results for классификатор данных (simple):
+	qualifier of data
+Results for классификатор образов (simple):
+	qualifier of images
+Results for классификатор по критерию максимального правдоподобия (simple):
+	the qualifier by criterion of maximum likelihood
+Results for линейный классификатор:
+	 linear classifier (Компьютеры)
+	 
+Results for классификация по имени (simple):
+	classification by a name
+Results for классификация по логике функционирования (simple):
+	classification by functioning logic
+Results for классификация по признаку изменения фазы (simple):
+	classification by sign of change of a phase
+Results for классификация по способу записи (simple):
+	classification by a way of record
+Results for классификация режимов усиления (simple):
+	classification of the modes of strengthening
+Results for классификация форматов (simple):
+	classification of formats
+Results for классификация целей (simple):
+	classification is more whole
+Results for Универсальная десятичная классификация [УДК] (simple):
+	Universal Decimal Classification [UDC]
+Results for фасетная классификация (simple):
+	facet classification
+Results for кластер-анализ (simple):
+	cluster analysis
+Results for кластер блоховских линий (simple):
+	cluster of Bloch lines
+Results for молекулярный кластер (simple):
+	molecular cluster
+Results for субкритический кластер (simple):
+	subcritical cluster
+Results for ферромагнитный кластер (simple):
+	ferromagnetic cluster
+Results for пространственная кластеризация (simple):
+	spatial clustering
+Results for выводная клемма (simple):
+	output plug
+Results for клемма питания [питающая клемма] (simple):
+	the food plug [the feeding plug]
+Results for концевая клемма:
+	 terminal clamp (Техника)
+	 
+Results for стыковая клемма (simple):
+	butt plug
+Results for двойная клетка (simple):
+	double cage
+Results for двух(одно)рядная клетка (simple):
+	two (one) line cages
+Results for демпферная клетка (simple):
+	damping cage
+Results for клетка растра (simple):
+	raster cage
+Results for простая клетка (simple):
+	simple cage
+Results for пусковая клетка (simple):
+	starting cage
+Results for успокоительная клетка (simple):
+	soothing cage
+Results for поглощающие клещи (simple):
+	the absorbing pincers
+Results for токоизмерительные клещи:
+	 clamp-on ammeter (Техника)
+	 
+Results for климат ионосферы (simple):
+	climate of an ionosphere
+Results for климатизация устройства (simple):
+	device klimatization
+Results for клин для определения разрешающей способности (simple):
+	wedge for determination of resolution
+Results for клин проявления (simple):
+	manifestation wedge
+Results for клин травления:
+	 etching bias (Естественные науки)
+	 
+Results for пазовый клин (simple):
+	grooving wedge
+Results for трапецеидальный клин (simple):
+	trapezoidal wedge
+Results for генераторный клистрон:
+	 oscillator klystron (Техника)
+	 
+Results for двух(трёх, много)резонаторный клистрон (simple):
+	two (three, there is a lot of) a rezonatorny klystron
+Results for клистрон бегущей волны (simple):
+	klystron of the running wave
+Results for клистрон с внешним (внутренним) резонатором (simple):
+	klystron with the external (internal) resonator
+Results for клистрон с колебаниями π-вида (simple):
+	klystron with fluctuations of a π-look
+Results for клистрон с механической (электрической) перестройкой (simple):
+	klystron with mechanical (electric) reorganization
+Results for клистрон со встроенным источником питания (simple):
+	klystron with the built-in power supply
+Results for клистрон с однонаправленной магнитной фокусирующей системой (simple):
+	klystron with the unidirectional magnetic focusing system
+Results for клистрон со смещением на зазоре (simple):
+	klystron with shift on a gap
+Results for клистрон со съёмным резонатором (simple):
+	klystron with the removable resonator
+Results for клистрон со штепсельными контактами (simple):
+	klystron with plug contacts
+Results for клистрон с плавающей трубой дрейфа (simple):
+	klystron with a floating pipe of drift
+Results for клистрон с распределённым взаимодействием (simple):
+	klystron with the distributed interaction
+Results for клистрон с расстроенными резонаторами (simple):
+	klystron with the upset resonators
+Results for клистрон с синхронной настройкой (simple):
+	klystron with synchronous control
+Results for клистрон с электростатической фокусировкой (simple):
+	klystron with electrostatic focusing
+Results for многолучевой клистрон:
+	 multiple-beam klystron (Техника)
+	 
+Results for оптический клистрон (simple):
+	optical klystron
+Results for отражательный клистрон:
+	 reflex klystron (Техника)
+	 
+Results for пролётный клистрон (simple):
+	flying klystron
+Results for твердотельный клистрон:
+	 solid-state klystron (Техника)
+	 
+Results for усилительный клистрон:
+	 amplifier klystron (Техника)
+	 
+Results for частотно-умножительный клистрон (simple):
+	frequency умножительный klystron
+Results for широкополосный клистрон (simple):
+	broadband klystron
+Results for клопфер для двухполюсного телеграфирования (simple):
+	klopfer for bipolar telegraphy
+Results for клопфер с двумя резонаторными пластинами (simple):
+	klopfer with two rezonatorny plates
+Results for реле-клопфер (simple):
+	relay-klopfer
+Results for бегущий ключ (simple):
+	the running key
+Results for вызывной ключ:
+	 calling key (Техника)
+	 
+Results for клопферный ключ:
+	 sounder key (Техника)
+	 
+Results for ключ базы данных (simple):
+	database key
+Results for ключ без арретира (simple):
+	key without arresting device
+Results for ключ доступа (simple):
+	access key
+Results for ключ занятости (simple):
+	employment key
+Results for ключ записи:
+	 write key (Компьютеры)
+	 
+Results for ключ защиты памяти (simple):
+	key of protection of memory
+Results for ключ избирательного (повторного) вызова (simple):
+	key of a selective (repeated) call
+Results for ключ на магнитной карте (simple):
+	key on the magnetic card
+Results for ключ обратного вызова (simple):
+	key of the return call
+Results for ключ отбоя (simple):
+	release key
+Results for ключ поиска:
+	 search key (Компьютеры)
+	 
+Results for ключ пользователя:
+	 user key (Компьютеры)
+	 
+Results for ключ с арретиром (simple):
+	key with the arresting device
+Results for ключ сеанса (simple):
+	session key
+Results for ключ секретности (simple):
+	privacy key
+Results for ключ сортировки:
+	 sort key (Компьютеры)
+	 
+Results for ключ считывания (simple):
+	reading key
+Results for ключ упорядочения (simple):
+	streamlining key
+Results for ключ управления (simple):
+	key of management
+Results for ключ шифрования:
+	 encrypting key (Компьютеры)
+	 
+Results for конкретный ключ (simple):
+	concrete key
+Results for контрольный ключ (simple):
+	control key
+Results for личный ключ (simple):
+	personal key
+Results for направляющий ключ (simple):
+	the directing key
+Results for опросно-вызывной ключ:
+	 listening-and-speaking key (Компьютеры)
+	 
+Results for опросный ключ:
+	 answering key (Компьютеры)
+	 
+Results for открытый ключ:
+	 public key (Компьютеры)
+	 
+Results for переговорный ключ:
+	 speaking key (Компьютеры)
+	 
+Results for передаточный ключ:
+	 transfer key (Техника)
+	 
+Results for передающий ключ:
+	 transfer key 
+Results for разговорный ключ:
+	 talking key (Компьютеры)
+	 
+Results for разделительный ключ (simple):
+	dividing key
+Results for разъединяющий ключ (simple):
+	the separating key
+Results for телеграфный ключ:
+	 telegraph key (Компьютеры)
+	 
+	 bug[bʌɡ] (Техника)
+	 
+Results for цифровой ключ (simple):
+	digital key
+Results for вызывная кнопка:
+	 call button 
+Results for кнопка включения тонального сигнала (simple):
+	button of inclusion of a voice-frequency signal
+Results for кнопка выключения (simple):
+	switching off button
+Results for кнопка запирания прижима (simple):
+	button of locking of a clip
+Results for кнопка остановки:
+	 stop button (Компьютеры)
+	 
+Results for кнопка перезапуска (simple):
+	restart button
+Results for кнопка подсветки шкалы (simple):
+	scale illumination button
+Results for кнопка пуска:
+	 start button (Техника)
+	 
+Results for кнопка сброса (simple):
+	dumping button
+Results for кнопка с самовозвратом (simple):
+	the button with self-return
+Results for кнопка с сигнализацией (simple):
+	the button with the alarm system
+Results for кнопка управления:
+	 control button (Компьютеры)
+	 
+	 adjusting button (Техника)
+	 
+Results for кнопка ускоренной перемотки вперёд (simple):
+	the button of the accelerated rewind forward
+Results for нажимная кнопка:
+	 push button (Техника)
+	 
+Results for отжимная кнопка:
+	 pull button (Техника)
+	 
+Results for взаимная когерентность:
+	 mutual coherence (Компьютеры)
+	 
+Results for временная когерентность:
+	 time coherence (Компьютеры)
+	 
+Results for квантовая когерентность (simple):
+	quantum coherence
+Results for когерентность ближнего (дальнего, n-го) порядка (simple):
+	coherence of the neighbor (distant, n-go) about
+Results for когерентность волновых процессов (simple):
+	coherence of wave processes
+Results for когерентность переходов (simple):
+	coherence of transitions
+Results for межцикловая когерентность (simple):
+	intercyclic coherence
+Results for оптическая когерентность (simple):
+	optical coherence
+Results for полная когерентность (simple):
+	full coherence
+Results for пространственная когерентность:
+	 spatial coherence (Компьютеры)
+	 
+Results for структурная когерентность (simple):
+	structural coherence
+Results for фазовая когерентность:
+	 phase coherence (Техника)
+	 
+Results for частичная когерентность:
+	 partial coherence (Компьютеры)
+	 
+Results for самовосстанавливающийся когерер (simple):
+	the self-repairing coherer
+Results for абсолютный код (simple):
+	absolute code
+Results for адресно-временной код (simple):
+	address and time code
+Results for алфавитно-цифровой код:
+	 alphanumeric code (Компьютеры)
+	 
+	 alphameric code (Техника)
+	 
+Results for биполярный код:
+	 bipolar code (Компьютеры)
+	 
+Results for блочный код (simple):
+	block code
+Results for групповой код:
+	 group code (Техника)
+	 
+Results for двоично-десятичный (-пятеричный) код (simple):
+	binary-coded decimal (-quinary) a code
+Results for двоичный код:
+	 binary code (Естественные науки)
+	 
+Results for идентифицирующий код (simple):
+	the identifying code
+Results for избыточный код:
+	 redundant code (Компьютеры)
+	 
+Results for импульсный код:
+	 impulse code (Компьютеры)
+	 
+	 pulse code (Техника)
+	 
+Results for итеративный код (simple):
+	iterative code
+Results for квазисовершенный код (simple):
+	quasiperfect code
+Results for квазициклический код (simple):
+	quasicyclic code
+Results for код автоответчика:
+	 answerback code (Компьютеры)
+	 
+Results for код адреса:
+	 address code (Техника)
+	 
+Results for код адресата (simple):
+	addressee's code
+Results for код аутентификации (simple):
+	authentication code
+Results for код Баркера (Бодо) (simple):
+	Barker (Baudot's) code
+Results for код возврата:
+	 return code (Компьютеры)
+	 
+Results for код Грея:
+	 gray code (Компьютеры)
+	 
+	 Gray code (Техника)
+	 
+Results for код дальности (simple):
+	range code
+Results for код «два-из-пяти» (simple):
+	code of "two-from-five"
+Results for код делимого (simple):
+	dividend code
+Results for код длительности стробов (simple):
+	code of duration of strobes
+Results for код для засекречивания речевых сообщений (simple):
+	code for classification of speech messages
+Results for код для защиты (simple):
+	code for protection
+Results for код для связи (simple):
+	code for communication
+Results for код завершения:
+	 exit code (Техника)
+	 
+Results for код запроса:
+	 interrogation code (Компьютеры)
+	 
+Results for код зоны:
+	 area code (Компьютеры)
+	 
+Results for код идентификации вызова:
+	 call directing code (Компьютеры)
+	 
+Results for код измерительного преобразователя (simple):
+	code of the measuring converter
+Results for код, инвариантный к временному сдвигу (simple):
+	code, invariant to temporary shift
+Results for код источника (simple):
+	source code
+Results for код команды (simple):
+	team code
+Results for код корректировки (simple):
+	adjustment code
+Results for код ленты (simple):
+	tape code
+Results for код маршрута в сетях (simple):
+	route code in networks
+Results for код Миллера (simple):
+	Miller's code
+Results for код многоадресной команды (simple):
+	code of multiple-address team
+Results for код множителя (simple):
+	multiplier code
+Results for код Морзе (Мура) (simple):
+	Morse code (Moore)
+Results for код номера числа (simple):
+	code of number of number
+Results for код обмена (simple):
+	exchange code
+Results for код «один-из-десяти» (simple):
+	code of "one-from-ten"
+Results for код операции:
+	 operation code (Естественные науки)
+	 
+	 transaction code (Бизнес)
+	 
+Results for код опознавания (simple):
+	identification code
+Results for код ошибки:
+	 error code 
+Results for код перестановочной модуляции (simple):
+	code of permutable modulation
+Results for код перфокарты (simple):
+	punched card code
+Results for код перфоленты:
+	 punched type code (Техника)
+	 
+Results for код пилот-сигнала (simple):
+	code pilot signal
+Results for код с адаптивным предсказанием (simple):
+	code with adaptive prediction
+Results for код сдвига фазы (simple):
+	code of shift of a phase
+Results for код с дополнением до двух (simple):
+	code with addition to two
+Results for код семисегментного индикатора (simple):
+	code of the seven-segment indicator
+Results for код с избытком три (simple):
+	code a lot of three
+Results for код символов (simple):
+	code of symbols
+Results for код синхронизации управления (simple):
+	code of synchronization of management
+Results for код с исправлением (локализацией, обнаружением, фильтрацией) пакетов ошибок (simple):
+	code with correction (localization, detection, filtration) of packages of mistakes
+Results for код ситуации (simple):
+	situation code
+Results for код с мажоритарным декодированием (simple):
+	code with majority decoding
+Results for код с (минимальной) избыточностью (simple):
+	code with (minimum) redundancy
+Results for код с обнаружением ошибок:
+	 error detection code (Компьютеры)
+	 
+	 error-checking code (Техника)
+	 
+Results for код с памятью на один символ (simple):
+	code with memory on one symbol
+Results for код с переменной скоростью (simple):
+	code with a variable speed
+Results for код с постоянным весом (simple):
+	code with a constant weight
+Results for код-спутник (simple):
+	code satellite
+Results for код с самоконтролем (simple):
+	code with self-checking
+Results for код с уменьшением избыточности (simple):
+	code with reduction of redundancy
+Results for код суммы (simple):
+	sum code
+Results for код с фиксированной длиной (simple):
+	code with the fixed length
+Results for код с частичным откликом (simple):
+	code with a partial response
+Results for код текста (simple):
+	text code
+Results for код телетайпа (simple):
+	teletype code
+Results for код управления (simple):
+	code of management
+Results for код устройства (simple):
+	device code
+Results for код фазирования (simple):
+	phasing code
+Results for код Файра (Френка, Хемминга, Холлерита, Шеннона-Фано) (simple):
+	Fayra code (Frank, Hamming, Hollerith, Shannon-Fano)
+Results for код частного (simple):
+	code of private
+Results for линейный код:
+	 line code (Техника)
+	 
+Results for машинный код:
+	 machine code (Компьютеры)
+	 
+Results for мнемонический код (simple):
+	mnemonic code
+Results for неравномерный код:
+	 variable length code (Компьютеры)
+	 
+	 variable-length code (Техника)
+	 
+Results for (не)сбалансированный код (simple):
+	(not) the balanced code
+Results for обратный код:
+	 reverse code (Компьютеры)
+	 
+Results for объектный код:
+	 object code (Компьютеры)
+	 
+Results for опознавательный код:
+	 identification code (Техника)
+	 
+	 authentication code (Естественные науки)
+	 
+Results for перемежающийся код (simple):
+	the alternating code
+Results for перестановочный код:
+	 permutation code (Техника)
+	 
+Results for позиционный код:
+	 position code (Техника)
+	 
+Results for почтовый код (simple):
+	post code
+Results for префиксный код (simple):
+	prefix code
+Results for прозрачный код (simple):
+	transparent code
+Results for псевдослучайный код:
+	 pseudorandom code (Компьютеры)
+	 
+Results for псевдотроичный код (simple):
+	pseudo-ternary code
+Results for радиолокационный код (simple):
+	radar code
+Results for рекуррентный код (simple):
+	recurrent code
+Results for решётчатый код (simple):
+	trellised code
+Results for самодополняющийся код (simple):
+	the self-supplemented code
+Results for самодуальный код (simple):
+	self-dual code
+Results for сбалансированный код (simple):
+	balanced code
+Results for семиэлементный код телетайпа (simple):
+	seven-element code of the teletype
+Results for симплексный код (simple):
+	simplex code
+Results for систематический код (simple):
+	systematic code
+Results for совершенный код (simple):
+	perfect code
+Results for сокращённый код (simple):
+	the reduced code
+Results for тарифный код:
+	 fee digits (Компьютеры)
+	 
