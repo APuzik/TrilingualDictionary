@@ -1,0 +1,13 @@
+-- Script Date: 13.04.2015 14:13  - ErikEJ.SqlCeScripting version 3.5.2.49
+CREATE TABLE [Description] (
+  [Id] int IDENTITY (1,1) NOT NULL
+, [ConceptionId] int NOT NULL
+, [Description] nvarchar(1024) NOT NULL
+, [Language] int NOT NULL
+, [ChangablePart] nvarchar(100) NULL
+, [ChangableType] int NULL
+, [PartOfSpeech] nvarchar(100) NULL
+);
+GO
+ALTER TABLE [Description] ADD CONSTRAINT [PK_Description] PRIMARY KEY ([Id]);
+GO

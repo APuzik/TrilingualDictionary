@@ -16,6 +16,7 @@ using System.Reflection;
 using System.ComponentModel;
 using System.Collections;
 using TrilingualDictionaryViewModel;
+using System.Collections.ObjectModel;
 
 namespace TrilingualUI
 {
@@ -27,10 +28,23 @@ namespace TrilingualUI
         private TrilingualDictionaryViewModel.TrilingualDictionaryViewModel m_DictionaryViewModel = null;
         string m_DictionaryDataFolder = "";
 
-        private ConceptionVM curConception = null;
+        int m_PrevTopic = 0;
+        int m_PrevSemantic = 0;
+        int m_PrevLangPart = 0;
+        int m_PrevChangeable = 0;
+
+        ConceptionVM curConception = null;
+        public ConceptionVM CurConception
+        {
+            get { return curConception; }
+        }
         int m_I = 0;
         int m_J = 0;
 
+        public TrilingualDictionaryViewModel.TrilingualDictionaryViewModel DictionaryViewModel
+        {
+            get { return m_DictionaryViewModel; }
+        }
         public MainWindow()
         {
             //try
@@ -40,11 +54,7 @@ namespace TrilingualUI
 
                 InitializeComponent();
 
-                DataContext = new
-                {
-                    ActiveLanguage = m_DictionaryViewModel.Chapters,
-                    ActiveConception = curConception == null ? null : curConception.Descriptions
-                };
+                SwitchDataContext();
                 //listConceptions.ItemsSource = CollectionViewSource.GetDefaultView(m_DictionaryViewModel.ConceptionDescriptions);
                 ////ListCollectionView view =
                 ////(ListCollectionView)CollectionViewSource.GetDefaultView(listConceptions.ItemsSource);
@@ -60,6 +70,59 @@ namespace TrilingualUI
             //}
         }
 
+        private void SwitchDataContext()
+        {
+            DataContext = this;
+            if (m_DictionaryViewModel != null && treeConceptions != null)
+            {
+                treeConceptions.ItemsSource = m_DictionaryViewModel.Chapters;
+            }
+
+            if (trvDescriptions != null)
+            {
+                if (CurConception != null)
+                {
+                    trvDescriptions.ItemsSource = CurConception.Descriptions;
+                    //trvDescriptions.Items.[0]
+                }
+                else
+                    trvDescriptions.ItemsSource = null;
+            }
+
+            if (cmbTopic != null)
+            {
+                cmbTopic.ItemsSource = m_DictionaryViewModel.ActiveTopics;
+                cmbTopic.SelectedIndex = m_PrevTopic;
+            }
+
+            if (cmbSemantic != null)
+            {
+                cmbSemantic.ItemsSource = m_DictionaryViewModel.ActiveSemantics;
+                cmbSemantic.SelectedIndex = m_PrevSemantic;
+            }
+
+            if (cmbLangPart != null)
+            {
+                cmbLangPart.ItemsSource = m_DictionaryViewModel.ActivePartsOfSpeech;
+                cmbLangPart.SelectedIndex = m_PrevLangPart;
+            }
+
+            if (cmbChangableType != null)
+            {
+                cmbChangableType.ItemsSource = m_DictionaryViewModel.ActiveChangeables;
+                cmbChangableType.SelectedIndex = m_PrevChangeable;
+            }
+            /*new
+        {
+            ActiveChapters = m_DictionaryViewModel.Chapters,
+            ActiveConception = curConception == null ? null : curConception.Descriptions,
+            ActiveTopics = m_DictionaryViewModel.ActiveTopics,
+            ActiveSemantics = m_DictionaryViewModel.ActiveSemantics,
+            ActiveLangParts = m_DictionaryViewModel.ActivePartsOfSpeech,
+            ActiveChangeables = m_DictionaryViewModel.ActiveChangeables
+        };*/
+        }
+
         private void chkAllLanguages_Clicked(object sender, RoutedEventArgs e)
         {
             //cmbLanguageForDescription.IsEnabled = chkAllLanguages.IsChecked != true;
@@ -70,11 +133,7 @@ namespace TrilingualUI
         {
             m_DictionaryViewModel.MainLanguage = (LanguageId)cmbLanguages.SelectedIndex;
 
-            DataContext = new
-            {
-                ActiveLanguage = m_DictionaryViewModel.Chapters,
-                ActiveConception = curConception == null ? null : curConception.Descriptions
-            };
+            SwitchDataContext();
             //m_DictionaryViewModel.Refresh();
             //if (listConceptions != null)
             //  listConceptions.Items.Refresh();
@@ -108,12 +167,8 @@ namespace TrilingualUI
                 return;
 
             curConception = new ConceptionVM(conceptionDescription.Conception);
-            DataContext = new
-            {
-                ActiveLanguage = m_DictionaryViewModel.Chapters,
-                ActiveConception = curConception.Descriptions
-                //
-            };
+            SwitchDataContext();
+
             //trvDescriptions.ItemsSource = conceptionDescription.ObjectDescription.OwnConception.Languages;
 
             //trvDescriptions.Items.Clear();
@@ -190,27 +245,108 @@ namespace TrilingualUI
             //}
 
             if (treeConceptions == null)
-                return;
-
-            ConceptionDescriptionViewModel conceptionDescription = treeConceptions.SelectedItem as ConceptionDescriptionViewModel;
-            if (conceptionDescription == null)
             {
-                if (btnRemoveConception != null)
-                    btnRemoveConception.IsEnabled = false;
+                cmbChangableType.SelectedIndex = 0;
+                txtChangable.Text = "";
+                cmbLangPart.SelectedIndex = 0;
                 return;
             }
+                
+
+            ConceptionDescriptionViewModel conceptionDescription = trvDescriptions.SelectedItem as ConceptionDescriptionViewModel;
+            if (conceptionDescription == null)
+            {
+                //ConceptionLanguageVM concLanguage = trvDescriptions.SelectedItem as ConceptionLanguageVM;
+                //if (concLanguage == null)
+                //{
+                    if (btnRemoveConception != null)
+                        btnRemoveConception.IsEnabled = false;
+
+                    cmbChangableType.SelectedIndex = 0;
+                    txtChangable.Text = "";
+                    cmbLangPart.SelectedIndex = 0;
+
+                    return;
+                //}
+                //else 
+                //{
+                //    TreeViewItem it = (TreeViewItem)(trvDescriptions.ItemContainerGenerator.ContainerFromItem(trvDescriptions.SelectedItem));
+                //    if (it != null)
+                //    {
+                //        TreeViewItem it1 = (TreeViewItem)(it.ItemContainerGenerator.ContainerFromIndex(0));
+                //        it1.IsSelected = true;
+                //    }
+                //}
+            }
+            conceptionDescription.IsSelected = true;
 
             Conception conception = conceptionDescription.Conception;
             LanguageId languageForEdit = (LanguageId)cmbChangeforEdit.SelectedIndex;
-            txtEditDescription.Text = GetSelectedConceptionDescription(trvDescriptions.SelectedItem);// GetConceptionDescription(conception, languageForEdit);
+            
+            string activeDesc = GetSelectedConceptionDescription(trvDescriptions.SelectedItem);
+            if (string.Compare(activeDesc, "Отсутствует", true) == 0)
+                txtEditDescription.Text = "";
+            else
+                txtEditDescription.Text = activeDesc;
 
-            ConceptionDescription description = conception.GetConceptionDescriptionOrEmpty(languageForEdit, 0);
-            txtChangableType.Text = description.Changeable.Type;
-            txtChangable.Text = description.Changeable.Value;
-            txtTopic.Text = conception.Topic;
-            txtSemantic.Text = conception.Semantic;
-            txtLangPart.Text = description.LangPart;
-            txtLink.Text = conception.Link;
+            //txtEditDescription.Text = GetSelectedConceptionDescription(trvDescriptions.SelectedItem);// GetConceptionDescription(conception, languageForEdit);
+
+            ConceptionDescription description = conceptionDescription.ConceptionDescription;// conception.GetConceptionDescriptionOrEmpty(languageForEdit, 2);
+            //cmbChangableType.Text = 
+            bool bFound = false;
+            foreach (TranslationVM tr in cmbChangableType.ItemsSource)
+            {
+                if (tr.Item != null && description.ChangeableDB.Type == tr.Item.Id)
+                {
+                    cmbChangableType.SelectedItem = tr;
+                    bFound = true;
+                    break;
+                }
+            }
+            if (!bFound)
+                cmbChangableType.SelectedIndex = 0;
+
+            txtChangable.Text = description.ChangeableDB.Value;
+            //cmbTopic.Text = conception.Topic;
+            if (conception != null)
+            {
+                for (int i = 0; i < cmbTopic.Items.Count; i++)
+                {
+                    TranslationVM tr = cmbTopic.Items[i] as TranslationVM;
+                    if (tr != null && tr.Item != null && tr.Item.ServConceptionId == conception.TopicId)
+                    {
+                        cmbTopic.SelectedItem = cmbTopic.Items[i];
+                        break;
+                    }
+                }
+            }
+            //cmbSemantic.SelectedItem = () =>
+            if (conception != null)
+            {
+                for (int i = 0; i < cmbSemantic.Items.Count; i++)
+                {
+                    TranslationVM tr = cmbSemantic.Items[i] as TranslationVM;
+                    if (tr != null && tr.Item != null && tr.Item.ServConceptionId == conception.SemanticId)
+                    {
+                        cmbSemantic.SelectedItem = cmbSemantic.Items[i];
+                        break;
+                    }
+                }
+            }
+            bFound = false;
+            foreach (TranslationVM tr in cmbLangPart.ItemsSource)
+            {
+                if (tr.Item != null && description.LangPartId == tr.Item.Id)
+                {
+                    cmbLangPart.SelectedItem = tr;
+                    bFound = true;
+                    break;
+                }
+            }
+            if (!bFound)
+                cmbLangPart.SelectedIndex = 0;
+            //cmbLangPart.Text = description.LangPart;
+            //txtLink.Text = conception.Link;
 
 
             bool isDescriptionExists = !string.IsNullOrWhiteSpace(txtEditDescription.Text);
@@ -222,7 +358,9 @@ namespace TrilingualUI
 
             LanguageId langNeeded = GetSelectedDescriptionLanguage(trvDescriptions.SelectedItem);
             if (langNeeded != LanguageId.Undefined)
+            {
                 cmbChangeforEdit.SelectedIndex = (int)langNeeded;
+            }
         }
 
         private LanguageId GetSelectedDescriptionLanguage(object item)
@@ -230,13 +368,13 @@ namespace TrilingualUI
             if (item == null)
                 return LanguageId.Undefined;
 
-            ConceptionDescriptionVM desc = item as ConceptionDescriptionVM;
+            ConceptionLanguageVM desc = item as ConceptionLanguageVM;
             if (desc != null)
             {
                 return desc.Language;
             }
 
-            ConceptionDescription desc1 = item as ConceptionDescription;
+            ConceptionDescriptionViewModel desc1 = item as ConceptionDescriptionViewModel;
             int j = 0;
             if (desc1 != null)
             {
@@ -247,7 +385,7 @@ namespace TrilingualUI
                     TreeViewItem it1 = (TreeViewItem)trvDescriptions.ItemContainerGenerator.ContainerFromItem(trvDescriptions.Items[j]);
                     it = (TreeViewItem)(it1.ItemContainerGenerator.ContainerFromItem(desc1));
                     if (it != null)
-                        return ((ConceptionDescriptionVM)it1.Header).Language;
+                        return ((ConceptionLanguageVM)it1.Header).Language;
                     j++;
                 }
 
@@ -288,7 +426,7 @@ namespace TrilingualUI
             if (item == null)
                 return string.Empty;
 
-            ConceptionDescription desc = item as ConceptionDescription;
+            ConceptionDescriptionViewModel desc = item as ConceptionDescriptionViewModel;
             if (desc != null)
             {
                 return desc.ConceptionRegistryDescription;
@@ -312,15 +450,16 @@ namespace TrilingualUI
                 if (subItem != null)
                 {
                     subItem.IsSelected = true;
-                    return ((ConceptionDescription)it.Items[0]).ConceptionRegistryDescription;
+                    return ((ConceptionDescriptionViewModel)it.Items[0]).ConceptionRegistryDescription;
                 }
             }
+
             if (item1 != null)
             {
                 if (item1.Parent == trvDescriptions)
                 {
                     //return (string)item1.Items[0];
-                    //ConceptionDescription item2 = item1.Items[0] as ConceptionDescription;
+                    //ConceptionDescriptionViewModel item2 = item1.Items[0] as ConceptionDescriptionViewModel;
                     //if(item2 != null)
                     //    return item2.ConceptionRegistryDescription;
                     if (item1.HasItems)
@@ -342,7 +481,7 @@ namespace TrilingualUI
             }
             //else
             //{
-            //    ConceptionDescription desc = item as ConceptionDescription;
+            //    ConceptionDescriptionViewModel desc = item as ConceptionDescriptionViewModel;
             //    //string desc = item as string;
             //    if( desc != null)
             //        return desc.ConceptionRegistryDescription;
@@ -351,27 +490,32 @@ namespace TrilingualUI
             return string.Empty;
         }
 
-        private string GetAllDescriptions(Conception conception)
-        {
-            StringBuilder sb = new StringBuilder();
-            foreach (LanguageId langId in Enum.GetValues(typeof(LanguageId)))
-            {
-                if (langId == LanguageId.Undefined)
-                    continue;
+        ////private string GetAllDescriptions(Conception conception)
+        ////{
+        ////    StringBuilder sb = new StringBuilder();
+        ////    foreach (LanguageId langId in Enum.GetValues(typeof(LanguageId)))
+        ////    {
+        ////        if (langId == LanguageId.Undefined)
+        ////            continue;
 
-                List<ConceptionDescription> descriptions = conception.GetAllConceptionDescriptions(langId);
-                foreach (ConceptionDescription desc in descriptions)
-                {
-                    sb.AppendFormat("{0}\n{1}. {2}\n\n", LanguageIdToSting.GetDescription(langId, langId), desc.DescriptionId, desc.ConceptionRegistryDescription);
-                    //GetConceptionDescription(conception, lang));
-                }
-            }
-            return sb.ToString();
+        ////        List<ConceptionDescription> descriptions = conception.GetAllConceptionDescriptions(langId);
+        ////        foreach (ConceptionDescription desc in descriptions)
+        ////        {
+        ////            sb.AppendFormat("{0}\n{1}. {2}\n\n", LanguageIdToSting.GetDescription(langId, langId), desc.OverallDescriptionId, desc.ConceptionRegistryDescription);
+        ////            //GetConceptionDescription(conception, lang));
+        ////        }
+        ////    }
+        ////    return sb.ToString();
+        ////}
+
+        private ConceptionDescriptionViewModel FindDescriptionInTree(string description)
+        {
+            throw new NotImplementedException();
         }
 
         private string GetConceptionDescription(Conception conception, LanguageId languageForDescription)
         {
-            List<ConceptionDescription> descriptions = conception.GetAllConceptionDescriptions(languageForDescription);
+            List<ConceptionDescription> descriptions = conception.GetConceptionDescriptions(languageForDescription);
             StringBuilder sb = new StringBuilder();
             foreach (ConceptionDescription desc in descriptions)
             {
@@ -387,27 +531,45 @@ namespace TrilingualUI
         }
 
         private void btnSearch_Click(object sender, RoutedEventArgs e)
-        {           
-            
-                    
+        {
             string textToSearch = txtSearch.Text;
-            //for (int i = 0;  i < treeConceptions.Items.Count; i++)
+            bool isFound = m_DictionaryViewModel.PerformSearch(textToSearch, treeConceptions.SelectedItem as ConceptionDescriptionViewModel);
+            if (!isFound)
+            {
+                MessageBox.Show("Заданный текст не найден.");
+            }
+            else
+            {
+                //DependencyObject dObject = treeConceptions.ItemContainerGenerator.ContainerFromItem(treeConceptions.SelectedItem);
+                //TreeViewItem item = dObject as TreeViewItem;
+                //if (item != null)
+                //{
+                //    item.BringIntoView();
+                //}
+            }
+            //Chapter c = m_DictionaryViewModel.Alphabet.Letters.FirstOrDefault(x =>
+            //    x.Letter == textToSearch[0].ToString());
+
+            ////treeConceptions.
+
+
+            ////for (int i = 0;  i < treeConceptions.Items.Count; i++)
+            ////{
+            //TreeViewItem it1 = (TreeViewItem)treeConceptions.ItemContainerGenerator.ContainerFromItem(treeConceptions.Items[0]);
+
+            //if (m_I > 2)
             //{
-                TreeViewItem it1 = (TreeViewItem)treeConceptions.ItemContainerGenerator.ContainerFromItem(treeConceptions.Items[0]);
-                
-                if (m_I > 2)
-                {
-                    TreeViewItem it2 = (TreeViewItem)it1.ItemContainerGenerator.ContainerFromItem(it1.Items[m_I-1]);
-                    TreeViewItem it3 = (TreeViewItem)it2.ItemContainerGenerator.ContainerFromItem(it2.Items[m_J]);
-                    it3.IsSelected = true;
-                    m_J++;
-                }
-                else
-                {
-                    TreeViewItem it2 = (TreeViewItem)it1.ItemContainerGenerator.ContainerFromItem(it1.Items[m_I]);
-                    it2.IsSelected = true;
-                    m_I++;
-                }
+            //    TreeViewItem it2 = (TreeViewItem)it1.ItemContainerGenerator.ContainerFromItem(it1.Items[m_I - 1]);
+            //    TreeViewItem it3 = (TreeViewItem)it2.ItemContainerGenerator.ContainerFromItem(it2.Items[m_J]);
+            //    it3.IsSelected = true;
+            //    m_J++;
+            //}
+            //else
+            //{
+            //    TreeViewItem it2 = (TreeViewItem)it1.ItemContainerGenerator.ContainerFromItem(it1.Items[m_I]);
+            //    it2.IsSelected = true;
+            //    m_I++;
+            //}
             //    //bool isFound = ((string)it1.Header).Contains(textToSearch);
             //    //if (isFound)
             //    //    it1.IsSelected = true;
@@ -493,73 +655,167 @@ namespace TrilingualUI
 
         private void cmbChangeforEdit_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            UpdateEditDescription();
+            if (trvDescriptions == null)
+                return;
+
+            TreeViewItem it = (TreeViewItem)(trvDescriptions.ItemContainerGenerator.ContainerFromIndex(cmbChangeforEdit.SelectedIndex));
+            if (it != null)
+            {
+                TreeViewItem it1 = (TreeViewItem)(it.ItemContainerGenerator.ContainerFromIndex(0));
+                //foreach (ConceptionDescriptionViewModel it1 in it.Items)
+                {
+                    it1.IsSelected = true;
+                    return;
+                    //if (it1.IsSelected)
+                      //  return;
+                }
+                it.IsSelected = true;
+            }
+
+            //UpdateEditDescription();
         }
 
         private void btnAddDescription_Click(object sender, RoutedEventArgs e)
         {
-            //ConceptionDescriptionViewModel conception = null;//TODO (ConceptionDescriptionViewModel)listConceptions.SelectedItem;
-            //if (conception == null)
-            //    return;
+            try
+            {
+                if (string.IsNullOrWhiteSpace(txtEditDescription.Text))
+                {
+                    MessageBox.Show("Введите текст переводного эквивалента");
+                    txtEditDescription.Focus();
+                    return;
+                }
 
+                txtEditDescription.Text = txtEditDescription.Text.Trim();
 
-            ConceptionDescriptionViewModel descVM = treeConceptions.SelectedItem as ConceptionDescriptionViewModel;
-            if (descVM == null)
-                return;
+                ConceptionDescriptionViewModel descVM = trvDescriptions.SelectedItem as ConceptionDescriptionViewModel;
+                if (descVM == null)
+                    return;
 
-            TrilingualDictionaryCore.LanguageId languageForEdit = (TrilingualDictionaryCore.LanguageId)cmbChangeforEdit.SelectedIndex;
+                LanguageId languageForEdit = (LanguageId)cmbChangeforEdit.SelectedIndex;
+                TranslationVM chType = cmbChangableType.SelectedItem as TranslationVM;
+                TranslationVM langPart = cmbLangPart.SelectedItem as TranslationVM;
 
-            ConceptionDescription desc = new ConceptionDescription(descVM.Conception, "");// conception.GetConceptionDescription(languageForEdit);
-            desc.LangPart = txtLangPart.Text;
-//            desc.Topic = txtTopic.Text;
-//            desc.Semantic = txtSemantic.Text;
-            desc.Changeable.Type = txtChangableType.Text;
-            desc.Changeable.Value = txtChangable.Text;
-//            desc.Link = txtLink.Text;
+                m_DictionaryViewModel.AddDescriptionToConception(curConception.Conception.ConceptionId, txtEditDescription.Text, languageForEdit,
+                    (chType == null || chType.Item == null) ? 0 : chType.Item.ServConceptionId,//"" : chType.Translation,
+                    txtChangable.Text,
+                    (langPart == null || langPart.Item == null) ? 0 : langPart.Item.ServConceptionId,//Translation,
+                true);
 
-            m_DictionaryViewModel.AddDescriptionToConception(descVM.Conception.ConceptionId, txtEditDescription.Text, languageForEdit);
+                ConceptionDescriptionViewModel desc2 = treeConceptions.SelectedItem as ConceptionDescriptionViewModel;
+                if (desc2 != null)
+                {
+                    curConception = new ConceptionVM(desc2.Conception);
+                }
 
-            //m_DictionaryViewModel.LoadAllDescriptions();
-            //DataContext = new
-            //{
-            //    ActiveLanguage = m_DictionaryViewModel.Chapters,
-            //    ActiveConception = curConception == null ? null : curConception.Descriptions
-            //};
-            UpdateAllControls();
-            //listConceptions.Items.Refresh();
+                SwitchDataContext();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
         }
 
         private void btnChangeDescription_Click(object sender, RoutedEventArgs e)
         {
-            //ConceptionDescriptionViewModel conception = null;//TODO (ConceptionDescriptionViewModel)listConceptions.SelectedItem;
-            //if (conception == null)
-            //    return;
-            
-            ConceptionDescriptionViewModel descVM = treeConceptions.SelectedItem as ConceptionDescriptionViewModel;
-            if (descVM == null)
-                return;
+            try
+            {
+                if (string.IsNullOrWhiteSpace(txtEditDescription.Text))
+                {
+                    MessageBox.Show("Введите текст переводного эквивалента");
+                    txtEditDescription.Focus();
+                    return;
+                }
 
-            LanguageId languageForEdit = (LanguageId)cmbChangeforEdit.SelectedIndex;
+                txtEditDescription.Text = txtEditDescription.Text.Trim();
 
+                ConceptionDescriptionViewModel descVM = trvDescriptions.SelectedItem as ConceptionDescriptionViewModel;
+                if (descVM == null)
+                    return;
 
-            ConceptionDescription desc = new ConceptionDescription(descVM.Conception, "");// conception.GetConceptionDescription(languageForEdit);
-            desc.LangPart = txtLangPart.Text;
-            //desc.Topic = txtTopic.Text;
-            //desc.Semantic = txtSemantic.Text;
-            desc.Changeable.Type = txtChangableType.Text;
-            desc.Changeable.Value = txtChangable.Text;
-            //desc.Link = txtLink.Text;
+                ConceptionDescriptionViewModel descVM2 = treeConceptions.SelectedItem as ConceptionDescriptionViewModel;
 
-            m_DictionaryViewModel.ChangeDescriptionOfConception(descVM.Conception.ConceptionId, txtEditDescription.Text, languageForEdit, GetTreeSelectedDescription());
+                bool b = descVM == descVM2;
 
-            //m_DictionaryViewModel.LoadAllDescriptions();
-            //DataContext = new
-            //{
-            //    ActiveLanguage = m_DictionaryViewModel.Chapters,
-            //    ActiveConception = curConception == null ? null : curConception.Descriptions
-            //};
-            UpdateAllControls();
-            //listConceptions.Items.Refresh();
+                LanguageId languageForEdit = (LanguageId)cmbChangeforEdit.SelectedIndex;
+                if (descVM.ConceptionRegistryDescription == "Отсутствует")
+                {
+                    btnAddDescription_Click(sender, e);
+                }
+                else
+                {
+                    TranslationVM chType = cmbChangableType.SelectedItem as TranslationVM;
+                    TranslationVM langPart = cmbLangPart.SelectedItem as TranslationVM;
+
+                    m_DictionaryViewModel.ChangeDescriptionOfConception(descVM, txtEditDescription.Text, languageForEdit,
+                    (chType == null || chType.Item == null) ? 0 : chType.Item.ServConceptionId,//"" : chType.Translation,
+                    txtChangable.Text,
+                    (langPart == null || langPart.Item == null) ? 0 : langPart.Item.ServConceptionId,//Translation,
+                    true);
+
+                    //if (descVM.ConceptionRegistryDescription == descVM2.ConceptionRegistryDescription)
+                    SelectItem(descVM);
+
+                    ConceptionDescriptionViewModel desc2 = treeConceptions.SelectedItem as ConceptionDescriptionViewModel;
+                    if (desc2 != null)
+                    {
+                        curConception = new ConceptionVM(desc2.Conception);
+                    }
+
+                    SwitchDataContext();
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+        }
+
+        private void SelectItem(ConceptionDescriptionViewModel descVM)
+        {
+            try
+            {
+                if (descVM.Conception.ParentId == 0)
+                {
+
+                }
+                treeConceptions.UpdateLayout();
+
+                Chapter chapter = m_DictionaryViewModel.GetAnyChapter(descVM);
+                DependencyObject dObject = treeConceptions.ItemContainerGenerator.ContainerFromItem(chapter);
+                TreeViewItem itChapter = dObject as TreeViewItem;
+                if (itChapter != null)
+                {
+                    itChapter.IsExpanded = true;
+                    for (int i = 0; i < itChapter.Items.Count; i++)
+                    {
+                        ConceptionDescriptionViewModel o1 = itChapter.Items[i] as ConceptionDescriptionViewModel;
+                        if (o1 != null)
+                        {
+                            if (string.Compare(descVM.ConceptionRegistryDescription, o1.ConceptionRegistryDescription, true) == 0)
+                            {
+                                TreeViewItem subItem = (TreeViewItem)(itChapter.ItemContainerGenerator.ContainerFromItem(itChapter.Items[i]));
+                                if (subItem != null)
+                                {
+                                    subItem.IsSelected = true;
+                                    subItem.BringIntoView();
+                                }
+                                break;
+                            }
+                        }
+
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+            //object obj = ((TreeViewItem)dObject).ItemContainerGenerator.ContainerFromItem(descVM);
+            //TreeViewItem it = obj as TreeViewItem;
+            //if (it != null)
+            //    it.IsSelected = true;
         }
 
         //private int GetTreeSelectedIndex()
@@ -581,7 +837,7 @@ namespace TrilingualUI
 
         private string GetTreeSelectedDescription()
         {
-            ConceptionDescription desc = trvDescriptions.SelectedItem as ConceptionDescription;
+            ConceptionDescriptionViewModel desc = trvDescriptions.SelectedItem as ConceptionDescriptionViewModel;
             if (desc == null)
                 return string.Empty;
 
@@ -590,62 +846,46 @@ namespace TrilingualUI
 
         private void btnRemoveDescription_Click(object sender, RoutedEventArgs e)
         {
-            //ConceptionDescriptionViewModel conception = null;//TODO (ConceptionDescriptionViewModel)listConceptions.SelectedItem;
-            //if (conception == null)
-            //    return;
+            try
+            {
+                ConceptionDescriptionViewModel descVM = trvDescriptions.SelectedItem as ConceptionDescriptionViewModel;
+                if (descVM == null)
+                    return;
 
-            ConceptionDescriptionViewModel descVM = treeConceptions.SelectedItem as ConceptionDescriptionViewModel;
-            if (descVM == null)
-                return;
+                LanguageId languageForEdit = (LanguageId)cmbChangeforEdit.SelectedIndex;
+                m_DictionaryViewModel.RemoveDescriptionFromConception(descVM, languageForEdit, true);
 
-            LanguageId languageForEdit = (LanguageId)cmbChangeforEdit.SelectedIndex;
 
-            m_DictionaryViewModel.RemoveDescriptionFromConception(descVM.Conception.ConceptionId, txtEditDescription.Text, languageForEdit);
+                ConceptionDescriptionViewModel desc2 = treeConceptions.SelectedItem as ConceptionDescriptionViewModel;
+                if (desc2 != null)
+                {
+                    curConception = new ConceptionVM(desc2.Conception);
+                }
+                else
+                {
+                    curConception = null;
+                }
 
-            //m_DictionaryViewModel.LoadAllDescriptions();
-            //DataContext = new
-            //{
-            //    ActiveLanguage = m_DictionaryViewModel.Chapters,
-            //    ActiveConception = curConception == null ? null : curConception.Descriptions
-            //};
-            UpdateAllControls();
-            //listConceptions.Items.Refresh();
+                SwitchDataContext();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
         }
 
         private void btnAddConception_Click(object sender, RoutedEventArgs e)
         {
             AddConception wnd = new AddConception(m_DictionaryViewModel);
-            if( wnd.ShowDialog() == true && wnd.m_NewConception != null)
+            if (wnd.ShowDialog() == true && wnd.m_NewConception != null)
             {
+                
+                m_DictionaryViewModel.AddConception(wnd.m_NewConception);
                 UpdateAllControls();
-                m_DictionaryViewModel.LoadAllDescriptions();
+                //m_DictionaryViewModel.LoadAllDescriptions();
                 SelectItemById(wnd.m_NewConception.ConceptionId);
-
-                DataContext = new
-                {
-                    ActiveLanguage = m_DictionaryViewModel.Chapters,
-                    ActiveConception = curConception == null ? null : curConception.Descriptions
-                };
             }
-            //LanguageId languageForEdit = (LanguageId)cmbChangeforEdit.SelectedIndex;
-
-            //int newConceptionId = m_DictionaryViewModel.AddConception(txtEditDescription.Text, languageForEdit);
-
-            //Conception conception = m_DictionaryViewModel.GetConception(newConceptionId);
-            //ConceptionDescription desc = conception.GetConceptionDescription(languageForEdit, 0);
-            //desc.LangPart = txtLangPart.Text;
-            //conception.Topic = txtTopic.Text;
-            //conception.Semantic = txtSemantic.Text;
-            //desc.Changeable.Type = txtChangableType.Text;
-            //desc.Changeable.Value = txtChangable.Text;
-            //conception.Link = txtLink.Text;
-
-            //m_DictionaryViewModel.Save();
-
-
-            //UpdateAllControls();
-            ////listConceptions.Items.Refresh();
-            //SelectItemById(newConceptionId);
+            SwitchDataContext();
         }
 
         private void btnRemoveConception_Click(object sender, RoutedEventArgs e)
@@ -655,14 +895,11 @@ namespace TrilingualUI
                 return;
 
             m_DictionaryViewModel.RemoveConception(desc);
-            m_DictionaryViewModel.LoadAllDescriptions();
-            DataContext = new
-            {
-                ActiveLanguage = m_DictionaryViewModel.Chapters,
-                ActiveConception = curConception == null ? null : curConception.Descriptions
-            };
-
             UpdateAllControls();
+ //           m_DictionaryViewModel.LoadAllDescriptions();
+            SwitchDataContext();
+
+            
 
             //ConceptionDescriptionViewModel conception = null;//TODO (ConceptionDescriptionViewModel)listConceptions.SelectedItem;
             //if (conception == null)
@@ -689,18 +926,6 @@ namespace TrilingualUI
 
         private void treeConceptions_SelectionChanged(object sender, RoutedPropertyChangedEventArgs<object> e)
         {
-            //TreeViewItem item = (TreeViewItem)trvDescriptions.SelectedItem;
-            //if (item == null)
-            //    return;
-
-            //if (item.Parent == trvDescriptions)
-            //{
-            //    ((TreeViewItem)trvDescriptions.Items[1]).IsSelected = true;
-            //}
-            //    DependencyObject dObject = trvDescriptions.ItemContainerGenerator.ContainerFromItem(item.Items[0]);
-            //    ((TreeViewItem)dObject).IsSelected = true;
-            //}
-
             UpdateEditDescription();
         }
 
@@ -808,13 +1033,112 @@ namespace TrilingualUI
             if (desc != null)
             {
                 curConception = new ConceptionVM(desc.Conception);
-                DataContext = new
-                {
-                    ActiveLanguage = m_DictionaryViewModel.Chapters,
-                    ActiveConception = curConception.Descriptions
-                    //
-                };
+                SwitchDataContext();
             }
+            //UpdateEditDescription();
+        }
+
+        private void CmbSelectedLangPart(object sender, RoutedEventArgs e)
+        {
+            bool shouldReload = SelectTranslationComboAction(cmbLangPart, m_DictionaryViewModel.ActivePartsOfSpeech, new LangPartTranslationFactory(), ref m_PrevLangPart);
+            if (shouldReload)
+            {
+                m_DictionaryViewModel.ReloadPartOfSpeech();
+                SwitchDataContext();
+            }
+        }
+
+        private void CmbSelectedTopic(object sender, RoutedEventArgs e)
+        {
+            bool shouldReload = SelectTranslationComboAction(cmbTopic, m_DictionaryViewModel.ActiveTopics, new TopicTranslationFactory(), ref m_PrevTopic);
+            if (shouldReload)
+            {
+                m_DictionaryViewModel.ReloadTopics();
+                SwitchDataContext();
+            }
+        }
+
+        private void CmbSelectedSemantic(object sender, RoutedEventArgs e)
+        {
+            bool shouldReload = SelectTranslationComboAction(cmbSemantic, m_DictionaryViewModel.ActiveSemantics, new SemanticTranslationFactory(), ref m_PrevSemantic);
+            if (shouldReload)
+            {
+                m_DictionaryViewModel.ReloadSemantics();
+                SwitchDataContext();
+            }
+        }
+
+        private void CmbSelectedChangeable(object sender, RoutedEventArgs e)
+        {
+            bool shouldReload = SelectTranslationComboAction(cmbChangableType, m_DictionaryViewModel.ActiveChangeables, new ChangeableTranslationFactory(), ref m_PrevChangeable);
+            if (shouldReload)
+            {
+                m_DictionaryViewModel.ReloadChangeables();
+                SwitchDataContext();
+            }
+        }
+
+        private bool SelectTranslationComboAction(ComboBox combo, ObservableCollection<TranslationVM> collection, ITranslationFactory factory, ref int oldSelectedIndex)
+        {
+            if (combo.SelectedIndex == combo.Items.Count - 1)
+            {
+                OpenChangeTranlationsWindow(collection, factory);
+                
+                if (oldSelectedIndex >= combo.Items.Count - 2)
+                    oldSelectedIndex = -1;
+                
+                combo.SelectedIndex = oldSelectedIndex;
+
+                return true;
+            }
+            else
+            {
+                if (combo.SelectedIndex != -1)
+                    oldSelectedIndex = combo.SelectedIndex;
+
+                return false;
+            }
+        }
+
+        private void OpenChangeTranlationsWindow(ObservableCollection<TranslationVM> observableCollection, ITranslationFactory factory)
+        {
+            ChangeTranslatableWnd wnd = new ChangeTranslatableWnd(observableCollection, factory, m_DictionaryViewModel);
+            wnd.ShowDialog();
+
+            this.Activate();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            ConceptionDescriptionViewModel descVM = trvDescriptions.SelectedItem as ConceptionDescriptionViewModel;
+            if (descVM == null || descVM.Conception == null)
+                return;
+
+            Conception conception = descVM.Conception;
+            TranslationVM topic = cmbTopic.SelectedItem as TranslationVM;
+            TranslationVM semantic = cmbSemantic.SelectedItem as TranslationVM;
+            if (topic.Item != null)
+            {
+                conception.TopicId = topic.Item.ServConceptionId;
+                conception.Topic = topic.Item.Translation;
+            }
+            else
+            {
+                conception.TopicId = 0;
+                conception.Topic = "";
+            }
+            if (semantic.Item != null)
+            {
+                conception.SemanticId = semantic.Item.ServConceptionId;
+                conception.Semantic = semantic.Item.Translation;
+            }
+            else
+            {
+                conception.SemanticId = 0;
+                conception.Semantic = "";
+            }
+
+            conception.SaveConception();
         }
     }
 }

@@ -12,6 +12,7 @@
     <AssemblyName>TrilingualDictionaryCore</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -56,9 +57,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractTranslation.cs" />
     <Compile Include="ChangableTranslation.cs" />
     <Compile Include="Conception.cs" />
     <Compile Include="ConceptionDescription.cs" />
+    <Compile Include="DatabaseHelper.cs" />
+    <Compile Include="ITranslatable.cs" />
+    <Compile Include="ITranslationFactory.cs" />
     <Compile Include="LanguageTranslation.cs" />
     <Compile Include="PartOfSpeechTranslation.cs" />
     <Compile Include="PlainTextDataLoader.cs" />
@@ -75,7 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="TrilingualDictionary.sdf">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

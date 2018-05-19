@@ -1,0 +1,8 @@
+-- Script Date: 13.04.2015 14:05  - ErikEJ.SqlCeScripting version 3.5.2.49
+CREATE TABLE [Conception] (
+  [Id] int IDENTITY (1,1) NOT NULL
+, [ParentId] int DEFAULT  NULL
+);
+GO
+ALTER TABLE [Conception] ADD CONSTRAINT [PK_Conception] PRIMARY KEY ([Id]);
+GO

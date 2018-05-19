@@ -1,0 +1,166 @@
+﻿<UserControl x:Class="TrilingualUI.TermEditor"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" Height="568" Width="439">
+    <Grid Height="568" VerticalAlignment="Top" HorizontalAlignment="Left" Width="439">
+        <GroupBox Header="Редактирование термина" x:Name="groupBox2" HorizontalAlignment="Left" Width="436" Height="564" VerticalAlignment="Top">
+            <Grid>
+                <Label Content="Выберите язык" Height="24" HorizontalAlignment="Left" Margin="10,2,0,0" x:Name="label4" VerticalAlignment="Top" />
+                <ComboBox Height="23" HorizontalAlignment="Left" Margin="10,30,0,0" x:Name="cmbChangeforEdit" SelectedIndex="0" VerticalAlignment="Top" Width="120" SelectionChanged="cmbChangeforEdit_SelectionChanged">
+                    <ComboBoxItem Content="Русский" />
+                    <ComboBoxItem Content="English" />
+                    <ComboBoxItem Content="Українська" />
+                </ComboBox>
+
+                <GroupBox Margin="10,70,0,0" Header="Переводной эквивалент" HorizontalAlignment="Left" Width="200" Height="456" VerticalAlignment="Top">
+                    <Grid>
+                        <Label Content="Введите текст" Height="24" HorizontalAlignment="Left" x:Name="label5" VerticalAlignment="Top" Margin="0,12,0,0" FontWeight="Bold" />
+                        <TextBox x:Name="txtEditDescription" Height="86" VerticalAlignment="Top" Margin="0,38,0,0" AcceptsReturn="True" AcceptsTab="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" />
+                        <Label Content="Изменяемая часть" Height="24" x:Name="label8" VerticalAlignment="Top" HorizontalAlignment="Center" Width="112" Margin="38,136,38,0" />
+                        <TextBox Height="23" HorizontalAlignment="Center"  x:Name="txtChangable" VerticalAlignment="Top" Width="168" Margin="10,164,10,0" />
+                        <Label Content="Часть речи" Height="24" x:Name="label9" VerticalAlignment="Top" HorizontalAlignment="Center" Width="72" Margin="58,250,58,0" />
+                        <ComboBox Height="23" HorizontalAlignment="Center" x:Name="cmbLangPart" VerticalAlignment="Top" Width="168" SelectionChanged="cmbLangPart_SelectionChanged"
+    						ItemsSource="{Binding m_DictionaryViewModel.ActiveLangParts}" Margin="10,280,10,0">
+                            <ComboBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <VirtualizingStackPanel />
+                                </ItemsPanelTemplate>
+                            </ComboBox.ItemsPanel>
+                            <ComboBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="{Binding Translation}">
+                                            <TextBlock.Style >
+                                                <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding IsAbsent}" Value="True">
+                                                            <Setter Property="FontStyle" Value="Italic" />
+                                                            <Setter Property="Foreground" Value="DarkGray" />
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding IsAddItem}" Value="True">
+                                                            <Setter Property="FontStyle" Value="Italic" />
+                                                            <Setter Property="Foreground" Value="Black" />
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </TextBlock.Style>
+                                        </TextBlock>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ComboBox.ItemTemplate>
+                        </ComboBox>
+                        <Label Content="Тип изменяемой части" Height="24" x:Name="label10" VerticalAlignment="Top" HorizontalAlignment="Center" Width="140" Margin="24,190,24,0" />
+                        <ComboBox Height="23" HorizontalAlignment="Center" x:Name="cmbChangableType" VerticalAlignment="Top" Width="168" SelectionChanged="cmbChangableType_SelectionChanged"
+    						ItemsSource="{Binding m_DictionaryViewModel.ActiveChangeables}" Margin="10,220,10,0">
+                            <ComboBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <VirtualizingStackPanel />
+                                </ItemsPanelTemplate>
+                            </ComboBox.ItemsPanel>
+                            <ComboBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="{Binding Translation}">
+                                            <TextBlock.Style >
+                                                <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding IsAbsent}" Value="True">
+                                                            <Setter Property="FontStyle" Value="Italic" />
+                                                            <Setter Property="Foreground" Value="DarkGray" />
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding IsAddItem}" Value="True">
+                                                            <Setter Property="FontStyle" Value="Italic" />
+                                                            <Setter Property="Foreground" Value="Black" />
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </TextBlock.Style>
+                                        </TextBlock>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ComboBox.ItemTemplate>
+                        </ComboBox>
+
+                        <Button Content="Добавить" IsEnabled="false" Height="24" HorizontalAlignment="Center" x:Name="btnAddDescription" VerticalAlignment="Top" Width="120" Click="btnAddDescription_Click" Margin="34,326,34,0" />
+                        <Button Content="Изменить" IsEnabled="false" Height="24" HorizontalAlignment="Center" x:Name="btnChangeDescription" VerticalAlignment="Top" Width="120" Click="btnChangeDescription_Click" Margin="34,358,34,0" RenderTransformOrigin="0.5,0.5" />
+                        <Button Content="Удалить" IsEnabled="false" HorizontalAlignment="Center" x:Name="btnRemoveDescription" Width="120" Click="btnRemoveDescription_Click" Margin="34,392,34,0" Height="24" VerticalAlignment="Top" />
+                    </Grid>
+                </GroupBox>
+                <GroupBox Header="Термин" HorizontalAlignment="Left" Margin="222,70,0,0" VerticalAlignment="Top" Height="241" Width="195">
+                    <Grid Margin="0,0,0,0">
+                        <Label Content="Тема" Height="24" HorizontalAlignment="Center" x:Name="label6" VerticalAlignment="Top" Margin="73,8,73,0" />
+                        <ComboBox Width="169" VerticalAlignment="Top" SelectionChanged="cmbTopic_SelectionChanged" x:Name="cmbTopic" ItemsSource="{Binding m_DictionaryViewModel.ActiveTopics}" Height="23" HorizontalAlignment="Center" Margin="7,42,7,0">
+                            <ComboBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="{Binding Translation}">
+                                            <TextBlock.Style>
+                                                <Style TargetType="{x:Type TextBlock}" x:Name="StyleCB">
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding IsAbsent}" Value="True">
+                                                            <Setter Property="FontStyle" Value="Italic"/>
+                                                            <Setter Property="Foreground" Value="DarkGray"/>
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding IsAddItem}" Value="True">
+                                                            <Setter Property="FontStyle" Value="Italic"/>
+                                                            <Setter Property="Foreground" Value="Black"/>
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </TextBlock.Style>
+                                        </TextBlock>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ComboBox.ItemTemplate>
+                        </ComboBox>
+                        <Label Content="Семантика" x:Name="label7" Height="24" VerticalAlignment="Top" HorizontalAlignment="Center" Width="69" Margin="57,86,57,0" />
+                        <ComboBox Height="23" Margin="0,116,6,0" x:Name="cmbSemantic" VerticalAlignment="Top" HorizontalAlignment="Right" Width="169" SelectionChanged="cmbSemantic_SelectionChanged" ItemsSource="{Binding m_DictionaryViewModel.ActiveSemantics}">
+                            <ComboBox.ItemsPanel>
+                                <ItemsPanelTemplate>
+                                    <VirtualizingStackPanel />
+                                </ItemsPanelTemplate>
+                            </ComboBox.ItemsPanel>
+                            <ComboBox.ItemTemplate>
+                                <DataTemplate>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock Text="{Binding Translation}">
+                                            <TextBlock.Style >
+                                                <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
+                                                    <Style.Triggers>
+                                                        <DataTrigger Binding="{Binding IsAbsent}" Value="True">
+                                                            <Setter Property="FontStyle" Value="Italic" />
+                                                            <Setter Property="Foreground" Value="DarkGray" />
+                                                        </DataTrigger>
+                                                        <DataTrigger Binding="{Binding IsAddItem}" Value="True">
+                                                            <Setter Property="FontStyle" Value="Italic" />
+                                                            <Setter Property="Foreground" Value="Black" />
+                                                        </DataTrigger>
+                                                    </Style.Triggers>
+                                                </Style>
+                                            </TextBlock.Style>
+                                        </TextBlock>
+                                    </StackPanel>
+                                </DataTemplate>
+                            </ComboBox.ItemTemplate>
+                        </ComboBox>
+                        <Button x:Name="btnChangeConception" Content="Применить к термину" Width="137" HorizontalAlignment="Center" Margin="0,170,0,0" Height="24" VerticalAlignment="Top" Click="btnChangeConception_Click"/>
+
+                    </Grid>
+                </GroupBox>
+                <Button Width="110" VerticalAlignment="Top" Visibility="Visible" x:Name="btnAddConception" Margin="257,442,0,0" Height="24" HorizontalAlignment="Left" Content="Добавить термин" Click="btnAddConception_Click"/>
+                <Button Width="110" VerticalAlignment="Top" Visibility="Visible" x:Name="btnRemoveConception" Margin="257,478,0,0" IsEnabled="false" Height="24" HorizontalAlignment="Left" Content="Удалить термин" Click="btnRemoveConception_Click"/>
+                <!--TextBox Margin="0,24,6,0" Height="23" VerticalAlignment="Top" HorizontalAlignment="Right" Width="169" /> Text="{Binding NewItem, UpdateSourceTrigger=LostFocus}"/>-->
+
+
+                <TextBox Height="22" HorizontalAlignment="Right" Margin="0,634,70,0" x:Name="txtLink" VerticalAlignment="Top" Width="170" Visibility="Hidden"/>
+                <Label Content="см. еще" HorizontalAlignment="Right" Margin="0,612,168,0" x:Name="label11" Width="72" Height="24" VerticalAlignment="Top" Visibility="Hidden"/>
+                <Button Content="Разделить термин" Height="23" Visibility="Hidden" HorizontalAlignment="Left" Margin="8,128,0,0" x:Name="btnSplitConception" VerticalAlignment="Top" Width="125" Click="btnSplitConception_Click" />
+                <CheckBox Content="Обработано" Visibility="Hidden"  Height="16" HorizontalAlignment="Left" Margin="257,17,0,0" x:Name="chkHumanHandled" VerticalAlignment="Top" Width="115" Click="ChkHumanHandled_OnClick"/>
+                <Button Content="Объединить термины" Height="23" Visibility="Hidden" HorizontalAlignment="Left" Margin="8,99,0,0" x:Name="btnMergeConceptions" VerticalAlignment="Top" Width="125" Click="btnMergeConceptions_Click" />
+            </Grid>
+        </GroupBox>
+
+    </Grid>
+</UserControl>

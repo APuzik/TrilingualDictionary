@@ -1,11 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30723.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B215BE8B-A924-4856-ACD3-FC2647CD55BE}"
 	ProjectSection(SolutionItems) = preProject
 		Local.testsettings = Local.testsettings
+		Performance10.psess = Performance10.psess
+		Performance8.psess = Performance8.psess
+		Performance9.psess = Performance9.psess
 		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
 		TrilingualDictionary.vsmdi = TrilingualDictionary.vsmdi
 	EndProjectSection
@@ -19,6 +22,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrilingualDictionaryViewModel", "TrilingualDictionaryViewModel\TrilingualDictionaryViewModel.csproj", "{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}"
 EndProject
 Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "ModelingProject1\ModelingProject1.modelproj", "{956D397A-3881-4D42-A891-7899DAC2CECB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionaryCore", "MultiDictionaryCore\MultiDictionaryCore.csproj", "{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionary", "MultiDictionary\MultiDictionary.csproj", "{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -46,9 +53,23 @@ Global
 		{956D397A-3881-4D42-A891-7899DAC2CECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{956D397A-3881-4D42-A891-7899DAC2CECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{956D397A-3881-4D42-A891-7899DAC2CECB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668B3319-5AC1-4B57-89DD-5BC70DFD8ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {958AEB02-C9BE-46CF-BD16-DAD62EFA3FE9}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
 	EndGlobalSection
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = TrilingualDictionary.vsmdi

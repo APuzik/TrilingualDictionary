@@ -10,7 +10,8 @@ namespace TrilingualDictionaryViewModel
 {
     public class ConceptionVM
     {
-        List<ConceptionDescriptionVM> m_Descriptions = new List<ConceptionDescriptionVM>();
+        List<ConceptionLanguageVM> m_LanguagesTreeItems = new List<ConceptionLanguageVM>();
+        ObservableCollection<ConceptionDescriptionViewModel> m_Descriptions = new ObservableCollection<ConceptionDescriptionViewModel>();
         Conception m_Conception = null;
         
         public ConceptionVM(Conception conception)
@@ -21,16 +22,31 @@ namespace TrilingualDictionaryViewModel
                 if (langId == LanguageId.Undefined)
                     continue;
 
-                List<ConceptionDescription> descs = conception.GetAllConceptionDescriptions(langId);
+                List<ConceptionDescription> descs = conception.GetConceptionDescriptions(langId);
                 if (descs.Count == 0)
                     descs = ConceptionDescription.EmptyList;
-                m_Descriptions.Add(new ConceptionDescriptionVM(langId, descs));
+
+                List<ConceptionDescriptionViewModel> descsVM = new List<ConceptionDescriptionViewModel>();
+                foreach(ConceptionDescription desc in descs)
+                {
+                    ConceptionDescriptionViewModel tmp = new ConceptionDescriptionViewModel(desc, null);
+                    if (descs == ConceptionDescription.EmptyList)
+                        tmp.IsAbsent = true;
+
+                    descsVM.Add(tmp);
+                }
+                m_LanguagesTreeItems.Add(new ConceptionLanguageVM(langId, descsVM));
             }
         }
 
-        public List<ConceptionDescriptionVM> Descriptions
+        public List<ConceptionLanguageVM> Descriptions
         {
-            get { return m_Descriptions; }
+            get { return m_LanguagesTreeItems; }
+        }
+
+        public Conception Conception
+        {
+            get { return m_Conception; }
         }
     }
 

@@ -1,0 +1,8 @@
+-- Script Date: 13.04.2015 14:08  - ErikEJ.SqlCeScripting version 3.5.2.49
+CREATE TABLE [Languages] (
+  [Id] int IDENTITY (1,1) NOT NULL
+, [Name] nvarchar(32) NOT NULL
+);
+GO
+ALTER TABLE [Languages] ADD CONSTRAINT [PK_Languages] PRIMARY KEY ([Id]);
+GO

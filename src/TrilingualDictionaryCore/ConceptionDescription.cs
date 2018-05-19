@@ -10,7 +10,7 @@ using System.Xml;
 
 namespace TrilingualDictionaryCore
 {
-    public class ConceptionDescription
+    public class ConceptionDescription : IComparable<ConceptionDescription>
     {
         private static List<ConceptionDescription> m_EmptyList = null;
         public class ChangeablelPart
@@ -19,11 +19,18 @@ namespace TrilingualDictionaryCore
             public string Value;
         }
 
-        private string m_Word;
+        public class ChangeablePartDB
+        {
+            public int Type;
+            public string Value;
+        }
+
+        private string m_Word = "";
+        private string m_WordWoAcccent = "";
         private string m_Explanation = "";
         private Conception m_Conception = null;
-        private int m_DescriptionId;
-        private int m_OverallDescriptionId = 0;
+        private int m_DescriptionId = 0;
+        //private int m_OverallDescriptionId = 0;
 
         public ChangeablelPart Changeable
         {
@@ -31,6 +38,11 @@ namespace TrilingualDictionaryCore
             set;
         }
 
+        public ChangeablePartDB ChangeableDB
+        {
+            get;
+            set;
+        }
         //public string Topic { get; set; }
 
         //public string Semantic { get; set; }
@@ -40,8 +52,15 @@ namespace TrilingualDictionaryCore
         public ConceptionDescription(Conception conception, string word)
         {
             m_Conception = conception;
-            m_Word = word;
-            Changeable = new ChangeablelPart();
+            ChangeDescription(word);
+
+            //Changeable = new ChangeablelPart();
+            ChangeableDB = new ChangeablePartDB();
+        }
+
+        public int CompareTo(ConceptionDescription other)
+        {
+            return string.Compare(this.m_Word, other.m_Word, true);
         }
 
         public Conception OwnConception
@@ -52,6 +71,7 @@ namespace TrilingualDictionaryCore
         internal void ChangeDescription(string word)
         {
             m_Word = word;
+            m_WordWoAcccent = m_Word.Replace("#", "");
         }
 
         public string ConceptionRegistryDescription
@@ -61,7 +81,7 @@ namespace TrilingualDictionaryCore
 
         public string ConceptionRegistryDescriptionWoAccents
         {
-            get { return m_Word.Replace("#", ""); }
+            get { return m_WordWoAcccent; }
         }
 
         public string ConceptionExplanation
@@ -71,15 +91,16 @@ namespace TrilingualDictionaryCore
 
         public string LangPart { get; set; }
 
-        public string ConceptionSortDescription 
-        {
-            get
-            {
-                //string forSorting = Regex.Replace(m_Word, @"(\(|\)|\[|\]|#)", "");
-                string forSorting = Regex.Replace(m_Word, @"([^\w-\.~ ])", "");
-                return forSorting;
-            }
-        }
+        //Performance Warning!!!
+        //public string ConceptionSortDescription 
+        //{
+        //    get
+        //    {
+        //        //string forSorting = Regex.Replace(m_Word, @"(\(|\)|\[|\]|#)", "");
+        //        string forSorting = Regex.Replace(m_Word, @"([^\w-\.~ ])", "");
+        //        return forSorting;
+        //    }
+        //}
 
         internal void SaveDescription(System.Xml.XmlWriter writer)
         {
@@ -220,133 +241,50 @@ namespace TrilingualDictionaryCore
         {
             int idPartSpeech = SavePartOfSpeech(conn, this.LangPart, LanguageId.Russian);//langId);
             int idChangeable = SaveChangeable(conn, this.Changeable, LanguageId.Russian);//langId);
+            //this.LangPartId = idPartSpeech;
+            //this.ChangeableDB.Type = idChangeable;
+            //this.ChangeableDB.Value = this.Changeable.Value;
 
-            string query = "UPDATE Description SET ConceptionId=@ConceptionId, Description=@Description, Language=@Language, ChangablePart=@ChangablePart, ChangableType=@ChangableType, PartOfSpeech=@PartOfSpeech"; 
-
-            SqlCeCommand cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            CreateCommandParam(langId, idPartSpeech, idChangeable, cmd);
-
-            cmd.ExecuteNonQuery();
+            DatabaseHelper.UpdateConceptionDescription(conn, langId, this, idPartSpeech, idChangeable);
         }
 
         private bool IsDescriptionExsists(SqlCeConnection conn, LanguageId langId)
         {
-            if (m_OverallDescriptionId == 0)
-                return false;
-
-            string query = string.Format("SELECT Id FROM Description WHERE Id={0}", m_OverallDescriptionId);
-
-            SqlCeCommand cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            SqlCeDataReader reader = cmd.ExecuteReader();//CommandBehavior.CloseConnection);
-            if (reader.Read())
-            {
-                return true;
-            }
-
-            return false;
+            return DatabaseHelper.IsConceptionDescriptionExsists(conn, m_DescriptionId);
         }
 
         internal void InsertDescription(SqlCeConnection conn, LanguageId langId)
         {
             int idPartSpeech = SavePartOfSpeech(conn, this.LangPart, LanguageId.Russian);//langId);
             int idChangeable = SaveChangeable(conn, this.Changeable, LanguageId.Russian);//langId);
+            //this.LangPartId = idPartSpeech;
+            //this.ChangeableDB.Type = idChangeable;
+            //this.ChangeableDB.Value = this.Changeable.Value;
 
-            string query = "INSERT INTO Description(ConceptionId, Description, Language, ChangablePart, ChangableType, PartOfSpeech) VALUES(@ConceptionId, @Description, @Language, @ChangablePart, @ChangableType, @PartOfSpeech)";
-
-            SqlCeCommand cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            CreateCommandParam(langId, idPartSpeech, idChangeable, cmd);
-
-            cmd.ExecuteNonQuery();
-        }
-
-        private void CreateCommandParam(LanguageId langId, int idPartSpeech, int idChangeable, SqlCeCommand cmd)
-        {
-            cmd.Parameters.Add("@ConceptionId", SqlDbType.Int);
-            cmd.Parameters.Add("@Description", SqlDbType.NVarChar, 1024);
-            cmd.Parameters.Add("@Language", SqlDbType.Int);
-            cmd.Parameters.Add("@ChangablePart", SqlDbType.NVarChar, 100);
-            cmd.Parameters.Add("@ChangableType", SqlDbType.Int);
-            cmd.Parameters.Add("@PartOfSpeech", SqlDbType.Int);
-
-            cmd.Parameters["@ConceptionId"].Value = this.OwnConception.ConceptionId;
-            cmd.Parameters["@Description"].Value = this.ConceptionRegistryDescription;
-            cmd.Parameters["@Language"].Value = (int)langId + 1;
-            cmd.Parameters["@ChangablePart"].Value = this.Changeable.Value;
-            cmd.Parameters["@ChangableType"].Value = (idChangeable == 0 ? DBNull.Value : (object)idChangeable);
-            cmd.Parameters["@PartOfSpeech"].Value = (idPartSpeech == 0 ? DBNull.Value : (object)idPartSpeech);
-        }
+            DatabaseHelper.InsertConceptionDescription(conn, langId, this, idPartSpeech, idChangeable);
+        }        
 
         private int SavePartOfSpeech(SqlCeConnection conn, string partOfSpeechTranslation, LanguageId langId)
         {
             if (string.IsNullOrEmpty(partOfSpeechTranslation))
                 return 0;
 
-            int partOfSpeechId = GetPartOfSpeechByLang(partOfSpeechTranslation, langId, conn);
-            if (partOfSpeechId == 0)
-                partOfSpeechId = InsertPartOfSpeech(partOfSpeechTranslation, langId, conn);
+            PartOfSpeechTranslation trans = new PartOfSpeechTranslation
+            {
+                Id = 0,
+                PartOfSpeechId = 0,
+                LangForId = langId,
+                Translation = partOfSpeechTranslation
+            };
+
+            trans.Id = DatabaseHelper.GetPartOfSpeechIdByLang(partOfSpeechTranslation, langId, conn);
+            int partOfSpeechId = trans.SaveToDB(conn, langId, false);
+
+            //int partOfSpeechId = DatabaseHelper.GetPartOfSpeechIdByLang(partOfSpeechTranslation, langId, conn);
+            //if (partOfSpeechId == 0)
+            //    partOfSpeechId = DatabaseHelper.InsertPartOfSpeech(partOfSpeechTranslation, langId, conn);
 
             return partOfSpeechId;
-        }
-
-        private int InsertPartOfSpeech(string partOfSpeechTranslation, LanguageId languageId, SqlCeConnection conn)
-        {
-            string query = "INSERT INTO PartOfSpeech (DefaultName) VALUES(NULL)";
-
-            SqlCeCommand cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            cmd.ExecuteNonQuery();
-
-            query = "SELECT @@IDENTITY;";
-
-            cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            var id = cmd.ExecuteScalar();
-
-            int partOfSpeechTranslationId = Convert.ToInt32(id);
-
-            if (partOfSpeechTranslationId != 0)
-            {
-                query = "INSERT INTO PartOfSpeechTranslation (PartOfSpeechId, LangForId, Translation) VALUES(@PartOfSpeechId, @Langid, @Translation)";
-
-                cmd = new SqlCeCommand(query);
-                cmd.Connection = conn;
-
-                cmd.Parameters.Add("@PartOfSpeechId", SqlDbType.Int);
-                cmd.Parameters.Add("@Langid", SqlDbType.Int);
-                cmd.Parameters.Add("@Translation", SqlDbType.NVarChar, 100);
-
-                cmd.Parameters["@PartOfSpeechId"].Value = partOfSpeechTranslationId;
-                cmd.Parameters["@Langid"].Value = (int)languageId + 1;
-                cmd.Parameters["@Translation"].Value = partOfSpeechTranslation;
-
-                cmd.ExecuteNonQuery();
-            }
-            return partOfSpeechTranslationId;
-
-        }
-
-        private int GetPartOfSpeechByLang(string partOfSpeechTranslation, LanguageId languageId, SqlCeConnection conn)
-        {
-            string query = string.Format("SELECT PartOfSpeechId FROM PartOfSpeechTranslation WHERE LangForId={0} AND Translation='{1}'", (int)languageId + 1, partOfSpeechTranslation);
-
-            SqlCeCommand cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            SqlCeDataReader reader = cmd.ExecuteReader();//CommandBehavior.CloseConnection);
-            if (reader.Read())
-            {
-                return (int)reader[0];
-            }
-
-            return 0;
         }
 
         private int SaveChangeable(SqlCeConnection conn, ChangeablelPart changeablelPart, LanguageId langId)
@@ -354,101 +292,20 @@ namespace TrilingualDictionaryCore
             if (changeablelPart == null || string.IsNullOrEmpty(changeablelPart.Type) || string.IsNullOrEmpty(changeablelPart.Value))
                 return 0;
 
-            int partOfSpeechId = GetChangableByLang(changeablelPart, langId, conn);
-            if (partOfSpeechId == 0)
-                partOfSpeechId = InsertChangable(changeablelPart, langId, conn);
-
-            return partOfSpeechId;
-        }
-
-        private int InsertChangable(ChangeablelPart changeablelPart, LanguageId languageId, SqlCeConnection conn)
-        {
-            string query = "INSERT INTO ChangablePartType (DefaultName) VALUES(NULL)";
-
-            SqlCeCommand cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            cmd.ExecuteNonQuery();
-
-            query = "SELECT @@IDENTITY;";
-
-            cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            var id = cmd.ExecuteScalar();
-
-            int changableTypeId = Convert.ToInt32(id);
-
-            if (changableTypeId != 0)
+            ChangableTranslation trans = new ChangableTranslation
             {
-                query = "INSERT INTO ChangableTranslation (ChangableTypeId, LangForId, Translation) VALUES(@ChangableTypeId, @Langid, @Translation)";
+                Id = 0,
+                ChangeableTypeId = 0,
+                LangForId = langId,
+                Translation = changeablelPart.Type
+            };
 
-                cmd = new SqlCeCommand(query);
-                cmd.Connection = conn;
+            trans.Id = DatabaseHelper.GetChangableIdByLang(changeablelPart, langId, conn);
+            int changeableId = trans.SaveToDB(conn, langId, false);
+            //if (partOfSpeechId == 0)
+            //    partOfSpeechId = DatabaseHelper.InsertChangable(changeablelPart, langId, conn);
 
-                cmd.Parameters.Add("@ChangableTypeId", SqlDbType.Int);
-                cmd.Parameters.Add("@Langid", SqlDbType.Int);
-                cmd.Parameters.Add("@Translation", SqlDbType.NVarChar, 100);
-
-                cmd.Parameters["@ChangableTypeId"].Value = changableTypeId;
-                cmd.Parameters["@Langid"].Value = (int)languageId + 1;
-                cmd.Parameters["@Translation"].Value = changeablelPart.Type;
-
-                cmd.ExecuteNonQuery();
-            }
-            return changableTypeId;
-
-        }
-
-        private int GetChangableByLang(ChangeablelPart changeablelPart, LanguageId languageId, SqlCeConnection conn)
-        {
-            string query = string.Format("SELECT ChangableTypeId FROM ChangableTranslation WHERE LangForId = {0} AND Translation='{1}'", (int)languageId + 1, changeablelPart.Type);
-
-            SqlCeCommand cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            SqlCeDataReader reader = cmd.ExecuteReader();//CommandBehavior.CloseConnection);
-            if (reader.Read())
-            {
-                return (int)reader[0];
-            }
-
-            return 0;
-        }
-
-        int InsertChangablePart(SqlCeConnection conn, ChangeablelPart changeablelPart, LanguageId langId)
-        {
-            string query = "INSERT INTO Changable(Id) VALUES(Id); SELECT CAST(scope_identity() AS int)";
-
-            SqlCeCommand cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-
-            int newID = (int)cmd.ExecuteScalar();
-
-            query = "INSERT INTO ChangableTranslation(Id, ChangableTypeId, LangForId, Translation) VALUES(Id, ChangableTypeId, LangForId, Translation)";
-
-
-            cmd = new SqlCeCommand(query);
-            cmd.Connection = conn;
-            cmd.Parameters.Add("@ID", SqlDbType.Int);
-            cmd.Parameters.Add("@ChangableTypeId", SqlDbType.Int);
-            cmd.Parameters.Add("@LangForId", SqlDbType.Int);
-            cmd.Parameters.Add("@Translation", SqlDbType.NVarChar, 1024);
-
-            cmd.Parameters["@ID"].Value = this.DescriptionId;
-            cmd.Parameters["@ChangableTypeId"].Value = newID;
-            cmd.Parameters["@LangForId"].Value = langId;
-            cmd.Parameters["@Translation"].Value = changeablelPart.Value;
-
-
-            newID = (int)cmd.ExecuteScalar();
-
-            return newID;            
-        }
-
-        private int SavePartSpeech(SqlCeConnection conn,  PartOfSpeechTranslation partOfSpeechTranslation)
-        {
-            throw new NotImplementedException();
+            return changeableId;
         }
 
         internal string PartOfSpeechTranslation
@@ -466,6 +323,16 @@ namespace TrilingualDictionaryCore
         //    set
         //    {
         //    }
+        //}
+
+        public int LangPartId { get; set; }
+
+        public LanguageId LanguageId { get; set; }
+
+        //public int OverallDescriptionId 
+        //{ 
+        //    get { return m_OverallDescriptionId; }
+        //    set { m_OverallDescriptionId = value; }
         //}
     }
 }

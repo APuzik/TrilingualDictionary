@@ -3,7 +3,7 @@
   <Class Name="TrilingualDictionaryCore.Conception">
     <Position X="2.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>A5AAKaQA0IigiAQAQC8IAQQICAAYEEAKBgACYWAEBAA=</HashCode>
+      <HashCode>A5AACYQg0IggiAQAACUIAQQKCAAYEAAKBkACQGAFBAA=</HashCode>
       <FileName>Conception.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
@@ -20,18 +20,17 @@
           <NewMemberFileName>ConceptionDescription.cs</NewMemberFileName>
         </TypeIdentifier>
       </Class>
+      <Class Name="TrilingualDictionaryCore.ConceptionDescription.ChangeablePartDB" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ConceptionDescription.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
     </NestedTypes>
     <TypeIdentifier>
-      <HashCode>AIBFQCAAIAEiAAABgBAARAAQqAgACMgRAIAEAAAgEBg=</HashCode>
+      <HashCode>AIBFQCAAIAEiAAQBgBAARAAQCggACMARAAAAAAAhABA=</HashCode>
       <FileName>ConceptionDescription.cs</FileName>
     </TypeIdentifier>
-  </Class>
-  <Class Name="TrilingualDictionaryCore.PlaintTextDataLoader" Collapsed="true">
-    <Position X="9.75" Y="0.5" Width="1.75" />
-    <TypeIdentifier>
-      <HashCode>AAAIgAIAAAIAAAAAABAAIgAAAgAAAAAABABAIAAAlAA=</HashCode>
-      <FileName>PlainTextDataLoader.cs</FileName>
-    </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
   <Class Name="TrilingualDictionaryCore.TriLingException" Collapsed="true">
     <Position X="9.75" Y="1.25" Width="1.5" />
@@ -43,7 +42,7 @@
   <Class Name="TrilingualDictionaryCore.TrilingualDictionary">
     <Position X="0.5" Y="0.5" Width="1.75" />
     <TypeIdentifier>
-      <HashCode>LAQAgg2BEBAAAIKgYGABIEADABAAogYAIAACA4AAIAE=</HashCode>
+      <HashCode>LAQAAQ2BEhAIAJKkZXAFcAADARIFslYAoAACC4AAJAE=</HashCode>
       <FileName>TrilingualDictionary.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
@@ -55,7 +54,7 @@
   <Class Name="TrilingualDictionaryCore.ChangableTranslation" Collapsed="true">
     <Position X="7" Y="4.25" Width="1.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAISAAEAAAAAYAACAAAAgAAAAAAAEAAQAAAEAAAoAAA=</HashCode>
       <FileName>ChangableTranslation.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -69,28 +68,28 @@
   <Class Name="TrilingualDictionaryCore.LanguageTranslation" Collapsed="true">
     <Position X="7" Y="1.25" Width="1.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAISAAEAAAAAYAACAAAAgAAAAAAAEAAYAAAEAAAgAAA=</HashCode>
       <FileName>LanguageTranslation.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TrilingualDictionaryCore.PartOfSpeechTranslation" Collapsed="true">
     <Position X="7" Y="3.5" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAISAAEAAAAAYAACAABAgAAAAAAAEAAQAAAEAAAgAAA=</HashCode>
       <FileName>PartOfSpeechTranslation.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TrilingualDictionaryCore.SemanticTranslation" Collapsed="true">
     <Position X="4.5" Y="7.25" Width="1.75" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAISAAEAAAAAYAACAAAAgAAAAAAAEAAQAAAEAAAgAAA=</HashCode>
       <FileName>SemanticTranslation.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TrilingualDictionaryCore.TopicTranslation" Collapsed="true">
     <Position X="4.5" Y="6.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAISAAEAAAAAYAACAAAAgAACAAAAEAAQAAAEAAAgAAA=</HashCode>
       <FileName>TopicTranslation.cs</FileName>
     </TypeIdentifier>
   </Class>

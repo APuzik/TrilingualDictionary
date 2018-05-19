@@ -1,0 +1,7 @@
+-- Script Date: 13.04.2015 14:09  - ErikEJ.SqlCeScripting version 3.5.2.49
+CREATE TABLE [Topic] (
+  [Id] int IDENTITY (1,1) NOT NULL
+);
+GO
+ALTER TABLE [Topic] ADD CONSTRAINT [PK_Topic] PRIMARY KEY ([Id]);
+GO

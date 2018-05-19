@@ -3,7 +3,7 @@
   <Class Name="TrilingualDictionaryViewModel.TrilingualDictionaryViewModel">
     <Position X="0.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>KQBGAIABCgBBAKAAEBABIgABAAAACAIBAAACAIAAICA=</HashCode>
+      <HashCode>rQBXBACBaiBDAKAAkpAHMgEBAAAAaEMRIRQCFIIBJDA=</HashCode>
       <FileName>TrilingualDictionaryViewModel.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
@@ -15,39 +15,37 @@
   <Class Name="TrilingualDictionaryViewModel.ConceptionDescriptionViewModel">
     <Position X="4.5" Y="3.25" Width="2" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAGAAgAAAEQAAAAAAAAAIAAAAAAABAAAA=</HashCode>
+      <HashCode>AAAAAQAEAAAAGAAgIAAEQIAAgAKAIAMAABAgAAhAAAA=</HashCode>
       <FileName>ConceptionDescriptionViewModel.cs</FileName>
     </TypeIdentifier>
+    <Lollipop Position="0.2" />
   </Class>
-  <Class Name="TrilingualDictionaryViewModel.ConceptionDescriptionVM">
+  <Class Name="TrilingualDictionaryViewModel.ConceptionLanguageVM">
     <Position X="2.75" Y="5.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAACEAgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
-      <FileName>ConceptionDescriptionVM.cs</FileName>
+      <FileName>ConceptionLanguageVM.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TrilingualDictionaryViewModel.ConceptionVM">
     <Position X="2.75" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAQAAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAQAAAAAAgAAAgAAAAAAAAAAAAAAACAAAAAAAAAAA=</HashCode>
       <FileName>ConceptionViewModel.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TrilingualDictionaryViewModel.Alphabet">
     <Position X="2.75" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIQAAAACEAAAAAAAAAAAIAAAAAAAAAAAgAAAAAAAAA=</HashCode>
-      <FileName>TrilingualDictionaryViewModel.cs</FileName>
+      <HashCode>AAIQAAAACFAAAAAAAAAAAIAAAAAIAAQAAAAAAAAQIAA=</HashCode>
+      <FileName>Alphabet.cs</FileName>
     </TypeIdentifier>
-    <ShowAsAssociation>
-      <Property Name="Chapter" />
-    </ShowAsAssociation>
   </Class>
   <Class Name="TrilingualDictionaryViewModel.Chapter" BaseTypeListCollapsed="true">
     <Position X="4.5" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAQABAAAAAgAAQAAAAAAAAAQAAAAAACAAAAAAAAAAA=</HashCode>
-      <FileName>TrilingualDictionaryViewModel.cs</FileName>
+      <HashCode>AAAQARAEABAgEAQAIAAAAAAAwAIAACECAAAgAAgAIAA=</HashCode>
+      <FileName>Chapter.cs</FileName>
     </TypeIdentifier>
     <ShowAsAssociation>
       <Property Name="ConceptionDescriptionViewModel" />

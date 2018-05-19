@@ -1,0 +1,3 @@
+-- Script Date: 13.04.2015 14:12  - ErikEJ.SqlCeScripting version 3.5.2.49
+ALTER TABLE [Conception] ADD [Topic] int NULL ;
+GO

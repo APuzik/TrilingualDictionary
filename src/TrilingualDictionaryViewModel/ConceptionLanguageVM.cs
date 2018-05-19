@@ -6,12 +6,12 @@ using TrilingualDictionaryCore;
 
 namespace TrilingualDictionaryViewModel
 {
-    public class ConceptionDescriptionVM
+    public class ConceptionLanguageVM
     {
         private LanguageId m_Language;
-        List<ConceptionDescription> m_Descriptions;
-        
-        public ConceptionDescriptionVM(LanguageId langId, List<ConceptionDescription> descs)
+        List<ConceptionDescriptionViewModel> m_Descriptions;
+
+        public ConceptionLanguageVM(LanguageId langId, List<ConceptionDescriptionViewModel> descs)
         {
             m_Language = langId;
             m_Descriptions = descs;
@@ -22,7 +22,7 @@ namespace TrilingualDictionaryViewModel
             get { return m_Language; }
         }
 
-        public List<ConceptionDescription> Descriptions
+        public List<ConceptionDescriptionViewModel> Descriptions
         {
             get { return m_Descriptions; }
         }
