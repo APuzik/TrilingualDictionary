@@ -8,13 +8,15 @@ using MultiDictionaryCore.Core.Interfaces;
 using MultiDictionaryCore.Core;
 using MultiDictionaryCore.DBEntities;
 using System.Windows.Input;
+using MultiDictionaryViewModel.Commands;
 
 namespace MultiDictionaryViewModel
 {
     public class MultiDictionaryVM
     {
-        public ObservableCollection<string> Languages { get; set; } = new ObservableCollection<string> { "Русский", "Українська", "English" };
+        public ObservableCollection<string> Languages { get; set; } = new ObservableCollection<string> { "Русский", "English", "Українська" };
         public ObservableCollection<TreeNode> Letters { get; set; } = new ObservableCollection<TreeNode>();
+        public Dictionary<int, ObservableCollection<TreeNode>> AllLetters { get; set; } = new Dictionary<int, ObservableCollection<TreeNode>>();
         //{
         //    new TreeNode { Name = "A", Children = new ObservableCollection<TreeNode>
         //                                {
@@ -29,17 +31,35 @@ namespace MultiDictionaryViewModel
         public IMultiLingualDictionary Dictionary { get; set; } = new MultiLingualDictionary();
 
         public ICommand ExpandCommand { get; set; }
-        public int SelectedLanguage { get; set; } = 1;
+        public ICommand SwitchLanguage { get; set; }
+
+        public int SelectedLanguage { get { return SelectedItem + 1; } }
+        public int SelectedItem { get; set; } = 0;
+        public int ChangeLang
+        {
+            set
+            {
+                LoadTranslations();
+            }
+        }
+
         public MultiDictionaryVM()
         {
+            SwitchLanguage = new RelayCommand { ExecuteAction = LoadTranslations };
+            LoadTranslations();
+        }
+
+        private void LoadTranslations()
+        {
+            Letters.Clear();
             //List<TermTranslation> translations = Dictionary.GetAllTranslations(SelectedLanguage);
             List<Term> terms = Dictionary.GetTopTerms(SelectedLanguage);
             SortedDictionary<int, Term> dicTerms = new SortedDictionary<int, Term>();
-            foreach(Term term in terms)
+            foreach (Term term in terms)
             {
                 dicTerms.Add(term.Id, term);
             }
-            List<TermTranslation> translations = Dictionary.GetTopTranslations(SelectedLanguage);            
+            List<TermTranslation> translations = Dictionary.GetTopTranslations(SelectedLanguage);
             SortedDictionary<string, List<TermTranslation>> sorted = new SortedDictionary<string, List<TermTranslation>>();
             for (int i = 0; i < translations.Count; i++)
             {
@@ -83,7 +103,7 @@ namespace MultiDictionaryViewModel
                     //    children2.Add(new TreeNode { Name = tt2.Value });
                     //}
                     TreeNode tn = new TreeNode { Name = tt.Value };
-                    if(!treeNodes.ContainsKey(tt.TermId))
+                    if (!treeNodes.ContainsKey(tt.TermId))
                     {
                         treeNodes.Add(tt.TermId, new List<TreeNode>());
                     }
@@ -107,6 +127,11 @@ namespace MultiDictionaryViewModel
                     }
                 }
             }
+
+            if(!AllLetters.ContainsKey(SelectedItem))
+            {
+                AllLetters.Add(SelectedItem, Letters);
+            }
         }
 
         string GetKey(string value)
@@ -124,6 +149,11 @@ namespace MultiDictionaryViewModel
             }
 
             return key.ToString(); ;
+        }
+
+        private void LoadTranslations(object parameter)
+        {
+            LoadTranslations();
         }
 
     }
