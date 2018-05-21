@@ -3,7 +3,7 @@ using System.Windows.Input;
 
 namespace MultiDictionaryViewModel.Commands
 {
-    class RelayCommand : ICommand
+    public class RelayCommand : ICommand
     {
         public Action<object> ExecuteAction { get; set; }
         public Predicate<object> CanExecutePredicate { get; set; }
@@ -18,6 +18,11 @@ namespace MultiDictionaryViewModel.Commands
         public void Execute(object parameter)
         {
             ExecuteAction(parameter);
+        }
+
+        public void RaiseCanExecuteChanged()
+        {
+            CanExecuteChanged?.Invoke(this, new EventArgs());
         }
     }
 }
