@@ -109,6 +109,31 @@ namespace MultiDictionaryCore.DataLayer
             return translations;
         }
 
+        public List<TermTranslation> GetTranslationsForTerm(int termId)
+        {
+            List<TermTranslation> translations = new List<TermTranslation>();
+            string query = "SELECT * FROM Description WHERE ConceptionId=@TermId";
+
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+
+                cmd.Parameters.Add("@TermId", SqlDbType.Int);
+                cmd.Parameters["@TermId"].Value = termId;
+
+                using (SqlCeDataReader reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        TermTranslation translation = CreateTranslation(reader);
+                        translations.Add(translation);
+                    }
+                }
+            }
+
+            return translations;
+        }
+
         public List<Term> GetChildrenTerms(int parentTermId)
         {
             List<Term> terms = new List<Term>();

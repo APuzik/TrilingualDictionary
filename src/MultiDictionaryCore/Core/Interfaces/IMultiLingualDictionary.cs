@@ -16,6 +16,7 @@ namespace MultiDictionaryCore.Core.Interfaces
         List<TermTranslation> GetChildrenTranslations(int languageId);
         List<TermTranslation> GetChildrenTranslations(int languageId, int parentTermId);
         List<TermTranslation> GetTranslationsForTerm(int languageId, int termId);
+        List<TermTranslation> GetTranslationsForTerm(int termId);
         List<Term> GetTopTerms(int languageId);
         List<Term> GetAllChildrenTerms();
         ITermFactory TermFactory { get; set; }

@@ -13,6 +13,7 @@ namespace MultiDictionaryCore.DataLayer.Interfaces
         List<TermTranslation> GetAllTranslations(int languageId);
         Term GetTerm(TermTranslation translation);
         List<TermTranslation> GetTranslationsForTerm(int languageId, int termId);
+        List<TermTranslation> GetTranslationsForTerm(int termId);
         List<Term> GetChildrenTerms(int parentTermId);
         List<Term> GetAllChildrenTerms();
         List<TermTranslation> GetChildrenTranslations(int languageId, int parentTermId);

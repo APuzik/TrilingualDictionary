@@ -19,16 +19,6 @@ namespace MultiDictionaryViewModel
         public ObservableCollection<string> Languages { get; set; } = new ObservableCollection<string> { "Русский", "English", "Українська" };
         public ObservableCollection<TreeNode> Letters { get; set; } = new ObservableCollection<TreeNode>();
         public Dictionary<int, ObservableCollection<TreeNode>> AllLetters { get; set; } = new Dictionary<int, ObservableCollection<TreeNode>>();
-        //{
-        //    new TreeNode { Name = "A", Children = new ObservableCollection<TreeNode>
-        //                                {
-        //                                    new TreeNode { Name = "A1", Children = new ObservableCollection<TreeNode>{ new TreeNode { Name = "A11" } } }
-        //                                }
-        //                 },
-        //    new TreeNode { Name = "B" },
-        //    new TreeNode { Name = "C" },
-        //    new TreeNode { Name = "D" }
-        //};
 
         public IMultiLingualDictionary Dictionary { get; set; } = new MultiLingualDictionary();
 
@@ -46,13 +36,17 @@ namespace MultiDictionaryViewModel
         public int SelectedLanguage { get { return SelectedItem + 1; } }
         public int SelectedItem { get; set; } = 0;
         TreeNode sel = null;
-        public TreeNode SelectedTranslation
-        {
-            get { return sel; }
-            set { sel = value; OnPropertyChanged("qwe"); }
-        }
+        public TreeNode SelectedTranslation { get; set; }
+        //{
+        //    get { return sel; }
+        //    set { sel = value; OnPropertyChanged("qwe"); }
+        //}
+
+        public TermVM SelectedTerm { get; set; } = new TermVM();
+        public ObservableCollection<TreeNode> Langs { get; set; }
 
         public ObservableCollection<TreeNode> SelectedNodes { get; set; }
+        public ObservableCollection<TreeNode> SelectedTermNodes { get; set; }
 
         public MultiDictionaryVM()
         {
@@ -62,13 +56,14 @@ namespace MultiDictionaryViewModel
             MergeTerms = new RelayCommand { ExecuteAction = MergeTwoTerms, CanExecutePredicate = CanMerge };
             EditTerm = new RelayCommand { ExecuteAction = EditSelectedTerm, CanExecutePredicate = IsOneItemSelected };
             DeleteTerm = new RelayCommand { ExecuteAction = DeleteWholeTerm, CanExecutePredicate = IsTermSelected };
-            FindNextTranslation = new RelayCommand { ExecuteAction = SearchTranslation };
+            //FindNextTranslation = new RelayCommand { ExecuteAction = SearchTranslation };
             //SelectedTranslationChanged = new RelayCommand { ExecuteAction = SelectedTransChanged };
 
             SelectedNodes = new ObservableCollection<TreeNode>();
             SelectedNodes.CollectionChanged += SelectedNodes_CollectionChanged;
 
             LoadTranslations();
+            SelectedTerm.Dictionary = Dictionary;
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
@@ -123,6 +118,7 @@ namespace MultiDictionaryViewModel
             foreach (KeyValuePair<string, List<TermTranslation>> node in sorted)
             {
                 var children = new ObservableCollection<TreeNode>();
+                TreeNode item = new TreeNode { Translation = null, Name = node.Key.ToString(), Children = children, IsHeader = true };
                 foreach (TermTranslation tt in node.Value)
                 {
                     //List<TermTranslation> ttChilds = Dictionary.GetChildrenTranslations(SelectedLanguage, tt.TermId);
@@ -137,10 +133,9 @@ namespace MultiDictionaryViewModel
                         treeNodes.Add(tt.TermId, new List<TreeNode>());
                     }
                     treeNodes[tt.TermId].Add(tn);
+                    tn.Parent = item;
                     children.Add(tn);
                 }
-
-                TreeNode item = new TreeNode { Translation = null, Name = node.Key.ToString(), Children = children };
                 Letters.Add(item);
             }
 
@@ -152,12 +147,13 @@ namespace MultiDictionaryViewModel
                 {
                     foreach (TreeNode tnParent in treeNodes[nodeId])
                     {
+                        tn.Parent = tnParent;
                         tnParent.Children.Add(tn);
                     }
                 }
             }
 
-            if(!AllLetters.ContainsKey(SelectedItem))
+            if (!AllLetters.ContainsKey(SelectedItem))
             {
                 AllLetters.Add(SelectedItem, Letters);
             }
@@ -194,7 +190,7 @@ namespace MultiDictionaryViewModel
         }
         private void MergeTwoTerms(object parameter)
         {
-            if(SelectedNodes.Count != 2)
+            if (SelectedNodes.Count != 2)
             {
                 MessageBox.Show("Для объединения необходимо выбрать два термина", "Объединение терминов", MessageBoxButton.OK);
                 return;
@@ -206,20 +202,131 @@ namespace MultiDictionaryViewModel
         private void DeleteWholeTerm(object parameter)
         {
             MessageBoxResult confirmResult = MessageBox.Show("Вы уверены, что хотите удалить выбранный термин целиком?", "Удаление термина", MessageBoxButton.YesNo);
-            if(confirmResult == MessageBoxResult.Yes)
+            if (confirmResult == MessageBoxResult.Yes)
             {
                 //...
             }
         }
-        private void SearchTranslation(object parameter)
+        TreeNode lastFound = null;
+        string lastSearched = "";
+        TreeNode SearchChildren(string textToSearch, TreeNode parentNode, TreeNode startNode)
         {
+            if (parentNode == null)
+                return null;
+
+            TreeNode foundChild = SearchChildren(textToSearch, startNode, null);
+            if (foundChild != null)
+                return foundChild;
+
+            bool shouldStart = false;
+            foreach (TreeNode word in parentNode.Children)
+            {
+                if (!shouldStart && startNode != null)
+                {
+                    if (word == startNode)
+                        shouldStart = true;
+                    continue;
+                }
+                string clear = word.Name.Replace("#", "");
+                if (clear.Contains(textToSearch))
+                {
+                    word.IsExpanded = true;
+                    word.IsSelected = true;
+                    //node.IsExpanded = true;
+                    return word;
+                }
+                foundChild = SearchChildren(textToSearch, word, null);
+                if (foundChild != null)
+                {
+                    return foundChild;
+                }
+            }
+
+            return null;
         }
+        public TreeNode SearchTranslation(string textToSearch)
+        {
+            if (textToSearch != lastSearched)
+            {
+                lastFound = null;
+            }
+            lastSearched = textToSearch;
+            TreeNode parentNode = lastFound?.Parent;
+            TreeNode letterNode = lastFound?.Parent?.Parent;
+            TreeNode tmp = lastFound;
+
+
+
+            if (lastFound != null)
+            {
+                lastFound = SearchChildren(textToSearch, parentNode, lastFound);
+            }
+
+            if (lastFound == null)
+            {
+                if (letterNode == null)
+                {
+                    letterNode = parentNode;
+                    parentNode = tmp;
+                }
+
+                lastFound = SearchChildren(textToSearch, letterNode, parentNode);
+                if (lastFound != null)
+                    return lastFound;
+
+                bool shouldStart = false;
+                foreach (TreeNode node in Letters)
+                {
+                    if (!shouldStart && letterNode != null)
+                    {
+                        if (node == letterNode)
+                            shouldStart = true;
+                        continue;
+                    }
+                    lastFound = SearchChildren(textToSearch, node, null);
+                    if (lastFound != null)
+                        return lastFound;
+                }
+            }
+
+            //foreach (TreeNode node in Letters)
+            //{
+            //    foreach (TreeNode word in node.Children)
+            //    {
+            //        string clear = word.Name.Replace("#", "");
+            //        if (clear.Contains(textToSearch))
+            //        {
+            //            word.IsExpanded = true;
+            //            word.IsSelected = true;
+            //            //node.IsExpanded = true;
+            //            return word;
+            //        }
+            //        foreach (TreeNode subWord in word.Children)
+            //        {
+            //            clear = subWord.Name.Replace("#", "");
+            //            if (clear.Contains(textToSearch))
+            //            {
+            //                subWord.IsExpanded = true;
+            //                subWord.IsSelected = true;
+            //                //node.IsExpanded = true;
+            //                return subWord;
+            //            }
+            //        }
+            //    }
+            //}
+
+            return lastFound;
+        }
+
+        //****************
+
+        //****************
 
         //private void SelectedTransChanged(object parameter)
         //{
-        //    SelectedTranslation = parameter as TreeNode;
-        //    if (SelectedTranslation.Translation == null)
-        //        SelectedTranslation = null;
+        //    //SelectedTranslation = parameter as TreeNode;
+        //    //if (SelectedTranslation.Translation == null)
+        //    //    SelectedTranslation = null;
         //}
 
         private void SelectedNodes_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
@@ -228,6 +335,10 @@ namespace MultiDictionaryViewModel
             ((RelayCommand)EditTerm).RaiseCanExecuteChanged();
             ((RelayCommand)DeleteTerm).RaiseCanExecuteChanged();
             ((RelayCommand)MergeTerms).RaiseCanExecuteChanged();
+            if (SelectedNodes.Count == 1 && SelectedNodes[0].Translation != null)
+            {
+                SelectedTerm.LoadTranslations(SelectedNodes[0].Translation.TermId);
+            }
         }
 
         private bool IsTermSelected(object parameter)
@@ -247,11 +358,53 @@ namespace MultiDictionaryViewModel
         }
     }
 
-    public class TreeNode
+    public class TreeNode : TreeViewItemBase
     {
+        public TreeNode Parent { get; set; }
         public TermTranslation Translation { get; set; }
         public string Name { get; set; }
         public ObservableCollection<TreeNode> Children { get; set; } = new ObservableCollection<TreeNode>();
+
+        public bool IsHeader { get; set; } = false;
+        public bool IsTranslation { get { return !IsHeader && Translation != null; } }
     }
 
+    public class TreeViewItemBase : INotifyPropertyChanged
+    {
+        public bool IsSelected
+        {
+            get { return isSelected; }
+            set
+            {
+                if (value != isSelected)
+                {
+                    isSelected = value;
+                    NotifyPropertyChanged("IsSelected");
+                }
+            }
+        }
+
+        public bool IsExpanded
+        {
+            get { return isExpanded; }
+            set
+            {
+                if (value != isExpanded)
+                {
+                    this.isExpanded = value;
+                    NotifyPropertyChanged("IsExpanded");
+                }
+            }
+        }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        public void NotifyPropertyChanged(string propName)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propName));
+        }
+
+        private bool isSelected;
+        private bool isExpanded;
+    }
 }

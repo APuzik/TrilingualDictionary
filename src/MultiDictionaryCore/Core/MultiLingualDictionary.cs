@@ -25,6 +25,11 @@ namespace MultiDictionaryCore.Core
             return DataSource.GetTranslationsForTerm(languageId, termId);
         }
 
+        public List<TermTranslation> GetTranslationsForTerm(int termId)
+        {
+            return DataSource.GetTranslationsForTerm(termId);
+        }
+
         public List<TermTranslation> GetChildrenTranslations(int languageId, int parentTermId)
         {
             return DataSource.GetChildrenTranslations(languageId, parentTermId);

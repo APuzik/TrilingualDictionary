@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="MultilingualDictionary.TermView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MultilingualDictionary"
+             xmlns:e="clr-namespace:MultiSelectTreeView"
+             xmlns:localVM="clr-namespace:MultiDictionaryViewModel;assembly=MultiDictionaryViewModel"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <!--localVM:TermVM x:Key="termVM" /-->
+    <Grid>
+        <e:MultiSelectTreeView ItemsSource="{Binding Path=Languages}" SelectedItems="{Binding SelectedNodes}"
+                      VirtualizingPanel.IsVirtualizing="true" VirtualizingStackPanel.VirtualizationMode="Recycling">
+            <TreeView.ItemContainerStyle>
+                <Style TargetType="{x:Type TreeViewItem}" BasedOn="{StaticResource MyTreeViewItemStyle}">
+                    <Setter Property="IsExpanded" Value="{Binding IsExpanded, Mode=TwoWay}" />
+                    <Setter Property="e:MultiSelectTreeView.IsItemSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
+                    <Style.Triggers>
+                        <Trigger Property="e:MultiSelectTreeView.IsItemSelected" Value="True">
+                            <Setter Property="Background" Value="LightSkyBlue" />
+                        </Trigger>
+                    </Style.Triggers>
+                </Style>
+            </TreeView.ItemContainerStyle>
+            <TreeView.ItemTemplate>
+                <HierarchicalDataTemplate ItemsSource="{Binding Path=Children}">
+                    <TextBlock Text="{Binding Name}"/>
+                </HierarchicalDataTemplate>
+            </TreeView.ItemTemplate>
+        </e:MultiSelectTreeView>
+    </Grid>
+</UserControl>

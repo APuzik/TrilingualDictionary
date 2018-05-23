@@ -21,8 +21,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrilingualUI", "TrilingualU
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrilingualDictionaryViewModel", "TrilingualDictionaryViewModel\TrilingualDictionaryViewModel.csproj", "{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}"
 EndProject
-Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "ModelingProject1\ModelingProject1.modelproj", "{956D397A-3881-4D42-A891-7899DAC2CECB}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionaryCore", "MultiDictionaryCore\MultiDictionaryCore.csproj", "{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionaryCore.Test", "MultiDictionaryCore.Test\MultiDictionaryCore.Test.csproj", "{B2760102-C266-4697-91E7-04081BDE35A2}"
@@ -58,10 +56,6 @@ Global
 		{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76A88C7F-71F1-4C5B-8663-34A4DF3801E5}.Release|Any CPU.Build.0 = Release|Any CPU
-		{956D397A-3881-4D42-A891-7899DAC2CECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{956D397A-3881-4D42-A891-7899DAC2CECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{956D397A-3881-4D42-A891-7899DAC2CECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{956D397A-3881-4D42-A891-7899DAC2CECB}.Release|Any CPU.Build.0 = Release|Any CPU
 		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{889D9238-D266-4B0B-8C0E-EEE277AE1DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
