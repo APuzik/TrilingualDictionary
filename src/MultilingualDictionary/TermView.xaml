@@ -10,24 +10,37 @@
              d:DesignHeight="300" d:DesignWidth="300">
     <!--localVM:TermVM x:Key="termVM" /-->
     <Grid>
-        <e:MultiSelectTreeView ItemsSource="{Binding Path=Languages}" SelectedItems="{Binding SelectedNodes}"
+        <TreeView Grid.Column="2" Margin="5,5,5,5" ItemsSource="{Binding Path=Languages}"
                       VirtualizingPanel.IsVirtualizing="true" VirtualizingStackPanel.VirtualizationMode="Recycling">
             <TreeView.ItemContainerStyle>
-                <Style TargetType="{x:Type TreeViewItem}" BasedOn="{StaticResource MyTreeViewItemStyle}">
-                    <Setter Property="IsExpanded" Value="{Binding IsExpanded, Mode=TwoWay}" />
-                    <Setter Property="e:MultiSelectTreeView.IsItemSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
-                    <Style.Triggers>
-                        <Trigger Property="e:MultiSelectTreeView.IsItemSelected" Value="True">
-                            <Setter Property="Background" Value="LightSkyBlue" />
-                        </Trigger>
-                    </Style.Triggers>
+                <Style TargetType="{x:Type TreeViewItem}" >
+                    <Setter Property="IsExpanded" Value="true" />
                 </Style>
             </TreeView.ItemContainerStyle>
             <TreeView.ItemTemplate>
                 <HierarchicalDataTemplate ItemsSource="{Binding Path=Children}">
-                    <TextBlock Text="{Binding Name}"/>
+                    <TextBlock Text="{Binding Name}" FontWeight="Bold" />
+                    <HierarchicalDataTemplate.ItemTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Name}">
+                                <TextBlock.Style>
+                                    <Style TargetType="{x:Type TextBlock}">
+                                        <Style.Triggers>
+                                            <!--DataTrigger Binding="{Binding IsHeader}" Value="True">
+                                                    <Setter Property="FontWeight" Value="Bold" />
+                                                </-->
+                                            <DataTrigger Binding="{Binding IsTranslation}" Value="False">
+                                                <Setter Property="FontStyle" Value="Italic" />
+                                                <Setter Property="Foreground" Value="DarkGray" />
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </TextBlock.Style>
+                            </TextBlock>
+                        </DataTemplate>
+                    </HierarchicalDataTemplate.ItemTemplate>
                 </HierarchicalDataTemplate>
             </TreeView.ItemTemplate>
-        </e:MultiSelectTreeView>
+        </TreeView>
     </Grid>
 </UserControl>

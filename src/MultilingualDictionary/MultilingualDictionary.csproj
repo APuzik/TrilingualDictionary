@@ -55,10 +55,20 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="EditTerm.xaml.cs">
+      <DependentUpon>EditTerm.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="SearchWarning.xaml.cs">
+      <DependentUpon>SearchWarning.xaml</DependentUpon>
+    </Compile>
     <Compile Include="TermView.xaml.cs">
       <DependentUpon>TermView.xaml</DependentUpon>
     </Compile>
     <Compile Include="TreeViewItemBehavior.cs" />
+    <Page Include="EditTerm.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
@@ -72,6 +82,10 @@
       <SubType>Code</SubType>
     </Compile>
     <Page Include="ResourceDictionary.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="SearchWarning.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

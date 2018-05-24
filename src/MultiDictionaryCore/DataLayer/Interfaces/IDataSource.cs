@@ -19,5 +19,7 @@ namespace MultiDictionaryCore.DataLayer.Interfaces
         List<TermTranslation> GetChildrenTranslations(int languageId, int parentTermId);
         List<TermTranslation> GetChildrenTranslations(int languageId);
         int AddTranslation(TermTranslation translation);
+        string GetTermSemantic(int termId);
+        string GetTermTopic(int termId);
     }
 }

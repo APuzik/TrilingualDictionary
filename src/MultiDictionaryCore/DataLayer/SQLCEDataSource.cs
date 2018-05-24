@@ -82,6 +82,82 @@ namespace MultiDictionaryCore.DataLayer
             return term;
         }
 
+        public string GetTermSemantic(int termId)
+        {
+            Term term = GetTermById(termId);
+
+            string sem = "";
+            if(term != null)
+            {
+                string query = "SELECT Translation FROM SemanticTranslation WHERE SemId=@SemId";
+                using (SqlCeCommand cmd = new SqlCeCommand(query))
+                {
+                    cmd.Connection = dbConnection;
+                    cmd.Parameters.Add("@SemId", SqlDbType.Int);
+                    cmd.Parameters["@SemId"].Value = term.SemanticId;
+
+                    using (SqlCeDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            return (string)reader[0];
+                        }
+                    }
+                }
+            }
+            return sem;
+        }
+
+        public string GetTermTopic(int termId)
+        {
+            Term term = GetTermById(termId);
+
+            string topic = "";
+            if (term != null)
+            {
+                string query = "SELECT Translation FROM TopicTranslation WHERE TopicId=@TopicId";
+                using (SqlCeCommand cmd = new SqlCeCommand(query))
+                {
+                    cmd.Connection = dbConnection;
+                    cmd.Parameters.Add("@TopicId", SqlDbType.Int);
+                    cmd.Parameters["@TopicId"].Value = term.TopicId;
+
+                    using (SqlCeDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            return (string)reader[0];
+                        }
+                    }
+                }
+            }
+            return topic;
+        }
+
+        private Term GetTermById(int termId)
+        {
+            Term term = null;
+
+            string query1 = "SELECT * FROM Conception WHERE Id=@Id";
+
+            using (SqlCeCommand cmd = new SqlCeCommand(query1))
+            {
+                cmd.Connection = dbConnection;
+                cmd.Parameters.Add("@Id", SqlDbType.Int);
+                cmd.Parameters["@Id"].Value = termId;
+
+                using (SqlCeDataReader reader = cmd.ExecuteReader())
+                {
+                    if (reader.Read())
+                    {
+                        term = CreateTerm(reader);
+                    }
+                }
+            }
+
+            return term;
+        }
+
         public List<TermTranslation> GetTranslationsForTerm(int languageId, int termId)
         {
             List<TermTranslation> translations = new List<TermTranslation>();

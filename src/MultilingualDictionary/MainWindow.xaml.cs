@@ -37,8 +37,9 @@ namespace MultilingualDictionary
 
         int level = 0;
         List<TreeNode> chain = new List<TreeNode>();
+        DateTime tm;
 
-        private TreeViewItem FindTreeViewItem(ItemsControl container, TreeNode item)
+        private TreeViewItem FindTreeViewItem(ItemsControl container, TreeNode item, Window warn)
         {
             level = 0;
             TreeNode tmp = item;
@@ -48,7 +49,7 @@ namespace MultilingualDictionary
                 tmp = tmp.Parent;
             }
 
-            return GetTreeViewItem(container, item);
+            return GetTreeViewItem(container, item, warn);
         }
 
         /// <summary>
@@ -63,9 +64,14 @@ namespace MultilingualDictionary
         /// <returns>
         /// The TreeViewItem that contains the specified item.
         /// </returns>
-        private TreeViewItem GetTreeViewItem(ItemsControl container, TreeNode item)
+        private TreeViewItem GetTreeViewItem(ItemsControl container, TreeNode item, Window warn)
         {
-            if(item == null)
+            if(warn.Visibility != Visibility.Visible && (DateTime.Now - tm).Milliseconds > 100)
+            {
+                warn.Visibility = Visibility.Visible;
+                warn.Show();
+            }
+            if (item == null)
             {
                 return null;
             }
@@ -149,7 +155,7 @@ namespace MultilingualDictionary
                         }
                         level++;
                         // Search the next level for the object.
-                        TreeViewItem resultContainer = GetTreeViewItem(subContainer, item);
+                        TreeViewItem resultContainer = GetTreeViewItem(subContainer, item, warn);
                         if (resultContainer != null)
                         {
                             return resultContainer;
@@ -197,14 +203,49 @@ namespace MultilingualDictionary
             return null;
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        public Task<TreeViewItem> Search(MultiDictionaryVM dict, string textToSearch, Window warn)
         {
-            var dict = Resources["dictionaryVM"] as MultiDictionaryViewModel.MultiDictionaryVM;
-            MultiDictionaryViewModel.TreeNode tn = dict.SearchTranslation(SearchTermTextBox.Text);
+            MultiDictionaryViewModel.TreeNode tn = dict.SearchTranslation(textToSearch);
             //TreeViewItem item = (TreeViewItem)(trvTranslations.ItemContainerGenerator.ContainerFromItem(trvTranslations.SelectedItem));
             //item..BringIntoView();
             //TreeViewItem tvi = TreeViewitemFinder.BringItemIntoView(trvTranslations, tn);
-            TreeViewItem tvi = FindTreeViewItem(trvTranslations, tn);
+            Task<TreeViewItem> tvi = Task.Run(() => FindTreeViewItem(trvTranslations, tn, warn));
+            return tvi;
+        }
+
+        public TreeViewItem Search2(MultiDictionaryVM dict, string textToSearch, Window warn)
+        {
+            MultiDictionaryViewModel.TreeNode tn = dict.SearchTranslation(textToSearch);
+            //TreeViewItem item = (TreeViewItem)(trvTranslations.ItemContainerGenerator.ContainerFromItem(trvTranslations.SelectedItem));
+            //item..BringIntoView();
+            //TreeViewItem tvi = TreeViewitemFinder.BringItemIntoView(trvTranslations, tn);
+            TreeViewItem tvi = FindTreeViewItem(trvTranslations, tn, warn);
+            return tvi;
+        }
+
+        void ShowWarning()
+        {
+            var wnd = new SearchWarning();
+            wnd.Owner = this;
+            wnd.Show();
+        }
+        
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            tm = DateTime.Now;
+            var dict = Resources["dictionaryVM"] as MultiDictionaryViewModel.MultiDictionaryVM;
+
+            //Task<TreeViewItem> tt = Search2(dict, SearchTermTextBox.Text);
+
+            SearchWarning wnd = new SearchWarning();
+            wnd.Owner = this;
+
+            wnd.Visibility = Visibility.Hidden;
+            //wnd.Show();
+
+            TreeViewItem tvi = Search2(dict, SearchTermTextBox.Text, wnd); 
+            wnd.Close();
+
             if (tvi != null)
             {
                 tvi.BringIntoView();
@@ -214,6 +255,23 @@ namespace MultilingualDictionary
             {
                 MessageBox.Show("Заданный текст не найден.");
             }
+        }
+
+        private void btnDuplicate_Click(object sender, RoutedEventArgs e)
+        {
+            var dict = Resources["dictionaryVM"] as MultiDictionaryViewModel.MultiDictionaryVM;
+            EditTerm et = new EditTerm();
+            TermVM copy = dict.SelectedTerm.MakeCopy();
+            et.trvTerm.DataContext = copy;
+            et.ShowDialog();
+        }
+
+        private void btnAdd_Click(object sender, RoutedEventArgs e)
+        {
+            var dict = Resources["dictionaryVM"] as MultiDictionaryViewModel.MultiDictionaryVM;
+            EditTerm et = new EditTerm();
+            et.trvTerm.DataContext = new TermVM();
+            et.ShowDialog();
         }
     }
 

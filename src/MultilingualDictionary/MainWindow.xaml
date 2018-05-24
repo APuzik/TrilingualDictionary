@@ -12,7 +12,7 @@
     <Window.Resources>
         <localVM:MultiDictionaryVM x:Key="dictionaryVM" />
     </Window.Resources>
-    <Grid>
+    <Grid DataContext="{StaticResource dictionaryVM}">
         <ComboBox DataContext="{StaticResource dictionaryVM}" ItemsSource="{Binding Path=Languages}" SelectedIndex="{Binding Path=SelectedItem,Mode=TwoWay}" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="280">
             <i:Interaction.Triggers>
                 <i:EventTrigger EventName="SelectionChanged">
@@ -29,12 +29,12 @@
             <DockPanel Grid.ColumnSpan="3">
                 <ToolBarTray DockPanel.Dock="Top" DataContext="{StaticResource dictionaryVM}">
                     <ToolBar>
-                        <Button Content="Добавить" Command="{Binding Path=AddTerm}" />
+                        <Button Name="btnAdd"  Content="Добавить" Click="btnAdd_Click" />
                         <Separator/>
-                        <Button Content="Дублировать" Command="{Binding Path=DuplicateTerm}" />
+                        <Button Name="btnDuplicate" Content="Дублировать" Click="btnDuplicate_Click"/>
                         <Separator/>
-                        <Button Content="Объединить" Command="{Binding Path=MergeTerms}" />
-                        <Separator/>
+                        <!--Button Content="Объединить" Command="{Binding Path=MergeTerms}" />
+                        <Separator/-->
                         <Button Content="Редактировать" Command="{Binding Path=EditTerm}" />
                         <Separator/>
                         <Button Content="Удалить" Command="{Binding Path=DeleteTerm}" CommandParameter="{Binding ElementName=trvTranslations,Path=SelectedItem}" />
@@ -109,27 +109,53 @@
                         </Setter>
                         <Setter Property="IsSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
                         <Setter Property="IsExpanded" Value="{Binding IsExpanded, Mode=TwoWay}" />
-                        <Setter Property="local:TreeViewItemBehaviour.IsBroughtIntoViewWhenSelected" Value="True" />
+                        <!--Setter Property="local:TreeViewItemBehaviour.IsBroughtIntoViewWhenSelected" Value="True" /-->
                     </Style>
                 </TreeView.ItemContainerStyle>
+                <i:Interaction.Triggers>
+                    <i:EventTrigger EventName="SelectedItemChanged">
+                        <i:InvokeCommandAction Command="{Binding SelectedTranslationChanged}" CommandParameter="{Binding ElementName=trvTranslations,Path=SelectedItem}"/>
+                    </i:EventTrigger>
+                </i:Interaction.Triggers>
                 <TreeView.ItemTemplate>
                     <HierarchicalDataTemplate ItemsSource="{Binding Path=Children}">
-                        <TextBlock Text="{Binding Name}" FontWeight="Bold" />                        
+                        <TextBlock Text="{Binding Name}" FontWeight="Bold" />
+                        <!--HierarchicalDataTemplate.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding Name}">
+                                    <TextBlock.Style>
+                                        <Style TargetType="{x:Type TextBlock}">
+                                            <Style.Triggers>
+                                                <!- -DataTrigger Binding="{Binding IsHeader}" Value="True">
+                                                <Setter Property="FontWeight" Value="Bold" />
+                                                </- ->
+                                                <DataTrigger Binding="{Binding IsTranslation}" Value="False">
+                                                    <Setter Property="FontStyle" Value="Italic" />
+                                                    <Setter Property="Foreground" Value="DarkGray" />
+                                                </DataTrigger>
+                                            </Style.Triggers>
+                                        </Style>
+                                    </TextBlock.Style>
+                                </TextBlock>
+                            </DataTemplate>
+                        </-->
                     </HierarchicalDataTemplate>
                 </TreeView.ItemTemplate>
             </TreeView>
             <GridSplitter Grid.Column="1" Width="5" HorizontalAlignment="Stretch" Margin="0,40,0,10" />
-            <e:MultiSelectTreeView Grid.Column="2" Margin="5,35,5,5" DataContext="{StaticResource dictionaryVM}" ItemsSource="{Binding Path=SelectedTerm.Languages}" SelectedItems="{Binding SelectedTermNodes}"
+            <!-- SelectedItems="{Binding SelectedTermNodes}"-->
+
+            <!--TreeView Grid.Column="2" Margin="5,35,5,5" DataContext="{StaticResource dictionaryVM}" ItemsSource="{Binding Path=SelectedTerm.Languages}"
                       VirtualizingPanel.IsVirtualizing="true" VirtualizingStackPanel.VirtualizationMode="Recycling">
                 <TreeView.ItemContainerStyle>
-                    <Style TargetType="{x:Type TreeViewItem}" BasedOn="{StaticResource MyTreeViewItemStyle}">
+                    <Style TargetType="{x:Type TreeViewItem}" >
                         <Setter Property="IsExpanded" Value="true" />
-                        <Setter Property="e:MultiSelectTreeView.IsItemSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
+                        <!- -Setter Property="e:MultiSelectTreeView.IsItemSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
                         <Style.Triggers>
                             <Trigger Property="e:MultiSelectTreeView.IsItemSelected" Value="True">
                                 <Setter Property="Background" Value="LightSkyBlue" />
                             </Trigger>
-                        </Style.Triggers>
+                        </Style.Triggers- ->
                     </Style>
                 </TreeView.ItemContainerStyle>
                 <TreeView.ItemTemplate>
@@ -141,9 +167,9 @@
                                     <TextBlock.Style>
                                         <Style TargetType="{x:Type TextBlock}">
                                             <Style.Triggers>
-                                                <!--DataTrigger Binding="{Binding IsHeader}" Value="True">
+                                                <!- -DataTrigger Binding="{Binding IsHeader}" Value="True">
                                                     <Setter Property="FontWeight" Value="Bold" />
-                                                </-->
+                                                </- ->
                                                 <DataTrigger Binding="{Binding IsTranslation}" Value="False">
                                                     <Setter Property="FontStyle" Value="Italic" />
                                                     <Setter Property="Foreground" Value="DarkGray" />
@@ -156,8 +182,12 @@
                         </HierarchicalDataTemplate.ItemTemplate>
                     </HierarchicalDataTemplate>
                 </TreeView.ItemTemplate>
-            </e:MultiSelectTreeView>
-            <!--local:TermView Grid.Column="2" Margin="5,35,5,5" DataContext="{Binding SelectedTerm}" /-->
+            </TreeView-->
+            <Label Grid.Column="2" Content="Область знаний:" Margin="20, 35"/>
+            <Label Grid.Column="2" DataContext="{StaticResource dictionaryVM}" Content="{Binding Path=SelectedTerm.Topic}" Margin="120,35,5,600"/>
+            <Label Grid.Column="2" Content="Семантика:"  Margin="20, 55"/>
+            <Label Grid.Column="2" DataContext="{StaticResource dictionaryVM}" Content="{Binding Path=SelectedTerm.Semantic}"  Margin="120,55,5,580"/>
+            <local:TermView Grid.Column="2" Margin="5,80,5,5" DataContext="{Binding Path=SelectedTerm}" />
         </Grid>
     </Grid>
 </Window>

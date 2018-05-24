@@ -63,5 +63,15 @@ namespace MultiDictionaryCore.Core
         {
             DataSource.AddTranslation(translation);
         }
+
+        public string GetTermSemantic(int termId)
+        {
+            return DataSource.GetTermSemantic(termId);
+        }
+
+        public string GetTermTopic(int termId)
+        {
+            return DataSource.GetTermTopic(termId);
+        }
     }
 }

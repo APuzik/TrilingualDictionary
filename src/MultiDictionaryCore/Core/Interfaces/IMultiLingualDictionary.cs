@@ -23,5 +23,7 @@ namespace MultiDictionaryCore.Core.Interfaces
         IDataSource DataSource { get; set; }
 
         void AddTranslation(TermTranslation tt);
+        string GetTermSemantic(int termId);
+        string GetTermTopic(int termId);
     }
 }
