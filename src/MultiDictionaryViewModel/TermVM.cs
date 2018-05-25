@@ -22,7 +22,51 @@ namespace MultiDictionaryViewModel
                                                                             };
         public ObservableCollection<TreeNode> SelectedNodes { get; set; } = new ObservableCollection<TreeNode>();
 
-        string topic = "Test topic";
+        ObservableCollection<string> activeTopics;
+        public ObservableCollection<string> ActiveTopics
+        {
+            get { return activeTopics; }
+            set
+            {
+                activeTopics = value;
+                OnPropertyChanged("ActiveTopics");
+            }
+        }
+
+        ObservableCollection<string> activeSemantics;
+        public ObservableCollection<string> ActiveSemantics
+        {
+            get { return activeSemantics; }
+            set
+            {
+                activeSemantics = value;
+                OnPropertyChanged("ActiveSemantics");
+            }
+        }
+
+        ObservableCollection<string> activeChangeables;
+        public ObservableCollection<string> ActiveChangeables
+        {
+            get { return activeChangeables; }
+            set
+            {
+                activeChangeables = value;
+                OnPropertyChanged("ActiveChangeables");
+            }
+        }
+
+        ObservableCollection<string> activeLangParts;
+        public ObservableCollection<string> ActiveLangParts
+        {
+            get { return activeLangParts; }
+            set
+            {
+                activeLangParts = value;
+                OnPropertyChanged("ActiveLangParts");
+            }
+        }
+
+        string topic;
 
         public event PropertyChangedEventHandler PropertyChanged;
         public void OnPropertyChanged(string property)
@@ -39,7 +83,7 @@ namespace MultiDictionaryViewModel
                 OnPropertyChanged("Topic");
             }
         }
-        string semantic = "Test semantic";
+        string semantic;
         public string Semantic
         {
             get { return semantic; }
@@ -47,6 +91,17 @@ namespace MultiDictionaryViewModel
             {
                 semantic = value;
                 OnPropertyChanged("Semantic");
+            }
+        }
+
+        TreeNode selectedTranslation;
+        public TreeNode SelectedTranslation
+        {
+            get { return selectedTranslation; }
+            set
+            {
+                selectedTranslation = value;
+                OnPropertyChanged("SelectedTranslation");
             }
         }
 
@@ -63,6 +118,27 @@ namespace MultiDictionaryViewModel
                 Semantic = Dictionary.GetTermSemantic(termId);
                 Topic = Dictionary.GetTermTopic(termId);
             }
+        }
+
+        public void LoadServiceData()
+        {
+            int langId = 0;
+            List<string> rusTopics = Dictionary.GetTopics(langId);
+            ActiveTopics = new ObservableCollection<string>(rusTopics);
+            List<string> rusSemantics = Dictionary.GetSemantics(langId);
+            ActiveSemantics = new ObservableCollection<string>(rusSemantics);
+            List<string> rusChangeables = Dictionary.GetChangeables(langId);
+            ActiveChangeables = new ObservableCollection<string>(rusChangeables);
+            List<string> rusLangParts = Dictionary.GetLangParts(langId);
+            ActiveLangParts = new ObservableCollection<string>(rusLangParts);
+
+            int pos = ActiveTopics.IndexOf(Topic);
+            
+        }
+
+        public void SetServiceDataForTerm(int termId)
+        {
+
         }
 
         private ObservableCollection<TreeNode> GetNodes(List<TermTranslation> rusTranslations, ObservableCollection<TreeNode> nodes)

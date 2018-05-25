@@ -73,5 +73,22 @@ namespace MultiDictionaryCore.Core
         {
             return DataSource.GetTermTopic(termId);
         }
+
+        public List<string> GetTopics(int langId)
+        {
+            return DataSource.GetTopics(langId);
+        }
+        public List<string> GetChangeables(int langId)
+        {
+            return DataSource.GetChangeables(langId);
+        }
+        public List<string> GetLangParts(int langId)
+        {
+            return DataSource.GetLangParts(langId);
+        }
+        public List<string> GetSemantics(int langId)
+        {
+            return DataSource.GetSemantics(langId);
+        }
     }
 }

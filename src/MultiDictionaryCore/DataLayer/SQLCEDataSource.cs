@@ -87,7 +87,7 @@ namespace MultiDictionaryCore.DataLayer
             Term term = GetTermById(termId);
 
             string sem = "";
-            if(term != null)
+            if (term != null)
             {
                 string query = "SELECT Translation FROM SemanticTranslation WHERE SemId=@SemId";
                 using (SqlCeCommand cmd = new SqlCeCommand(query))
@@ -106,6 +106,62 @@ namespace MultiDictionaryCore.DataLayer
                 }
             }
             return sem;
+        }
+
+        public List<string> GetSemantics(int langId)
+        {
+            string landIdParam = "@LangId";
+            string query = $"SELECT Translation FROM SemanticTranslation WHERE LangForId={landIdParam}";
+
+            List<string> semantics = GetAllItemsForLang(langId, query, landIdParam);
+
+            return semantics;
+        }
+
+        private List<string> GetAllItemsForLang(int langId, string query, string landIdParam)
+        {
+            List<string> items = new List<string>();
+
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+                cmd.Parameters.Add(landIdParam, SqlDbType.Int);
+                cmd.Parameters[landIdParam].Value = langId + 1;
+
+                using (SqlCeDataReader reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        items.Add((string)reader[0]);
+                    }
+                }
+            }
+
+            return items;
+        }
+
+        public List<string> GetLangParts(int langId)
+        {
+            string landIdParam = "@LangId";
+            string query = $"SELECT Translation FROM PartOfSpeechTranslation WHERE LangForId={landIdParam}";
+
+            return GetAllItemsForLang(langId, query, landIdParam);
+        }
+
+        public List<string> GetChangeables(int langId)
+        {
+            string landIdParam = "@LangId";
+            string query = $"SELECT Translation FROM ChangableTranslation WHERE LangForId={landIdParam}";
+
+            return GetAllItemsForLang(langId, query, landIdParam);
+        }
+
+        public List<string> GetTopics(int langId)
+        {
+            string landIdParam = "@LangId";
+            string query = $"SELECT Translation FROM TopicTranslation WHERE LangIdFor={landIdParam}";
+
+            return GetAllItemsForLang(langId, query, landIdParam);
         }
 
         public string GetTermTopic(int termId)

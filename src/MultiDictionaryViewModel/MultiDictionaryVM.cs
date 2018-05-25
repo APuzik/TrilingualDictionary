@@ -264,6 +264,41 @@ namespace MultiDictionaryViewModel
             return null;
         }
 
+        public TermVM GetSelectedTermVM()
+        {
+            SelectedTerm.LoadServiceData();
+            return SelectedTerm;
+        }
+
+        public TermVM GetCopySelectedTermVM()
+        {
+            TermVM copy = SelectedTerm.MakeCopy();
+            copy.LoadServiceData();
+
+            return copy;
+        }
+
+        public TermVM GetNewTermVM()
+        {
+            TermVM termVM = new TermVM
+            {
+                Dictionary = Dictionary
+            };
+            termVM.LoadServiceData();
+
+            return termVM;
+        }
+
+        private bool isSelectedChanged;
+        public bool IsSelectedChanged
+        {
+            get { return isSelectedChanged; }
+            set
+            {
+                isSelectedChanged = value;
+                OnPropertyChanged("IsSelectedChanged");
+            }
+        }
         private void SelectedTransChanged(object parameter)
         {
             if (SelectedNodes.Count > 0)
@@ -271,6 +306,7 @@ namespace MultiDictionaryViewModel
                 SelectedNodes.RemoveAt(0);
             }
             SelectedNodes.Add(parameter as TreeNode);
+            IsSelectedChanged = SelectedNodes[0].IsTranslation;
         }
 
         private void SelectedNodes_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)

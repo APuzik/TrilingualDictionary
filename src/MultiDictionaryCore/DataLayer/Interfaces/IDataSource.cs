@@ -21,5 +21,9 @@ namespace MultiDictionaryCore.DataLayer.Interfaces
         int AddTranslation(TermTranslation translation);
         string GetTermSemantic(int termId);
         string GetTermTopic(int termId);
+        List<string> GetSemantics(int langId);
+        List<string> GetLangParts(int langId);
+        List<string> GetChangeables(int langId);
+        List<string> GetTopics(int langId);
     }
 }

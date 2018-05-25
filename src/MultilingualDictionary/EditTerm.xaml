@@ -5,19 +5,19 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MultilingualDictionary"
         mc:Ignorable="d"
-        Title="Редактирование термина" Height="694.652" Width="793.716">
+        Title="Редактирование термина" Height="520" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterOwner">
     <Grid>
-        <GroupBox Header="Термин" HorizontalAlignment="Left" Margin="10,77,0,0" VerticalAlignment="Top" Height="96" Width="766">
+        <GroupBox Header="Термин" HorizontalAlignment="Left" Margin="10,5,0,0" Width="766" Height="94" VerticalAlignment="Top">
             <Grid Margin="0,0,0,0">
                 <Label Content="Область знаний" Height="24" HorizontalAlignment="Center" x:Name="label6" VerticalAlignment="Top" Margin="10,10,644,0" Width="100" />
-                <ComboBox Width="169" VerticalAlignment="Top" SelectionChanged="CmbSelectedTopic" x:Name="cmbTopic" ItemsSource="{Binding ActiveTopics}" Height="23" HorizontalAlignment="Center" Margin="139,11,446,0">
+                <ComboBox Width="169" VerticalAlignment="Top" x:Name="cmbTopic" ItemsSource="{Binding ActiveTopics}" SelectedItem="{Binding Path=Topic}" Height="23" HorizontalAlignment="Center" Margin="139,11,446,0">
                     <ComboBox.ItemTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock Text="{Binding Translation}">
+                                <TextBlock Text="{Binding Path=.}">
                                     <TextBlock.Style>
                                         <Style TargetType="{x:Type TextBlock}" x:Name="StyleCB">
-                                            <Style.Triggers>
+                                            <!--Style.Triggers>
                                                 <DataTrigger Binding="{Binding IsAbsent}" Value="True">
                                                     <Setter Property="FontStyle" Value="Italic"/>
                                                     <Setter Property="Foreground" Value="DarkGray"/>
@@ -26,7 +26,7 @@
                                                     <Setter Property="FontStyle" Value="Italic"/>
                                                     <Setter Property="Foreground" Value="Black"/>
                                                 </DataTrigger>
-                                            </Style.Triggers>
+                                            </-->
                                         </Style>
                                     </TextBlock.Style>
                                 </TextBlock>
@@ -35,7 +35,7 @@
                     </ComboBox.ItemTemplate>
                 </ComboBox>
                 <Label Content="Семантика" x:Name="label7" Height="24" VerticalAlignment="Top" HorizontalAlignment="Center" Width="69" Margin="10,39,675,0" />
-                <ComboBox Height="23" Margin="0,40,446,0" x:Name="cmbSemantic" VerticalAlignment="Top" HorizontalAlignment="Right" Width="169" SelectionChanged="CmbSelectedSemantic" ItemsSource="{Binding ActiveSemantics}">
+                <ComboBox Height="23" Margin="0,40,446,0" x:Name="cmbSemantic" VerticalAlignment="Top" HorizontalAlignment="Right" Width="169" SelectedItem="{Binding Path=Semantic}" ItemsSource="{Binding ActiveSemantics}">
                     <ComboBox.ItemsPanel>
                         <ItemsPanelTemplate>
                             <VirtualizingStackPanel />
@@ -44,10 +44,10 @@
                     <ComboBox.ItemTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock Text="{Binding Translation}">
+                                <TextBlock Text="{Binding Path=.}">
                                     <TextBlock.Style >
                                         <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
-                                            <Style.Triggers>
+                                            <!--Style.Triggers>
                                                 <DataTrigger Binding="{Binding IsAbsent}" Value="True">
                                                     <Setter Property="FontStyle" Value="Italic" />
                                                     <Setter Property="Foreground" Value="DarkGray" />
@@ -56,7 +56,7 @@
                                                     <Setter Property="FontStyle" Value="Italic" />
                                                     <Setter Property="Foreground" Value="Black" />
                                                 </DataTrigger>
-                                            </Style.Triggers>
+                                            </-->
                                         </Style>
                                     </TextBlock.Style>
                                 </TextBlock>
@@ -64,8 +64,8 @@
                         </DataTemplate>
                     </ComboBox.ItemTemplate>
                 </ComboBox>
-                <TextBox  Width="364"  VerticalAlignment="Center" HorizontalAlignment="Left" x:Name="parentTerm" Margin="380,40,0,16" Height="18"/>
-                <TextBlock IsHitTestVisible="False" Text="Начните вводить родительский термин..." VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="DarkGray" Margin="386,42,0,16">
+                <TextBox  Width="364"  VerticalAlignment="Center" HorizontalAlignment="Left" x:Name="parentTerm" Margin="353,0,0,0" Height="23"/>
+                <TextBlock IsHitTestVisible="False" Text="При необходимости начните вводить родительский термин..."  HorizontalAlignment="Left" Foreground="DarkGray" Margin="353,0,0,0" Height="23" Width="367">
                     <TextBlock.Style>
                         <Style TargetType="{x:Type TextBlock}">
                             <Setter Property="Visibility" Value="Collapsed"/>
@@ -79,94 +79,99 @@
                 </TextBlock>
             </Grid>
         </GroupBox>
-        <local:TermView x:Name="trvTerm" Grid.Column="0" Margin="5,176,441,5" />
-        <GroupBox Header="Редактирование термина" Margin="0,176,0,10" x:Name="groupBox2" HorizontalAlignment="Right" Width="436">
+        <local:TermView x:Name="trvTerm" Grid.Column="0" Margin="5,104,441,0" Height="320" VerticalAlignment="Top" />
+        <GroupBox Header="Редактирование переводного эквивалента" Margin="350,104,0,0" x:Name="groupBox2" HorizontalAlignment="Left" Width="426" Height="315" VerticalAlignment="Top">
             <Grid>
-                <GroupBox Margin="10,10,0,0" Header="Переводной эквивалент" HorizontalAlignment="Left" Width="404" Height="329" VerticalAlignment="Top">
-                    <Grid>
-                        <Label Content="Выберите язык" Height="24" HorizontalAlignment="Left" Margin="5,-1,0,0" x:Name="label4" VerticalAlignment="Top" />
-                        <ComboBox Height="23" HorizontalAlignment="Left" Margin="5,25,0,0" x:Name="cmbChangeforEdit" SelectedIndex="0" VerticalAlignment="Top" Width="120" SelectionChanged="cmbChangeforEdit_SelectionChanged">
-                            <ComboBoxItem Content="Русский" />
-                            <ComboBoxItem Content="English" />
-                            <ComboBoxItem Content="Українська" />
-                        </ComboBox>
+                <Grid Margin="0,0,-2,0">
+                    <Label Content="Выберите язык" Height="24" HorizontalAlignment="Left" Margin="5,-1,0,0" x:Name="label4" VerticalAlignment="Top" />
+                    <ComboBox Height="23" HorizontalAlignment="Left" Margin="5,25,0,0" x:Name="cmbLanguages" ItemsSource="{Binding Languages}" SelectedIndex="0" VerticalAlignment="Top" Width="120">
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding Path=Name}"></TextBlock>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
 
-                        <Label Content="Введите текст" Height="24" HorizontalAlignment="Left" x:Name="label5" VerticalAlignment="Top" Margin="5,53,0,0" FontWeight="Bold" />
-                        <TextBox x:Name="txtEditDescription" Height="86" VerticalAlignment="Top" Margin="5,79,0,0" AcceptsReturn="True" AcceptsTab="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Width="188" />
-                        <Label Content="Изменяемая часть" Height="24" x:Name="label8" VerticalAlignment="Top" HorizontalAlignment="Center" Width="112" Margin="246,7,34,0" />
-                        <TextBox Height="23" HorizontalAlignment="Center"  x:Name="txtChangable" VerticalAlignment="Top" Width="168" Margin="218,35,6,0" />
-                        <Label Content="Часть речи" Height="24" x:Name="label9" VerticalAlignment="Top" HorizontalAlignment="Center" Width="72" Margin="266,121,54,0" />
-                        <ComboBox Height="23" HorizontalAlignment="Center" x:Name="cmbLangPart" VerticalAlignment="Top" Width="168" SelectionChanged="CmbSelectedLangPart"
-                				ItemsSource="{Binding ActiveLangParts}" Margin="218,151,6,0">
-                            <ComboBox.ItemsPanel>
-                                <ItemsPanelTemplate>
-                                    <VirtualizingStackPanel />
-                                </ItemsPanelTemplate>
-                            </ComboBox.ItemsPanel>
-                            <ComboBox.ItemTemplate>
-                                <DataTemplate>
-                                    <StackPanel Orientation="Horizontal">
-                                        <TextBlock Text="{Binding Translation}">
-                                            <TextBlock.Style >
-                                                <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
-                                                    <Style.Triggers>
-                                                        <DataTrigger Binding="{Binding IsAbsent}" Value="True">
-                                                            <Setter Property="FontStyle" Value="Italic" />
-                                                            <Setter Property="Foreground" Value="DarkGray" />
-                                                        </DataTrigger>
-                                                        <DataTrigger Binding="{Binding IsAddItem}" Value="True">
-                                                            <Setter Property="FontStyle" Value="Italic" />
-                                                            <Setter Property="Foreground" Value="Black" />
-                                                        </DataTrigger>
-                                                    </Style.Triggers>
-                                                </Style>
-                                            </TextBlock.Style>
-                                        </TextBlock>
-                                    </StackPanel>
-                                </DataTemplate>
-                            </ComboBox.ItemTemplate>
-                        </ComboBox>
-                        <Label Content="Тип изменяемой части" Height="24" x:Name="label10" VerticalAlignment="Top" HorizontalAlignment="Center" Width="140" Margin="232,61,20,0" />
-                        <ComboBox Height="23" HorizontalAlignment="Center" x:Name="cmbChangableType" VerticalAlignment="Top" Width="168" SelectionChanged="CmbSelectedChangeable"
-                				ItemsSource="{Binding ActiveChangeables}" Margin="218,91,6,0">
-                            <ComboBox.ItemsPanel>
-                                <ItemsPanelTemplate>
-                                    <VirtualizingStackPanel />
-                                </ItemsPanelTemplate>
-                            </ComboBox.ItemsPanel>
-                            <ComboBox.ItemTemplate>
-                                <DataTemplate>
-                                    <StackPanel Orientation="Horizontal">
-                                        <TextBlock Text="{Binding Translation}">
-                                            <TextBlock.Style >
-                                                <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
-                                                    <Style.Triggers>
-                                                        <DataTrigger Binding="{Binding IsAbsent}" Value="True">
-                                                            <Setter Property="FontStyle" Value="Italic" />
-                                                            <Setter Property="Foreground" Value="DarkGray" />
-                                                        </DataTrigger>
-                                                        <DataTrigger Binding="{Binding IsAddItem}" Value="True">
-                                                            <Setter Property="FontStyle" Value="Italic" />
-                                                            <Setter Property="Foreground" Value="Black" />
-                                                        </DataTrigger>
-                                                    </Style.Triggers>
-                                                </Style>
-                                            </TextBlock.Style>
-                                        </TextBlock>
-                                    </StackPanel>
-                                </DataTemplate>
-                            </ComboBox.ItemTemplate>
-                        </ComboBox>
+                    <Label Content="Текст переводного эвивалента" Height="24" HorizontalAlignment="Left" x:Name="label5" VerticalAlignment="Top" Margin="5,53,0,0" FontWeight="Bold" />
+                    <TextBox x:Name="txtEditDescription" Height="23" VerticalAlignment="Top" Margin="5,79,0,0" AcceptsReturn="True" AcceptsTab="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Width="401" />
+                    <Label Content="Изменяемая часть" x:Name="label8" HorizontalAlignment="Center" Width="112" Margin="13,125,291,0" Height="24" VerticalAlignment="Top" />
+                    <TextBox HorizontalAlignment="Center"  x:Name="txtChangable" Width="233" Margin="173,126,10,0" Height="23" VerticalAlignment="Top" />
+                    <Label Content="Часть речи" x:Name="label9" HorizontalAlignment="Center" Width="72" Margin="13,212,331,0" Height="24" VerticalAlignment="Top" />
+                    <ComboBox HorizontalAlignment="Center" x:Name="cmbLangPart" Width="233" 
+                				ItemsSource="{Binding ActiveLangParts}" Margin="173,213,10,0" Height="23" VerticalAlignment="Top">
+                        <ComboBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <VirtualizingStackPanel />
+                            </ItemsPanelTemplate>
+                        </ComboBox.ItemsPanel>
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding Path=.}">
+                                        <TextBlock.Style >
+                                            <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
+                                                <Style.Triggers>
+                                                    <DataTrigger Binding="{Binding IsAbsent}" Value="True">
+                                                        <Setter Property="FontStyle" Value="Italic" />
+                                                        <Setter Property="Foreground" Value="DarkGray" />
+                                                    </DataTrigger>
+                                                    <DataTrigger Binding="{Binding IsAddItem}" Value="True">
+                                                        <Setter Property="FontStyle" Value="Italic" />
+                                                        <Setter Property="Foreground" Value="Black" />
+                                                    </DataTrigger>
+                                                </Style.Triggers>
+                                            </Style>
+                                        </TextBlock.Style>
+                                    </TextBlock>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
+                    <Label Content="Тип изменяемой части" x:Name="label10" HorizontalAlignment="Center" Width="140" Margin="13,170,263,0" Height="24" VerticalAlignment="Top" />
+                    <ComboBox HorizontalAlignment="Center" x:Name="cmbChangableType" Width="233" 
+                				ItemsSource="{Binding ActiveChangeables}" SelectedItem="{Binding SelectedTerm}" Margin="173,171,10,0" Height="23" VerticalAlignment="Top">
+                        <ComboBox.ItemsPanel>
+                            <ItemsPanelTemplate>
+                                <VirtualizingStackPanel />
+                            </ItemsPanelTemplate>
+                        </ComboBox.ItemsPanel>
+                        <ComboBox.ItemTemplate>
+                            <DataTemplate>
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBlock Text="{Binding Path=.}">
+                                        <TextBlock.Style >
+                                            <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
+                                                <!--Style.Triggers>
+                                                    <DataTrigger Binding="{Binding IsAbsent}" Value="True">
+                                                        <Setter Property="FontStyle" Value="Italic" />
+                                                        <Setter Property="Foreground" Value="DarkGray" />
+                                                    </DataTrigger>
+                                                    <DataTrigger Binding="{Binding IsAddItem}" Value="True">
+                                                        <Setter Property="FontStyle" Value="Italic" />
+                                                        <Setter Property="Foreground" Value="Black" />
+                                                    </DataTrigger>
+                                                </-->
+                                            </Style>
+                                        </TextBlock.Style>
+                                    </TextBlock>
+                                </StackPanel>
+                            </DataTemplate>
+                        </ComboBox.ItemTemplate>
+                    </ComboBox>
 
-                        <Button Content="Добавить" IsEnabled="false" Height="24" HorizontalAlignment="Center" x:Name="btnAddDescription" VerticalAlignment="Top" Width="120" Click="btnAddDescription_Click" Margin="242,197,30,0" />
-                        <Button Content="Изменить" IsEnabled="false" Height="24" HorizontalAlignment="Center" x:Name="btnChangeDescription" VerticalAlignment="Top" Width="120" Click="btnChangeDescription_Click" Margin="242,229,30,0" RenderTransformOrigin="0.5,0.5" />
-                        <Button Content="Удалить" IsEnabled="false" HorizontalAlignment="Center" x:Name="btnRemoveDescription" Width="120" Click="btnRemoveDescription_Click" Margin="242,263,30,0" Height="24" VerticalAlignment="Top" />
-                    </Grid>
-                </GroupBox>
-
+                    <Button Content="Добавить" IsEnabled="false" HorizontalAlignment="Center" x:Name="btnAddDescription" Width="120" Margin="10,260,286,0" Height="24" VerticalAlignment="Top" />
+                    <Button Content="Изменить" IsEnabled="false" HorizontalAlignment="Center" x:Name="btnChangeDescription" Width="120" Margin="146,260,150,0" RenderTransformOrigin="0.5,0.5" Height="24" VerticalAlignment="Top" />
+                    <Button Content="Удалить" IsEnabled="false" HorizontalAlignment="Center" x:Name="btnRemoveDescription" Width="120" Margin="286,260,10,0" Height="24" VerticalAlignment="Top" />
+                </Grid>
                 <Button Content="Сохранить" HorizontalAlignment="Left" Margin="112,552,0,0" VerticalAlignment="Top" Width="76"/>
                 <Button Content="Отменить" HorizontalAlignment="Left" Margin="244,552,0,0" VerticalAlignment="Top" Width="76"/>
             </Grid>
         </GroupBox>
+        <Grid Margin="304,444,291,0">
+            <Button Content="Сохранить" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
+            <Button Content="Отменить" HorizontalAlignment="Left" Margin="108,0,0,0" VerticalAlignment="Top" Width="75"/>
+        </Grid>
     </Grid>
 </Window>

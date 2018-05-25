@@ -259,19 +259,31 @@ namespace MultilingualDictionary
 
         private void btnDuplicate_Click(object sender, RoutedEventArgs e)
         {
-            var dict = Resources["dictionaryVM"] as MultiDictionaryViewModel.MultiDictionaryVM;
+            var dict = Resources["dictionaryVM"] as MultiDictionaryVM;
+            TermVM copy = dict.GetCopySelectedTermVM();
+            ShowEditWindow(copy);
+        }
+
+        private void ShowEditWindow(TermVM copy)
+        {
             EditTerm et = new EditTerm();
-            TermVM copy = dict.SelectedTerm.MakeCopy();
-            et.trvTerm.DataContext = copy;
+            et.DataContext = copy;
+            et.Owner = this;
             et.ShowDialog();
         }
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
         {
-            var dict = Resources["dictionaryVM"] as MultiDictionaryViewModel.MultiDictionaryVM;
-            EditTerm et = new EditTerm();
-            et.trvTerm.DataContext = new TermVM();
-            et.ShowDialog();
+            var dict = Resources["dictionaryVM"] as MultiDictionaryVM;
+            var termVM = dict.GetNewTermVM();
+            ShowEditWindow(termVM);
+        }
+
+        private void btnEdit_Click(object sender, RoutedEventArgs e)
+        {
+            var dict = Resources["dictionaryVM"] as MultiDictionaryVM;
+            var termVM = dict.GetSelectedTermVM();
+            ShowEditWindow(termVM);
         }
     }
 

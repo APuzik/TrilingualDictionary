@@ -8,7 +8,7 @@
         xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
         xmlns:e="clr-namespace:MultiSelectTreeView"
         mc:Ignorable="d"
-        Title="MainWindow" Height="769.652" Width="793.716">
+        Title="MainWindow" Height="751.652" Width="934.716" MinHeight="550" MinWidth="600">
     <Window.Resources>
         <localVM:MultiDictionaryVM x:Key="dictionaryVM" />
     </Window.Resources>
@@ -31,11 +31,11 @@
                     <ToolBar>
                         <Button Name="btnAdd"  Content="Добавить" Click="btnAdd_Click" />
                         <Separator/>
-                        <Button Name="btnDuplicate" Content="Дублировать" Click="btnDuplicate_Click"/>
+                        <Button Name="btnDuplicate" Content="Дублировать" Click="btnDuplicate_Click" IsEnabled="{Binding IsSelectedChanged}"/>
                         <Separator/>
                         <!--Button Content="Объединить" Command="{Binding Path=MergeTerms}" />
                         <Separator/-->
-                        <Button Content="Редактировать" Command="{Binding Path=EditTerm}" />
+                        <Button Name="btnEdit" Content="Редактировать" Click="btnEdit_Click" IsEnabled="{Binding IsSelectedChanged}"/>
                         <Separator/>
                         <Button Content="Удалить" Command="{Binding Path=DeleteTerm}" CommandParameter="{Binding ElementName=trvTranslations,Path=SelectedItem}" />
                     </ToolBar>
