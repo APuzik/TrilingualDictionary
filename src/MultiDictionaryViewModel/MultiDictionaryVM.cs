@@ -17,7 +17,16 @@ namespace MultiDictionaryViewModel
     public class MultiDictionaryVM : INotifyPropertyChanged
     {
         public ObservableCollection<string> Languages { get; set; } = new ObservableCollection<string> { "Русский", "English", "Українська" };
-        public ObservableCollection<TreeNode> Letters { get; set; } = new ObservableCollection<TreeNode>();
+        ObservableCollection<TreeNode> letters = new ObservableCollection<TreeNode>();
+        public ObservableCollection<TreeNode> Letters
+        {
+            get { return letters; }
+            set
+            {
+                letters = value;
+                OnPropertyChanged("Letters");
+            }
+        }
         public Dictionary<int, ObservableCollection<TreeNode>> AllLetters { get; set; } = new Dictionary<int, ObservableCollection<TreeNode>>();
 
         public IMultiLingualDictionary Dictionary { get; set; } = new MultiLingualDictionary();
@@ -77,7 +86,18 @@ namespace MultiDictionaryViewModel
 
         private void LoadTranslations()
         {
-            Letters.Clear();
+            //Letters.Clear();
+            if(AllLetters.ContainsKey(SelectedLanguage))
+            {
+                Letters = AllLetters[SelectedLanguage];
+                return;
+            }
+            else
+            {
+                ObservableCollection<TreeNode> newLang = new ObservableCollection<TreeNode>();
+                AllLetters.Add(SelectedLanguage, newLang);
+                Letters = newLang;                
+            }
             //List<TermTranslation> translations = Dictionary.GetAllTranslations(SelectedLanguage);
             List<Term> terms = Dictionary.GetTopTerms(SelectedLanguage);
             SortedDictionary<int, Term> dicTerms = new SortedDictionary<int, Term>();
@@ -154,11 +174,6 @@ namespace MultiDictionaryViewModel
                     }
                 }
             }
-
-            if (!AllLetters.ContainsKey(SelectedItem))
-            {
-                AllLetters.Add(SelectedItem, Letters);
-            }
         }
 
         string GetKey(string value)
@@ -180,6 +195,7 @@ namespace MultiDictionaryViewModel
 
         private void LoadTranslations(object parameter)
         {
+            SelectedNodes.Clear();
             LoadTranslations();
         }
 
@@ -284,6 +300,7 @@ namespace MultiDictionaryViewModel
             {
                 Dictionary = Dictionary
             };
+            termVM.LoadTranslations(-1);
             termVM.LoadServiceData();
 
             return termVM;
@@ -305,8 +322,11 @@ namespace MultiDictionaryViewModel
             {
                 SelectedNodes.RemoveAt(0);
             }
-            SelectedNodes.Add(parameter as TreeNode);
-            IsSelectedChanged = SelectedNodes[0].IsTranslation;
+            if (parameter != null)
+            {
+                SelectedNodes.Add(parameter as TreeNode);
+                IsSelectedChanged = SelectedNodes[0].IsTranslation;
+            }
         }
 
         private void SelectedNodes_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
@@ -317,13 +337,15 @@ namespace MultiDictionaryViewModel
             ((RelayCommand)MergeTerms).RaiseCanExecuteChanged();
             if (SelectedNodes.Count == 1 && SelectedNodes[0].Translation != null)
             {
-                SelectedTerm.LoadTranslations(SelectedNodes[0].Translation.TermId);               
+                SelectedTerm.LoadTranslations(SelectedNodes[0].Translation.TermId);
             }
         }
 
         private bool IsTermSelected(object parameter)
         {
-            return SelectedNodes.FirstOrDefault((x) => x.Translation != null) != null;
+            if (SelectedNodes.Count == 0)
+                return false;
+            return SelectedNodes.FirstOrDefault((x) => x?.Translation != null) != null;
             //return SelectedTranslation != null && SelectedTranslation.Translation != null;
         }
 

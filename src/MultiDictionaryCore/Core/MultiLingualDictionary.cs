@@ -64,17 +64,17 @@ namespace MultiDictionaryCore.Core
             DataSource.AddTranslation(translation);
         }
 
-        public string GetTermSemantic(int termId)
+        public SemanticTranslation GetTermSemantic(int termId)
         {
             return DataSource.GetTermSemantic(termId);
         }
 
-        public string GetTermTopic(int termId)
+        public TopicTranslation GetTermTopic(int termId)
         {
             return DataSource.GetTermTopic(termId);
         }
 
-        public List<string> GetTopics(int langId)
+        public List<TopicTranslation> GetTopics(int langId)
         {
             return DataSource.GetTopics(langId);
         }
@@ -86,7 +86,7 @@ namespace MultiDictionaryCore.Core
         {
             return DataSource.GetLangParts(langId);
         }
-        public List<string> GetSemantics(int langId)
+        public List<SemanticTranslation> GetSemantics(int langId)
         {
             return DataSource.GetSemantics(langId);
         }

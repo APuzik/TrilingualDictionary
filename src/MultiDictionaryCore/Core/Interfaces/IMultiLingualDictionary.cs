@@ -23,11 +23,11 @@ namespace MultiDictionaryCore.Core.Interfaces
         IDataSource DataSource { get; set; }
 
         void AddTranslation(TermTranslation tt);
-        string GetTermSemantic(int termId);
-        string GetTermTopic(int termId);
-        List<string> GetTopics(int langId);
+        SemanticTranslation GetTermSemantic(int termId);
+        TopicTranslation GetTermTopic(int termId);
+        List<TopicTranslation> GetTopics(int langId);
         List<string> GetChangeables(int langId);
         List<string> GetLangParts(int langId);
-        List<string> GetSemantics(int langId);
+        List<SemanticTranslation> GetSemantics(int langId);
     }
 }

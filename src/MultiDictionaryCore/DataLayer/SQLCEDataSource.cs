@@ -82,14 +82,13 @@ namespace MultiDictionaryCore.DataLayer
             return term;
         }
 
-        public string GetTermSemantic(int termId)
+        public SemanticTranslation GetTermSemantic(int termId)
         {
             Term term = GetTermById(termId);
 
-            string sem = "";
             if (term != null)
             {
-                string query = "SELECT Translation FROM SemanticTranslation WHERE SemId=@SemId";
+                string query = "SELECT * FROM SemanticTranslation WHERE SemId=@SemId";
                 using (SqlCeCommand cmd = new SqlCeCommand(query))
                 {
                     cmd.Connection = dbConnection;
@@ -100,20 +99,21 @@ namespace MultiDictionaryCore.DataLayer
                     {
                         if (reader.Read())
                         {
-                            return (string)reader[0];
+                            var factory = new SemanticTranslationFactory();
+                            return factory.CreateDBEntity(reader);
                         }
                     }
                 }
             }
-            return sem;
+            return null;
         }
 
-        public List<string> GetSemantics(int langId)
+        public List<SemanticTranslation> GetSemantics(int langId)
         {
             string landIdParam = "@LangId";
-            string query = $"SELECT Translation FROM SemanticTranslation WHERE LangForId={landIdParam}";
+            string query = $"SELECT * FROM SemanticTranslation WHERE LangForId={landIdParam}";
 
-            List<string> semantics = GetAllItemsForLang(langId, query, landIdParam);
+            List<SemanticTranslation> semantics = GetAllItemsForLang(langId, query, landIdParam, new SemanticTranslationFactory());
 
             return semantics;
         }
@@ -140,6 +140,29 @@ namespace MultiDictionaryCore.DataLayer
             return items;
         }
 
+        private List<T> GetAllItemsForLang<T>(int langId, string query, string landIdParam, IDBEntityFactory<T> factory) where T: new ()
+        {
+            List<T> items = new List<T>();
+
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+                cmd.Parameters.Add(landIdParam, SqlDbType.Int);
+                cmd.Parameters[landIdParam].Value = langId + 1;
+
+                using (SqlCeDataReader reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        T item = factory.CreateDBEntity(reader);
+                        items.Add(item);
+                    }
+                }
+            }
+
+            return items;
+        }
+
         public List<string> GetLangParts(int langId)
         {
             string landIdParam = "@LangId";
@@ -156,22 +179,21 @@ namespace MultiDictionaryCore.DataLayer
             return GetAllItemsForLang(langId, query, landIdParam);
         }
 
-        public List<string> GetTopics(int langId)
+        public List<TopicTranslation> GetTopics(int langId)
         {
             string landIdParam = "@LangId";
-            string query = $"SELECT Translation FROM TopicTranslation WHERE LangIdFor={landIdParam}";
+            string query = $"SELECT * FROM TopicTranslation WHERE LangIdFor={landIdParam}";
 
-            return GetAllItemsForLang(langId, query, landIdParam);
+            return GetAllItemsForLang(langId, query, landIdParam, new TopicTranslationFactory());
         }
 
-        public string GetTermTopic(int termId)
+        public TopicTranslation GetTermTopic(int termId)
         {
             Term term = GetTermById(termId);
 
-            string topic = "";
             if (term != null)
             {
-                string query = "SELECT Translation FROM TopicTranslation WHERE TopicId=@TopicId";
+                string query = "SELECT * FROM TopicTranslation WHERE TopicId=@TopicId";
                 using (SqlCeCommand cmd = new SqlCeCommand(query))
                 {
                     cmd.Connection = dbConnection;
@@ -180,14 +202,15 @@ namespace MultiDictionaryCore.DataLayer
 
                     using (SqlCeDataReader reader = cmd.ExecuteReader())
                     {
+                        var factory = new TopicTranslationFactory();
                         if (reader.Read())
                         {
-                            return (string)reader[0];
+                            return factory.CreateDBEntity(reader);// (string)reader[0];
                         }
                     }
                 }
             }
-            return topic;
+            return null;
         }
 
         private Term GetTermById(int termId)

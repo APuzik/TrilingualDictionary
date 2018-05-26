@@ -10,11 +10,11 @@
         <GroupBox Header="Термин" HorizontalAlignment="Left" Margin="10,5,0,0" Width="766" Height="94" VerticalAlignment="Top">
             <Grid Margin="0,0,0,0">
                 <Label Content="Область знаний" Height="24" HorizontalAlignment="Center" x:Name="label6" VerticalAlignment="Top" Margin="10,10,644,0" Width="100" />
-                <ComboBox Width="169" VerticalAlignment="Top" x:Name="cmbTopic" ItemsSource="{Binding ActiveTopics}" SelectedItem="{Binding Path=Topic}" Height="23" HorizontalAlignment="Center" Margin="139,11,446,0">
+                <ComboBox Width="169" VerticalAlignment="Top" x:Name="cmbTopic" ItemsSource="{Binding ActiveTopics}" SelectedItem="{Binding Path=Topic, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Height="23" HorizontalAlignment="Center" Margin="139,11,446,0">
                     <ComboBox.ItemTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock Text="{Binding Path=.}">
+                                <TextBlock Text="{Binding Path=Translation}">
                                     <TextBlock.Style>
                                         <Style TargetType="{x:Type TextBlock}" x:Name="StyleCB">
                                             <!--Style.Triggers>
@@ -44,7 +44,7 @@
                     <ComboBox.ItemTemplate>
                         <DataTemplate>
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock Text="{Binding Path=.}">
+                                <TextBlock Text="{Binding Path=Translation}">
                                     <TextBlock.Style >
                                         <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
                                             <!--Style.Triggers>
@@ -131,7 +131,7 @@
                     </ComboBox>
                     <Label Content="Тип изменяемой части" x:Name="label10" HorizontalAlignment="Center" Width="140" Margin="13,170,263,0" Height="24" VerticalAlignment="Top" />
                     <ComboBox HorizontalAlignment="Center" x:Name="cmbChangableType" Width="233" 
-                				ItemsSource="{Binding ActiveChangeables}" SelectedItem="{Binding SelectedTerm}" Margin="173,171,10,0" Height="23" VerticalAlignment="Top">
+                				ItemsSource="{Binding ActiveChangeables}" Margin="173,171,10,0" Height="23" VerticalAlignment="Top">
                         <ComboBox.ItemsPanel>
                             <ItemsPanelTemplate>
                                 <VirtualizingStackPanel />

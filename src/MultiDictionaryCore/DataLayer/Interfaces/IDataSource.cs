@@ -19,11 +19,11 @@ namespace MultiDictionaryCore.DataLayer.Interfaces
         List<TermTranslation> GetChildrenTranslations(int languageId, int parentTermId);
         List<TermTranslation> GetChildrenTranslations(int languageId);
         int AddTranslation(TermTranslation translation);
-        string GetTermSemantic(int termId);
-        string GetTermTopic(int termId);
-        List<string> GetSemantics(int langId);
+        SemanticTranslation GetTermSemantic(int termId);
+        TopicTranslation GetTermTopic(int termId);
+        List<SemanticTranslation> GetSemantics(int langId);
         List<string> GetLangParts(int langId);
         List<string> GetChangeables(int langId);
-        List<string> GetTopics(int langId);
+        List<TopicTranslation> GetTopics(int langId);
     }
 }

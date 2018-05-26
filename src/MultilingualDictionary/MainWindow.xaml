@@ -184,9 +184,9 @@
                 </TreeView.ItemTemplate>
             </TreeView-->
             <Label Grid.Column="2" Content="Область знаний:" Margin="20, 35"/>
-            <Label Grid.Column="2" DataContext="{StaticResource dictionaryVM}" Content="{Binding Path=SelectedTerm.Topic}" Margin="120,35,5,600"/>
+            <Label Grid.Column="2" DataContext="{StaticResource dictionaryVM}" Content="{Binding Path=SelectedTerm.Topic.Translation}" Margin="120,35,5,600"/>
             <Label Grid.Column="2" Content="Семантика:"  Margin="20, 55"/>
-            <Label Grid.Column="2" DataContext="{StaticResource dictionaryVM}" Content="{Binding Path=SelectedTerm.Semantic}"  Margin="120,55,5,580"/>
+            <Label Grid.Column="2" DataContext="{StaticResource dictionaryVM}" Content="{Binding Path=SelectedTerm.Semantic.Translation}"  Margin="120,55,5,580"/>
             <local:TermView Grid.Column="2" Margin="5,80,5,5" DataContext="{Binding Path=SelectedTerm}" />
         </Grid>
     </Grid>

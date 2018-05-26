@@ -23,12 +23,16 @@ namespace MultiDictionaryViewModel
 
         private void UpdateTerm(object parameter)
         {
-            throw new NotImplementedException();
+            
+            //Dictionary.AddTranslation
         }
 
         private void AddNewTerm(object parameter)
         {
-            throw new NotImplementedException();
+            //Dictionary.Get
+
+            
+            //Dictionary.AddTerm(term);
         }
 
         public IMultiLingualDictionary Dictionary { get; set; }
@@ -40,8 +44,8 @@ namespace MultiDictionaryViewModel
                                                                             };
         public ObservableCollection<TreeNode> SelectedNodes { get; set; } = new ObservableCollection<TreeNode>();
 
-        ObservableCollection<string> activeTopics;
-        public ObservableCollection<string> ActiveTopics
+        ObservableCollection<TopicTranslation> activeTopics;
+        public ObservableCollection<TopicTranslation> ActiveTopics
         {
             get { return activeTopics; }
             set
@@ -51,8 +55,8 @@ namespace MultiDictionaryViewModel
             }
         }
 
-        ObservableCollection<string> activeSemantics;
-        public ObservableCollection<string> ActiveSemantics
+        ObservableCollection<SemanticTranslation> activeSemantics;
+        public ObservableCollection<SemanticTranslation> ActiveSemantics
         {
             get { return activeSemantics; }
             set
@@ -84,15 +88,14 @@ namespace MultiDictionaryViewModel
             }
         }
 
-        string topic;
-
         public event PropertyChangedEventHandler PropertyChanged;
         public void OnPropertyChanged(string property)
         {
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(property));
         }
 
-        public string Topic
+        TopicTranslation topic;
+        public TopicTranslation Topic
         {
             get { return topic; }
             set
@@ -101,8 +104,9 @@ namespace MultiDictionaryViewModel
                 OnPropertyChanged("Topic");
             }
         }
-        string semantic;
-        public string Semantic
+
+        SemanticTranslation semantic;
+        public SemanticTranslation Semantic
         {
             get { return semantic; }
             set
@@ -123,12 +127,12 @@ namespace MultiDictionaryViewModel
             }
         }
 
-        ICommand AddTerm { get; set; }
-        ICommand SaveTerm { get; set; }
+        public ICommand AddTerm { get; set; }
+        public ICommand SaveTerm { get; set; }
 
         public void LoadTranslations(int termId)
         {
-            if (termId != 0)
+            if (termId > 0)
             {
                 List<TermTranslation> rusTranslations = Dictionary.GetTranslationsForTerm(termId);
                 //List<TermTranslation> engTranslations = Dictionary.GetTranslationsForTerm(2, termId);
@@ -139,22 +143,25 @@ namespace MultiDictionaryViewModel
                 Semantic = Dictionary.GetTermSemantic(termId);
                 Topic = Dictionary.GetTermTopic(termId);
             }
+            else
+            {
+                FillAbsent(Languages);
+                Semantic = null;
+                Topic = null;
+            }
         }
 
         public void LoadServiceData()
         {
             int langId = 0;
-            List<string> rusTopics = Dictionary.GetTopics(langId);
-            ActiveTopics = new ObservableCollection<string>(rusTopics);
-            List<string> rusSemantics = Dictionary.GetSemantics(langId);
-            ActiveSemantics = new ObservableCollection<string>(rusSemantics);
+            List<TopicTranslation> rusTopics = Dictionary.GetTopics(langId);
+            ActiveTopics = new ObservableCollection<TopicTranslation>(rusTopics);
+            List<SemanticTranslation> rusSemantics = Dictionary.GetSemantics(langId);
+            ActiveSemantics = new ObservableCollection<SemanticTranslation>(rusSemantics);
             List<string> rusChangeables = Dictionary.GetChangeables(langId);
             ActiveChangeables = new ObservableCollection<string>(rusChangeables);
             List<string> rusLangParts = Dictionary.GetLangParts(langId);
             ActiveLangParts = new ObservableCollection<string>(rusLangParts);
-
-            int pos = ActiveTopics.IndexOf(Topic);
-
         }
 
         public void SetServiceDataForTerm(int termId)
@@ -174,6 +181,13 @@ namespace MultiDictionaryViewModel
                 nodes[tt.LanguageId].Children.Add(tn);
             }
 
+            FillAbsent(nodes);
+
+            return nodes;
+        }
+
+        private void FillAbsent(ObservableCollection<TreeNode> nodes)
+        {
             for (int i = 0; i < nodes.Count; i++)
             {
                 if (nodes[i].Children.Count == 0)
@@ -182,8 +196,6 @@ namespace MultiDictionaryViewModel
                     nodes[i].Children.Add(tn);
                 }
             }
-
-            return nodes;
         }
 
         public TermVM MakeCopy()
@@ -213,16 +225,17 @@ namespace MultiDictionaryViewModel
                         IsSelected = tn.IsSelected,
                         Name = tn.Name,
                         Parent = tn.Parent,
-                        Translation = new TermTranslation
-                        {
-                            ChangeablePart = tn.Translation.ChangeablePart,
-                            ChangeableType = tn.Translation.ChangeableType,
-                            Id = 0,
-                            LanguageId = tn.Translation.LanguageId,
-                            PartOfSpeech = tn.Translation.PartOfSpeech,
-                            TermId = 0,
-                            Value = tn.Translation.Value
-                        }
+                        Translation = tn.Translation != null ? new TermTranslation
+                                                                {
+                                                                    ChangeablePart = tn.Translation.ChangeablePart,
+                                                                    ChangeableType = tn.Translation.ChangeableType,
+                                                                    Id = 0,
+                                                                    LanguageId = tn.Translation.LanguageId,
+                                                                    PartOfSpeech = tn.Translation.PartOfSpeech,
+                                                                    TermId = 0,
+                                                                    Value = tn.Translation.Value
+                                                                } :
+                                                                null
                     };
                     nodeCopy.Children.Add(tnCopy);
                 }

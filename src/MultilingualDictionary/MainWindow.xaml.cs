@@ -266,6 +266,7 @@ namespace MultilingualDictionary
 
         private void ShowEditWindow(TermVM copy, bool shouldAddNew)
         {
+            var dict = Resources["dictionaryVM"] as MultiDictionaryVM;
             EditTerm et = new EditTerm();
             et.DataContext = copy;
             et.Owner = this;
