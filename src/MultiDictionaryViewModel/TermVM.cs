@@ -1,5 +1,6 @@
 ﻿using MultiDictionaryCore.Core.Interfaces;
 using MultiDictionaryCore.DBEntities;
+using MultiDictionaryViewModel.Commands;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -7,11 +8,28 @@ using System.ComponentModel;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Windows.Input;
 
 namespace MultiDictionaryViewModel
 {
     public class TermVM : INotifyPropertyChanged
     {
+        public TermVM()
+        {
+
+            SaveTerm = new RelayCommand { ExecuteAction = UpdateTerm };
+            AddTerm = new RelayCommand { ExecuteAction = AddNewTerm };
+        }
+
+        private void UpdateTerm(object parameter)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void AddNewTerm(object parameter)
+        {
+            throw new NotImplementedException();
+        }
 
         public IMultiLingualDictionary Dictionary { get; set; }
         public ObservableCollection<TreeNode> Languages { get; set; } = new ObservableCollection<TreeNode>
@@ -105,6 +123,9 @@ namespace MultiDictionaryViewModel
             }
         }
 
+        ICommand AddTerm { get; set; }
+        ICommand SaveTerm { get; set; }
+
         public void LoadTranslations(int termId)
         {
             if (termId != 0)
@@ -133,7 +154,7 @@ namespace MultiDictionaryViewModel
             ActiveLangParts = new ObservableCollection<string>(rusLangParts);
 
             int pos = ActiveTopics.IndexOf(Topic);
-            
+
         }
 
         public void SetServiceDataForTerm(int termId)

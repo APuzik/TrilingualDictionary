@@ -170,8 +170,9 @@
             </Grid>
         </GroupBox>
         <Grid Margin="304,444,291,0">
-            <Button Content="Сохранить" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75"/>
-            <Button Content="Отменить" HorizontalAlignment="Left" Margin="108,0,0,0" VerticalAlignment="Top" Width="75"/>
+            <Button Content="Сохранить" Name="btnAddTerm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Command="{Binding AddTerm}"/>
+            <Button Content="Сохранить" Name="btnUpdateTerm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Visibility="Hidden" Command="{Binding SaveTerm}"/>
+            <Button Content="Отменить" HorizontalAlignment="Left" Margin="108,0,0,0" VerticalAlignment="Top" Width="75" IsCancel="True"/>
         </Grid>
     </Grid>
 </Window>

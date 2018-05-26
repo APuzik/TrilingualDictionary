@@ -261,14 +261,16 @@ namespace MultilingualDictionary
         {
             var dict = Resources["dictionaryVM"] as MultiDictionaryVM;
             TermVM copy = dict.GetCopySelectedTermVM();
-            ShowEditWindow(copy);
+            ShowEditWindow(copy, true);
         }
 
-        private void ShowEditWindow(TermVM copy)
+        private void ShowEditWindow(TermVM copy, bool shouldAddNew)
         {
             EditTerm et = new EditTerm();
             et.DataContext = copy;
             et.Owner = this;
+            et.btnAddTerm.Visibility = shouldAddNew ? Visibility.Visible : Visibility.Hidden;
+            et.btnUpdateTerm.Visibility = shouldAddNew ? Visibility.Hidden: Visibility.Visible;
             et.ShowDialog();
         }
 
@@ -276,14 +278,14 @@ namespace MultilingualDictionary
         {
             var dict = Resources["dictionaryVM"] as MultiDictionaryVM;
             var termVM = dict.GetNewTermVM();
-            ShowEditWindow(termVM);
+            ShowEditWindow(termVM, true);
         }
 
         private void btnEdit_Click(object sender, RoutedEventArgs e)
         {
             var dict = Resources["dictionaryVM"] as MultiDictionaryVM;
             var termVM = dict.GetSelectedTermVM();
-            ShowEditWindow(termVM);
+            ShowEditWindow(termVM, false);
         }
     }
 
