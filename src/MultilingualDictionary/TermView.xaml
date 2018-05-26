@@ -5,18 +5,24 @@
              xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
              xmlns:local="clr-namespace:MultilingualDictionary"
              xmlns:e="clr-namespace:MultiSelectTreeView"
+             xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity"
              xmlns:localVM="clr-namespace:MultiDictionaryViewModel;assembly=MultiDictionaryViewModel"
              mc:Ignorable="d" 
              d:DesignHeight="300" d:DesignWidth="300">
     <!--localVM:TermVM x:Key="termVM" /-->
     <Grid>
-        <TreeView Grid.Column="2" Margin="5,5,5,5" ItemsSource="{Binding Path=Languages}"
+        <TreeView Grid.Column="2" Margin="5,5,5,5" Name="trvTerm"  ItemsSource="{Binding Path=Languages}" 
                       VirtualizingPanel.IsVirtualizing="true" VirtualizingStackPanel.VirtualizationMode="Recycling">
             <TreeView.ItemContainerStyle>
                 <Style TargetType="{x:Type TreeViewItem}" >
                     <Setter Property="IsExpanded" Value="true" />
                 </Style>
             </TreeView.ItemContainerStyle>
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="SelectedItemChanged">
+                    <i:InvokeCommandAction Command="{Binding SelectedTranslationChanged}" CommandParameter="{Binding ElementName=trvTerm,Path=SelectedItem}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
             <TreeView.ItemTemplate>
                 <HierarchicalDataTemplate ItemsSource="{Binding Path=Children}">
                     <TextBlock Text="{Binding Name}" FontWeight="Bold" />

@@ -19,8 +19,46 @@ namespace MultiDictionaryViewModel
 
             SaveTerm = new RelayCommand { ExecuteAction = UpdateTerm };
             AddTerm = new RelayCommand { ExecuteAction = AddNewTerm };
+            SelectedTranslationChanged = new RelayCommand { ExecuteAction = SelectedTransChanged };
         }
 
+        string selectedValue;
+        public string SelectedValue
+        {
+            get { return selectedValue; }
+            set
+            {
+                selectedValue = value;
+                OnPropertyChanged("SelectedValue");
+                OnPropertyChanged("IsTranslationSelected");
+            }
+        }
+
+        string parentTermTranslation;
+        string ParentTermTranslation
+        {
+            get { return parentTermTranslation; }
+            set
+            {
+                parentTermTranslation = value;
+                OnPropertyChanged("ParentTermTranslation");
+            }
+        }
+
+        int paremtTermId;
+
+        private void SelectedTransChanged(object parameter)
+        {
+            SelectedTranslation = parameter as TreeNode;
+            SelectedValue = SelectedTranslation?.Translation?.Value;                       
+        }
+
+        public bool IsTranslationSelected
+        {
+            get { return !string.IsNullOrWhiteSpace(SelectedValue) && SelectedTranslation != null && SelectedTranslation.IsTranslation; }
+        }
+
+        public ICommand SelectedTranslationChanged { get; set; }
         private void UpdateTerm(object parameter)
         {
             
@@ -66,8 +104,8 @@ namespace MultiDictionaryViewModel
             }
         }
 
-        ObservableCollection<string> activeChangeables;
-        public ObservableCollection<string> ActiveChangeables
+        ObservableCollection<ChangeableTranslation> activeChangeables;
+        public ObservableCollection<ChangeableTranslation> ActiveChangeables
         {
             get { return activeChangeables; }
             set
@@ -77,8 +115,8 @@ namespace MultiDictionaryViewModel
             }
         }
 
-        ObservableCollection<string> activeLangParts;
-        public ObservableCollection<string> ActiveLangParts
+        ObservableCollection<PartOfSpeechTranslation> activeLangParts;
+        public ObservableCollection<PartOfSpeechTranslation> ActiveLangParts
         {
             get { return activeLangParts; }
             set
@@ -115,6 +153,7 @@ namespace MultiDictionaryViewModel
                 OnPropertyChanged("Semantic");
             }
         }
+
 
         TreeNode selectedTranslation;
         public TreeNode SelectedTranslation
@@ -158,10 +197,10 @@ namespace MultiDictionaryViewModel
             ActiveTopics = new ObservableCollection<TopicTranslation>(rusTopics);
             List<SemanticTranslation> rusSemantics = Dictionary.GetSemantics(langId);
             ActiveSemantics = new ObservableCollection<SemanticTranslation>(rusSemantics);
-            List<string> rusChangeables = Dictionary.GetChangeables(langId);
-            ActiveChangeables = new ObservableCollection<string>(rusChangeables);
-            List<string> rusLangParts = Dictionary.GetLangParts(langId);
-            ActiveLangParts = new ObservableCollection<string>(rusLangParts);
+            List<ChangeableTranslation> rusChangeables = Dictionary.GetChangeables(langId);
+            ActiveChangeables = new ObservableCollection<ChangeableTranslation>(rusChangeables);
+            List<PartOfSpeechTranslation> rusLangParts = Dictionary.GetLangParts(langId);
+            ActiveLangParts = new ObservableCollection<PartOfSpeechTranslation>(rusLangParts);
         }
 
         public void SetServiceDataForTerm(int termId)

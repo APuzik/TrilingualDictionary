@@ -57,39 +57,7 @@
                         <!--Button Content="Найти" Command="{Binding Path=FindNextTranslation}" CommandParameter="{Binding ElementName=trvTranslations}"/-->
                     </ToolBar>
                 </ToolBarTray>
-            </DockPanel>
-            <!--e:MultiSelectTreeView Grid.Column="0" x:Name="trvTranslations"  DataContext="{StaticResource dictionaryVM}"
-                      ItemsSource="{Binding Path=Letters}" SelectedItems="{Binding SelectedNodes}" Margin="5,35,5,5"
-                      VirtualizingPanel.IsVirtualizing="true" VirtualizingStackPanel.VirtualizationMode="Recycling" ListBoxItem.Selected="trvTranslations_Selected">
-                <TreeView.ItemContainerStyle>
-                    <Style TargetType="{x:Type TreeViewItem}" BasedOn="{StaticResource MyTreeViewItemStyle}">
-                        <Setter Property="IsExpanded" Value="{Binding IsExpanded, Mode=TwoWay}" />
-                        <Setter Property="e:MultiSelectTreeView.IsItemSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
-                        <Setter Property="IsSelected" Value="{Binding IsSelected, Mode=TwoWay}" />
-                        <! - -Setter Property="local:TreeViewItemBehaviour.IsBroughtIntoViewWhenSelected" Value="True" /- - >
-                        <Style.Triggers>
-                            <Trigger Property="e:MultiSelectTreeView.IsItemSelected" Value="True">
-                                <Setter Property="Background" Value="LightSkyBlue" />
-                            </Trigger>
-                        </Style.Triggers>
-                    </Style>
-                </TreeView.ItemContainerStyle>
-                <! - -i:Interaction.Triggers>
-                    <i:EventTrigger EventName="SelectedItemChanged">
-                        <i:InvokeCommandAction Command="{Binding SelectedTranslationChanged}" CommandParameter="{Binding ElementName=trvTranslations,Path=SelectedItem}"/>
-                    </i:EventTrigger>
-                </i:Interaction.Triggers- - >
-                <TreeView.ItemTemplate>
-                    <HierarchicalDataTemplate ItemsSource="{Binding Path=Children}">
-                        <TextBlock Text="{Binding Name}" FontWeight="Bold" />
-                        <HierarchicalDataTemplate.ItemTemplate>
-                            <DataTemplate>
-                                <TextBlock Text="{Binding Name}"/>
-                            </DataTemplate>
-                        </HierarchicalDataTemplate.ItemTemplate>
-                    </HierarchicalDataTemplate>
-                </TreeView.ItemTemplate>
-            </e:MultiSelectTreeView-->
+            </DockPanel>            
             <TreeView Grid.Column="0" x:Name="trvTranslations"  DataContext="{StaticResource dictionaryVM}"
                       ItemsSource="{Binding Path=Letters}" Margin="5,35,5,5"
                       VirtualizingPanel.IsVirtualizing="True" VirtualizingStackPanel.VirtualizationMode="Recycling" SelectedItemChanged="trvTranslations_SelectedItemChanged">

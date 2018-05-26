@@ -23,6 +23,11 @@ namespace MultiDictionaryCore.DataLayer
 
             return item;                    
         }
+
+        public TopicTranslation CreateDBEntity()
+        {
+            return new TopicTranslation();
+        }
     }
 
     class SemanticTranslationFactory : IDBEntityFactory<SemanticTranslation>
@@ -38,6 +43,53 @@ namespace MultiDictionaryCore.DataLayer
             };
 
             return item;
+        }
+
+        public SemanticTranslation CreateDBEntity()
+        {
+            return new SemanticTranslation();
+        }
+    }
+
+    class ChangeableTranslationFactory : IDBEntityFactory<ChangeableTranslation>
+    {
+        public ChangeableTranslation CreateDBEntity(SqlCeDataReader reader)
+        {
+            ChangeableTranslation item = new ChangeableTranslation
+            {
+                Id = (int)reader[0],
+                ChangeableTypeId = (int)reader[1],
+                LangForId = (int)reader[2],
+                Translation = (string)reader[3]
+            };
+
+            return item;
+        }
+
+        public ChangeableTranslation CreateDBEntity()
+        {
+            return new ChangeableTranslation();
+        }
+    }
+
+    class PartOfSpeechTranslationFactory : IDBEntityFactory<PartOfSpeechTranslation>
+    {
+        public PartOfSpeechTranslation CreateDBEntity(SqlCeDataReader reader)
+        {
+            PartOfSpeechTranslation item = new PartOfSpeechTranslation
+            {
+                Id = (int)reader[0],
+                PartOfSpeechId = (int)reader[1],
+                LangForId = (int)reader[2],
+                Translation = (string)reader[3]
+            };
+
+            return item;
+        }
+
+        public PartOfSpeechTranslation CreateDBEntity()
+        {
+            return new PartOfSpeechTranslation();
         }
     }
 }

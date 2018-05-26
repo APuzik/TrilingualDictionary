@@ -64,8 +64,8 @@
                         </DataTemplate>
                     </ComboBox.ItemTemplate>
                 </ComboBox>
-                <TextBox  Width="364"  VerticalAlignment="Center" HorizontalAlignment="Left" x:Name="parentTerm" Margin="353,0,0,0" Height="23"/>
-                <TextBlock IsHitTestVisible="False" Text="При необходимости начните вводить родительский термин..."  HorizontalAlignment="Left" Foreground="DarkGray" Margin="353,0,0,0" Height="23" Width="367">
+                <ComboBox IsEditable="True"  Width="364"  VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding Path=ParentTermTranslation, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" x:Name="parentTerm" Margin="353,0,0,0" Height="23"/>
+                <TextBlock IsHitTestVisible="False" Text="При необходимости начните вводить родительский термин..."  HorizontalAlignment="Left" Foreground="DarkGray" Margin="358,27,0,21" Height="20" Width="367">
                     <TextBlock.Style>
                         <Style TargetType="{x:Type TextBlock}">
                             <Setter Property="Visibility" Value="Collapsed"/>
@@ -79,7 +79,9 @@
                 </TextBlock>
             </Grid>
         </GroupBox>
-        <local:TermView x:Name="trvTerm" Grid.Column="0" Margin="5,104,441,0" Height="320" VerticalAlignment="Top" />
+        <local:TermView x:Name="trvTerm" Grid.Column="0" Margin="5,104,441,0" Height="320" VerticalAlignment="Top" >
+            
+        </local:TermView>
         <GroupBox Header="Редактирование переводного эквивалента" Margin="350,104,0,0" x:Name="groupBox2" HorizontalAlignment="Left" Width="426" Height="315" VerticalAlignment="Top">
             <Grid>
                 <Grid Margin="0,0,-2,0">
@@ -95,11 +97,11 @@
                     </ComboBox>
 
                     <Label Content="Текст переводного эвивалента" Height="24" HorizontalAlignment="Left" x:Name="label5" VerticalAlignment="Top" Margin="5,53,0,0" FontWeight="Bold" />
-                    <TextBox x:Name="txtEditDescription" Height="23" VerticalAlignment="Top" Margin="5,79,0,0" AcceptsReturn="True" AcceptsTab="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Width="401" />
+                    <TextBox x:Name="txtEditDescription" Text="{Binding Path=SelectedValue, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Height="23" VerticalAlignment="Top" Margin="5,79,0,0" AcceptsReturn="True" AcceptsTab="True" TextWrapping="Wrap" VerticalScrollBarVisibility="Auto" HorizontalAlignment="Left" Width="401" />
                     <Label Content="Изменяемая часть" x:Name="label8" HorizontalAlignment="Center" Width="112" Margin="13,125,291,0" Height="24" VerticalAlignment="Top" />
-                    <TextBox HorizontalAlignment="Center"  x:Name="txtChangable" Width="233" Margin="173,126,10,0" Height="23" VerticalAlignment="Top" />
+                    <TextBox HorizontalAlignment="Center" Text="{Binding Path=SelectedTranslation.Translation.ChangeablePart, Mode=TwoWay}" x:Name="txtChangable" Width="233" Margin="173,126,10,0" Height="23" VerticalAlignment="Top" />
                     <Label Content="Часть речи" x:Name="label9" HorizontalAlignment="Center" Width="72" Margin="13,212,331,0" Height="24" VerticalAlignment="Top" />
-                    <ComboBox HorizontalAlignment="Center" x:Name="cmbLangPart" Width="233" 
+                    <ComboBox HorizontalAlignment="Center" x:Name="cmbLangPart" Width="233" SelectedIndex="{Binding Path=SelectedTranslation.Translation.PartOfSpeech, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
                 				ItemsSource="{Binding ActiveLangParts}" Margin="173,213,10,0" Height="23" VerticalAlignment="Top">
                         <ComboBox.ItemsPanel>
                             <ItemsPanelTemplate>
@@ -109,7 +111,7 @@
                         <ComboBox.ItemTemplate>
                             <DataTemplate>
                                 <StackPanel Orientation="Horizontal">
-                                    <TextBlock Text="{Binding Path=.}">
+                                    <TextBlock Text="{Binding Path=Translation}">
                                         <TextBlock.Style >
                                             <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
                                                 <Style.Triggers>
@@ -131,7 +133,7 @@
                     </ComboBox>
                     <Label Content="Тип изменяемой части" x:Name="label10" HorizontalAlignment="Center" Width="140" Margin="13,170,263,0" Height="24" VerticalAlignment="Top" />
                     <ComboBox HorizontalAlignment="Center" x:Name="cmbChangableType" Width="233" 
-                				ItemsSource="{Binding ActiveChangeables}" Margin="173,171,10,0" Height="23" VerticalAlignment="Top">
+                				ItemsSource="{Binding ActiveChangeables}" SelectedIndex="{Binding Path=SelectedTranslation.Translation.ChangeableType, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Margin="173,171,10,0" Height="23" VerticalAlignment="Top">
                         <ComboBox.ItemsPanel>
                             <ItemsPanelTemplate>
                                 <VirtualizingStackPanel />
@@ -140,7 +142,7 @@
                         <ComboBox.ItemTemplate>
                             <DataTemplate>
                                 <StackPanel Orientation="Horizontal">
-                                    <TextBlock Text="{Binding Path=.}">
+                                    <TextBlock Text="{Binding Path=Translation}">
                                         <TextBlock.Style >
                                             <Style x:Name="StyleCB" TargetType="{x:Type TextBlock}">
                                                 <!--Style.Triggers>
@@ -161,9 +163,9 @@
                         </ComboBox.ItemTemplate>
                     </ComboBox>
 
-                    <Button Content="Добавить" IsEnabled="false" HorizontalAlignment="Center" x:Name="btnAddDescription" Width="120" Margin="10,260,286,0" Height="24" VerticalAlignment="Top" />
-                    <Button Content="Изменить" IsEnabled="false" HorizontalAlignment="Center" x:Name="btnChangeDescription" Width="120" Margin="146,260,150,0" RenderTransformOrigin="0.5,0.5" Height="24" VerticalAlignment="Top" />
-                    <Button Content="Удалить" IsEnabled="false" HorizontalAlignment="Center" x:Name="btnRemoveDescription" Width="120" Margin="286,260,10,0" Height="24" VerticalAlignment="Top" />
+                    <Button Content="Добавить" IsEnabled="{Binding ElementName=txtEditDescription, Path=Text.Length, Mode=OneWay}" HorizontalAlignment="Center" x:Name="btnAddDescription" Width="120" Margin="10,260,286,0" Height="24" VerticalAlignment="Top" />
+                    <Button Content="Изменить" IsEnabled="{Binding IsTranslationSelected}" HorizontalAlignment="Center" x:Name="btnChangeDescription" Width="120" Margin="146,260,150,0" RenderTransformOrigin="0.5,0.5" Height="24" VerticalAlignment="Top" />
+                    <Button Content="Удалить" IsEnabled="{Binding IsTranslationSelected}" HorizontalAlignment="Center" x:Name="btnRemoveDescription" Width="120" Margin="286,260,10,0" Height="24" VerticalAlignment="Top" />
                 </Grid>
                 <Button Content="Сохранить" HorizontalAlignment="Left" Margin="112,552,0,0" VerticalAlignment="Top" Width="76"/>
                 <Button Content="Отменить" HorizontalAlignment="Left" Margin="244,552,0,0" VerticalAlignment="Top" Width="76"/>

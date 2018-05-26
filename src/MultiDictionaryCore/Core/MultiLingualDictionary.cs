@@ -78,11 +78,11 @@ namespace MultiDictionaryCore.Core
         {
             return DataSource.GetTopics(langId);
         }
-        public List<string> GetChangeables(int langId)
+        public List<ChangeableTranslation> GetChangeables(int langId)
         {
             return DataSource.GetChangeables(langId);
         }
-        public List<string> GetLangParts(int langId)
+        public List<PartOfSpeechTranslation> GetLangParts(int langId)
         {
             return DataSource.GetLangParts(langId);
         }

@@ -22,8 +22,8 @@ namespace MultiDictionaryCore.DataLayer.Interfaces
         SemanticTranslation GetTermSemantic(int termId);
         TopicTranslation GetTermTopic(int termId);
         List<SemanticTranslation> GetSemantics(int langId);
-        List<string> GetLangParts(int langId);
-        List<string> GetChangeables(int langId);
+        List<PartOfSpeechTranslation> GetLangParts(int langId);
+        List<ChangeableTranslation> GetChangeables(int langId);
         List<TopicTranslation> GetTopics(int langId);
     }
 }

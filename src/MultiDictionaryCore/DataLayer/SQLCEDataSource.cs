@@ -143,7 +143,7 @@ namespace MultiDictionaryCore.DataLayer
         private List<T> GetAllItemsForLang<T>(int langId, string query, string landIdParam, IDBEntityFactory<T> factory) where T: new ()
         {
             List<T> items = new List<T>();
-
+            items.Add(factory.CreateDBEntity());
             using (SqlCeCommand cmd = new SqlCeCommand(query))
             {
                 cmd.Connection = dbConnection;
@@ -163,20 +163,20 @@ namespace MultiDictionaryCore.DataLayer
             return items;
         }
 
-        public List<string> GetLangParts(int langId)
+        public List<PartOfSpeechTranslation> GetLangParts(int langId)
         {
             string landIdParam = "@LangId";
-            string query = $"SELECT Translation FROM PartOfSpeechTranslation WHERE LangForId={landIdParam}";
+            string query = $"SELECT * FROM PartOfSpeechTranslation WHERE LangForId={landIdParam}";
 
-            return GetAllItemsForLang(langId, query, landIdParam);
+            return GetAllItemsForLang(langId, query, landIdParam, new PartOfSpeechTranslationFactory());
         }
 
-        public List<string> GetChangeables(int langId)
+        public List<ChangeableTranslation> GetChangeables(int langId)
         {
             string landIdParam = "@LangId";
-            string query = $"SELECT Translation FROM ChangableTranslation WHERE LangForId={landIdParam}";
+            string query = $"SELECT * FROM ChangableTranslation WHERE LangForId={landIdParam}";
 
-            return GetAllItemsForLang(langId, query, landIdParam);
+            return GetAllItemsForLang(langId, query, landIdParam, new ChangeableTranslationFactory());
         }
 
         public List<TopicTranslation> GetTopics(int langId)

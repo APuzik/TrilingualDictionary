@@ -55,6 +55,8 @@
   <ItemGroup>
     <Compile Include="DataLayer\Interfaces\IDBEntityFactory.cs" />
     <Compile Include="DataLayer\TopicTranslationFactory.cs" />
+    <Compile Include="DBEntities\ChangeableTranslation.cs" />
+    <Compile Include="DBEntities\PartOfSpeechTranslation.cs" />
     <Compile Include="DBEntities\SemanticTranslation.cs" />
     <Compile Include="DBEntities\Term.cs" />
     <Compile Include="DBEntities\TermTranslation.cs" />
