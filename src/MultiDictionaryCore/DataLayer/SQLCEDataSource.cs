@@ -213,13 +213,13 @@ namespace MultiDictionaryCore.DataLayer
             return null;
         }
 
-        private Term GetTermById(int termId)
+        public Term GetTermById(int termId)
         {
             Term term = null;
 
-            string query1 = "SELECT * FROM Conception WHERE Id=@Id";
+            string query = "SELECT * FROM Conception WHERE Id=@Id";
 
-            using (SqlCeCommand cmd = new SqlCeCommand(query1))
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
             {
                 cmd.Connection = dbConnection;
                 cmd.Parameters.Add("@Id", SqlDbType.Int);
@@ -365,6 +365,36 @@ namespace MultiDictionaryCore.DataLayer
             return translations;
         }
 
+        public List<TermTranslation> GetChildrenTranslations(int languageId, int parentTermId, string startsWith)
+        {
+            List<TermTranslation> translations = new List<TermTranslation>();
+
+            string query = "SELECT * FROM Description INNER JOIN Conception ON(Description.ConceptionId = Conception.Id AND Conception.ParentId = @ParentId AND Description.Language = @Lang AND Description.Description LIKE @StartsWith)";
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+                cmd.Parameters.Add("@ParentId", SqlDbType.Int);
+                cmd.Parameters["@ParentId"].Value = parentTermId;
+
+                cmd.Parameters.Add("@Lang", SqlDbType.Int);
+                cmd.Parameters["@Lang"].Value = languageId;
+
+                cmd.Parameters.Add("@StartsWith", SqlDbType.NVarChar, 100);
+                cmd.Parameters["@StartsWith"].Value = $@"{startsWith}%";
+
+                using (SqlCeDataReader reader = cmd.ExecuteReader())
+                {
+                    while (reader.Read())
+                    {
+                        TermTranslation translation = CreateTranslation(reader);
+                        translations.Add(translation);
+                    }
+                }
+            }
+
+            return translations;
+        }
+
         public List<TermTranslation> GetChildrenTranslations(int languageId)
         {
             List<TermTranslation> translations = new List<TermTranslation>();
@@ -434,27 +464,27 @@ namespace MultiDictionaryCore.DataLayer
             return translation;
         }
 
-        public int AddTranslation(TermTranslation translation)
+        public TermTranslation AddTranslation(TermTranslation translation)
         {
-            string query = "INSERT INTO Description (ConceptionId, Description, Language, ChangablePart, ChangableType, PartOfSpeech) VALUES(@ServConceptionId, @LangId, @Translation)";
+            string query = "INSERT INTO Description (ConceptionId, Description, Language, ChangablePart, ChangableType, PartOfSpeech) VALUES (@ConceptionId, @Translation, @LangId, @ChangablePart, @ChangableType, @PartOfSpeech)";
 
             using (SqlCeCommand cmd = new SqlCeCommand(query))
             {
                 cmd.Connection = dbConnection;
 
                 cmd.Parameters.Add("@ConceptionId", SqlDbType.Int);
-                cmd.Parameters.Add("@Language", SqlDbType.Int);
-                cmd.Parameters.Add("@Description", SqlDbType.NVarChar, 100);
+                cmd.Parameters.Add("@LangId", SqlDbType.Int);
+                cmd.Parameters.Add("@Translation", SqlDbType.NVarChar, 100);
                 cmd.Parameters.Add("@ChangablePart", SqlDbType.NVarChar, 100);
                 cmd.Parameters.Add("@ChangableType", SqlDbType.Int);
                 cmd.Parameters.Add("@PartOfSpeech", SqlDbType.Int);
 
                 cmd.Parameters["@ConceptionId"].Value = translation.TermId;
-                cmd.Parameters["@Language"].Value = translation.LanguageId;
-                cmd.Parameters["@Description"].Value = translation.Value;
-                cmd.Parameters["@ChangablePart"].Value = translation.ChangeablePart;
-                cmd.Parameters["@ChangableType"].Value = translation.ChangeableType;
-                cmd.Parameters["@PartOfSpeech"].Value = translation.PartOfSpeech;
+                cmd.Parameters["@LangId"].Value = translation.LanguageId + 1;
+                cmd.Parameters["@Translation"].Value = translation.Value;
+                cmd.Parameters["@ChangablePart"].Value = translation.ChangeablePart == null ? string.Empty : translation.ChangeablePart;
+                cmd.Parameters["@ChangableType"].Value = translation.ChangeableType == 0 ? DBNull.Value : (object)translation.ChangeableType;
+                cmd.Parameters["@PartOfSpeech"].Value = translation.PartOfSpeech == 0 ? DBNull.Value : (object)translation.PartOfSpeech;
 
                 cmd.ExecuteNonQuery();
 
@@ -462,10 +492,138 @@ namespace MultiDictionaryCore.DataLayer
 
                 using (SqlCeCommand cmd2 = new SqlCeCommand(query))
                 {
+                    cmd2.Connection = dbConnection;
                     translation.Id = Convert.ToInt32(cmd2.ExecuteScalar());
                 }
             }
-            return translation.Id;
+            return translation;
+        }
+
+        public Term AddTerm(Term term)
+        {
+            string query = "INSERT INTO Conception(ParentId, Topic, Semantic) VALUES(@ParentId, @TopicId, @SemanticId)";
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+
+                cmd.Parameters.Add("@ParentId", SqlDbType.Int);
+                cmd.Parameters.Add("@TopicId", SqlDbType.Int);
+                cmd.Parameters.Add("@SemanticId", SqlDbType.NVarChar, 100);
+
+                cmd.Parameters["@ParentId"].Value = term.ParentId;
+                cmd.Parameters["@TopicId"].Value = term.TopicId == 0 ? DBNull.Value : (object)term.TopicId;
+                cmd.Parameters["@SemanticId"].Value = term.SemanticId == 0 ? DBNull.Value : (object)term.SemanticId;
+
+                cmd.ExecuteNonQuery();
+
+                query = "SELECT @@IDENTITY;";
+
+                using (SqlCeCommand cmd2 = new SqlCeCommand(query))
+                {
+                    cmd2.Connection = dbConnection;
+                    term.Id = Convert.ToInt32(cmd2.ExecuteScalar());
+                }
+            }
+
+            return term;
+        }
+
+        public void UpdateTranslation(TermTranslation translation)
+        {
+            string query = "UPDATE Description SET ConceptionId=@ConceptionId, Description=@Description, Language=@Language, ChangablePart=@ChangablePart, ChangableType=@ChangableType, PartOfSpeech=@PartOfSpeech WHERE Id=@Id";
+
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+
+                cmd.Parameters.Add("@Id", SqlDbType.Int);
+                cmd.Parameters.Add("@ConceptionId", SqlDbType.Int);
+                cmd.Parameters.Add("@Language", SqlDbType.Int);
+                cmd.Parameters.Add("@Description", SqlDbType.NVarChar, 100);
+                cmd.Parameters.Add("@ChangablePart", SqlDbType.NVarChar, 100);
+                cmd.Parameters.Add("@ChangableType", SqlDbType.Int);
+                cmd.Parameters.Add("@PartOfSpeech", SqlDbType.Int);
+
+                cmd.Parameters["@Id"].Value = translation.Id;
+                cmd.Parameters["@ConceptionId"].Value = translation.TermId;
+                cmd.Parameters["@Language"].Value = translation.LanguageId + 1;
+                cmd.Parameters["@Description"].Value = translation.Value;
+                cmd.Parameters["@ChangablePart"].Value = translation.ChangeablePart == null ? string.Empty : translation.ChangeablePart;
+                cmd.Parameters["@ChangableType"].Value = translation.ChangeableType == 0 ? DBNull.Value : (object)translation.ChangeableType;
+                cmd.Parameters["@PartOfSpeech"].Value = translation.PartOfSpeech == 0 ? DBNull.Value : (object)translation.PartOfSpeech;
+
+                cmd.ExecuteNonQuery();
+            }
+        }
+
+        public void UpdateTerm(Term term)
+        {
+            string query = "UPDATE Conception SET ParentId=@ParentId, Topic=@TopicId, Semantic=@SemanticId WHERE Id=@Id";
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+
+                cmd.Parameters.Add("@Id", SqlDbType.Int);
+                cmd.Parameters.Add("@ParentId", SqlDbType.Int);
+                cmd.Parameters.Add("@TopicId", SqlDbType.Int);
+                cmd.Parameters.Add("@SemanticId", SqlDbType.NVarChar, 100);
+
+                cmd.Parameters["@Id"].Value = term.Id;
+                cmd.Parameters["@ParentId"].Value = term.ParentId;
+                cmd.Parameters["@TopicId"].Value = term.TopicId == 0 ? DBNull.Value : (object)term.TopicId;
+                cmd.Parameters["@SemanticId"].Value = term.SemanticId == 0 ? DBNull.Value : (object)term.SemanticId;
+
+                cmd.ExecuteNonQuery();
+            }
+        }
+
+        public void DeleteTranslation(int id)
+        {
+            string query = "DELETE FROM Description WHERE Id=@Id";
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+
+                cmd.Parameters.Add("@Id", SqlDbType.Int);
+                cmd.Parameters["@Id"].Value = id;
+
+                cmd.ExecuteNonQuery();
+            }
+        }
+
+        public void DeleteTerm(int termId)
+        {
+            List<Term> children = GetChildrenTerms(termId);
+            foreach (Term child in children)
+            {
+                DeleteTermWOChildren(child.Id);
+            }
+            DeleteTermWOChildren(termId);
+        }
+
+        private void DeleteTermWOChildren(int termId)
+        {
+            string query = "DELETE FROM Description WHERE ConceptionId=@Id";
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+
+                cmd.Parameters.Add("@Id", SqlDbType.Int);
+                cmd.Parameters["@Id"].Value = termId;
+
+                cmd.ExecuteNonQuery();
+            }
+
+            query = "DELETE FROM Conception WHERE Id=@Id";
+            using (SqlCeCommand cmd = new SqlCeCommand(query))
+            {
+                cmd.Connection = dbConnection;
+
+                cmd.Parameters.Add("@Id", SqlDbType.Int);
+                cmd.Parameters["@Id"].Value = termId;
+
+                cmd.ExecuteNonQuery();
+            }
         }
 
         public string ConnectionString { get; internal set; } = @"Data Source=.\TrilingualDictionary.sdf;Password=Password1";

@@ -73,7 +73,7 @@ namespace MultiDictionaryViewModel
             SelectedNodes = new ObservableCollection<TreeNode>();
             SelectedNodes.CollectionChanged += SelectedNodes_CollectionChanged;
 
-            LoadTranslations();
+            LoadTranslations(false);
             SelectedTerm.Dictionary = Dictionary;
         }
 
@@ -84,19 +84,25 @@ namespace MultiDictionaryViewModel
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(prop));
         }
 
-        private void LoadTranslations()
+        private void LoadTranslations(bool force)
         {
             //Letters.Clear();
-            if(AllLetters.ContainsKey(SelectedLanguage))
+            if (force)
             {
-                Letters = AllLetters[SelectedLanguage];
+                AllLetters.Clear();
+                Letters.Clear();
+            }
+            int lang = SelectedLanguage - 1;
+            if (AllLetters.ContainsKey(lang))
+            {
+                Letters = AllLetters[lang];
                 return;
             }
             else
             {
                 ObservableCollection<TreeNode> newLang = new ObservableCollection<TreeNode>();
-                AllLetters.Add(SelectedLanguage, newLang);
-                Letters = newLang;                
+                AllLetters.Add(lang, newLang);
+                Letters = newLang;
             }
             //List<TermTranslation> translations = Dictionary.GetAllTranslations(SelectedLanguage);
             List<Term> terms = Dictionary.GetTopTerms(SelectedLanguage);
@@ -106,6 +112,7 @@ namespace MultiDictionaryViewModel
                 dicTerms.Add(term.Id, term);
             }
             List<TermTranslation> translations = Dictionary.GetTopTranslations(SelectedLanguage);
+            translations.Sort((a, b) => { return string.Compare(a.CleanValue, b.CleanValue); });
             SortedDictionary<string, List<TermTranslation>> sorted = new SortedDictionary<string, List<TermTranslation>>();
             for (int i = 0; i < translations.Count; i++)
             {
@@ -120,6 +127,7 @@ namespace MultiDictionaryViewModel
             }
 
             List<TermTranslation> childTranslations = Dictionary.GetChildrenTranslations(SelectedLanguage);
+            childTranslations.Sort((a, b) => { return string.Compare(a.CleanValue, b.CleanValue); });
             List<Term> childTerms = Dictionary.GetAllChildrenTerms();
 
             SortedDictionary<int, List<Term>> dicChildTerms = new SortedDictionary<int, List<Term>>();
@@ -196,7 +204,7 @@ namespace MultiDictionaryViewModel
         private void LoadTranslations(object parameter)
         {
             SelectedNodes.Clear();
-            LoadTranslations();
+            LoadTranslations(false);
         }
 
         private void AddNewTerm(object parameter)
@@ -219,10 +227,15 @@ namespace MultiDictionaryViewModel
         }
         private void DeleteWholeTerm(object parameter)
         {
-            MessageBoxResult confirmResult = MessageBox.Show("Вы уверены, что хотите удалить выбранный термин целиком?", "Удаление термина", MessageBoxButton.YesNo);
+            MessageBoxResult confirmResult = MessageBox.Show("Вы уверены, что хотите удалить выбранный термин, все его переводы и дочерние термины целиком?", "Удаление термина", MessageBoxButton.YesNo);
             if (confirmResult == MessageBoxResult.Yes)
             {
-                //...
+                int termId = SelectedNodes[0].Translation.TermId;
+                foreach (KeyValuePair<int, ObservableCollection<TreeNode>> kv in AllLetters)
+                {
+                    DeleteTranslations(kv.Key, termId);
+                }
+                Dictionary.DeleteTerm(termId);
             }
         }
 
@@ -244,7 +257,9 @@ namespace MultiDictionaryViewModel
                     TreeNode parent = chapter.Children[j];
                     if (!lastSearch.IsParentFound)
                     {
-                        string clear = parent.Name.Replace("#", "");
+                        string clear = parent.Name;
+                        if(!textToSearch.Contains("#"))
+                            clear = parent.Name.Replace("#", "");
                         if (clear.Contains(textToSearch))
                         {
                             lastSearch.ChapterIndex = i;
@@ -259,7 +274,9 @@ namespace MultiDictionaryViewModel
                     for (int k = lastSearch.ChildTranslationIndex + 1; k < parent.Children.Count; k++)
                     {
                         TreeNode child = parent.Children[k];
-                        string clear = child.Name.Replace("#", "");
+                        string clear = child.Name;
+                        if (!textToSearch.Contains("#"))
+                            clear = child.Name.Replace("#", "");
                         if (clear.Contains(textToSearch))
                         {
                             lastSearch.ChapterIndex = i;
@@ -280,8 +297,185 @@ namespace MultiDictionaryViewModel
             return null;
         }
 
+        public void UpdateTranslations(TermVM newVM)
+        {
+            int lang = SelectedLanguage - 1;
+            foreach (KeyValuePair<int, ObservableCollection<TreeNode>> kv in AllLetters)
+            {
+                UpdateTranslations(kv.Key, newVM);
+            }
+
+            //LoadTranslations(true);
+            //var translations = newVM.Languages[SelectedLanguage].Children;
+            ////for (int k = 0; k < translations.Count; k++)
+            ////{
+            ////    if (translations[k].Translation.Id == tt.Id)
+            ////    {
+            ////        Letters[i].Children[j].Translation = tt;
+            ////        Letters[i].Children[j].Name = tt.Value;
+            ////        break;
+            ////    }
+            ////}
+            //for (int i = 0; i < Letters.Count; i++)
+            //{
+            //    for(int j = 0; j < Letters[i].Children.Count; j++)
+            //    {
+            //        TermTranslation tt = Letters[i].Children[j].Translation;
+            //        for (int k = 0; k < translations.Count; k++)
+            //        {
+            //            if (translations[k].Translation.Id == tt.Id)
+            //            {
+            //                Letters[i].Children[j].Translation = tt;
+            //                Letters[i].Children[j].Name = tt.Value;
+            //                break;
+            //            }
+            //        }
+
+            //        for(int k = 0; k < Letters[i].Children[j].Children.Count; k++)
+            //        {
+
+            //        }
+            //    }
+            //}
+        }
+
+        private void DeleteTranslations(int lang, int termId)
+        {
+            List<TermTranslation> translations = new List<TermTranslation>();
+            Term term = Dictionary.GetTermById(termId);
+            List<TreeNode> toCheck = new List<TreeNode>();
+            for (int i = 0; i < AllLetters[lang].Count; i++)
+            {
+                if (term.ParentId > 0)
+                {
+                    for (int j = 0; j < AllLetters[lang][i].Children.Count; j++)
+                    {
+                        if (term.ParentId == AllLetters[lang][i].Children[j].Translation.TermId)
+                            toCheck.Add(AllLetters[lang][i].Children[j]);
+                    }
+                }
+                else
+                {
+                    toCheck.Add(AllLetters[lang][i]);
+                }
+            }
+
+            for (int i = 0; i < toCheck.Count; i++)
+            {
+                for (int j = 0; j < toCheck[i].Children.Count; j++)
+                {
+                    if (termId == toCheck[i].Children[j].Translation.TermId)
+                    {
+                        toCheck[i].Children.RemoveAt(j);
+                        j--;
+                    }
+                }
+            }            
+        }
+
+        private void UpdateTranslations(int lang, TermVM newVM)
+        {
+            List<TermTranslation> translations = new List<TermTranslation>();
+            foreach (var node in newVM.Languages[lang].Children)
+            {
+                if (!node.IsTranslation)
+                    return;
+                translations.Add(node.Translation);
+            }
+            translations.Sort((a, b) => { return string.Compare(a.CleanValue, b.CleanValue); });
+
+            List<TreeNode> toCheck = new List<TreeNode>();
+            for (int i = 0; i < AllLetters[lang].Count; i++)
+            {
+                if (newVM.SelectedParentTranslation != null)
+                {
+                    for (int j = 0; j < AllLetters[lang][i].Children.Count; j++)
+                    {
+                        if (newVM.SelectedParentTranslation.TermId == AllLetters[lang][i].Children[j].Translation.TermId)
+                            toCheck.Add(AllLetters[lang][i].Children[j]);
+                    }
+                }
+                else
+                {
+                    toCheck.Add(AllLetters[lang][i]);
+                }
+            }
+
+            List<TreeNode> children = new List<TreeNode>();
+            for (int i = 0; i < toCheck.Count; i++)
+            {
+                for (int j = 0; j < toCheck[i].Children.Count; j++)
+                {
+                    if (translations[0].TermId == toCheck[i].Children[j].Translation.TermId)
+                    {
+                        children.AddRange(toCheck[i].Children[j].Children);
+                        toCheck[i].Children.RemoveAt(j);
+                        j--;
+                    }
+                }
+            }
+
+            int transPos = 0;
+            for (int i = 0; i < toCheck.Count; i++)
+            {
+                if (newVM.SelectedParentTranslation != null)
+                {
+                    ObservableCollection<TreeNode> chld = null;
+                    if (chld == null)
+                    {
+                        chld = toCheck[i].Children;
+                        for (int k = 0, j = 0; k < translations.Count && j < chld.Count;)
+                        {
+                            TreeNode tn = new TreeNode { Name = translations[k].Value, Parent = toCheck[i], Translation = translations[k] };
+                            if (string.Compare(toCheck[i].Children[j].Name, translations[k].Value, true) >= 0)
+                            {
+                                chld.Insert(j, tn);
+                                k++;
+                                j++;
+                                AddChildren(tn, children);
+                            }
+                            else
+                            {
+                                j++;
+                            }
+                        }
+                    }
+                }
+                else
+                {
+                    for (int j = 0; j < toCheck[i].Children.Count; j++)
+                    {
+                        for (int k = transPos; k < translations.Count; k++)
+                        {
+                            TreeNode tn = new TreeNode { Name = translations[k].Value, Parent = toCheck[i], Translation = translations[k] };
+                            if (string.Compare(toCheck[i].Name, translations[k].Value.Substring(0, 1), true) == 0 &&
+                                string.Compare(toCheck[i].Children[j].Name, translations[k].Value, true) >= 0)
+                            {
+                                toCheck[i].Children.Insert(j, tn);
+                                transPos++;
+                                j++;
+                                AddChildren(tn, children);
+                            }
+                        }
+                    }
+                }
+            }
+        }
+
+        void AddChildren(TreeNode parent, List<TreeNode> children)
+        {
+            parent.Children.Clear();
+            foreach (TreeNode tn in children)
+            {
+                tn.Parent = parent;
+                parent.Children.Add(tn);
+            }
+        }
+
         public TermVM GetSelectedTermVM()
         {
+            //Term term = Dictionary.GetTermByWord(SelectedTranslation.Translation);
+            SelectedTerm.SelectedParentTranslation = SelectedNodes[0].Parent.IsHeader ? null : SelectedNodes[0].Parent.Translation;
             SelectedTerm.LoadServiceData();
             return SelectedTerm;
         }
@@ -289,6 +483,7 @@ namespace MultiDictionaryViewModel
         public TermVM GetCopySelectedTermVM()
         {
             TermVM copy = SelectedTerm.MakeCopy();
+            copy.SelectedParentTranslation = SelectedNodes[0].Parent.IsHeader ? null : SelectedNodes[0].Parent.Translation;
             copy.LoadServiceData();
 
             return copy;
@@ -372,11 +567,33 @@ namespace MultiDictionaryViewModel
     {
         public TreeNode Parent { get; set; }
         public TermTranslation Translation { get; set; }
-        public string Name { get; set; }
+        string name;
+        public string Name
+        {
+            get { return name; }
+            set
+            {
+                name = value;
+                NotifyPropertyChanged("Name");
+            }
+        }
+
         public ObservableCollection<TreeNode> Children { get; set; } = new ObservableCollection<TreeNode>();
 
         public bool IsHeader { get; set; } = false;
-        public bool IsTranslation { get { return !IsHeader && Translation != null; } }
+        public bool IsStub { get; set; } = false;
+        public bool IsTranslation { get { return !IsHeader && !IsStub; } }
+
+        bool shouldDelete = false;
+        public bool ShouldDelete
+        {
+            get { return shouldDelete; }
+            set
+            {
+                shouldDelete = value;
+                NotifyPropertyChanged("ShouldDelete");
+            }
+        }
     }
 
     public class TreeViewItemBase : INotifyPropertyChanged

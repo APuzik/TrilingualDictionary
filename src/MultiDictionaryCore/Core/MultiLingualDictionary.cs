@@ -54,6 +54,11 @@ namespace MultiDictionaryCore.Core
             return DataSource.GetChildrenTranslations(languageId, 0);
         }
 
+        public List<TermTranslation> GetTopTranslations(int languageId, string startsWith)
+        {
+            return DataSource.GetChildrenTranslations(languageId, 0, startsWith);
+        }
+
         public Term GetTermByWord(TermTranslation translation)
         {
             return DataSource.GetTerm(translation);
@@ -89,6 +94,36 @@ namespace MultiDictionaryCore.Core
         public List<SemanticTranslation> GetSemantics(int langId)
         {
             return DataSource.GetSemantics(langId);
+        }
+
+        public Term AddTerm(Term term)
+        {
+            return DataSource.AddTerm(term);
+        }
+
+        public void UpdateTranslation(TermTranslation translation)
+        {
+            DataSource.UpdateTranslation(translation);
+        }
+
+        public Term GetTermById(int termId)
+        {
+            return DataSource.GetTermById(termId);
+        }
+
+        public void UpdateTerm(Term term)
+        {
+            DataSource.UpdateTerm(term);
+        }
+
+        public void DeleteTranslation(int id)
+        {
+            DataSource.DeleteTranslation(id);
+        }
+
+        public void DeleteTerm(int termId)
+        {
+            DataSource.DeleteTerm(termId);
         }
     }
 }

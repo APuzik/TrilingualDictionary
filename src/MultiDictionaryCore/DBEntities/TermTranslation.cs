@@ -27,6 +27,10 @@ namespace MultiDictionaryCore.DBEntities
         public string ChangeablePart { get; set; }
         public int ChangeableType { get; set; }
         public int PartOfSpeech { get; set; }
+        public override string ToString()
+        {
+            return Value;
+        }
 
         private string m_Value;
     }

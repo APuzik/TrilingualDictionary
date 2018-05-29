@@ -23,5 +23,35 @@ namespace MultilingualDictionary
         {
             InitializeComponent();
         }
+
+        private void parentTerm_DropDownOpened(object sender, EventArgs e)
+        {
+            var textbox = (TextBox)parentTerm.Template.FindName("PART_EditableTextBox", parentTerm);
+            if (textbox != null && textbox.SelectionLength > 0)
+            {
+                textbox.Select(textbox.SelectionLength, 0);
+            }
+        }
+
+        private void parentTerm_LostFocus(object sender, RoutedEventArgs e)
+        {
+            var textbox = (TextBox)parentTerm.Template.FindName("PART_EditableTextBox", parentTerm);
+            if (textbox != null)
+            {
+                foreach (var tt in parentTerm.Items)
+                {
+                    if (string.Equals(tt.ToString(), textbox.Text))
+                    {
+                        parentTerm.SelectedItem = tt;
+                        return;
+                    }
+                }
+            }
+        }
+
+        private void parentTerm_KeyUp(object sender, KeyEventArgs e)
+        {
+            ((MultiDictionaryViewModel.TermVM)parentTerm.DataContext).ResetParentTranslation();
+        }
     }
 }

@@ -64,13 +64,29 @@
                         </DataTemplate>
                     </ComboBox.ItemTemplate>
                 </ComboBox>
-                <ComboBox IsEditable="True"  Width="364"  VerticalAlignment="Center" HorizontalAlignment="Left" Text="{Binding Path=ParentTermTranslation, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" x:Name="parentTerm" Margin="353,0,0,0" Height="23"/>
+                <ComboBox IsEditable="True" IsTextSearchEnabled="false"  Width="364" IsDropDownOpen="{Binding IsDropDownOpened}"
+                          SelectedItem="{Binding SelectedParentTranslation, Mode=TwoWay}"
+                          ItemsSource="{Binding Path=ParentTerms, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                          VerticalAlignment="Center" HorizontalAlignment="Left" 
+                          Text="{Binding Path=ParentTermTranslation, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                          x:Name="parentTerm" Margin="353,0,0,0" Height="23" KeyUp="parentTerm_KeyUp" 
+                          LostFocus="parentTerm_LostFocus" DropDownOpened="parentTerm_DropDownOpened">
+                    
+                    <ComboBox.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal">
+                                <TextBlock Text="{Binding Path=Value}">
+                                </TextBlock>
+                            </StackPanel>
+                        </DataTemplate>
+                    </ComboBox.ItemTemplate>
+                </ComboBox>
                 <TextBlock IsHitTestVisible="False" Text="При необходимости начните вводить родительский термин..."  HorizontalAlignment="Left" Foreground="DarkGray" Margin="358,27,0,21" Height="20" Width="367">
                     <TextBlock.Style>
                         <Style TargetType="{x:Type TextBlock}">
                             <Setter Property="Visibility" Value="Collapsed"/>
                             <Style.Triggers>
-                                <DataTrigger Binding="{Binding Text, ElementName=parentTerm}" Value="">
+                                <DataTrigger Binding="{Binding ParentTermTranslation}" Value="">
                                     <Setter Property="Visibility" Value="Visible"/>
                                 </DataTrigger>
                             </Style.Triggers>
@@ -86,7 +102,7 @@
             <Grid>
                 <Grid Margin="0,0,-2,0">
                     <Label Content="Выберите язык" Height="24" HorizontalAlignment="Left" Margin="5,-1,0,0" x:Name="label4" VerticalAlignment="Top" />
-                    <ComboBox Height="23" HorizontalAlignment="Left" Margin="5,25,0,0" x:Name="cmbLanguages" ItemsSource="{Binding Languages}" SelectedIndex="0" VerticalAlignment="Top" Width="120">
+                    <ComboBox Height="23" HorizontalAlignment="Left" Margin="5,25,0,0" x:Name="cmbLanguages" ItemsSource="{Binding Languages}" SelectedIndex="{Binding SelectedLanguage}" VerticalAlignment="Top" Width="120">
                         <ComboBox.ItemTemplate>
                             <DataTemplate>
                                 <StackPanel Orientation="Horizontal">
@@ -163,17 +179,17 @@
                         </ComboBox.ItemTemplate>
                     </ComboBox>
 
-                    <Button Content="Добавить" IsEnabled="{Binding ElementName=txtEditDescription, Path=Text.Length, Mode=OneWay}" HorizontalAlignment="Center" x:Name="btnAddDescription" Width="120" Margin="10,260,286,0" Height="24" VerticalAlignment="Top" />
-                    <Button Content="Изменить" IsEnabled="{Binding IsTranslationSelected}" HorizontalAlignment="Center" x:Name="btnChangeDescription" Width="120" Margin="146,260,150,0" RenderTransformOrigin="0.5,0.5" Height="24" VerticalAlignment="Top" />
-                    <Button Content="Удалить" IsEnabled="{Binding IsTranslationSelected}" HorizontalAlignment="Center" x:Name="btnRemoveDescription" Width="120" Margin="286,260,10,0" Height="24" VerticalAlignment="Top" />
+                    <Button Content="Добавить" Command ="{Binding AddTranslation}" IsEnabled="{Binding ElementName=txtEditDescription, Path=Text.Length, Mode=OneWay}" HorizontalAlignment="Center" x:Name="btnAddDescription" Width="120" Margin="10,260,286,0" Height="24" VerticalAlignment="Top" />
+                    <Button Content="Изменить" Command ="{Binding EditTranslation}" CommandParameter="{Binding SelectedTranslation}" IsEnabled="{Binding IsTranslationSelected}" HorizontalAlignment="Center" x:Name="btnChangeDescription" Width="120" Margin="146,260,150,0" RenderTransformOrigin="0.5,0.5" Height="24" VerticalAlignment="Top" />
+                    <Button Content="Удалить" Command ="{Binding DeleteTranslation}" CommandParameter="{Binding SelectedTranslation}" IsEnabled="{Binding IsTranslationSelected}" HorizontalAlignment="Center" x:Name="btnRemoveDescription" Width="120" Margin="286,260,10,0" Height="24" VerticalAlignment="Top" />
                 </Grid>
                 <Button Content="Сохранить" HorizontalAlignment="Left" Margin="112,552,0,0" VerticalAlignment="Top" Width="76"/>
                 <Button Content="Отменить" HorizontalAlignment="Left" Margin="244,552,0,0" VerticalAlignment="Top" Width="76"/>
             </Grid>
         </GroupBox>
         <Grid Margin="304,444,291,0">
-            <Button Content="Сохранить" Name="btnAddTerm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Command="{Binding AddTerm}"/>
-            <Button Content="Сохранить" Name="btnUpdateTerm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Visibility="Hidden" Command="{Binding SaveTerm}"/>
+            <Button Content="Сохранить" Name="btnAddTerm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Command="{Binding AddTerm}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}}}"/>
+            <Button Content="Сохранить" Name="btnUpdateTerm" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Visibility="Hidden" Command="{Binding SaveTerm}" CommandParameter="{Binding RelativeSource={RelativeSource AncestorType={x:Type Window}}}"/>
             <Button Content="Отменить" HorizontalAlignment="Left" Margin="108,0,0,0" VerticalAlignment="Top" Width="75" IsCancel="True"/>
         </Grid>
     </Grid>

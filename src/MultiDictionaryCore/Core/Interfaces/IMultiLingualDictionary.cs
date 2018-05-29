@@ -13,6 +13,7 @@ namespace MultiDictionaryCore.Core.Interfaces
         List<TermTranslation> GetAllTranslations(int languageId);
         Term GetTermByWord(TermTranslation translation);
         List<TermTranslation> GetTopTranslations(int languageId);
+        List<TermTranslation> GetTopTranslations(int languageId, string startsWith);
         List<TermTranslation> GetChildrenTranslations(int languageId);
         List<TermTranslation> GetChildrenTranslations(int languageId, int parentTermId);
         List<TermTranslation> GetTranslationsForTerm(int languageId, int termId);
@@ -29,5 +30,11 @@ namespace MultiDictionaryCore.Core.Interfaces
         List<ChangeableTranslation> GetChangeables(int langId);
         List<PartOfSpeechTranslation> GetLangParts(int langId);
         List<SemanticTranslation> GetSemantics(int langId);
+        Term AddTerm(Term newT);
+        void UpdateTranslation(TermTranslation translation);
+        Term GetTermById(int termId);
+        void UpdateTerm(Term term);
+        void DeleteTranslation(int id);
+        void DeleteTerm(int termId);
     }
 }

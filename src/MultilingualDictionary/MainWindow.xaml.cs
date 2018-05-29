@@ -66,7 +66,7 @@ namespace MultilingualDictionary
         /// </returns>
         private TreeViewItem GetTreeViewItem(ItemsControl container, TreeNode item, Window warn)
         {
-            if(warn.Visibility != Visibility.Visible && (DateTime.Now - tm).Milliseconds > 100)
+            if (warn.Visibility != Visibility.Visible && (DateTime.Now - tm).Milliseconds > 100)
             {
                 warn.Visibility = Visibility.Visible;
                 warn.Show();
@@ -229,7 +229,7 @@ namespace MultilingualDictionary
             wnd.Owner = this;
             wnd.Show();
         }
-        
+
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             tm = DateTime.Now;
@@ -243,7 +243,7 @@ namespace MultilingualDictionary
             wnd.Visibility = Visibility.Hidden;
             //wnd.Show();
 
-            TreeViewItem tvi = Search2(dict, SearchTermTextBox.Text, wnd); 
+            TreeViewItem tvi = Search2(dict, SearchTermTextBox.Text, wnd);
             wnd.Close();
 
             if (tvi != null)
@@ -271,8 +271,11 @@ namespace MultilingualDictionary
             et.DataContext = copy;
             et.Owner = this;
             et.btnAddTerm.Visibility = shouldAddNew ? Visibility.Visible : Visibility.Hidden;
-            et.btnUpdateTerm.Visibility = shouldAddNew ? Visibility.Hidden: Visibility.Visible;
-            et.ShowDialog();
+            et.btnUpdateTerm.Visibility = shouldAddNew ? Visibility.Hidden : Visibility.Visible;
+            bool? res = et.ShowDialog();
+            
+            if (et.DialogResult == true)
+                dict.UpdateTranslations(et.DataContext as TermVM);
         }
 
         private void btnAdd_Click(object sender, RoutedEventArgs e)
